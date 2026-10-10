@@ -1,0 +1,36 @@
+{
+ "date": "1885-08-13",
+ "edition": 1,
+ "lccn": "sn84024777",
+ "loc_url": "https://www.loc.gov/item/sn84024777/1885-08-13/ed-1/",
+ "pages": [
+  {
+   "seq": 1,
+   "file": "0327",
+   "iiif": "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jessie_ver01:data:sn84024777:00295863912:1885081301:0327",
+   "pdf": "https://tile.loc.gov/storage-services/service/ndnp/ndhi/batch_ndhi_jessie_ver01/data/sn84024777/00295863912/1885081301/0327.pdf",
+   "alto": "https://tile.loc.gov/storage-services/service/ndnp/ndhi/batch_ndhi_jessie_ver01/data/sn84024777/00295863912/1885081301/0327.xml"
+  },
+  {
+   "seq": 2,
+   "file": "0328",
+   "iiif": "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jessie_ver01:data:sn84024777:00295863912:1885081301:0328",
+   "pdf": "https://tile.loc.gov/storage-services/service/ndnp/ndhi/batch_ndhi_jessie_ver01/data/sn84024777/00295863912/1885081301/0328.pdf",
+   "alto": "https://tile.loc.gov/storage-services/service/ndnp/ndhi/batch_ndhi_jessie_ver01/data/sn84024777/00295863912/1885081301/0328.xml"
+  },
+  {
+   "seq": 3,
+   "file": "0329",
+   "iiif": "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jessie_ver01:data:sn84024777:00295863912:1885081301:0329",
+   "pdf": "https://tile.loc.gov/storage-services/service/ndnp/ndhi/batch_ndhi_jessie_ver01/data/sn84024777/00295863912/1885081301/0329.pdf",
+   "alto": "https://tile.loc.gov/storage-services/service/ndnp/ndhi/batch_ndhi_jessie_ver01/data/sn84024777/00295863912/1885081301/0329.xml"
+  },
+  {
+   "seq": 4,
+   "file": "0330",
+   "iiif": "https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jessie_ver01:data:sn84024777:00295863912:1885081301:0330",
+   "pdf": "https://tile.loc.gov/storage-services/service/ndnp/ndhi/batch_ndhi_jessie_ver01/data/sn84024777/00295863912/1885081301/0330.pdf",
+   "alto": "https://tile.loc.gov/storage-services/service/ndnp/ndhi/batch_ndhi_jessie_ver01/data/sn84024777/00295863912/1885081301/0330.xml"
+  }
+ ]
+}

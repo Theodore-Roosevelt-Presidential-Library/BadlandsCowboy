@@ -1,0 +1,1681 @@
+{
+ "date": "1886-12-16",
+ "masthead": "Thursday, December 16, 1886",
+ "volume": "Vol. 3, No. 44",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "cols 1-4 display ads (incl. Cow Boy's own round-up views notice); cols 5-7 local items, editorials, stock notes, Dakota railroad dispatch and two reprints (asylum appeal, Humane Record)"
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "Cow Boy nameplate at head of col 1; rest is syndicated President's message"
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "W. N. U. ready-print: end of President's message, miscellany, patent-medicine ads"
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "col 1 nameplate, N.P. time table and local items (George Myers / Maltese Cross case); cols 2-4 display ads; cols 4-7 cattle-brand ads"
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "1",
+   "region": [
+    0,
+    9,
+    17,
+    12
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "Volume 3. Number 44.\n\nMEDORA, DAKOTA, DECEMBER 16, 1886.\n\nPrice $2.00 per Year\n\nBad Lands Cow Boy,\nBy A. T. Packard.\n\nThe Cow Boy is not published for fun, but for $2 per year.\n\nAdvertising Rates made known on application.\n\nStanding Advertisements payable quarterly.\n\nTransient Advertisements and all Job work, money in sight.\n\nAddress all communications to\nThe Bad Lands Cow Boy,\nMedora, Dakota.\n\nEntered at the post-office at Medora, Dak., as second class mail matter.",
+   "summary": "Front-page nameplate, dateline and publisher's terms box.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a2",
+   "page": 1,
+   "cols": "3-4",
+   "region": [
+    28,
+    13,
+    26,
+    20
+   ],
+   "section": "local",
+   "headline": "INSTANTANEOUS ROUND-UP VIEWS.",
+   "text": "INSTANTANEOUS ROUND-UP VIEWS.\n\nWe have remaining a few sets of Huffmann's instantaneous round-up views, representing the most interesting events of the range cattle industry. There are thirty-six well-executed photographs in the series, making an extremely interesting and realistic panorama of cowboy life. We will sell the complete set for $5 or,\n\nTHE COW BOY A YEAR AND THE SET, $6\n\nThis offer will probably be recalled soon, but the bargain can now be secured by calling on or addressing THE BAD LANDS COW BOY, Medora, Dak.",
+   "summary": "Display notice from the Cow Boy offering sets of Huffman's 36 instantaneous round-up photographs for $5, or $6 with a year's subscription.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a3",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    13,
+    13.5,
+    6
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Every preparation is being made at St. Paul to have the coming ice carnival eclipse anything of the kind ever before attempted. A greatly improved ice palace will be built and taking last year's exhibition as a basis, everything will be done on an enlarged plan. Half-rates have been secured on all railroad lines leading into St. Paul.",
+   "summary": "St. Paul is preparing a larger ice carnival and ice palace, with half-rates on railroads into the city.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a4",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    19,
+    13.5,
+    8
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "There seems every probability of the opening of the Sioux Reservation at this session of Congress. The president is thought not to favor the plan very ardently but it is believed that enough votes can be secured to pass the bill over his veto. The people of the Black Hills are no better off than before the advent of the Fremont, Elkhorn & Missouri Valley R. R., in the matter of freight charges and are looking forward as eagerly as ever for relief in the way of active competition. The Manitoba, Northwestern and Milwaukee roads are casting longing eyes Hillswards and will build as soon as spring opens if the bill is passed.",
+   "summary": "The paper expects Congress to open the Sioux Reservation, possibly over the president's veto, and says several railroads would then build toward the Black Hills.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a5",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    26,
+    13.5,
+    11
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "At last the long agony is over and Judge Louis K. Church has been appointed governor of Dakota in place of our present governor Pierce, who persisted in his resignation after its acceptance had been refused by the president. Judge Church is recognized by all as an able man who will in all probabilty be satisfactorly to the people, except that it certainly seems time for a Dakota citizen to have the honor conferred upon him. Governor Pierce has been peculiarly fortunate and an exception to all previous governors of Dakota, no taint of corruption attaching to him. His administration has been so clean that even the jealous eyes of the disgruntted politicians of southern Dakota could see nothing to criticize.",
+   "summary": "Judge Louis K. Church has been appointed governor of Dakota in place of the resigning Governor Pierce, whose clean administration the paper praises.",
+   "people": [
+    "Louis K. Church",
+    "Governor Pierce"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a6",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    37,
+    13.5,
+    12
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "Telegrams from Huron indicate that the state (?) legislature in session there will disregard the restraining clause in their constitution and set the state government of South Dakota to running. The simple fact of the matter is, that had it not been for the insatiate greed for office that characterizes every one of the prime movers in the statehood movement, Dakota would long ago have been admitted to the Union. It is utterly impossibly for Congress to judge accurately of the sense of the people when represented by such self-elected mouth-pieces as the average Dakota politician. All in the world they want is office and to this alone is due the cry of division; two states making double the number of offices. We believe the majority of Dakota's citizens are in favor of admission and against division and admission. The only right way is to leave the matter to a popular vote.",
+   "summary": "Editorial attacking the South Dakota statehood legislature meeting at Huron and the division movement, urging a popular vote.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a7",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    51,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": "Additional Local.",
+   "text": "Bob. Roberts is at Ft. Steele.",
+   "summary": "Bob Roberts is at Fort Steele.",
+   "people": [
+    "Bob Roberts"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a8",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    53,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "All those knowing themselves indebted to the Cow Boy, will confer a favor by settling before Dec. 25.",
+   "summary": "The Cow Boy asks debtors to settle accounts before December 25.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a9",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    56,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Dr. Heber Robarts, formerly of Dickinson and now of Hunters' Hot Springs was on the east-bound train this morning.",
+   "summary": "Dr. Heber Robarts, formerly of Dickinson, passed through on the east-bound train.",
+   "people": [
+    "Heber Robarts"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a10",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    60,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The chinook Monday night melted the snow very fast but as its force became spent, about as much snow fell to take the place of that melted.",
+   "summary": "A Monday-night chinook melted snow quickly, but about as much new snow then fell.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a11",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    63,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "E. J. Owenhouse of Bozeman is making an enviable reputation for fine work. The finest pair of chapps we have ever seen, he made recently for Howard Eaton, out of otter skin.",
+   "summary": "Bozeman saddler E. J. Owenhouse recently made a fine pair of otter-skin chaps for Howard Eaton.",
+   "people": [
+    "E. J. Owenhouse",
+    "Howard Eaton"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a12",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    67,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "From reports, it would seem that a man must be a poor hunter who can't go out blind-folded and kill a deer with a club. They never seem to come just that way with us.",
+   "summary": "Joke that deer are said to be so plentiful a hunter could kill one with a club, though not for the editor.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a13",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    70,
+    13.5,
+    5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Picture frames, furniture, small express wagons from $2.50 to $5.00. Rocking chairs, paper racks from $1.50 to $3.00. Hall racks with mirrors, at $1.75, $2.00 to $3.00, at\n\nMax Sanford's,\nDickinson, Dak.",
+   "summary": "Reading notice for furniture and holiday goods at Max Sanford's, Dickinson.",
+   "people": [
+    "Max Sanford"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a14",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    75,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Stockmen should remember that there is no better or more appropriate Christmas present that they can give than a set of round-up views. The set of thirty-six cost only $5 at the Cow Boy office. Orders by mail promptly filled.",
+   "summary": "The Cow Boy recommends its $5 set of 36 round-up views as a Christmas present.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a15",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    79,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The recent thaw caused the water to run over the ice in the river and the overflow will be especially troublesome to the N. P. Ref. Car Co., as a layer of mud and muddy water is between the old and new ice.",
+   "summary": "The recent thaw sent water over the river ice, which will trouble the N. P. Refrigerator Car Co.'s ice harvest.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a16",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    83,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mr. and Mrs. Arch. Boyd left Friday morning for Minot, Dakota, the winter terminus of the Manitoba extension. They have not yet decided what they will do there, but in any event Minot has secured two good citizens at Medora's expense.",
+   "summary": "Mr. and Mrs. Arch Boyd left Medora for Minot.",
+   "people": [
+    "Arch Boyd",
+    "Mrs. Arch Boyd"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a17",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    87,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Do not forget your duty as parent, brother or sister and allow Christmas to go by without selecting suitable presents for your loved ones. Send a postal to Max Sanford, Dickinson, Dak., ordering what you want, and it will be shipped the same day.",
+   "summary": "Reading notice urging Christmas orders by postal card to Max Sanford, Dickinson.",
+   "people": [
+    "Max Sanford"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a18",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.5,
+    90,
+    13.5,
+    5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The Spearfish Register contains the notice of the marriage of Miss Emma Ovens, of Minnes 'a, to J. R. Wilson, known every where on the range as \"Russ\" Wilson the genial foreman of the E6 ranch. Hundreds of the boys join us in wishing \"Russ\" and his bride a happy future.",
+   "summary": "Reports the marriage, noticed in the Spearfish Register, of Miss Emma Ovens to J. R. \"Russ\" Wilson, foreman of the E6 ranch.",
+   "people": [
+    "Emma Ovens",
+    "J. R. Wilson"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a19",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    13,
+    13,
+    9
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Sanford, of Dickinson, has been adding largely to his stock in the following new lines: $400 worth of silverware, knives, forks and spoons, napkin-rings, children's cups, castors, cake dishes, butter dishes, berry dishes with fine cut-glass bowls, clocks, watches and jewelry. Send a postal card to Max Sanford, Dickinson, Dak., describing what you want and I will send it immediately. All goods can be examined, if necessary, at the express office before paying for them and returned if not found satisfactory.",
+   "summary": "Reading notice for Max Sanford's new silverware, clock and jewelry stock at Dickinson.",
+   "people": [
+    "Max Sanford"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a20",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    22,
+    13,
+    9
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "There is nothing that will destroy a person's faith in mankind quicker than to become an editor. We heard positively and from authentic sources that Miss Lilly Roberts and Riley Brooks were married and as a consequence, published it as an item of news. In fact, there is no word of truth in the matter and we owe an especial apology to Miss Roberts for the unwelcome publicity given her. The Cow Boy has before been victimized in this same way and hereafter we will have to be present at the cermony or receive the assurance of the contracting parties to believe that the marriage has actually taken place.",
+   "summary": "The Cow Boy retracts its report that Miss Lilly Roberts and Riley Brooks had married and apologizes to Miss Roberts.",
+   "people": [
+    "Lilly Roberts",
+    "Riley Brooks",
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a21",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    31,
+    13,
+    10
+   ],
+   "section": "local",
+   "headline": "More Old Timers.",
+   "text": "A. M. Sinnott is in Marshfield, Mass.\n\nW. B. Wright is in Cromwell, Mass.\n\nL. Ayers is a civil engineer in Duluth, Minn.\n\nS. G. Smith, formerly superintendent of the stage line is in Menoken, Dak.\n\nJoe Cuskelly is in business in Dickinson.\n\nH. D. Breen is station-agent at Gladstone, Dak.\n\nE. J. Faure, who spent the summer at the KC and Bad Lands Cattle Co's ranches is now connected with the St. Paul Toboggan M'f'g. Co.\n\nDennie Friedman is at his old home in Cold Springs, Minn.",
+   "summary": "Notes on the whereabouts of former Medora residents ('More Old Timers').",
+   "people": [
+    "A. M. Sinnott",
+    "W. B. Wright",
+    "L. Ayers",
+    "S. G. Smith",
+    "Joe Cuskelly",
+    "H. D. Breen",
+    "E. J. Faure",
+    "Dennie Friedman"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a22",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    41,
+    13,
+    10
+   ],
+   "section": "range",
+   "headline": "STOCK NOTES.",
+   "text": "The following are the latest cattle quotations in the Chicago market:\nXmas Beeves, 1,700 to 2,100 $5.00 @ 5.70\nPrime Beeves $4.75 @ 4.95\nChoice to fancy shipping, $3.95 @ 4.50\nGood to choice shipping, $3.45 @ 4.25\nCommon to good shipping, $3.00 @ 3.50\nPoor to medium steers, $3.00 @ 3.35\nGrass-fed Texans, $2.35 @ 3.50\nFair to choice native cows, $1.60 @ 2.50\nInferior to medium cows $1.25 @ 1.65\nPoor to choice bulls, $1.50 @ 2.60\nStockers, 500 to [800?] lbs, $1.75 @ 2.60\nFeeders, 600 to 1,200 lbs, $2.55 @ 3.40\nVeal calves $3.50 @ 6.00\nMilch cows, ℔ head, $20.00 @ 40.00",
+   "summary": "Latest Chicago cattle price quotations.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a23",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    52,
+    13,
+    7
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Only 7,000 cattle arrived at the Chicago yards Monday and as a consequence prices ruled a little higher and sales were brisk. Sales of shipping cattle and feeders were slow, owing to the fact that many states have quarantined against Chicago. There were no northern rangers on the market, the season having practically closed for them two weeks ago.",
+   "summary": "Light Chicago receipts Monday lifted prices; quarantines slowed feeder sales and the northern range season closed two weeks ago.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a24",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    59,
+    13,
+    11
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The Chicago live stock exchange and the National cattle growers' association of America, have each issued a series of resolutions condemnatory of the recent raise in rates adopted by the east-bound pool from Chicago. It appears that on the 1st. of last March the rates were raised $20 per car on live cattle, $43 per car on dressed beef, $40 per car on live sheep and $90 per car on dressed sheep. These resolutions are addressed to the live stock papers, to state legislatures and to Congress, in the hope that speedy legislation would relieve live stock interests from this additional incubus which is pressing the profit out of the business. No valid claim has yet been set up by the railroads that former rates were not profitable and the increase cannot but be regarded as exorbitant.",
+   "summary": "Cattlemen's organizations have condemned the east-bound railroad pool's freight-rate increases from Chicago.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a25",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    70,
+    13,
+    12
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "A law should be passed by the coming legislature, giving special protection to the beaver. This is an animal, harmless to the farmer and of great value to the owner of stock. It dams rivers, rendering them available for watering stock, when, if it were not for them, the cattle would have difficulty in getting enough to drink. The Heart river is dammed in several places by these interesting and industrious little animals and it is only from a spirit of wanton slaughter that they are killed. Unfortunately there are so many people in this country who never see a head without wanting to hit it, and they never see an animal that can move without wanting to shoot. Many beavers that would, if they had a chance, live lives of usefulness, have their careers cut short as a result of this slaughtering spirit. Will not the legislature come to their aid?—[Mandan Pioneer.",
+   "summary": "Reprint from the Mandan Pioneer urging the legislature to protect beavers, whose dams on the Heart river help water stock.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a26",
+   "page": 1,
+   "cols": "6-7",
+   "region": [
+    66,
+    82,
+    13,
+    8
+   ],
+   "section": "railroad",
+   "headline": "Dakota Railroad Interest.",
+   "text": "Despite the drought and poor crops Dakota seems to have considerable attraction for railroad men, and indications are at present that there will be considerable activity in railway building throughout the northwest in 1886. Marvin Hughitt, general manager of the Northwestern and President of the Omaha, called upon the president to-day and asked for an order allowing his road right of way through Fort Mead military reservation in the Black Hills. The power to grant this permission is vested in the President, but he firmly refused Mr. Hughitt's request. The latter retired from the White House very angry and asserted that he would go to Congress for the permission. This he promptly did, for within two hours after he left the White House Mr. Scott, of Pennsylvana, introduced in the House a bill to grant the desired right of way to the Fremont, Elkhorn and Misssouri Valley Road, under which name this branch of Mr. Hughitt's road masquerades.\n\nJ. J. Hill, of the Manitoba Road, is in the city, looking after his interests in the northwest, and to urge a bill which Delegate Toole, of Montana, to-day introduced granting the above road right of way throught the Fort Berthold Indian Reservation in Dakota and the Blackfeet Reservation in Montana. The new line is to start from Minot and cross the reservation on the line between townships 153 and 154, to follow the Missouri river by the most convenient route to the valley of the Milk river, through that valley to Fort Assinaboine, and thence southwesterly to the great falls of the Missouri. This will parallel the Northern Pacific to a considerable extent, as far as the accessible and valuable portions of Dakota and Montana are concerned.\n\nDelegate Gifford offers a bill providing for the building of a bridge across the Missouri at or within five miles of Yankton, for the Yankton and Missoni Valley Railroad, and the extension of the Chicago and Northwestern Road.\n\nCongressman Kieiner, of Indiana, also introduced a bill to allow the Duluth, Pierre and Black Hills R. R. to build a bridge across the Missouri at Pierre, Dak. This is an extension of the Chicago, Milwaukee, and St. Paul system, and the bridge will be constructed jointly by the Chicago and Northwestern and the above mentioned road, if authorized by Congress.—[The Inter Ocean.",
+   "summary": "Reprinted Washington dispatch (Inter Ocean) on railroad right-of-way and bridge bills affecting Dakota, including Hughitt's Fort Meade request and J. J. Hill's line from Minot across the Fort Berthold reservation.",
+   "people": [
+    "Marvin Hughitt",
+    "J. J. Hill",
+    "Joseph K. Toole",
+    "Oscar S. Gifford"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a27",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79,
+    41,
+    13,
+    15
+   ],
+   "section": "correspondence",
+   "headline": "Christmas at the Insane Asylum.",
+   "text": "Desirous of making \"Xmas\" day at the asylum one of enjoyment and long to be pleasantly remembered by our unfortunate inmates, I again take the liberty of calling upon the many kind friends of the hospital, and ask them to contribute what they feel they can, either in money or suitable articles for the benefit and pleasure of our people on that day. If each individual will contribute only a very little, it will, in the aggregate, amount to a considerable sum with us, and be the means of affording real pleasure and benefit to our insane people. Without the kind and liberal assistance of friends in different parts of the territory we shall be unable to do for our patients this year what should be done in their behalf, and we trust that the benevolent ladies, who so generously aided and who did so much for our \"Xmas\" at the hospital last year, will not forget that many of the same sad hearts are with us still as well as a large number of new cases. Please let your gifts be general. We do not want much from any one. It is the little from the many that will make Christmas day at the asylum the pleasant oasis of the year and we will be most gratefully,\n\nYour Obedient Servant,\nO. W. Archibald, Supt.",
+   "summary": "Letter from asylum superintendent O. W. Archibald appealing for Christmas gifts for the territorial insane hospital's patients.",
+   "people": [
+    "O. W. Archibald"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a28",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79,
+    59,
+    13,
+    32
+   ],
+   "section": "local",
+   "headline": "Horses and Drivers.",
+   "text": "Very many years ago I made up my mind that when there is a quarrel between a man and a horse, in nine cases out of ten the man is in the wrong. Continued observation has only served to confirm this belief. The radical error into which drivers fall is the belief that the horse knows perfectly what is wanted of him, and will do it. Then the driver proceeds to show that he is the master, and in the vast majority of cases the horse has not the slightest idea why he is so treated. For a horse to understand instantly what his driver desires, there must exist a pleasant feeling between them. The horse must feel a confidence in his driver. With one driver a horse will show himself fearless of locomotives, and with another he will dread them. One man will drive a horse fifton miles with no more fatigue to the animal than another driver will produce by driving him only ten. Nothing tends more to cruelty to animals than cowardice. The man who has a lurking fear of his beast is the man who treats him the more harshly. The man who is afraid of no horse, is just the man who treats him kindly. He is perfectly aware that there is always danger with horses; but he also knows that this does not depend upon the horse, but mostly comes from some extraneous sources, the bad driving of others whom he meets on the road, or accident of some sort. He has a friendly feeling toward his beast, as being a willing and useful servant and companion, ready to do his whole duty. So there springs up a pleasant feeling on both sides, the horse is encouraged and cheerful, and gets through with his work easily and well. Such a driver gets vastly more from his horses than does the cruel one. They come in fresh and they feed and sleep well, and begin the next day's work under favorable conditions. Age tells but slowly on them, at 15 and 16 years such horses still show speed and endurance, and are still gay and free-goers, with years of usefulness before them, whereas the cruel man's horse is used up long before this time. There should be kindness simply from kind feeling, but it does not the less certainly bring its material reward.—[Humane Record.",
+   "summary": "Reprint from the Humane Record arguing that kind drivers get more from their horses than cruel ones.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a29",
+   "page": 1,
+   "cols": "1-4",
+   "region": [
+    0,
+    13,
+    52,
+    85
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "A. T. Packard, Notary Public, Medora, Dak.\nHunters and Trappers!! Send for price-list of raw furs and skins, birds and water-fowls' skins and wild game — W. Gouldspee, Boston, Mass.\nF. E. Benjamin, Jeweler and Watchmaker, Mandan, Dakota\nFirst National Bank of Mandan, Dakota — H. R. Lyon, Prest.; H. Van Vleck, Jr., Cashier; M. Lang, Vice President; paid-up capital $50,000, surplus $15,000\nAlex. Morton, Blacksmithing and Horse-Shoeing, Medora, Dak. — \"Work done neatly and promptly\"\nD. Flynn, manufacturer and dealer in Boots, Shoes, Rubbers, Etc., Main Street, Mandan, Dak.\nF. M. Searles, Furniture, Carpets, 3rd St., Bismarck, Dak.\nInsurance! Policies issued at regular Eastern rates against fire, lightning, wind storms and hail — A. T. Packard, Agent, Medora, Dak.\nNorthern Pacific Railroad, \"The direct line between St. Paul, Minneapolis, or Duluth\" and Montana, Oregon, British Columbia, Alaska; Pullman palace sleepers; only all-rail line to Yellowstone National Park — Chas. S. Fee, General Passenger Agent, St. Paul, Minn.\nElectric Light Soap, \"First Class — Grocers Keep It\" — Atkins Soap Co., Indianapolis, Ind.\nEstey Organ — Estey Organ Co., Brattleboro, Vt.\nAdams & Westlake interchangeable oil, gas and gasoline stoves — The Adams & Westlake Mfg Co., Chicago, New York, Boston\nInstantaneous Round-Up Views (Huffman's) — The Bad Lands Cow Boy, Medora, Dak. (transcribed separately)\nM. F. Kennedy & Bros., established 1867, shotguns, rifles and revolvers, ammunition, fishing tackle, tents and camping outfits — 66 East Third St., St. Paul, Minn.\nThe Natures Incubator — Natures Incubator Co., Quincy, Ill.\nJas. McMillan & Co., Minneapolis Sheepskin Tannery, hides, sheep pelts, furs, wool, tallow, ginseng and seneca root — 101, 103 & 105 Second St. North, Minneapolis, Minn.\nGroceries at wholesale to consumers (hotels, lumbermen, restaurants, ranchmen) — Griggs & Co., 190 and 192 East Fifth St., St. Paul, Minnesota\nThe Brookmont Herd (Herefords) — C. W. Cook & Son, Odebolt, Sac Co., Ia.\nC Spring Cart Co., Rushville, Ind. — two-wheeled vehicles, buckboards\nFire Insurance Company of Fargo (\"Fire, Lightning, Tornado, Hail!\", paid-up capital $100,000) — A. T. Packard, Agent, Medora, Dakota; \"Good Agents Wanted!\"",
+   "summary": "Directory of display advertisers on page 1.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a30",
+   "page": 2,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "[not transcribed]",
+   "summary": "Inside page carrying the Cow Boy nameplate (A. T. Packard, Publisher, Medora, Dakota) at the head of column 1, then syndicated text of President Cleveland's annual message to Congress (foreign relations, treasury, army and navy, post office, interior).",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a31",
+   "page": 3,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "[not transcribed]",
+   "summary": "Western Newspaper Union ready-print page: conclusion of the President's message, miscellany (Famous Vehicles, A Sweet and Gracious Actress), market reports and patent-medicine and mail-order ads (Warner's Safe Cure, Hood's Sarsaparilla, Allen's Lung Balsam, Mason & Hamlin organs, Seth Thomas watch).",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a32",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    5,
+    15,
+    12
+   ],
+   "section": "railroad",
+   "headline": "Northern Pacific Time Table.",
+   "text": "Bad Lands Cow Boy,\nBy A. T. Packard.\nThursday, December 16, 1886.\n\nNorthern Pacific Time Table.\n\nWEST BOUND.\nPacific Express, No. 1 6:45 p. m.\nExpress Freight, 2d Class 9:35 p. m.\nFreight, 3d Class 11:40 p. m.\n\nEAST BOUND.\nAtlantic Express, No. 2 8:36 a. m.\nExpress Freight, 2d Class 6:20 a. m.\nFreight, 3rd Class 2:55 a. m.\n\nD. W. Williams, Agent.",
+   "summary": "Page-4 nameplate and Northern Pacific train schedule at Medora.",
+   "people": [
+    "A. T. Packard",
+    "D. W. Williams"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a33",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    16,
+    15,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Northern Pacific preferred stocks, 64½ common, 29⅝.",
+   "summary": "Northern Pacific stock quotations.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a34",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    18,
+    15,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Try Sanford, Dickinson, for Holiday presents.",
+   "summary": "Reading notice for Sanford's of Dickinson.",
+   "people": [
+    "Max Sanford"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a35",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    20,
+    15,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Johnny McCadam left Tuesday morning for Minneapolis.",
+   "summary": "Johnny McCadam left for Minneapolis.",
+   "people": [
+    "Johnny McCadam"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a36",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    22,
+    15,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Miss Birdie Wadsworth has been quite sick for several days.",
+   "summary": "Miss Birdie Wadsworth has been sick for several days.",
+   "people": [
+    "Birdie Wadsworth"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a37",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    24,
+    15,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Some enterprising individual could make a good living by keeping the Medora market supplied with eggs.",
+   "summary": "Medora needs a steady supply of eggs.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a38",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    27,
+    15,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "J. C. Fisher started Monday for Elyria, Ohio, where he will visit a month or six weeks before returning to Medora.",
+   "summary": "J. C. Fisher left for a visit to Elyria, Ohio.",
+   "people": [
+    "J. C. Fisher"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a39",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    30,
+    15,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Try Max Sanford, for a clock or any article in silver plate.\n\nDickinson, Dak.",
+   "summary": "Reading notice for Max Sanford's clocks and silver plate.",
+   "people": [
+    "Max Sanford"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a40",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    32,
+    15,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Died—On Monday, Dec, 8th., 1886, at 6 p. m., after three days illness, Margaret, only daughter of Mr. and Mrs. J. L. Truscott.",
+   "summary": "Death notice for Margaret, only daughter of Mr. and Mrs. J. L. Truscott.",
+   "people": [
+    "Margaret Truscott",
+    "J. L. Truscott",
+    "Mrs. J. L. Truscott"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a41",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    36,
+    15,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Our eastern exchanges are now overrun with receipts for chill-blains. The best receipt we know of is to come to the Bad Lands. Who ever heard of a case of chill-blains here?",
+   "summary": "Joke that the best cure for chilblains is to come to the Bad Lands.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a42",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    39,
+    15,
+    6
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Chuck full! Awful full!!! Never was as full in all my life!!! Am getting fuller every day!!!!!! Oh, how full!!!!!!*†‡||§ It is glorious to be full, but then I want to be less full. I don't feel good when I am so full; therefore buy some of my nice Christmas presents and I won't get full again till just before next Christmas.\n\nMax Sanford,\nDickinson, Dak.",
+   "summary": "Humorous reading notice from Max Sanford urging Christmas purchases.",
+   "people": [
+    "Max Sanford"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a43",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    37,
+    15,
+    38
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "George Myers returned Sunday night with Fred Willard. A warrant had been sworn out for his arrest by the Montana Stockgrower's Association for shipping two steers claimed not to belong to him, in a car of Maltese Cross steers. The whole matter bears the ear-marks of a put up job as the facts in the case are perfectly plain: George has for several years been working at the Maltese Cross ranch and has constantly put his wages into horses and cattle. Some time ago he bought a few head and before they were all branded, two of them escaped. Soon after, these two were found near Garner creek on the Maltese Cross range and in the presence of witnesses, one of whom was Sylvanus Ferris, a part owner of the range, were branded with Myers' brand. When the Maltese Cross outfit shipped their cattle this fall, George put in the two head spoken of and sold them in Chicago. He then went to his home near Wooster, Ohio and would have returned voluntarily this week or next to resume his old position on the Maltese Cross ranch, but was arrested and brought back as narrated. The warrant for his arrest was made out by the Montana Stockgrowers' Association, claiming that the cattle belonged to the Little Missouri River Stockgrowers' Association. This quashes the suit on its face, as a by-law of the Little Misouri River Association states distinctly that mavericks, and only mavericks under any circumstances could belong to the association, should be branded with the brand on which the maverick is found. One of the managers of the Maltese Cross outfit, on whose range the animals were found, not only knew the cattle, but himself assisted George in branding them. The case in a nut-shell is this. Mr. Ferris could have claimed the cattle but knowing they belonged to George, turned them over to him. It is a matter that in no way affects anyone except the owners of the Maltese Cross range. As these gentlemen happen to be Theodore Roosevelt and Messrs, Ferris & Merrifield, and as they all claim that George owned the cattle, \"the wayfaring man though a fool\" can see that George is not guilty. To George's friends, the charge is nothing if not foolish. That he should tarnish a reputation gained by years of honest, faithful work for the sake of two head of cattle, is a thought that cannot be entertained for a moment. He is now bound over in $1,000 bonds to the circuit court, having waived examination. Ferris & Merrifield and Mm. Dantz are his sureties and if necessary every name on the river could be added to the list. We will prophesy right here that the case will never come to a trial as no grand jury on earth can find sufficient evidence in the case to bring it to trial.",
+   "summary": "George Myers, a longtime Maltese Cross hand, was brought back from Ohio on a Montana Stockgrowers' Association warrant for shipping two steers; the paper defends him, noting the range's owners, Theodore Roosevelt and Ferris & Merrifield, all say the cattle were his. (\"Mm. Dantz\" as printed; probably Wm. Dantz.)",
+   "people": [
+    "George Myers",
+    "Fred Willard",
+    "Sylvane Ferris",
+    "Bill Merrifield",
+    "Theodore Roosevelt",
+    "Wm. Dantz"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a44",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    75,
+    15,
+    6
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Subscriptions will be received by the editor of the Cow Boy for any publication under the sun, at regular publisher's rates. Persons desiring to subscribe for any paper or periodical anywhere can save the inconvenience of writing and sending money by handing or sending the amount to us.",
+   "summary": "The Cow Boy takes subscriptions for any publication at publishers' rates.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a45",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    81,
+    15,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "All kinds of wagon extras for sale, including double and single-trees, clevises wrenches, neck-yokes, lock and stay-chains etc.\n\nA. T. Packard.",
+   "summary": "Packard offers wagon extras for sale.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a46",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8,
+    84,
+    15,
+    9
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "To close out the stock of Studebaker wagons now on hand, I will make prices for cash that are lower than the wholesale factory rate. The wagons are new and first-class and have Studebaker Bros. full guarantee as to soundness. They will be sold cheaper than any wagons that have ever been sold in this country and cheaper than they can be bought in car lots at the factory. The only reason for making these rates is to close out stock on hand. They must and shall go soon.\n\nA. T. Packard.",
+   "summary": "Packard is closing out his stock of Studebaker wagons below factory prices.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a47",
+   "page": 4,
+   "cols": "2-7",
+   "region": [
+    22,
+    4,
+    77,
+    92
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Royal Baking Powder — Royal Baking Powder Co., 106 Wall St., New York\nLippincott's Magazine — J. B. Lippincott Company, 715 and 717 Market St., Philadelphia\nE. J. Owenhouse, Bozeman, Mont. — stock saddles, Concord harness, fancy bits and spurs, chaparejos, reatas, quirts, hackamores\nStoves and Hardware Cheap! Soft and hard coal stoves, cook stoves, ranges, \"the best general line of hardware west of the Missouri river\" — McDougal & Gunn, Mandan, Dak.\nMerwin, Hulbert & Co., New York — revolvers, American Metallic Cartridges\nAgents Wanted for \"Every Day Life of Lincoln, by those who knew him\" (subscription book)\nThe Inter Ocean, Chicago — \"Leading Republican Newspaper in the Northwest\"; daily, semi-weekly and weekly editions\nEdick Bros., manufacturers and jobbers in cigars, tobacco and smokers' articles, 64 Main Street, Bismarck, Dak.\nHayward Hand Grenade fire extinguisher — Hayward Hand Grenade Co., New York\nStudebaker farm and freight wagons, platform spring wagons, buckboards — A. T. Packard, Agent, Medora, Dak.\nGold (work-at-home notice)\nPatents / Scientific American — Munn & Co., New York\nMinneapolis & St. Louis Ry, \"Famous Albert Lea Route\" (with map)\nBrand: Medora Stage & F. Co. — Y-cross brand on left shoulder; horses strung on stage stations between Medora and Deadwood, Dakota; $25 reward for information on anyone dealing unlawfully with these horses\nBrand: Chase & Gilmore's Ranch, Chase & Fry, Managers, Dickinson, Dak. — #7; ranges Cherry creek and Little Missouri in winter, Killdeer Mountains in summer; horse brand mule shoe, bar\nBrand: Thomas & Arnett, J. B. Thomas, Cheyenne, Wyo., A. H. Arnett, Dickinson, Dak. — AHA on any part of the animal; range Little Missouri west of Killdeer Mts.; ear marks over half crop both ears; additional brands S—E on left side and another on point of left shoulder; horse brand VH on left shoulder\nBrand: E. W. Casey, L. C. Hunt, Manager, P.O. Medora, Billings Co., Dak. — KC on left side and F on left hip; also KC in circle; horse brand KC on left hip; range Garner Creek\nBrand: Sloping Bottom Ranch, Lloyd Roberts, Proprietor, P.O. Medora, Dak. — brand on left hip; range Little Missouri 7 miles south of N.P.R.R.; horse brand same on left shoulder\nBrand: Badger Cattle Company, Howard Eaton, M'g'r., P.O. Medora, Billings Co., Dak. — VI on left hip, horse brand same; range Beaver creek and Little Missouri river\nBrand: Dorr Clark, Spearfish, Dakota — VVV on left side; range Belle Fourche\nBrand: Clark & Plum, Spearfish, Dakota — E6 on left side; range Grand river; additional brands ZD, DZ, ZD (bar), circle cross, EP, 9N and others; $100 reward re VVV or E6 ranges\nBrand: Little Missouri Horse Company, H. R. Tarbell, M'n'g'r., Medora, Dak. — HT horse brand\nBrand: W. N. Thompson & Co., Wm. Dantz, Manager, P.O. Medora, Billings Co., Dak. — TD on left hip; additional quarter-circle diamond on left side and T on left hip\nBrand: Lemoyne Cattle Co. (Limited), J. P. Small, Manager, Glendive, Montana — LC on left side and reversed C on right hip; range Little Missouri River south of N.P.R.R. and Dawson Co., Mont.; horse brand LC on left shoulder\nBrand: Soho Cattle Co., Chas. Eaton, Manager, Medora, Dak. — SO on left side; range Little Missouri river and Beaver Creek north of N.P.R.R.\nBrand: Garner Creek Horse Ranch, J. A. Van Eeghen, Prop., Medora, Dak. — VE low down on left hip; range Garner creek, eight miles from mouth\nBrand: Chimney Butte Ranch, Theodore Roosevelt, Proprietor; Ferris & Merrifield, Managers; P.O. Medora, Dak. — Maltese cross on left hip or right side, both or either; also down cut dewlap; range six miles south of N.P.R.R. on Little Missouri\nBrand: Bullion Creek Horse Ranch, Jack Bullion, Prop., Medora, Dak. — SS on left hip; range Bullion creek, twenty miles south of Medora\nBrand: N. P. Refrigerator Car Co., Medora, Dak. — Y-cross brand on left side; also owner of steers purchased of Mason & Lovell branded -H- and 7L; ranges Little Missouri river and Beaver creek\nBrand: Ætna Ranch, John Munro, Prop., P.O. Mingusville, Montana — brand on either side; range Knutson creek; horse brand Æ on left hip\nBrand: Berry, Boice & Co., P.O. Keith, Montana — 777 on right hip, side and shoulder; range south of N.P.R.R. on Little Missouri river and Beaver creek\nBrand: E. G. Paddock, P.O. Medora, Dak. — six-inch circle-dot on both sides; range six miles north of crossing of N.P.R.R. and Little Missouri; horse brand four-inch circle-dot on left shoulder and left hip\nBrand: Spring Creek Ranch, L. D. & B. Rumsey, J. L. Truscott, Manager, P.O. Medora, Billings Co. — R brands on left hip and side; range south of N.P.R.R. on Little Missouri river\nBrand: Custer Trail Cattle Co., F. Alden Eaton, Supt., P.O. Medora, Billings Co., Dak. — Z (bar) on right side, HK in circle on left side, V (bar) on left hip; horse brand T over V on left hip; range Little Missouri river, Deep and Davis creeks\nBrand: Neimmela Ranch, Gregor Lang, Manager, P.O. Medora, Dak. — thistle brand on left or right shoulder plus two further brands; range Keogh crossing of Little Missouri to Pretty butte\nBrand: Bad Lands Cattle Co., M. Wadsworth, Manager, P.O. Medora, Billings Co., Dak. — 7L on right hip and shoulder, bellows and Pd brands; range Little Missouri river, fifteen miles north of Medora\nBrand: Towers & Gudgell, P.O. Keith, Montana — OX on right side, additional V on both sides; range south of N.P.R.R. on Little Missouri river and Beaver creek",
+   "summary": "Directory of display advertisers and cattle- and horse-brand notices on page 4, including Roosevelt's Chimney Butte Ranch (Maltese Cross) brand.",
+   "people": [
+    "A. T. Packard",
+    "Theodore Roosevelt",
+    "Sylvane Ferris",
+    "Bill Merrifield",
+    "Howard Eaton",
+    "J. L. Truscott",
+    "M. Wadsworth",
+    "Wm. Dantz",
+    "Gregor Lang",
+    "Lloyd Roberts"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  }
+ ],
+ "events": [
+  {
+   "id": "e1",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Sioux Reservation opening expected in Congress",
+   "summary": "The Cow Boy reported every probability that Congress would open the Sioux Reservation this session, and that the Manitoba, Northwestern and Milwaukee roads would build toward the Black Hills if the bill passed.",
+   "excerpt": "There seems every probability of the opening of the Sioux Reservation at this session of Congress.",
+   "people": [],
+   "places": [
+    "Sioux Reservation",
+    "Black Hills"
+   ],
+   "tags": [
+    "politics",
+    "Native-Americans",
+    "railroad",
+    "land"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a4",
+   "confidence": "high"
+  },
+  {
+   "id": "e2",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Louis K. Church appointed governor of Dakota Territory",
+   "summary": "The Cow Boy reported that Judge Louis K. Church had been appointed governor of Dakota in place of Governor Pierce, who persisted in resigning; the paper called Church able but wished a Dakota citizen had been chosen.",
+   "excerpt": "Judge Louis K. Church has been appointed governor of Dakota in place of our present governor Pierce",
+   "people": [
+    "Louis K. Church",
+    "Governor Pierce"
+   ],
+   "places": [
+    "Dakota Territory"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a5",
+   "confidence": "high"
+  },
+  {
+   "id": "e3",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "\"Telegrams from Huron\" reported in issue of Thu 16 Dec 1886",
+   "planned": false,
+   "title": "South Dakota 'state' legislature sits at Huron; Cow Boy opposes division",
+   "summary": "The Cow Boy reported telegrams that the South Dakota statehood legislature in session at Huron would set its state government running, and argued that most Dakotans favored admission as one state and that the matter should go to a popular vote.",
+   "excerpt": "Telegrams from Huron indicate that the state (?) legislature in session there will disregard the restraining clause in their constitution",
+   "people": [],
+   "places": [
+    "Huron",
+    "Dakota Territory"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a6",
+   "confidence": "high"
+  },
+  {
+   "id": "e4",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "no date given; reported in issue of Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Bob Roberts at Fort Steele",
+   "summary": "The Cow Boy reported that Bob Roberts was at Ft. Steele.",
+   "excerpt": "Bob. Roberts is at Ft. Steele.",
+   "people": [
+    "Bob Roberts"
+   ],
+   "places": [
+    "Fort Steele"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a7",
+   "confidence": "high"
+  },
+  {
+   "id": "e5",
+   "date": "1886-12-16",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"this morning\" in issue of Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Dr. Heber Robarts passes through on east-bound train",
+   "summary": "The Cow Boy reported that Dr. Heber Robarts, formerly of Dickinson and now of Hunters' Hot Springs, was on the east-bound train that morning.",
+   "excerpt": "Dr. Heber Robarts, formerly of Dickinson and now of Hunters' Hot Springs was on the east-bound train this morning.",
+   "people": [
+    "Heber Robarts"
+   ],
+   "places": [
+    "Medora",
+    "Dickinson",
+    "Hunters' Hot Springs"
+   ],
+   "tags": [
+    "visitors",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a9",
+   "confidence": "high"
+  },
+  {
+   "id": "e6",
+   "date": "1886-12-13",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday night\" before Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Chinook melts snow, then fresh snowfall",
+   "summary": "The Cow Boy reported that a chinook on Monday night melted the snow very fast, but that about as much snow then fell to replace it.",
+   "excerpt": "The chinook Monday night melted the snow very fast but as its force became spent, about as much snow fell to take the place of that melted.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a10",
+   "confidence": "high"
+  },
+  {
+   "id": "e7",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "\"recently\"; week before Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Owenhouse makes otter-skin chaps for Howard Eaton",
+   "summary": "The Cow Boy praised Bozeman saddler E. J. Owenhouse, saying he had recently made Howard Eaton the finest pair of chaps the paper had seen, out of otter skin.",
+   "excerpt": "The finest pair of chapps we have ever seen, he made recently for Howard Eaton, out of otter skin.",
+   "people": [
+    "E. J. Owenhouse",
+    "Howard Eaton"
+   ],
+   "places": [
+    "Bozeman",
+    "Medora"
+   ],
+   "tags": [
+    "business",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a11",
+   "confidence": "medium"
+  },
+  {
+   "id": "e8",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Reports of plentiful deer",
+   "summary": "The Cow Boy joked that reports suggested deer were so plentiful a poor hunter could kill one blindfolded with a club, but that they never came that way for the editor.",
+   "excerpt": "a man must be a poor hunter who can't go out blind-folded and kill a deer with a club",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "hunting",
+    "wildlife"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a12",
+   "confidence": "medium"
+  },
+  {
+   "id": "e9",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "advertised in issue of Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Cow Boy office sells Huffman's round-up photographs",
+   "summary": "The Cow Boy advertised remaining sets of Huffman's thirty-six instantaneous round-up photographs at $5, or $6 with a year's subscription, and recommended them to stockmen as Christmas presents.",
+   "excerpt": "We have remaining a few sets of Huffmann's instantaneous round-up views, representing the most interesting events of the range cattle industry.",
+   "people": [
+    "A. T. Packard",
+    "Huffmann (photographer)"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "press",
+    "business",
+    "roundup",
+    "holidays"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a2",
+   "confidence": "medium"
+  },
+  {
+   "id": "e10",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "\"recent thaw\"; week before Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Thaw floods river ice, troubling N. P. Refrigerator Car Co.",
+   "summary": "The Cow Boy reported that the recent thaw ran water over the ice in the Little Missouri, leaving mud and muddy water between old and new ice, which would be especially troublesome to the N. P. Refrigerator Car Co.",
+   "excerpt": "the overflow will be especially troublesome to the N. P. Ref. Car Co., as a layer of mud and muddy water is between the old and new ice.",
+   "people": [],
+   "places": [
+    "Medora",
+    "Little Missouri River"
+   ],
+   "tags": [
+    "weather",
+    "water",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a15",
+   "confidence": "high"
+  },
+  {
+   "id": "e11",
+   "date": "1886-12-10",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Friday morning\" before Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Mr. and Mrs. Arch Boyd leave Medora for Minot",
+   "summary": "The Cow Boy reported that Mr. and Mrs. Arch. Boyd left Friday morning for Minot, the winter terminus of the Manitoba extension, undecided what they would do there.",
+   "excerpt": "Minot has secured two good citizens at Medora's expense.",
+   "people": [
+    "Arch Boyd",
+    "Mrs. Arch Boyd"
+   ],
+   "places": [
+    "Medora",
+    "Minot"
+   ],
+   "tags": [
+    "town-life",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a16",
+   "confidence": "high"
+  },
+  {
+   "id": "e12",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "reported from the Spearfish Register; no date given",
+   "planned": false,
+   "title": "\"Russ\" Wilson, E6 ranch foreman, marries Emma Ovens",
+   "summary": "The Cow Boy reported, from the Spearfish Register, the marriage of Miss Emma Ovens of Minnesota to J. R. \"Russ\" Wilson, foreman of the E6 ranch, and sent the range's good wishes.",
+   "excerpt": "\"Russ\" Wilson the genial foreman of the E6 ranch. Hundreds of the boys join us in wishing \"Russ\" and his bride a happy future.",
+   "people": [
+    "J. R. Wilson",
+    "Emma Ovens"
+   ],
+   "places": [
+    "Spearfish"
+   ],
+   "tags": [
+    "social",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a18",
+   "confidence": "medium"
+  },
+  {
+   "id": "e13",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "retraction in issue of Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Cow Boy retracts false report of Roberts-Brooks marriage",
+   "summary": "The Cow Boy said its earlier report that Miss Lilly Roberts and Riley Brooks had married was untrue, apologized to Miss Roberts, and said it would in future need proof before announcing marriages.",
+   "excerpt": "there is no word of truth in the matter and we owe an especial apology to Miss Roberts for the unwelcome publicity given her.",
+   "people": [
+    "Lilly Roberts",
+    "Riley Brooks",
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "press",
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a20",
+   "confidence": "high"
+  },
+  {
+   "id": "e14",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "no date given; reported in issue of Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Whereabouts of Medora 'old timers'",
+   "summary": "The Cow Boy listed where several former residents had gone, including former stage-line superintendent S. G. Smith at Menoken, Joe Cuskelly in business at Dickinson, H. D. Breen as station agent at Gladstone, and E. J. Faure, who spent the summer at the KC and Bad Lands Cattle Co. ranches, now with a St. Paul toboggan maker.",
+   "excerpt": "S. G. Smith, formerly superintendent of the stage line is in Menoken, Dak.",
+   "people": [
+    "A. M. Sinnott",
+    "W. B. Wright",
+    "L. Ayers",
+    "S. G. Smith",
+    "Joe Cuskelly",
+    "H. D. Breen",
+    "E. J. Faure",
+    "Dennie Friedman"
+   ],
+   "places": [
+    "Medora",
+    "Menoken",
+    "Dickinson",
+    "Gladstone",
+    "St. Paul"
+   ],
+   "tags": [
+    "town-life",
+    "stage"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a21",
+   "confidence": "high"
+  },
+  {
+   "id": "e15",
+   "date": "1886-12-13",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Light Chicago cattle receipts; northern range shipping season over",
+   "summary": "The Cow Boy reported that only 7,000 cattle arrived at Chicago Monday, that state quarantines against Chicago slowed sales of feeders, and that the northern range shipping season had practically closed two weeks earlier.",
+   "excerpt": "There were no northern rangers on the market, the season having practically closed for them two weeks ago.",
+   "people": [],
+   "places": [
+    "Chicago"
+   ],
+   "tags": [
+    "ranching",
+    "health"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a23",
+   "confidence": "high"
+  },
+  {
+   "id": "e16",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "\"recent\"; no date given",
+   "planned": false,
+   "title": "Cattlemen protest east-bound freight-rate increases",
+   "summary": "The Cow Boy reported that the Chicago live stock exchange and the National cattle growers' association had issued resolutions condemning the east-bound pool's rate increases on cattle, dressed beef and sheep, and called the increase exorbitant.",
+   "excerpt": "the increase cannot but be regarded as exorbitant.",
+   "people": [],
+   "places": [
+    "Chicago"
+   ],
+   "tags": [
+    "ranching",
+    "railroad",
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a24",
+   "confidence": "medium"
+  },
+  {
+   "id": "e17",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "undated Washington dispatch (\"to-day\") reprinted from the Inter Ocean",
+   "planned": false,
+   "title": "Railroad right-of-way bills for Dakota introduced in Congress",
+   "summary": "The Cow Boy reprinted an Inter Ocean dispatch: the president refused Marvin Hughitt right of way through the Fort Meade reservation, a bill was introduced in the House for it, and Delegate Toole introduced a bill for J. J. Hill's Manitoba road to run from Minot across the Fort Berthold and Blackfeet reservations.",
+   "excerpt": "The new line is to start from Minot and cross the reservation on the line between townships 153 and 154",
+   "people": [
+    "Marvin Hughitt",
+    "J. J. Hill",
+    "Joseph K. Toole"
+   ],
+   "places": [
+    "Washington",
+    "Black Hills",
+    "Fort Berthold Indian Reservation",
+    "Minot"
+   ],
+   "tags": [
+    "railroad",
+    "politics",
+    "Native-Americans",
+    "land"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a26",
+   "confidence": "medium"
+  },
+  {
+   "id": "e18",
+   "date": "1886-12-25",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Christmas Day 1886, the day the appeal looks toward",
+   "planned": true,
+   "title": "Asylum superintendent appeals for Christmas gifts",
+   "summary": "The Cow Boy printed a letter from O. W. Archibald, superintendent of the territorial insane asylum, asking friends across the territory to send money or articles for the patients' Christmas.",
+   "excerpt": "It is the little from the many that will make Christmas day at the asylum the pleasant oasis of the year",
+   "people": [
+    "O. W. Archibald"
+   ],
+   "places": [
+    "Dakota Territory"
+   ],
+   "tags": [
+    "health",
+    "holidays"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a27",
+   "confidence": "medium"
+  },
+  {
+   "id": "e19",
+   "date": "1886-12-14",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday morning\" before Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Johnny McCadam leaves for Minneapolis",
+   "summary": "The Cow Boy reported that Johnny McCadam left Tuesday morning for Minneapolis.",
+   "excerpt": "Johnny McCadam left Tuesday morning for Minneapolis.",
+   "people": [
+    "Johnny McCadam"
+   ],
+   "places": [
+    "Medora",
+    "Minneapolis"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a35",
+   "confidence": "high"
+  },
+  {
+   "id": "e20",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "\"for several days\" before Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Miss Birdie Wadsworth ill",
+   "summary": "The Cow Boy reported that Miss Birdie Wadsworth had been quite sick for several days.",
+   "excerpt": "Miss Birdie Wadsworth has been quite sick for several days.",
+   "people": [
+    "Birdie Wadsworth"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "health"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a36",
+   "confidence": "high"
+  },
+  {
+   "id": "e21",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Medora short of eggs",
+   "summary": "The Cow Boy suggested that someone could make a good living keeping the Medora market supplied with eggs.",
+   "excerpt": "Some enterprising individual could make a good living by keeping the Medora market supplied with eggs.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a37",
+   "confidence": "medium"
+  },
+  {
+   "id": "e22",
+   "date": "1886-12-13",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 16 Dec 1886",
+   "planned": false,
+   "title": "J. C. Fisher leaves for Elyria, Ohio",
+   "summary": "The Cow Boy reported that J. C. Fisher started Monday for Elyria, Ohio, to visit a month or six weeks before returning to Medora.",
+   "excerpt": "J. C. Fisher started Monday for Elyria, Ohio",
+   "people": [
+    "J. C. Fisher"
+   ],
+   "places": [
+    "Medora",
+    "Elyria, Ohio"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a38",
+   "confidence": "high"
+  },
+  {
+   "id": "e23",
+   "date": "1886-12-08",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "printed \"Monday, Dec, 8th., 1886\"; 8 Dec 1886 was a Wednesday (the Mondays were 6 and 13 Dec), so the day is uncertain",
+   "planned": false,
+   "title": "Death of Margaret Truscott",
+   "summary": "The Cow Boy reported the death, after three days' illness, of Margaret, only daughter of Mr. and Mrs. J. L. Truscott; J. L. Truscott is listed elsewhere in the paper as manager of the Spring Creek Ranch.",
+   "excerpt": "Died—On Monday, Dec, 8th., 1886, at 6 p. m., after three days illness, Margaret, only daughter of Mr. and Mrs. J. L. Truscott.",
+   "people": [
+    "Margaret Truscott",
+    "J. L. Truscott"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "deaths"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a40",
+   "confidence": "medium"
+  },
+  {
+   "id": "e24",
+   "date": "1886-12-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Sunday night\" before Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Maltese Cross cowboy George Myers brought back under arrest; Roosevelt and partners vouch for him",
+   "summary": "The Cow Boy reported that George Myers, a hand at the Maltese Cross for several years, returned Sunday night with Fred Willard after his arrest on a Montana Stockgrowers' Association warrant for shipping two steers with the Maltese Cross cattle; the paper said the range's owners, Theodore Roosevelt and Ferris & Merrifield, all claimed Myers owned the cattle.",
+   "excerpt": "As these gentlemen happen to be Theodore Roosevelt and Messrs, Ferris & Merrifield, and as they all claim that George owned the cattle",
+   "people": [
+    "George Myers",
+    "Fred Willard",
+    "Theodore Roosevelt",
+    "Sylvane Ferris",
+    "Bill Merrifield"
+   ],
+   "places": [
+    "Medora",
+    "Maltese Cross Ranch",
+    "Garner Creek",
+    "Wooster, Ohio",
+    "Chicago"
+   ],
+   "tags": [
+    "tr",
+    "law",
+    "crime",
+    "ranching",
+    "brands"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a43",
+   "confidence": "high"
+  },
+  {
+   "id": "e25",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "bound over between his return Sun 12 Dec and the issue of Thu 16 Dec 1886",
+   "planned": false,
+   "title": "George Myers bound over to circuit court; Ferris & Merrifield stand surety",
+   "summary": "The Cow Boy reported that George Myers waived examination and was bound over in $1,000 bonds to the circuit court, with Ferris & Merrifield and Dantz as sureties, and predicted no grand jury would bring the case to trial.",
+   "excerpt": "He is now bound over in $1,000 bonds to the circuit court, having waived examination. Ferris & Merrifield and Mm. Dantz are his sureties",
+   "people": [
+    "George Myers",
+    "Sylvane Ferris",
+    "Bill Merrifield",
+    "Wm. Dantz"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "courts",
+    "law",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a43",
+   "confidence": "high"
+  },
+  {
+   "id": "e26",
+   "date": "1886-09-01",
+   "date_end": "1886-11-30",
+   "date_precision": "approx",
+   "date_basis": "\"this fall\"; shipment before Myers left for Ohio",
+   "planned": false,
+   "title": "Maltese Cross fall shipment to Chicago included Myers' two steers",
+   "summary": "The Cow Boy reported that when the Maltese Cross outfit shipped its cattle this fall, George Myers put in two head he had branded with Sylvane Ferris present, and sold them in Chicago before going home to Ohio.",
+   "excerpt": "When the Maltese Cross outfit shipped their cattle this fall, George put in the two head spoken of and sold them in Chicago.",
+   "people": [
+    "George Myers",
+    "Sylvane Ferris"
+   ],
+   "places": [
+    "Maltese Cross Ranch",
+    "Chicago"
+   ],
+   "tags": [
+    "ranching",
+    "railroad",
+    "brands"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a43",
+   "confidence": "medium"
+  },
+  {
+   "id": "e27",
+   "date": "1886-12-09",
+   "date_end": "1886-12-16",
+   "date_precision": "week",
+   "date_basis": "notice in issue of Thu 16 Dec 1886",
+   "planned": false,
+   "title": "Packard closes out Studebaker wagon stock",
+   "summary": "The Cow Boy carried A. T. Packard's notice that he would sell his stock of Studebaker wagons for cash below the wholesale factory rate to close them out.",
+   "excerpt": "To close out the stock of Studebaker wagons now on hand, I will make prices for cash that are lower than the wholesale factory rate.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a46",
+   "confidence": "high"
+  }
+ ]
+}

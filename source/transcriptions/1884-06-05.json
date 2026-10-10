@@ -1,0 +1,2173 @@
+{
+ "date": "1884-06-05",
+ "masthead": "Thursday, June 5, 1884",
+ "volume": "Vol. 1, No. 18",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "cols 1-4 local display/card ads; col 5 editorials (Chicago convention, Custer county ring, Pat Donan, cremation, grass fires, Star & Bullock); cols 6-7 Stock Notes (grass-fire reward, round-up, Dorr Clark, LeMoyne company, clipped range items), Sporting Notes, 'A Hunted Man', 'Sure Enough Railroad', 'Six Shooters Among Cattle Men'"
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "patent inside; col 1 carries a Bad Lands Cow Boy heading over syndicated editorial filler"
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "patent inside; Territorial capital news, Dakota News Notes, miscellany, patent-medicine ads"
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "cols 1-2 inside masthead, N.P. time table, local items, dissolution notice, classifieds; cols 2-5 display ads (beef cattle, N.P. railroad, brick, lots, insurance, Little Tom's, N.P. Refrigerator Car Co.); cols 6-7 cattle-brand ads (right edge slightly cut by binding)"
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "1-7",
+   "region": [
+    2,
+    4,
+    96,
+    9
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "The Bad Lands Cow Boy.\n\nVolume 1, Number 18. LITTLE MISSOURI, MEDORA P. O., DAK., JUNE 5, 1884. Price $2.00 per Year.\n\nBAD LANDS COW BOY, By A. T. PACKARD.",
+   "summary": "Front-page masthead and dateline of Vol. 1, No. 18.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a2",
+   "page": 1,
+   "cols": "1-4",
+   "region": [
+    2,
+    13,
+    52,
+    87
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Bad Lands Cow Boy, by A. T. Packard — publisher's terms box ($2 per year; advertising rates on application), Medora, Dakota; entered at the post-office at Medora as second class mail matter\nA. D. Carpenter, Attorney, Dickinson, Dak.\nWestern Starr, Attorney-at-Law, Dickinson, Dak.\nOld Bob Montgomery's Saloon, Belfield, Dak. — \"He deals exclusively in first-class goods\"\nRiverside Hotel, Max Bass, Prop., Belfield, Dakota — \"One of the neatest houses on the line of the N. P. R. R. Only a few steps from the depot\"\nF. E. Benjamin, Jeweler and Watchmaker, Mandan, Dakota\nT. J. McClung, Contractor and Builder, Medora, Dak. — \"All Work Guaranteed\"\nFirst National Bank of Mandan, Dakota — T. R. Selmes [?], President; H. R. Lyon, Cashier; M. Lang [?], Vice President; paid-up capital $50,000, surplus $10,000\nDan McKenzie, Blacksmithing and Horse-Shoeing, Little Missouri, Dak.\nMahar & Drury's Billiard Hall & Pool Room, Mandan, Dakota (Tom Mahar) — \"The most popular resort for a quiet game of billiards or pool\"\nM. Kline, Cigar Manufacturer, dealer in smoking & chewing tobacco and smokers' articles, Mandan, Dakota\nJ. A. Ferris, Dry Goods, Ready-Made Clothing, Hats & Caps, Boots & Shoes, Gents' Furnishing Goods and Notions, Little Missouri, Dak.\nHeadquarters Restaurant, M. J. Mahon, Prop., Mandan, Dakota — \"The only First-Class Restaurant West of St. Paul\"; imported wines, liquors and cigars at the bar\nGood Situations — Sherman Telegraph Co. will teach young men telegraphy and furnish situations\nGeneral Store of the N. P. R. C. Co., Medora, Dakota — groceries, dry goods, ready-made clothing, hats, caps, canned goods, harness, saddles, tobacco and cigars, felt shoes, overshoes, boots and shoes, flour and feed, hunters' outfits; wholesale and retail\nWestern House, Peter Malloy, Prop., Little Missouri, Dak. — transient rates $1.50 per day, regular board $6.00 per week; \"A Fine Bar connected with the house\"\nEdick Bros., manufacturers and jobbers in cigars, tobacco and smokers' articles, 64 Main Street, Bismarck, Dak.\nThe Elk — The Pioneer Saloon, Little Missouri — \"The finest goods, courteous treatment\"; choicest brands of liquors & cigars\nHotel De Mores, G. W. Fitzgerald, Prop. — \"The Best Hotel in Medora, Dak.\"; transient rates $2.00 per day, regular board $6.00 per week; livery stable and bar in connection; \"Located centrally, but a few steps from the depot\"\nMedora the 1st, W. T. Kennedy, Proprietor, No. 25 Main St., Medora — saloon card\nDuncan & Hilles, Furniture (parlor suits, chamber suits, cheap beds, cane chairs, mattresses, house furnishing goods), Hager Block, Mandan\nJ. Slatcher's Golden Gun Armory, Dickinson, Dakota — Colts' six-shooters, cartridges, powder; jobbing a specialty\nThe Senate, Roberts & Co., Billiard and Pool Hall, Little Missouri — \"Finest Bar in Little Missouri\"; wines, liquors and cigars; \"The Genial Jim is in constant attendance\"\nShort-Horn Bulls and Heifers, six months to two years, $100 to $1,000 — W. E. Bean, Mt. Sterling, Ky.",
+   "summary": "Directory of display and card advertisers in the first four columns of page 1.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a3",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    13,
+    14,
+    6
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "We had intended giving the morning report of the Chicago convention but the wires are not working well and outside of the fact that Gen. J. D. Henderson, of St. Louis, is permanent chairman no further report has been received. Arthur and Blaine are still leading, with Harrison and Gresham as prominent rivals in case the strength of the leaders neutralize each other.",
+   "summary": "The wires being poor, the paper reports only that Gen. J. D. Henderson is permanent chairman of the Chicago convention and that Arthur and Blaine lead.",
+   "people": [
+    "J. D. Henderson",
+    "Chester A. Arthur",
+    "James G. Blaine",
+    "Benjamin Harrison",
+    "Walter Q. Gresham"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a4",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    19,
+    14,
+    25
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "We are glad to see the determined fight that the Glendive Times is waging with the corrupt Custer county ring. That county is now about $120,000 in debt and has scarcely been organized a year and a half. The result is excessive taxation and citizens are getting discouraged and cattle men especially are leaving. There is and can be no excuse for this state of affairs. It is stealing, pure and simple. On top of all this, the ring is preparing to foist a new paper on the citizens of Glendive. It is supposed to be the defunct Fargo Broadaxe outfit and will soon die in Glendive. The reason for its establishment is that an election is coming on and the ring wants an organ. If the citizens of Glendive support the new journal, they will be harming themselves more than they know. Neither Glendive or any other town of its size can support two papers. It is far better to have one live, energetic paper like the Times, than two or more half-starved sheets which are only a drag on the town. As the movement to start the new paper is undoubtedly a piece of spite work to ruin a paper that has refused to quietly stand by and see the county plundered, there is still less reason that any support should be given it. We are the more free in speaking of Custer county affairs as we do not think that there is any danger of such a ring ever gaining control in Billings county. We wish it distinctly understood that any attempt of the kind will be saluted by a broadside in the COW BOY that will open the eyes of the tax-payers. Billings can and will have a clean county administration. Almost invariably a number of bumming place seekers and political shysters get hold of the county reins at first. Billings county is to be an exception or there will be music in the air.",
+   "summary": "Packard backs the Glendive Times against the 'corrupt Custer county ring' and its planned new paper, and warns that any such ring in Billings county will be exposed by the Cow Boy.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a5",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    44,
+    14,
+    5
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "Were there really any danger that Pat Donan would be appointed governor, there would be a popular uprising very much resembling civil war, in Dakota. That such an uncollapsable windbag should even be mentioned as a candidate is a standing disgrace to our Territory.",
+   "summary": "The paper calls Pat Donan an 'uncollapsable windbag' whose mention as a candidate for territorial governor is a disgrace.",
+   "people": [
+    "Pat Donan"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a6",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    48,
+    14,
+    19
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "\"Like angels' visits,\" few and far between, is the meeting of two cremationists. The ideas are too new and their adherents too scattered for much organization. For this reason, it is a real pleasure which we have never experienced but once, to meet a pronounced adherent of the cause. Mr. Julius LeMoyne, of Washington, Pa., referred to in our local columns, is at present the leading cremationist of the United States. The only crematory in this country is now owned by him and was built by his father. We do not now propose to enter into a discussion of the merits of cremation, but wish to say that four-fifths of the cremationists in the United States were made such by a thorough, practical understanding of the subject by the successful operation of the LeMoyne crematory. We are glad to see that the tide of public opinion, as shown by many newspaper articles, is turning in favor of cremation. Leading scientific men everywhere are coming to regard it as altogether the most preferable way of disposing of bodies and the only way to protect the living from contagion by the dead. Before the next generation has passed away, burial will be considered almost as barbarous as was cremation when LeMoyne began his crusade.",
+   "summary": "Packard, himself a cremationist, welcomes Julius LeMoyne of Washington, Pa., owner of the only crematory in the country, and predicts burial will come to seem barbarous.",
+   "people": [
+    "Julius LeMoyne",
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a7",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    67,
+    14,
+    9
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Especial attention is called to the notice published in another column in reference to persons setting the grass on fire. The move is one in the right direction and cattlemen mean busines in offering the reward. Grass is their source of profit and no effort will be spared to punish the carelessness or criminality of any one destroying it. There are stringent United States and Territorial laws against setting fire to the grass and any one found doing so can make up his mind to suffer to the full extent of the law.",
+   "summary": "The paper calls attention to the cattlemen's reward for information on persons setting the grass on fire.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a8",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    76,
+    14,
+    18
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Considerable comment was caused yesterday by the reported receipt of a telegram that Star & Bullock had telegraphed their intention of shipping by the way of Pierre. The facts in the case are as follows: Star & Bullock have their orders in for goods months ahead. Up to the time when the route was established from here all their goods were consigned by the way of Pierre. Upon the establishment of the Medora route, all their goods were ordered this way. The most of them had already been marked by way of Pierre, and re-marked by way of Medora. The consignment now at Pierre is one of these lots, which was not re-directed. The telegram which was received here was from Star & Bullock to the forwarding company and was to the effect that the lot of goods at Pierre was needed immediately and requested that John Sechler's outfit should be loaded with what freight of theirs was here so that he could go to Pierre. This is all there is to the numerous and conflicting reports circulated yesterday which all seemed to lean toward the opinion that Star & Bullock had abandoned our route. It would be well to examine the reliability of the reports hereafter, before giving them credence.",
+   "summary": "The paper explains that a telegram from Star & Bullock about goods at Pierre did not mean the firm had abandoned the Medora freight route.",
+   "people": [
+    "John Sechler"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a9",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.3,
+    13,
+    14,
+    12
+   ],
+   "section": "range",
+   "headline": "STOCK NOTES. $250 REWARD.",
+   "text": "The above reward will be paid for information leading to the arrest of any person or persons setting fire to the grass in the cattle sections of Western Dakota.\n\nN. P. REF. CAR CO.\nCONTINENTAL CATTLE CO.\nHUGHES & SIMPSON.\nDORR CLARK.\nCLARK & PLUM.\nDICKEY BROS.\nA. & B. RUMSEY.\nCUSTER TRAIL CATTLE CO.\nBADGER CATTLE CO.",
+   "summary": "Nine cattle outfits, led by the N. P. Ref. Car Co., offer $250 reward for information leading to the arrest of anyone setting grass fires in western Dakota.",
+   "people": [
+    "Dorr Clark"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a10",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.3,
+    25,
+    14,
+    4
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Stock and feeding cattle are at least $1 per hundred weight higher, relatively, than they were a year ago. This narrows the margin of feeders. The liberal profits and quick returns of feeding and the great abundance of grass and rough feed have been chief among the causes to bring this about.—[Drovers' News.",
+   "summary": "Clipped note (Drovers' News) that stock and feeding cattle are about $1 per hundredweight higher than a year ago.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a11",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.3,
+    29,
+    14,
+    6
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The round-up has progressed far more rapidly than was expected and to-day will cross the rail-road at Andrew's creek. Nothing of particular importance has occurred, and the boys seem to be enjoying themselves thoroughly. Some of the Texas cattle from up the river have drifted badly but besides these there are very few ahead of the round-up.",
+   "summary": "The round-up has moved faster than expected and is to cross the railroad at Andrew's creek today; some Texas cattle have drifted badly.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a12",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.3,
+    35,
+    14,
+    5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "David Neff, near Osborn, O., has a Jumbo of a steer five year old in February; he weighs 2,840 pounds and is far from being fat; in height measures six feet four inches, girths nine feet and is nine feet long from base of horns to root of tail. He is so gentle and kind that the small children play with him, leading him around with an ordinary cow-chain around his neck.—[Exchange.",
+   "summary": "Clipped note about David Neff's 2,840-pound steer near Osborn, Ohio.",
+   "people": [
+    "David Neff"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a13",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.3,
+    39,
+    14,
+    6
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "To a reporter of the New York Herald Mr Bonner said, speaking of the once celebrated trotter, Dexter: \"He is now twenty-six years old, and has been kept at my down-town stables during the winter and given only walking exercise, but it is the intention to drive the old horse on the road during the coming season, as he is full of life and vigor and retains a great deal of his old-time speed.\"",
+   "summary": "Clipped note: Robert Bonner says the old trotter Dexter, now twenty-six, is still full of vigor.",
+   "people": [
+    "Robert Bonner"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a14",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.3,
+    45,
+    14,
+    5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "A remedy for worms in horses is given by a writer of experience in an exchange. He says: \"Take a lump of rock mineral salt, from one to ten pounds or more, and put it in the horse's manger. In six days the horse or colt will be free of worms. I have used and prescribed this remedy for many years and it has never failed in any one case, and the horse will improve in health and condition at once.\"—[N. W. L. S. Journal.",
+   "summary": "Clipped remedy for worms in horses (N. W. L. S. Journal).",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a15",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.3,
+    50,
+    14,
+    6
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "An exchange tells how to treat balky horses as follows: Take a good, reliable horse—a good puller—and the balky one. Put similar harness on the two, attach them together and start them in opposite directions. At first the balky horse will allow himself to be dragged backwards, but soon he will tire of this and commence to pull in good earnest, and after that he will never refuse to do his duty.—[N. W. L. S. Journal.",
+   "summary": "Clipped advice on breaking a balky horse (N. W. L. S. Journal).",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a16",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.3,
+    56,
+    14,
+    8
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Dorr Clark, owner of the VVV outfit, and half owner of the E6 brand, is in town, waiting for two hundred head of Short-horn bulls, which will be in Saturday. Mr. Clark is an enthusiastic convert to the thoroughbred bull question and this lot will make about five hundred that he has on his two ranches. He also uses six bulls for every hundred cows. Since his arrivtl here, he has examined the capabilities of the country and thinks, as do all cattle men, that this is the best place in the United states for cattle. To prove his belief, he expects to drive up about 5,000 steers to fatten in the Bad Lands.",
+   "summary": "Dorr Clark of the VVV outfit is in town awaiting 200 Short-horn bulls due Saturday and plans to drive about 5,000 steers to fatten in the Bad Lands.",
+   "people": [
+    "Dorr Clark"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a17",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.3,
+    64,
+    14,
+    16
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The largest cattle herd in Montana owned by one firm or company is that of L. G. Baker & Co., or the Benton & St. Louis Cattle company. Besides the Swett herd recently purchased by C. W. Price and L. G. Baker & Co., Mr. L. C. Baker, of St. Louis, has contracted for the delivery of 2,000 head of two-year-old heifers at the nearest point to Fort Benton, which will make the total owned by this company, estimating the increase for this year, about 25,000 head, of a cash value of not less than $1,000,000. We understand that the company will have $100,000 worth of steers to market this fall. If the Benton & St. Louis Cattle company continue to make purchases as they have during the past two years it will not be long before they can size up with the Swan Land and Cattle company of Wyoming, which is perhaps the largest stock company in the world. The Choteau county company has the advantage of a better range and a better stock country generally, and for that reason will make more rapid progress and earn larger dividends than the other outfit.—[River Press.",
+   "summary": "Clipped River Press item on the Benton & St. Louis Cattle company's growing Montana herd.",
+   "people": [
+    "C. W. Price"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a18",
+   "page": 1,
+   "cols": "6-7",
+   "region": [
+    66.3,
+    80,
+    28,
+    20
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Some of our local stock raisers in the southern part of the state, as well as those in the Neutral Strip and Panhandle country, are adopting a new system of handling their local bred cattle which will prevent their home ranges from being overstocked, and protect them from serious loss during very severe winters; which will assure a sufficient amount of grass for winter grazing for all stock left on the local range and prevent the same from being over-crowded. The system they have and are abopting is to have two ranges, one for breeding purposes and the other for maturing their beef cattle on. The last named located in the north, either in Wyoming or Montana, to which they take all steer cattle over the age of one year old, and either drive or ship them to their grazing field in the north and hold them until fully matured before they are marketed. This system not only gives them fatter cattle, but gives them increased weight from two to four hundred pounds to the animal over our local breed steer cattle.—[Ford County (Kan.) Globe.",
+   "summary": "Clipped Ford County Globe item on southern stockmen keeping separate breeding and northern maturing ranges.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a19",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    80,
+    19,
+    14.5,
+    11
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Messrs. Julius Le Moyne, of Washington, Pa., Joseph U. Rose, Pittsburgh, W. K. Duval, Wheeling, W. V. and Harvey T. Halleck, Washington, Pa., have been in town several days, arranging to put in cattle on Tepee bottom, under the management of D. K. Wade. A company has been formed and as a starter, six hundred graded cattle have been purchased and will be here in three weeks. Mr. LeMoyne, who is a prominent Short-horn breeder and president of the Washington county Thorough-bred stock association, thinks seriously of deserting his first love and using Polled bulls exclusively. The result of such an experiment would be valuable to our stockmen as it is thought that Polled cattle will stand severe weather better and are otherwise hardier than Short-horns.",
+   "summary": "Julius LeMoyne and partners from Pennsylvania and West Virginia have formed a company to put 600 graded cattle on Tepee bottom under D. K. Wade.",
+   "people": [
+    "Julius LeMoyne",
+    "Joseph U. Rose",
+    "W. K. Duval",
+    "Harvey T. Halleck",
+    "D. K. Wade"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a20",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    80,
+    29,
+    14.5,
+    17
+   ],
+   "section": "local",
+   "headline": "SPORTING NOTES.",
+   "text": "Teemer defeated Conley by a quarter of a length in their single sculll race at Pullman, Decoration day.\n\nOn May 28, for the first time on record, the English Derby ended in a draw. St. Gatien and Harvester were the tying horses.\n\nMcLaughlin and Dufur will wrestle collar-and-elbow, best two in three, at Buffalo, June 6. The contest is for $500 and gate money.\n\nThe record on 75 yards was broken by John S. Barnes, of St. Paul, May 30. The previous record, made by Myers, Lee and others, was 7¾ seconds. Barnes' time was 7 seconds.\n\nSlosson realized the highest expectations of his friends in his contest with Schaeffer at Chicago last Sunday night, and beat the champion, at the balk-line game of billiards. Betting was $125 to $40 on Schaeffer and large sums were laid at these odds.",
+   "summary": "National sporting briefs: sculling, the drawn English Derby, wrestling, a 75-yard record and billiards.",
+   "people": [
+    "Teemer",
+    "Conley",
+    "John S. Barnes",
+    "Slosson",
+    "Schaeffer"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a21",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    80,
+    46,
+    14.5,
+    14
+   ],
+   "section": "local",
+   "headline": "A Hunted Man.",
+   "text": "F. C. Leethem, the representative of Marder, Luse & Co., type founders, passed through Glendive on Thursday morning's train, cached behind trunks in a baggage car. He sold some goods at Helena when the authorites got after him for not paying the Territorial license. He learned of this and skipped for the east by the first train. At every town he was searched for but by getting off the cars on the opposite side from the platform and waiting until the train started he escaped. As the train pulled out of the Glendive station he was heard to remark: \"Well, this is a h—l of a country.\" Leethem had no love for cowboys and on his arrival at Medora he got off to see Packard, of the Bad Lands Cowboy, but on seeing some of these famous gentry between him and the hotel, he suddenly concluded that Packard was not at home, or at least that he was not anxious to see him.—[Glendive Times.",
+   "summary": "Glendive Times story of type-founders' agent F. C. Leethem fleeing a Montana license charge and avoiding Packard at Medora.",
+   "people": [
+    "F. C. Leethem",
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a22",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    80,
+    60,
+    14.5,
+    17
+   ],
+   "section": "railroad",
+   "headline": "Sure Enough Railroad.",
+   "text": "A Pioneer reporter was on yesterday, permitted to read a letter from one in authority, to a prominent citizen of Deadwood, relative to the construction of the Northern Pacific spur from Medora to this city. The absence of authority from the writer, to publish the letter, alone prevents its appearance in lieu of this article. We do not, however, we think, violate confidence, in stating that abundant assurance is given, not only that the road will be constructed, but that work will begin in a very few days, in fact has already begun if the ordering a survey, and preparing therefor is any portion of the important undertaking. Within a few days at the outside, the project will mature, details will be arranged, and the Pioneer at liberty to disclose full particulars of this most important movement to the entire Hills section. If we can be positive of anything in this world of ours, we may safely count upon all rail communication with the outside world before many moons shall wane.—[Black Hills Pioneer.",
+   "summary": "Black Hills Pioneer report that a Northern Pacific spur from Medora to Deadwood is assured and work is about to begin.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a23",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    80,
+    77,
+    14.5,
+    21
+   ],
+   "section": "range",
+   "headline": "Six Shooters Among Cattle Men.",
+   "text": "At the annual meeting of leading cattle raising associations of Texas in 1882, prompt and very active measures were taken to banish the deadly six-shooter from cattlemen's belt. Resolutions were passed unanimously pledging owners of ranches and cattle not to keep in their employ any hands that would carry deadly weapons. That spring, there was an absence of deadly encounters and shooting sprees observable throughout the range country.\n\nLast year no action was taken by stockmen in convention assembled in regard to the \"six-shooter,\" and since that time serious and deadly shots have been fired. In almost every section of the West murders are on the increase, and cowmen are too often the principal in the encounters. The six-shooter loaded with deadly cartridges is a dangerous companion for any man, especially if he should unfortunately be primed with whisky.\n\nCattlemen should unite in aiding the enforcement of the law against the carrying of deadly weapons. Lawlessness in any form is hurtful, morally and from a business standpoint, and no business is injured than that of cattle raising, when its employes are allowed to carry deadly weapons. Then we would suggest to the managers of cattle ranches to see that the six-shooter is banished from his outfit.—[Texas L. S. Journal.",
+   "summary": "Texas Live Stock Journal piece urging cattlemen to banish the six-shooter from their outfits.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a24",
+   "page": 2,
+   "cols": "1-8",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "",
+   "summary": "Patent-inside page: general editorial filler under a Bad Lands Cow Boy heading, News of the Week (Washington news, casualties, crimes, personal and general news), congressional proceedings, foreign flashes and miscellany.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a25",
+   "page": 3,
+   "cols": "1-8",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "",
+   "summary": "Patent-inside page: 'The Territorial Capital' and 'Dakota News Notes' territorial briefs, miscellany, a railroad-engineer story, and patent-medicine ads (Tutt's Pills, St. Jacobs Oil, Allen's Lung Balsam, Hostetter's Bitters, Parsons' Pills).",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a26",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    5,
+    13.6,
+    4
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "BAD LANDS COW BOY, BY A. T. PACKARD.\n\nTHURSDAY, JUNE 5, 1884.",
+   "summary": "Inside masthead with issue date.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a27",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    9,
+    13.6,
+    5
+   ],
+   "section": "railroad",
+   "headline": "Northern Pacific Time Table.",
+   "text": "WEST BOUND.\nPacific Express, No. 1 ........ 6:37 p. m.\nExpress Freight, 2d Class ........ 6:48 p. m.\nFreight, 3d Class ........ 12:05 a. m.\n\nEAST BOUND.\nAtlantic Express, No. 2 ........ 8:22 a. m.\nExpress Freight, 2d [?] Class ........ 2:57 a. m.\nFreight, 3rd Class ........ 8:11 p. m.\n\nR. E. Spurrier [?], Agent.",
+   "summary": "Northern Pacific train times at the station, west and east bound.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a28",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    14,
+    13.6,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A large lot of freight arrived for the Hills this morning.",
+   "summary": "A large lot of freight arrived for the Black Hills this morning.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a29",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    15.5,
+    13.6,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The plasterers for the billiard hall are expected in a day or two.",
+   "summary": "Plasterers for the billiard hall are expected shortly.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a30",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    17,
+    13.6,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Russ Wilson, foreman of the E6 outfit, is in town, with Dorr Clark.",
+   "summary": "Russ Wilson, foreman of the E6 outfit, is in town with Dorr Clark.",
+   "people": [
+    "Russ Wilson",
+    "Dorr Clark"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a31",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    18.5,
+    13.6,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "T. G. Jones started for St. Paul last week to consult about rail-road matters.",
+   "summary": "T. G. Jones went to St. Paul last week about railroad matters.",
+   "people": [
+    "T. G. Jones"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a32",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    20,
+    13.6,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "As we go to press, the rain is descending in torrents. It is exactly what the grass needs.",
+   "summary": "Heavy rain is falling as the paper goes to press.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a33",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    21.5,
+    13.6,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "E. G. Paddock's house is rapidly nearing completion. It presents a first-rate appearance.",
+   "summary": "E. G. Paddock's house is nearly finished.",
+   "people": [
+    "E. G. Paddock"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a34",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    23,
+    13.6,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The dance at Peter Malloy's Tuesday night was thoroughly enjoyed by the participators.",
+   "summary": "A dance was held at Peter Malloy's Tuesday night.",
+   "people": [
+    "Peter Malloy"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a35",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    24.5,
+    13.6,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The Marquis' servants came Monday evening, to set the house to rights for the summer.",
+   "summary": "The Marquis de Morès' servants arrived Monday to open his house for the summer.",
+   "people": [
+    "Marquis de Morès"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a36",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    26.5,
+    13.6,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mr. Elder, of St Paul, is in town, making preparations to put in a wind-mill near the Marquis' residence.",
+   "summary": "Mr. Elder of St. Paul is putting in a wind-mill near the Marquis' residence.",
+   "people": [
+    "Elder",
+    "Marquis de Morès"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a37",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    28.5,
+    13.6,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Car-loads of salmon, in fulfillment of the Marquis' New York contract, are passing through frequently.",
+   "summary": "Car-loads of salmon for the Marquis' New York contract are passing through.",
+   "people": [
+    "Marquis de Morès"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a38",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    30.5,
+    13.6,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A number of fat cattle are being killed at the slaughter-house and the season will soon begin in earnest.",
+   "summary": "Fat cattle are being killed at the slaughter-house; the season will soon begin in earnest.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a39",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    32.5,
+    13.6,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Tom Tighe came up from Mandan this morning. He will be at Freyburg for some time, working for the N. P.",
+   "summary": "Tom Tighe came up from Mandan to work for the N. P. at Freyburg.",
+   "people": [
+    "Tom Tighe"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a40",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    34.5,
+    13.6,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "John O'Sullivan has moved his barber shop to this side of the river and is occupying temporary quarters with John Warn.",
+   "summary": "John O'Sullivan has moved his barber shop across the river, sharing quarters with John Warn.",
+   "people": [
+    "John O'Sullivan",
+    "John Warn"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a41",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    37,
+    13.6,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The round-up is developing far more fat cattle than was expected. There will be little difficulty in getting plenty for slaughtering.",
+   "summary": "The round-up is turning up more fat cattle than expected.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a42",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    39.5,
+    13.6,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mr. Tobin, of Mandan, was in town a day or two last week. He is thinking strongly of entering into a partnership with Tom Stack. It will make a strong partnership and doubtless be successful.",
+   "summary": "Mr. Tobin of Mandan may go into partnership with Tom Stack.",
+   "people": [
+    "Tobin",
+    "Tom Stack"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a43",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    42.5,
+    13.6,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "We are in receipt of a number of lithograph bird's eye views of Spearfish, from Dr. J. M. Louthan. It is an excellent view and a good advertisement for Spearfish.",
+   "summary": "Dr. J. M. Louthan sent lithograph bird's-eye views of Spearfish.",
+   "people": [
+    "J. M. Louthan"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a44",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    45.5,
+    13.6,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "H. H. Parkins has been here several days learning the system of book-keeping inaugurated by Auditor Kerr. Mr. Parkins will have charge of the Duluth cold-storage house.",
+   "summary": "H. H. Parkins is learning Auditor Kerr's book-keeping system and will run the Duluth cold-storage house.",
+   "people": [
+    "H. H. Parkins",
+    "Kerr"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a45",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    48.5,
+    13.6,
+    3.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Several half-breeds were in town Sunday, indulging in unlimited fire-water. One of them was urged to fight the bears on a bet. But the wily half-breed had a level head when he answered: \"Liver more wort dan dollars.\"",
+   "summary": "Several half-breeds drinking in town Sunday; one declined a bet to fight the bears.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a46",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    52,
+    13.6,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A number of persons have taken advantage of our agency and subscribed for outside papers and periodicals. Subscriptions at regular publishers rates will be received for any paper or periodical published in the world.",
+   "summary": "The Cow Boy office takes subscriptions for outside papers and periodicals.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a47",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    55,
+    13.6,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Notice is again given that Dr. E. E. Ball, an experienbed dentist of Mandan, will be here the 9th, 10th and 11th, prepared to do any work in his line. A call on the dentist at this time is likely to save much suffering when one is not near.",
+   "summary": "Dr. E. E. Ball, dentist of Mandan, will be in Medora June 9-11.",
+   "people": [
+    "E. E. Ball"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a48",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    59,
+    13.6,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A coal-mine has been located and opened in the bluff east of town. Superior coal has been found in it, the vein being about eight feet thick. The citizens of Medora can rely on getting a fine quality of coal at a cheap rate the coming winter.",
+   "summary": "A coal-mine with an eight-foot vein has been opened in the bluff east of town.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a49",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    63,
+    13.6,
+    4.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Work is going forward rapidly on a new side track. It will run on the south side of the main track, beginning several hundred yards east of the depot. A new freight house for the rail-road company will be built at the same time.",
+   "summary": "A new side track and freight house are under construction east of the depot.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a50",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    68,
+    13.6,
+    5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A fatal mistake was providentially discovered Monday by the keen eye of Uncle John. A bone man had nearly finished his load when one of a rather odd shape attracted the attention of the aforesaid eagle eye. It, the bone, was immediate[ly?] dragged out and the voice of our esteemed fellow citizen, Mr. Thomas Stack was heard coming from it, in thanksgiving for his delivery.",
+   "summary": "Humorous item: 'Uncle John' rescued Thomas Stack from a bone man's load on Monday.",
+   "people": [
+    "Thomas Stack"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a51",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    73,
+    13.6,
+    6
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The second kiln of brick, which will be ready for burning in a few days, is to contain over 200,000. A permanent kiln is to be erected immediately, thus saving much waste. Specimens of the brick at the COW BOY office have been examined by many competent judges and unanimously pronounced equal to any brick made.",
+   "summary": "The second brick kiln will hold over 200,000 brick and a permanent kiln is to be built.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a52",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.3,
+    79,
+    13.6,
+    15
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "John Bruguier, a well-known scout, is in camp across the track. Johnny is known and liked all over the northwest. To his efficient services, General Miles willingly concedes that he owes his promotion. Strange to say Johnny is as great a favorite with the Indians as with the soldiers. Were it not for him the Sioux would not have come in, and Sitting Bull would still be \"bordering\" on the Canadian line, making hostile incursions into this country instead of living peaceably with his tribe at Standing Rock. Through his intercession, also Chief Joseph and the Nez Perces surrendered. In these wars he was the constant friend of the white men. During the Nez Perce war he made one of the fastest long-distance rides on record with dispatches from Fort Keogh to Bismarck. The distance is 300 miles and he made it in just thirty-two hours. John's father was French and his mother an Indian. Johnny himself is married to the prettiest squaw in Sitting Bull's tribe.",
+   "summary": "Scout John Bruguier, credited with bringing in Sitting Bull's Sioux, is camped across the track.",
+   "people": [
+    "John Bruguier",
+    "Nelson A. Miles",
+    "Sitting Bull",
+    "Chief Joseph"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a53",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.3,
+    5,
+    13.4,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The American lacrosse team has so far whitewashed its opponents in England.",
+   "summary": "The American lacrosse team is unbeaten in England.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a54",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.3,
+    7,
+    13.4,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "John England, of England, is the latest arrival who expects to do up our aesthetic John.",
+   "summary": "John England has arrived, expecting to 'do up our aesthetic John.'",
+   "people": [
+    "John England"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a55",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.3,
+    9,
+    13.4,
+    8
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A party of Yankton Indians is in camp on the south side of the track. We did not look at the teeth of the patriarch but should judge that he was about four hundred and steen years old, perhaps four hundred and umpty. Conversation was voluble on the Yankton side of the house, between bites at a bone which had seen its palmiest days long before even the pigs had given it up at the slaughter-house. The old man isn't bigger than a minute and he is weighted down with a log chain to keep the wind from blowing him away.",
+   "summary": "A party of Yankton Indians is camped south of the track.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a56",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.3,
+    17,
+    13.4,
+    7
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Word has come from Belfield that in addition to the horses already stolen there, two horses and six mules were stolen last Friday evening. The grass raising in the morning, completely hid the trail and it was impossible to tell even in what direction the thieves went. Telegrams were sent in every direction, but no word has been received as yet in reference to any of the stolen stock. The loss falls heavily on some of the citizens of Belfield and it is to be hoped that the stock will be recovered and the thieves summarily punished.",
+   "summary": "Two horses and six mules were stolen at Belfield last Friday evening; the trail was lost.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a57",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.3,
+    24,
+    13.4,
+    10
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "W. M. Farrow, who was with the victorious American team, when they defeated the Irish team at Dollymount in 1880, and who is one of the best, if not the best off-hand rifle shot in the world, gave an exhibition of his skill at 200 yards, in Little Missouri last Sunday afternoon. He used a new Bullard repeating rifle, 40-75. The target was an 8-inch bull's-eye, with circles two inches apart, the count in the bull's-eye being 11, and 12 for the centre.\n\nSCORE.\n10, 10, 11, 11, 11, 11, 10, 10, 10, 12,—106.\n\nThis fine score was made with hunting ammunition and without cleaning the rifle. All the bullets were planted inside a 12-inch circle.",
+   "summary": "Champion marksman W. M. Farrow gave a 200-yard rifle exhibition in Little Missouri last Sunday, scoring 106.",
+   "people": [
+    "W. M. Farrow"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a58",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.3,
+    34,
+    13.4,
+    6
+   ],
+   "section": "legal",
+   "headline": "NOTICE OF DISSOLUTION.",
+   "text": "TO ALL WHOM IT MAY CONCERN: Be it known that on and after this 24th day of May, 1884, the partnership heretofore existing between Chas. Shaffer and John Munroe, under the firm name of Shaffer & Munroe, Plum Grove ranch, on the Little Missouri river, is dissolved by mutual consent. All indebtedness of the firm to date will be paid by John Munroe.",
+   "summary": "Shaffer & Munroe of Plum Grove ranch dissolved their partnership as of May 24, 1884.",
+   "people": [
+    "Chas. Shaffer",
+    "John Munroe"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a59",
+   "page": 4,
+   "cols": "2-7",
+   "region": [
+    20.3,
+    40,
+    78,
+    60
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Shepherd Dogs — litter of Collie pups from imported stock; B. M. Gallien, Belfield, Dak.\nBuilding for Rent, Little Missouri — enquire at Cow Boy office\nFor Sale: twenty pack saddles, complete — Pennell & Roberts\nCook Stove for Sale — inquire at this office\nFor Sale: fifteen yoke of good work steers — Howard Eaton, Medora, Dak.\nN. P. Ref. Car Co., Medora, Dak. — Beef Cattle: offering entire herd of about 700 she cattle and 250 steers, plus 65 graded bulls and 55 she cattle, ranging on Beaver creek, Dawson county, Montana, ten miles north of Keith\nNorthern Pacific Railroad — \"Going East or Going West\", through line St. Paul to Portland, Ore.; Chas. S. Fee, General Passenger Agent, St. Paul, Minn.\nMedora Brick Kiln, Peter J. Book, Medora, Dak. — brick $8 per thousand, \"Guaranteed Better\"\nLots! Lots in Medora — price list of lots by block, for sale at the office of the Bad Lands Cow Boy, A. T. Packard, Medora, Dak.\nFor Sale: N. P. Refrigerator Car Co. offering its entire lot of stock horses (60 mares, two- and three-year-olds, 20 yearling colts, 10 American mares, 3 stallions) and 8 pair of mules — enquire at the Company, Medora, Dak.\nMayville Stock Farm, Mayville, Traill Co., Dak. — Short Horns; J. L. & E. B. Grandin, Props.; W. W. Warren [?], General Manager\nSupply Depot for Milwaukee Beer, case, keg or car load — C. B. Williams & Co., Bismarck, Dak.\nE. J. Owenhouse, Bozeman, Mont. — stock saddles, Concord harness, fancy bits and spurs, chaparejos, reatas, quirts, hackamores\nInsurance — Springfield F. & M. Ins. Co., Springfield, Mass., incorporated 1849, 36th annual statement; A. T. Packard, Agent, Bad Lands Cow Boy office, Medora, Dak.\nLittle Tom's Saloon, Little Missouri, Dak. — \"There's Rest for the Weary\"; \"The 'Festive Barkeep'\"; Cow-Boy Bitters to Dude Soda fresh on tap\nNorthern Pacific Refrigerator Car Company — Marquis de Mores, Pres't; C. W. Sleeper, Vice Pres't; L. A. Von Hoffman, Treas.; F. B. Allen, Sec'y; building cold storage houses at St. Paul, Duluth, Brainerd, Fargo, Grand Forks, Winnipeg, Jamestown, Bismarck, Mandan, Medora, Miles City, Billings, Bozeman, Helena, The Dalles and Portland; abattoirs erected or to be erected at St. Paul, Medora, Miles City, Billings and The Dalles\nBrand: N. P. Refrigerator Car Co., Medora, Dak. — NP (and a second NP-type mark) on left side, horse brand the same on left side; also steers bought of Mason & Lovell; calf mark left ear grubbed; range Little Missouri river and Beaver creek\nBrand: Spring Creek Ranch, L. D. & B. Rumsey, J. L. Truscott, Manager, P.O. Medora, Billings Co. — R in a half-circle on left hip and side; ear marks both ears swallow forked; range south of N.P.R.R. on Little Missouri\nBrand: E. G. Paddock, P.O. Medora — six-inch circle-dot on both sides (cattle), four-inch circle-dot on left shoulder and hip (horses); range six miles north of N.P. crossing of Little Missouri\nBrand: Pennell & Roberts, P.O. Medora, Billings Co. — RR on left shoulder for horses and mules; second mark on left thigh; ranch four miles down river from crossing of N.P.R.R.\nBrand: Lydia S. Fuller, Frank S. Moore, Manager, P.O. Medora — LSF on left shoulder; range O'Donnell creek\nBrand: Berry, Boice & Co., P.O. Keith, Montana — 777 on right hip, side and shoulder; ear mark grub the right ear; range south of N.P.R.R. on Little Missouri and Beaver creek\nBrand: Custer Trail Cattle Co., Howard Eaton, Manager, P.O. Medora — HK in circle on left side, second and third brands, V in right ear; horse brand T over V on left hip; range Little Missouri river, Deep and Davis creeks\nBrand: Towers & Gudgell, P.O. Keith, Montana — OX on right side, additional V; range south of N.P.R.R. on Little Missouri and Beaver creek\nBrand: Soho Cattle Co., P.O. Medora — HQ with SO on left side; range Little Missouri and Beaver creek north of N.P.R.R.\nBrand: H. B. Wadsworth & Co., M. Wadsworth, Manager, P.O. Medora — registered as \"Reversed L\"; range Little Missouri north of N.P.R.R.\nBrand: W. N. Thompson & Co., Wm. Dantz, Manager, P.O. Medora — TD on left hip; ear mark tip of left ear cut off square\nBrand: Neimmela Ranch, Gregor Lang, Manager, P.O. Medora — thistle on left or right shoulder, second brand on shoulder; range Keogh crossing of Little Missouri to Pretty butte\nBrand: E. W. Casey & Co., Frank S. Moore, Manager, P.O. Medora — KC in circle on left hip and shoulder, and F; range O'Donnell creek",
+   "summary": "Directory of classified notices, display ads and cattle-brand cards on page 4.",
+   "people": [
+    "A. T. Packard",
+    "Marquis de Morès",
+    "Howard Eaton",
+    "Gregor Lang",
+    "E. G. Paddock"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  }
+ ],
+ "events": [
+  {
+   "id": "e1",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Cow Boy backs Glendive Times against the Custer county ring",
+   "summary": "The paper praised the Glendive Times' fight against the 'corrupt Custer county ring,' said a new rival paper backed by the ring was coming to Glendive, and promised Billings county a clean administration.",
+   "excerpt": "Billings county is to be an exception or there will be music in the air.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Glendive",
+    "Custer county",
+    "Billings county"
+   ],
+   "tags": [
+    "politics",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a4",
+   "confidence": "high"
+  },
+  {
+   "id": "e2",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Cow Boy denounces Pat Donan as a candidate for governor",
+   "summary": "The paper said Pat Donan's mention as a candidate for territorial governor was a standing disgrace to Dakota.",
+   "excerpt": "That such an uncollapsable windbag should even be mentioned as a candidate is a standing disgrace to our Territory.",
+   "people": [
+    "Pat Donan"
+   ],
+   "places": [
+    "Dakota Territory"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a5",
+   "confidence": "high"
+  },
+  {
+   "id": "e3",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Pennsylvania investors form cattle company for Tepee bottom",
+   "summary": "Julius LeMoyne, Joseph U. Rose, W. K. Duval and Harvey T. Halleck spent several days in Medora forming a company to run cattle on Tepee bottom under D. K. Wade's management.",
+   "excerpt": "have been in town several days, arranging to put in cattle on Tepee bottom, under the management of D. K. Wade.",
+   "people": [
+    "Julius LeMoyne",
+    "Joseph U. Rose",
+    "W. K. Duval",
+    "Harvey T. Halleck",
+    "D. K. Wade"
+   ],
+   "places": [
+    "Medora",
+    "Tepee bottom"
+   ],
+   "tags": [
+    "ranching",
+    "visitors",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a19",
+   "confidence": "high"
+  },
+  {
+   "id": "e4",
+   "date": "1884-06-26",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"will be here in three weeks\" from Thu 5 Jun 1884",
+   "planned": true,
+   "title": "600 graded cattle expected for the LeMoyne company",
+   "summary": "The new company had bought six hundred graded cattle, due in about three weeks; LeMoyne was considering using Polled bulls exclusively.",
+   "excerpt": "six hundred graded cattle have been purchased and will be here in three weeks.",
+   "people": [
+    "Julius LeMoyne"
+   ],
+   "places": [
+    "Tepee bottom"
+   ],
+   "tags": [
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a19",
+   "confidence": "high"
+  },
+  {
+   "id": "e5",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Packard meets cremationist Julius LeMoyne",
+   "summary": "Packard wrote of the pleasure of meeting Julius LeMoyne, owner of the country's only crematory, and endorsed cremation.",
+   "excerpt": "Mr. Julius LeMoyne, of Washington, Pa., referred to in our local columns, is at present the leading cremationist of the United States.",
+   "people": [
+    "Julius LeMoyne",
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a6",
+   "confidence": "high"
+  },
+  {
+   "id": "e6",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Cattlemen offer $250 reward against grass fires",
+   "summary": "The N. P. Ref. Car Co. and eight other cattle outfits offered $250 for information leading to the arrest of anyone setting grass on fire in western Dakota.",
+   "excerpt": "The above reward will be paid for information leading to the arrest of any person or persons setting fire to the grass in the cattle sections of Western Dakota.",
+   "people": [
+    "Dorr Clark"
+   ],
+   "places": [
+    "Western Dakota"
+   ],
+   "tags": [
+    "ranching",
+    "fire",
+    "law"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a9",
+   "confidence": "high"
+  },
+  {
+   "id": "e7",
+   "date": "1884-06-04",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday\" before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Rumor that Star & Bullock abandoned the Medora route",
+   "summary": "A telegram from Star & Bullock about goods held at Pierre set off reports that the firm had dropped the Medora freight route; the paper said the firm was only asking John Sechler's outfit to carry its freight on.",
+   "excerpt": "This is all there is to the numerous and conflicting reports circulated yesterday which all seemed to lean toward the opinion that Star & Bullock had abandoned our route.",
+   "people": [
+    "John Sechler"
+   ],
+   "places": [
+    "Medora",
+    "Pierre"
+   ],
+   "tags": [
+    "stage",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a8",
+   "confidence": "high"
+  },
+  {
+   "id": "e8",
+   "date": "1884-06-05",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"to-day\" in issue of Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Round-up crosses the railroad at Andrew's creek",
+   "summary": "The round-up had moved faster than expected and was due to cross the railroad at Andrew's creek; some Texas cattle had drifted badly.",
+   "excerpt": "to-day will cross the rail-road at Andrew's creek.",
+   "people": [],
+   "places": [
+    "Andrew's creek"
+   ],
+   "tags": [
+    "roundup",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a11",
+   "confidence": "high"
+  },
+  {
+   "id": "e9",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Round-up turning up more fat cattle than expected",
+   "summary": "The paper said the round-up was producing far more fat cattle than expected, so there would be plenty for slaughtering.",
+   "excerpt": "The round-up is developing far more fat cattle than was expected.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "roundup",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a41",
+   "confidence": "high"
+  },
+  {
+   "id": "e10",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Dorr Clark in town awaiting Short-horn bulls",
+   "summary": "Dorr Clark of the VVV outfit, half owner of the E6 brand, was in Medora with his foreman Russ Wilson, waiting for 200 Short-horn bulls.",
+   "excerpt": "Dorr Clark, owner of the VVV outfit, and half owner of the E6 brand, is in town, waiting for two hundred head of Short-horn bulls",
+   "people": [
+    "Dorr Clark",
+    "Russ Wilson"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "ranching",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a16",
+   "confidence": "high"
+  },
+  {
+   "id": "e11",
+   "date": "1884-06-07",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Saturday\" after Thu 5 Jun 1884",
+   "planned": true,
+   "title": "Dorr Clark's 200 Short-horn bulls due",
+   "summary": "Clark's two hundred Short-horn bulls were expected Saturday; he also planned to drive up about 5,000 steers to fatten in the Bad Lands.",
+   "excerpt": "he expects to drive up about 5,000 steers to fatten in the Bad Lands.",
+   "people": [
+    "Dorr Clark"
+   ],
+   "places": [
+    "Medora",
+    "Bad Lands"
+   ],
+   "tags": [
+    "ranching",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a16",
+   "confidence": "high"
+  },
+  {
+   "id": "e12",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Fugitive type salesman avoids Packard at Medora",
+   "summary": "Reprinting the Glendive Times, the paper told how F. C. Leethem, fleeing a Montana license charge, got off at Medora to see Packard but changed his mind on seeing cowboys between him and the hotel.",
+   "excerpt": "on his arrival at Medora he got off to see Packard, of the Bad Lands Cowboy, but on seeing some of these famous gentry between him and the hotel",
+   "people": [
+    "F. C. Leethem",
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora",
+    "Glendive",
+    "Helena"
+   ],
+   "tags": [
+    "visitors",
+    "press",
+    "law"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a21",
+   "confidence": "medium"
+  },
+  {
+   "id": "e13",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": true,
+   "title": "Black Hills Pioneer says N. P. spur from Medora to Deadwood is assured",
+   "summary": "The Cow Boy reprinted a Black Hills Pioneer report that a letter from one in authority assured construction of a Northern Pacific spur from Medora to Deadwood, with work about to begin.",
+   "excerpt": "abundant assurance is given, not only that the road will be constructed, but that work will begin in a very few days",
+   "people": [],
+   "places": [
+    "Medora",
+    "Deadwood"
+   ],
+   "tags": [
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a22",
+   "confidence": "medium"
+  },
+  {
+   "id": "e14",
+   "date": "1884-06-05",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"this morning\" in issue of Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Large lot of freight arrives for the Black Hills",
+   "summary": "A large lot of freight arrived at Medora for the Black Hills.",
+   "excerpt": "A large lot of freight arrived for the Hills this morning.",
+   "people": [],
+   "places": [
+    "Medora",
+    "Black Hills"
+   ],
+   "tags": [
+    "stage",
+    "railroad",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a28",
+   "confidence": "high"
+  },
+  {
+   "id": "e15",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": true,
+   "title": "Plasterers expected for the billiard hall",
+   "summary": "Plasterers for the billiard hall were expected in a day or two.",
+   "excerpt": "The plasterers for the billiard hall are expected in a day or two.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "building",
+    "saloons"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a29",
+   "confidence": "high"
+  },
+  {
+   "id": "e16",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "T. G. Jones goes to St. Paul on railroad business",
+   "summary": "T. G. Jones left for St. Paul last week to consult about railroad matters.",
+   "excerpt": "T. G. Jones started for St. Paul last week to consult about rail-road matters.",
+   "people": [
+    "T. G. Jones"
+   ],
+   "places": [
+    "St. Paul"
+   ],
+   "tags": [
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a31",
+   "confidence": "high"
+  },
+  {
+   "id": "e17",
+   "date": "1884-06-05",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"As we go to press\" for issue of Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Heavy rain at press time",
+   "summary": "Rain was falling in torrents as the paper went to press, which the paper said was exactly what the grass needed.",
+   "excerpt": "As we go to press, the rain is descending in torrents.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a32",
+   "confidence": "high"
+  },
+  {
+   "id": "e18",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "E. G. Paddock's house nearly finished",
+   "summary": "E. G. Paddock's house was nearing completion.",
+   "excerpt": "E. G. Paddock's house is rapidly nearing completion.",
+   "people": [
+    "E. G. Paddock"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "building"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a33",
+   "confidence": "high"
+  },
+  {
+   "id": "e19",
+   "date": "1884-06-03",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday night\" before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Dance at Peter Malloy's",
+   "summary": "A dance at Peter Malloy's Tuesday night was thoroughly enjoyed.",
+   "excerpt": "The dance at Peter Malloy's Tuesday night was thoroughly enjoyed by the participators.",
+   "people": [
+    "Peter Malloy"
+   ],
+   "places": [
+    "Little Missouri"
+   ],
+   "tags": [
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "high"
+  },
+  {
+   "id": "e20",
+   "date": "1884-06-02",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday evening\" before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "The Marquis' servants arrive to open his house",
+   "summary": "The Marquis de Morès' servants came Monday evening to set his house to rights for the summer.",
+   "excerpt": "The Marquis' servants came Monday evening, to set the house to rights for the summer.",
+   "people": [
+    "Marquis de Morès"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "mores",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a35",
+   "confidence": "high"
+  },
+  {
+   "id": "e21",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Wind-mill planned near the Marquis' residence",
+   "summary": "Mr. Elder of St. Paul was in town preparing to put in a wind-mill near the Marquis' residence.",
+   "excerpt": "Mr. Elder, of St Paul, is in town, making preparations to put in a wind-mill near the Marquis' residence.",
+   "people": [
+    "Elder",
+    "Marquis de Morès"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "mores",
+    "building",
+    "water"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a36",
+   "confidence": "high"
+  },
+  {
+   "id": "e22",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Salmon shipments pass through for the Marquis' New York contract",
+   "summary": "Car-loads of salmon for the Marquis' New York contract were frequently passing through Medora.",
+   "excerpt": "Car-loads of salmon, in fulfillment of the Marquis' New York contract, are passing through frequently.",
+   "people": [
+    "Marquis de Morès"
+   ],
+   "places": [
+    "Medora",
+    "New York"
+   ],
+   "tags": [
+    "mores",
+    "railroad",
+    "business"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a37",
+   "confidence": "high"
+  },
+  {
+   "id": "e23",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Slaughter-house begins killing fat cattle",
+   "summary": "A number of fat cattle were being killed at the slaughter-house and the season was about to begin in earnest.",
+   "excerpt": "A number of fat cattle are being killed at the slaughter-house and the season will soon begin in earnest.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "ranching",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a38",
+   "confidence": "high"
+  },
+  {
+   "id": "e24",
+   "date": "1884-06-05",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"this morning\" in issue of Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Tom Tighe arrives to work for the N. P.",
+   "summary": "Tom Tighe came up from Mandan and would be at Freyburg for some time, working for the Northern Pacific.",
+   "excerpt": "Tom Tighe came up from Mandan this morning.",
+   "people": [
+    "Tom Tighe"
+   ],
+   "places": [
+    "Mandan",
+    "Freyburg"
+   ],
+   "tags": [
+    "railroad",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a39",
+   "confidence": "high"
+  },
+  {
+   "id": "e25",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "John O'Sullivan moves his barber shop",
+   "summary": "John O'Sullivan moved his barber shop to this side of the river, sharing temporary quarters with John Warn.",
+   "excerpt": "John O'Sullivan has moved his barber shop to this side of the river",
+   "people": [
+    "John O'Sullivan",
+    "John Warn"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a40",
+   "confidence": "high"
+  },
+  {
+   "id": "e26",
+   "date": "1884-05-26",
+   "date_end": "1884-06-01",
+   "date_precision": "week",
+   "date_basis": "\"last week\" before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Mr. Tobin of Mandan weighs partnership with Tom Stack",
+   "summary": "Mr. Tobin of Mandan spent a day or two in town and was thinking of entering a partnership with Tom Stack.",
+   "excerpt": "He is thinking strongly of entering into a partnership with Tom Stack.",
+   "people": [
+    "Tobin",
+    "Tom Stack"
+   ],
+   "places": [
+    "Medora",
+    "Mandan"
+   ],
+   "tags": [
+    "business",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a42",
+   "confidence": "high"
+  },
+  {
+   "id": "e27",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "H. H. Parkins to run the Duluth cold-storage house",
+   "summary": "H. H. Parkins spent several days in Medora learning Auditor Kerr's book-keeping system and was to take charge of the Duluth cold-storage house.",
+   "excerpt": "Mr. Parkins will have charge of the Duluth cold-storage house.",
+   "people": [
+    "H. H. Parkins",
+    "Kerr"
+   ],
+   "places": [
+    "Medora",
+    "Duluth"
+   ],
+   "tags": [
+    "business",
+    "mores"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a44",
+   "confidence": "medium"
+  },
+  {
+   "id": "e28",
+   "date": "1884-06-01",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Sunday\" before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Half-breeds drinking in town",
+   "summary": "Several half-breeds were in town Sunday drinking heavily; one turned down a bet to fight the bears.",
+   "excerpt": "Several half-breeds were in town Sunday, indulging in unlimited fire-water.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "Native-Americans",
+    "saloons",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a45",
+   "confidence": "high"
+  },
+  {
+   "id": "e29",
+   "date": "1884-06-09",
+   "date_end": "1884-06-11",
+   "date_precision": "day",
+   "date_basis": "\"the 9th, 10th and 11th\" (June) after Thu 5 Jun 1884",
+   "planned": true,
+   "title": "Dentist Dr. E. E. Ball to visit Medora",
+   "summary": "Dr. E. E. Ball, a dentist from Mandan, was to be in Medora June 9 to 11.",
+   "excerpt": "Dr. E. E. Ball, an experienbed dentist of Mandan, will be here the 9th, 10th and 11th",
+   "people": [
+    "E. E. Ball"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "health",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a47",
+   "confidence": "high"
+  },
+  {
+   "id": "e30",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Coal mine opened in the bluff east of Medora",
+   "summary": "A coal mine with a vein about eight feet thick was located and opened in the bluff east of town.",
+   "excerpt": "A coal-mine has been located and opened in the bluff east of town.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "coal",
+    "mining",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a48",
+   "confidence": "high"
+  },
+  {
+   "id": "e31",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "New side track and freight house under way at Medora",
+   "summary": "Work was moving quickly on a new side track south of the main line east of the depot, with a new railroad freight house to be built at the same time.",
+   "excerpt": "Work is going forward rapidly on a new side track.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "railroad",
+    "building"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a49",
+   "confidence": "high"
+  },
+  {
+   "id": "e32",
+   "date": "1884-06-02",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Joke: Thomas Stack 'rescued' from a bone man's load",
+   "summary": "In a humorous item, the paper said 'Uncle John' spotted an odd-shaped bone in a bone man's load on Monday and out of it came the voice of Thomas Stack.",
+   "excerpt": "the voice of our esteemed fellow citizen, Mr. Thomas Stack was heard coming from it, in thanksgiving for his delivery.",
+   "people": [
+    "Thomas Stack"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a50",
+   "confidence": "medium"
+  },
+  {
+   "id": "e33",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Second brick kiln to hold over 200,000 brick",
+   "summary": "The second kiln of brick, nearly ready for burning, was to hold more than 200,000 brick, and a permanent kiln was to be built.",
+   "excerpt": "The second kiln of brick, which will be ready for burning in a few days, is to contain over 200,000.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "building",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a51",
+   "confidence": "high"
+  },
+  {
+   "id": "e34",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Scout John Bruguier camped at Medora",
+   "summary": "The well-known scout John Bruguier, credited with helping bring in Sitting Bull's Sioux and Chief Joseph's Nez Perces, was camped across the track.",
+   "excerpt": "John Bruguier, a well-known scout, is in camp across the track.",
+   "people": [
+    "John Bruguier",
+    "Sitting Bull",
+    "Nelson A. Miles"
+   ],
+   "places": [
+    "Medora",
+    "Standing Rock",
+    "Fort Keogh"
+   ],
+   "tags": [
+    "visitors",
+    "Native-Americans",
+    "military"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a52",
+   "confidence": "medium"
+  },
+  {
+   "id": "e35",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Yankton Indians camp south of the track",
+   "summary": "A party of Yankton Indians was camped on the south side of the track; the paper described an aged member of the party.",
+   "excerpt": "A party of Yankton Indians is in camp on the south side of the track.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "Native-Americans",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a55",
+   "confidence": "high"
+  },
+  {
+   "id": "e36",
+   "date": "1884-05-30",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Friday evening\" before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "Horses and mules stolen at Belfield",
+   "summary": "Two horses and six mules were stolen at Belfield on top of horses taken earlier; the trail was lost and telegrams sent out brought no word.",
+   "excerpt": "two horses and six mules were stolen last Friday evening.",
+   "people": [],
+   "places": [
+    "Belfield"
+   ],
+   "tags": [
+    "crime"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a56",
+   "confidence": "high"
+  },
+  {
+   "id": "e37",
+   "date": "1884-06-01",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Sunday afternoon\" before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "W. M. Farrow gives rifle exhibition in Little Missouri",
+   "summary": "Champion rifleman W. M. Farrow, of the 1880 Dollymount team, shot 106 at 200 yards with a Bullard repeating rifle in Little Missouri.",
+   "excerpt": "gave an exhibition of his skill at 200 yards, in Little Missouri last Sunday afternoon.",
+   "people": [
+    "W. M. Farrow"
+   ],
+   "places": [
+    "Little Missouri"
+   ],
+   "tags": [
+    "visitors",
+    "hunting",
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a57",
+   "confidence": "high"
+  },
+  {
+   "id": "e38",
+   "date": "1884-05-24",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "notice dated \"this 24th day of May, 1884\"",
+   "planned": false,
+   "title": "Shaffer & Munroe partnership dissolved",
+   "summary": "The partnership of Chas. Shaffer and John Munroe at Plum Grove ranch on the Little Missouri was dissolved by mutual consent, with Munroe paying the firm's debts.",
+   "excerpt": "the partnership heretofore existing between Chas. Shaffer and John Munroe, under the firm name of Shaffer & Munroe, Plum Grove ranch, on the Little Missouri river, is dissolved by mutual consent.",
+   "people": [
+    "Chas. Shaffer",
+    "John Munroe"
+   ],
+   "places": [
+    "Plum Grove ranch",
+    "Little Missouri river"
+   ],
+   "tags": [
+    "ranching",
+    "law",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a58",
+   "confidence": "high"
+  },
+  {
+   "id": "e39",
+   "date": "1884-05-29",
+   "date_end": "1884-06-05",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 5 Jun 1884",
+   "planned": false,
+   "title": "N. P. Refrigerator Car Co. offers its horses and range herd for sale",
+   "summary": "The Marquis de Morès' N. P. Refrigerator Car Co. advertised its whole lot of stock horses and its Beaver creek herd of about 950 range cattle for sale, saying it wished to deal only in beef cattle.",
+   "excerpt": "N. P. Ref. Car Co., Medora, Dak. — Beef Cattle: offering entire herd of about 700 she cattle and 250 steers",
+   "people": [
+    "Marquis de Morès"
+   ],
+   "places": [
+    "Medora",
+    "Beaver creek"
+   ],
+   "tags": [
+    "mores",
+    "ranching",
+    "business"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a59",
+   "confidence": "medium"
+  }
+ ]
+}

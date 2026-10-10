@@ -1,0 +1,1634 @@
+{
+ "date": "1886-07-22",
+ "masthead": "Thursday, July 22, 1886",
+ "volume": "Vol. 3, No. 23",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "cols 1-4 Cow Boy terms box and display ads (incl. Huffman round-up views offer, J. A. Ferris store); col 5 Villard item, oleomargarine editorial, county commissioners' minutes (cont. col 6); col 6 stock notes, for-sale notices, range items, goose-roping reprint (cont. col 7); col 7 Jess Reeves note and 'Alfalfa Feeding' reprint"
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "patent inside under Cow Boy heading; no duplicate scan"
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "Congress, Battle of Atlanta panorama, miscellany, patent-medicine ads"
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "col 1 masthead, NP time table, local items and editorials; cols 2-3 ads; cols 4-7 brand ads incl. Chimney Butte Ranch (T. Roosevelt)"
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "1",
+   "region": [
+    1,
+    10,
+    15,
+    15
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "Volume 3, Number 23.\n\nBad Lands Cow Boy, By A. T. Packard.\n\nThe Cow Boy is not published for fun, but for $2 per year.\n\nAdvertising Rates made known on application.\n\nStanding Advertisements payable quarterly.\n\nTransient Advertisements and all Job work, money in sight.\n\nAddress all communications to The Bad Lands Cow Boy, Medora, Dakota.\n\nEntered at the post-office at Medora, Dak., as second class mail matter.",
+   "summary": "Volume and terms box of the Cow Boy, Medora, Dakota, July 22, 1886.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a2",
+   "page": 1,
+   "cols": "1-4",
+   "region": [
+    0,
+    14,
+    54,
+    86
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "A. T. Packard, Notary Public, Medora, Dak.\nLyman's Patent Gun Sights — Wm. Lyman, Middlefield, Conn.\nF. E. Benjamin, Jeweler and Watchmaker, Mandan, Dakota\nFirst National Bank of Mandan, Dakota\nDan. McKenzie, Blacksmithing and Horse-Shoeing, Medora, Dak.\nD. Flynn, Manufacturer and dealer in Boots, Shoes, Rubbers, Etc., Main Street, Mandan, Dak.\nJ. D. Garver's, Hardware and Tinware, Medora, Dakota\nInsurance — \"Policies issued at regular Eastern Rates against Fire, Lightning, Wind Storms and Hail!\" — A. T. Packard, Agent, Medora, Dak.\nNorthern Pacific Railroad — the direct line between St. Paul, Minneapolis or Duluth and points west; Yellowstone National Park\nThe Clipper Tricycle — Parlin & Orendorff Co., Canton, Ill.\nElectric Light Soap — Atkins Soap Co., Indianapolis, Ind.\nThe Adams & Westlake Mf'g Co. — interchangeable oil, gas and gasoline stoves\nInstantaneous Round-Up Views — \"We have remaining a few sets of Huffmann's instantaneous round-up views, representing the most interesting events of the range cattle industry. There are thirty-six well-executed photographs in the series ... We will sell the complete set for $5 or, The Cow Boy a year and the set, $6\" — The Bad Lands Cow Boy, Medora, Dak.\nC Spring Cart Co., Rushville, Ind. — two-wheeled vehicles, buckboards, harness\nJ. A. Ferris, Medora, Dak. — Dealer in General Merchandise, Flour, Feed, Etc.; \"A complete line of Ranchmen's supplies on hand at all times\"; certified as only authorized Medora agent for saddles, bridles and bits of J. S. Collins & Co., Miles City, Mont.\nThe Brookmont Herd — C. W. Cook & Son, Odebolt, Sac Co., Ia. — Hereford cattle\nFire, Lightning, Tornado, Hail! — insurance company of Fargo, Dakota, paid-up capital $100,000; A. T. Packard, Agent, Medora, Dak.\nJas. McMillan & Co., The Minneapolis Sheepskin Tannery — hides, sheep pelts, furs, tallow\nAtkins' Silver Steel Saws — E. C. Atkins & Co., Indianapolis, Ind.\nThe Natures Incubator — Natures Incubator Co., Quincy, Ill.",
+   "summary": "Directory of display advertisements on page 1, including Packard's offer of Huffman's round-up photographs and J. A. Ferris's Medora store.",
+   "people": [
+    "A. T. Packard",
+    "J. A. Ferris",
+    "Dan. McKenzie",
+    "J. D. Garver"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a3",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53.5,
+    14,
+    13,
+    4
+   ],
+   "section": "railroad",
+   "headline": null,
+   "text": "Ex-President Villard, of the Northern Pacific, has concluded to return to the United States to live. He will not take up any of his old enterprises, but will act as adviser to German investors.",
+   "summary": "Former Northern Pacific president Henry Villard is returning to the United States to advise German investors.",
+   "people": [
+    "Henry Villard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a4",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53.5,
+    17,
+    13,
+    33
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "There has scarcely been a public question since the war broke out, that has been given such attention or the discussion of which has been characterized with more bitter feeling than the question of the manufacture of oleomargarine. The prime difficulty has been that in all legislation and attempted legislation on the subject, each side claims that it is entirely right and the opposition is entirely wrong. A conference of the leading men on both sides should be able to formulate legislation that will be at least fairly satisfactory to all concerned. Such a conference never has been held and it is doubtful if it ever will be. The chief points brought against oleomargarine are that it is a fraud to sell it as butter, that it is driving pure buttery out of the market and that it is unhealthy. The first point is undoubtedly the best one and all fair-minded people will agree that oleomargarine should be sold under its true name. The market does not show any decrease in price on good butter for several years and oleomargarine really only comes into competition with the poorer grades of butter. That it is unhealthy is as yet unproved, except in cases where diseased animals have been used; these being cases for health officers to rule upon. The oleomargarine people should be willing to sell their product under its true name, and in this way we believe that nine-tenths of the discussion would be stopped. We do not, however, see the justice of putting a tax on the manufacture of oleomargarine. If it is sold under its true name and the consumer knows what he is buying, it would be as sensible to put a tax on any newly-discovered, low-priced article that comes into competion with a high-priced article. For instance, if it is right to tax oleomargarine, manufactured and sold under its true name, it would be right to tax the telephone up to a point where they must charge the same as the telegraph. There is certainly competition, but competition drives monopoly to the wall and lessens prices to consumers. We hope the only national legislation to be passed on the subject will be to compel oleomargarine to be sold under its true name.\n\n(Yesterday's Bismarck Tribune brought the news that the oleomargarine bill had passed the Senate with amendmen[ts?] reducing the tak from five to two cents per pound. To become a law, it must be approved now by the House and President.",
+   "summary": "Editorial argues oleomargarine should be sold under its true name but not taxed; notes the Senate passed the oleomargarine bill with the tax cut to two cents.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a5",
+   "page": 1,
+   "cols": "5-6",
+   "region": [
+    53.5,
+    50,
+    26,
+    50
+   ],
+   "section": "legal",
+   "headline": "Commissioners' Meeting.",
+   "text": "The board of county commissioners met in special session the afternoon of July 20.\n\nPresent: Truscott, McKenzie, Goodall and Clerk Williamson.\n\nJorgens & Rider's liquor bond presented and accepted.\n\nThe Bad Lands Cow Boy presented bills for printing, one for $10.75, one for $31.00 and one for $1.50. Allowed, and a warrant for the amount, $43.25 drawn in payment.\n\nOn motion, the board adjourned to meet on the morning of the 21st., at nine o'clock.\n\nJ. C. Williamson, County Clerk.\n\nMEETING ON MORNING OF JULY 21.\n\nR. Robert's attorney presented his lease of building for county purposes, which was signed and filed.\n\nThe county clerk presented a bill for services rendered for and in behalf of W. F. Van Driesche, Talleyrand Martin, as judges and C. F. Ellison as clerk of an election held in Medora for the purpose of organization of school township number 1. Allowed, and warrants drawn for the amounts.\n\nOn motion, the board adjourned to meet at half past twelve.\n\nMEETING IN AFTERNOON OF JULY 21.\n\nThe board met at 12:30.\n\nMeeting called to order by the chairman of the board.\n\nPresent: Commissioners Truscott, McKenzie and Goodall and Clerk Williamson.\n\nThe commissioners proceeded to divide the county of Billings into Commissioners districts as follows:\n\nCommissioner's District No. 1.\n\nBeginning at a point where the line between town 144 and 145 north intersect the boundary line between the territories of Dakota and Montana, thence south along said boundary line to the line between towns 140 and 141 north thence east along said town line to the line between ranges 101 and 102 west thence north along said range line to the line between towns 144 and 145 north thence west along said town line to the place of beginning.\n\nCommissioner's District No. 2.\n\nBeginning at a point where the line between towns 140 and 141 north intersect the boundary line between the territories of Dakota and Montana thence south along said boundary line to the line between 136 and 137 north thence east along said town line between ranges 101 and 102 west thence north along said range line to the line between towns 140 and 141 west thence west along said town line to the place of beginning.\n\nCommissioner's District No. 3.\n\nBeginning at a point where the line between 136 and 137 north intersect the boundary line between the territories of Dakota and Montana thence south along said boundary line to the line between towns 132 and 133 north thence east along said town line to the line between ranges 101 and 102 west thence north along said range line to the line between towns 136 and 137 north thence along said town line to the place of beginning.\n\nOn motion a resolution was adopted setting forth that at this annual election in November, that district No. 1 should elect a commissioner for the period of one (1) year and that district No. 2 should elect one [commissioner?] for the period of two (2) years and that district No. 3 should elect one commissioner for the period of three (3) years.\n\nThe petitions of jurors for their fees in Justice's court in the case of Ferris and Merrifield vs. Mrs. Malloy presented to the board and the same were laid over till their next meeting.\n\nJustice Copeland's quarterly report submitted for examination and not being satisfactory, was laid over also.\n\nOn motion, Dan. McKenzie was appointed a committee of one to procure and arrange necessary furniture of the court house.\n\nOn motion the board adjourned.\n\nJ. C. Williamson, County Clerk.",
+   "summary": "Minutes of the Billings County commissioners' meetings of July 20 and 21, 1886: liquor bond, printing bills, courthouse lease, school township election, division of the county into three commissioner districts, and a jurors' fee petition in Ferris and Merrifield vs. Mrs. Malloy.",
+   "people": [
+    "J. C. Williamson",
+    "J. L. Truscott",
+    "Dan. McKenzie",
+    "Johnny Goodall",
+    "R. Roberts",
+    "W. F. Van Driesche",
+    "Talleyrand Martin",
+    "C. F. Ellison",
+    "Sylvane Ferris",
+    "Bill Merrifield",
+    "Mrs. Malloy",
+    "Justice Copeland"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a6",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    41,
+    13,
+    11
+   ],
+   "section": "range",
+   "headline": "Stock Notes.",
+   "text": "The following are the latest cattle quotations in the Chicago market:\nPrime Beeves ... $5.15 @ 5.35\nChoice to fancy shipping, ... $4.50 @ 5.10\nGood to choice shipping, ... $4.15 @ 4.75\nCommon to good shipping, ... $3.80 @ 4.40\nPoor to medium steers, ... $3.65 @ 4.15\nGrass-fed natives, ... $3.50 @ 4.30\nDist'l'ry steers, 950 to 1,300, $4.20 @ 4.90\nCorn-fed Texans, ... $3.35 @ 4.25\nGrass-fed Texans, ... $2.40 @ 3.50\nFair to choice native cows, $2.25 @ 3.25\nInferior to medium cows ... $1.50 @ 2.25\nPoor to choice bulls, ... $2.25 @ 3.65\nStockers, 500 to 860 lbs, ... $2.15 @ 3.15\nFeeders, 600 to 1,200 lbs, ... $3.00 @ 3.85\nMilch cows, ℔ head, ... $20.00 @ 45.00\nVeal calves ... $3.50 @ 5.50",
+   "summary": "Latest Chicago cattle market quotations.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a7",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    51,
+    13,
+    7
+   ],
+   "section": "range",
+   "headline": "For Sale.",
+   "text": "Thirty-two head of cattle, consisting of eight cows and their calves,\nSeven two-year-old steers,\nOne two-year-old heifer,\nSeven yearling steers,\nOne yearling heifer.\n\nAlso a span of horses, wagon and harness. Will sell at a bargain at my place at South Heart.\n\nAlex. Morton.",
+   "summary": "Alex. Morton offers 32 head of cattle and a team, wagon and harness for sale at South Heart.",
+   "people": [
+    "Alex. Morton"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a8",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    58,
+    13,
+    8
+   ],
+   "section": "range",
+   "headline": "FOR SALE.",
+   "text": "The Richardton (double R) herd, consisting of:\nTwo full-blood Hereford bulls,\nSeven three-fourths blood, young Hereford bulls,\nSixty cows,\nThirty, half Hereford two-year-olds,\nForty, half Hereford yearlings,\nSixty new calves.\n\nApply to, Adolph Nordberg, Agent, Richardton, Dak.",
+   "summary": "The Richardton (double R) Hereford-cross herd is offered for sale through Adolph Nordberg.",
+   "people": [
+    "Adolph Nordberg"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a9",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    66,
+    13,
+    4
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "J. H. Gordon bought twenty-nine head of Washington Territory mares last Monday. They will be ranged on Tepee Bottom.",
+   "summary": "J. H. Gordon bought 29 Washington Territory mares to range on Tepee Bottom.",
+   "people": [
+    "J. H. Gordon"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a10",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    70,
+    13,
+    3
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Ryan Bros. are gathering 4,000 head of cattle in Idaho, 2,000 of which will be turned loose on the Musselshell and 2,000 on the Little Missouri.",
+   "summary": "Ryan Bros. are gathering 4,000 Idaho cattle, half for the Little Missouri range.",
+   "people": [
+    "Ryan Bros."
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a11",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    73,
+    13,
+    3.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Capt. A. M. Willard has been appointed stock inspector at Deadwood, instead of at Standing Rock. It is as yet unknown who will go to the latter place.",
+   "summary": "Capt. A. M. Willard named stock inspector at Deadwood rather than Standing Rock.",
+   "people": [
+    "A. M. Willard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a12",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    76.5,
+    13,
+    3.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Feed is good from Rocky Ridge to the South Moreau on the prairie, but in all that distance it would be hard work to find any hay. Antelope are more plentiful than ever before.",
+   "summary": "Range feed is good from Rocky Ridge to the South Moreau and antelope are plentiful.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a13",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66,
+    80,
+    13,
+    3.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Fred Willard has recovered the pick S horse of Howard Eaton's that strayed from the VI ranch last summer. He also recovered four others which have been advertised for some time.",
+   "summary": "Fred Willard recovered Howard Eaton's strayed horse and four others.",
+   "people": [
+    "Fred Willard",
+    "Howard Eaton"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a14",
+   "page": 1,
+   "cols": "6-7",
+   "region": [
+    66,
+    83.5,
+    26,
+    17
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Talking of roping, by the way, a cowboy by the name of Henry Williams, in the employ of the Neimmella cattle company on the Little Missouri, accomplished a feat on Wednesday last with a grass rope which heads the record. He was hunting saddle horses, and had come across two or three head of the missing animals drinking at the river. He rode down to turn them out, when a full-grown wild goose flew up from under a bunch of undergrowth on the bank of the river and passed straight in front of him. He had his rope uncoiled and ready for use with which to secure the horses out of the river, and quick as thought as the bird flew past him he pitched the rope at it and succeeded in catching it by one wing. He took the bird home to the ranch and it will be kept and tamed if possible. So far, nothing with four feet has been considered safe from being ensnared by the treacherous lariat, but a bird on the fly, even though as big as a wild goose, has hitherto been considered safe from any such mode of capture. The man who accomplished the above is well known as one of the most skilled ropers in the Little Missouri country, and to those who have witnessed him swing the lariat the feat does not seem so surprising.—[Stockgrowers' Journal.",
+   "summary": "Reprinted from the Stockgrowers' Journal: Neimmela cowboy Henry Williams roped a flying wild goose on the Little Missouri.",
+   "people": [
+    "Henry Williams"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a15",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    78.5,
+    22,
+    13,
+    4
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "The above article makes a pair with the feat of Jess. Reeves in catching a jack rabbit with a [lariat?] published in the Cow Boy, t[he f]irst of June. Either seems imposible until one sees what an expert can do with a rope.",
+   "summary": "The Cow Boy pairs the goose-roping story with Jess Reeves's roping of a jack rabbit reported June 1.",
+   "people": [
+    "Jess Reeves"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a16",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    78.5,
+    26,
+    13,
+    74
+   ],
+   "section": "range",
+   "headline": "Alfalfa Feeding.",
+   "text": "The demand for beef is growing more rapidly than the herds are increasing. In the year 1860 there were 814 cattle in the United States for every 1,000 of our population. To-day there are only 775 head of cattle to each 1,000 of population, a very considerable falling off in the relative supply, notwithstanding that during this period the whole of Montana, Dakota, Idaho, eastern Oregon, Nevada, Wyoming, Colorado, Arizona, most of New Mexico and nearly one-half of Texas have been withdrawn from the domination of the Indian and filled to overflowing with cattle. The increase in these states and territories alone, since 1860, has been over 15,000,000 head of cattle. Still, with this wonderful extension of the business into new fields, and the saving of every she animal of the bovine race for breeding purposes, the increase of population has been so rapid and continuous that we have not been able to keep up our beef supply. No one will for a moment dispute the statement that the population of this country will go on increasing at a proportionate rate, and that in consequence in the year 1910 we will have 100,000,000 people to eat beef. Where is this supply to come from? There is no more unoccupied country. As a general proposition [the?] country is full of cattle. With our [population?] doubled the demand for beef will be doubled. How can this demand be met? Only by producing double the amount of beef on the same ground now occupied. This condition can only be reached in a small area of the country, for the reason that the larger per cent. of the arid region, or permanent range country, has no adequate water supply and no greater number of cattle can be raised than can gain their subsistence from the range in its present condition. Then it is a safe and reasonable conclusion that year by year the beef supply will grow less per capita, and that there will be a gradual advance in prices in proportion as the supply is short.\n\nIf then, there is no danger of an over-supply, and a consequent lowering of prices, as a business proposition it is safe to spend money in the development of a country where increased supplies may be had, so long as you keep those expenditures at a point below which you can secure a present return. The future will guard itself.\n\nThere is yet another advantage. By the production of hay the ranchman is put in virtual control of the market. The beef market of the east has for years been regulated by Chicago. The vast numbers of grass Texans thrown upon that market in July and August lower prices from one to two cents a pound. During the two and a half months following the great runs of northwestern beef from the ranges still further reduce prices. But all range beef must go to the market, for they cannot be held on the open range. In consequence the shipper must take such a price as he is offered. But with great stacks of alfalfa in the fields the fat steers may be held over until the demand creates satisfactory prices.\n\nA fat three-year-old steer, weighing 1,100 pounds off the range in October, may be put in an open lot anywhere on the valley lands, and fed hay through the winter with an absolute certainty of gaining 200 pounds gross, and a probability of seventy-five pounds more if judiciously handled. It is always profitable to feed a beef steer if he is thriving and \"doing well,\" as feeders say, provided the feed is secured at a reasonable price. He is laying on fat that has a commercial value greater than the raw material that was converted into fat.\n\nTo back up this alfalfa feeding idea the writer has taken great pains to secure facts and figures, some of which are herewith presented. Two years ago a gentleman living near Ogden, Utah, fed a bunch of steers for several months, weighing the hay fed out each day and the steers every week. The result showed that 2,240 pounds of alfalfa put on an even hundred pounds of flesh or growth. Another gentleman living fifteen miles from Salt Lake City brought fifteen three-year-old steers out of pasture seven miles distant, drove them to his pens and weighed them, paying therefore at so much a pound. They were weighed on the first day of November. On the 31st of December they were sold to a Salt Lake butcher, driven fifteen miles to the slaughter-house and weighed, having again been purchased at so much a pound. They had gained 120 pounds, or two pounds a day, and during the time had been fed nothing but alfalfa hay in an open lot.—[Nevada Letter Cheyenne Journal.",
+   "summary": "Reprinted Nevada letter from the Cheyenne Journal arguing that alfalfa feeding lets ranchmen hold fat steers and profit from a growing beef demand.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a17",
+   "page": 2,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "Ready-print (patent inside) page under a 'The Bad Lands Cow Boy, A. T. Packard, Publisher, Medora, Dakota' heading: syndicated national paragraphs, 'Condensed General News' (Congress, the Duke of Argyll's letter, fires, crimes), a report on the Sioux Falls constitutional convention for South Dakota, 'Lincoln's Three Loves', 'How Visitors are Ushered into the Presence of a Princess', 'Why He was Nicknamed Latch-Key Ward', and 'Sunday in Mexico'.",
+   "summary": "Syndicated national news and miscellany page; not transcribed.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a18",
+   "page": 3,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "Ready-print (patent inside) page: proceedings of Congress, 'The Battle of Atlanta' panorama article with portraits, 'Muggs and the Farmer', 'An Arctic Archipelago', short national items, and patent-medicine and mail-order ads (Hood's Sarsaparilla, Cuticura, Perry Davis' Pain-Killer, Brown's Iron Bitters, Frazer Axle Grease, Joseph Gillott's Steel Pens, Woodward & Company wheat, Tower's Fish Brand Slicker).",
+   "summary": "Syndicated national news, fiction and patent-medicine ads; not transcribed.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a19",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    5,
+    17,
+    5
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "Bad Lands Cow Boy, By A. T. Packard.\n\nThursday, July 22, 1886.",
+   "summary": "Page 4 masthead.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a20",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    10.5,
+    17,
+    6.5
+   ],
+   "section": "railroad",
+   "headline": "Northern Pacific Time Table.",
+   "text": "West Bound.\nPacific Express, No. 1 ... 6:45 p. m.\nExpress Freight, 2d Class ... 9:35 p. m.\nFreight, 3d Class ... 11:40 p. m.\n\nEast Bound.\nAtlantic Express, No. 2 ... 8:36 a. m.\nExpress Freight, 3d Class ... 6:20 a. m.\nFreight, 3rd Class ... 2:55 a. m.\n\nD. W. Williams, Agent.",
+   "summary": "Northern Pacific train schedule at Medora.",
+   "people": [
+    "D. W. Williams"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a21",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    17,
+    17,
+    1.5
+   ],
+   "section": "railroad",
+   "headline": null,
+   "text": "Northern Pacific preferred stocks, 58⅝; common, 28¾.",
+   "summary": "Northern Pacific stock quotations.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a22",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    18.5,
+    17,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mr. and Mrs. Fred Willard and Fred, Jr., returned Sunday from Spearfish.",
+   "summary": "The Fred Willard family returned from Spearfish.",
+   "people": [
+    "Fred Willard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a23",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    20,
+    17,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mrs. Peter Frazer left Monday for Rapid City to join her husband there.",
+   "summary": "Mrs. Peter Frazer left for Rapid City.",
+   "people": [
+    "Mrs. Peter Frazer",
+    "Peter Frazer"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a24",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    21.5,
+    17,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mrs. Frank Keeler started for Livingston last Monday, where Frank has established a brick kiln.",
+   "summary": "Mrs. Frank Keeler left for Livingston, where her husband runs a brick kiln.",
+   "people": [
+    "Mrs. Frank Keeler",
+    "Frank Keeler"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a25",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    23.5,
+    17,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mrs. James Butler will leave for the Black Hills in a few days to join her husband who is railroading there.",
+   "summary": "Mrs. James Butler will soon leave for the Black Hills.",
+   "people": [
+    "Mrs. James Butler",
+    "James Butler"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a26",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    25.5,
+    17,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Dick Moore and Lizzie Hannon who left for the east ten days ago, were marmaried in St. Paul last week.",
+   "summary": "Dick Moore and Lizzie Hannon were married in St. Paul.",
+   "people": [
+    "Dick Moore",
+    "Lizzie Hannon"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a27",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    27,
+    17,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mr. and Mrs. M. Wadsworth and daughters came in yesterday morning from the Bad Lands Cattle Co's ranch.",
+   "summary": "The Wadsworth family came to town from the Bad Lands Cattle Co. ranch.",
+   "people": [
+    "M. Wadsworth"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a28",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    29,
+    17,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Miss Goodall, sister of Johnny Goodall, arrived in Medora yesterday morning. Her home is in La Grand, Oregon.",
+   "summary": "Johnny Goodall's sister arrived in Medora from La Grande, Oregon.",
+   "people": [
+    "Miss Goodall",
+    "Johnny Goodall"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a29",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    31,
+    17,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "If you want a good suit of clothes made to order, leave your measure before we leave Medora.\n\nT. W. Gordon.",
+   "summary": "T. W. Gordon advertises made-to-order suits before leaving Medora.",
+   "people": [
+    "T. W. Gordon"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a30",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    33,
+    17,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Misses Bessie and Adele Wade, sister and daughter of Mr. and Mrs. D. K. Wade, arrived last Friday evening, for a summer's visit to Tepee ranch.",
+   "summary": "Bessie and Adele Wade arrived for a summer at Tepee ranch.",
+   "people": [
+    "Bessie Wade",
+    "Adele Wade",
+    "D. K. Wade"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a31",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    35,
+    17,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mr. and Mrs. Dr. Jorgens and family started Sunday morning for the Cave Hills ranch. They will be there all summer, except for occasional visits to Medora.",
+   "summary": "The Jorgens family left for their Cave Hills ranch for the summer.",
+   "people": [
+    "Dr. H. M. Jorgens"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a32",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    37.5,
+    17,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Having had instructions from our head office to leave Medora August 1st., we respectfully ask that all bills be settled at once.\n\nT. W. Gordon, Manager Boston C. Boot and Shoe House.",
+   "summary": "The Boston C. Boot and Shoe House will leave Medora August 1.",
+   "people": [
+    "T. W. Gordon"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a33",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    40,
+    17,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "T. Martin is the weather prophet of this country and justly so as he has a tri-daily report of the weather extending back many years. A comparison of the first half of July with other periods shows that there has never been known such a warm spell as the first sixteen days of July. For all that time, the weather averaged 102 degrees in the shade and 114 in [the sun?] between six in the morning and six in the evening.",
+   "summary": "T. Martin's weather records show the first 16 days of July were the hottest on record.",
+   "people": [
+    "T. Martin"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a34",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    44,
+    17,
+    4
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "In view of the approaching legislative convention, it especially behooves the citizens of Billings Co. to inquire who is the best man to represent their interests at Bismarck. With the right kind of an effort it might be possible to secure a man from Stark county to represent the west Missouri country, who appreciated the needs of legislation for the Bad Lands.",
+   "summary": "Editorial urges Billings County to seek a legislative candidate who understands Bad Lands needs.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a35",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    48,
+    17,
+    5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The present drought has brought out a number of experiences, encouraging to stockmen. There has only been one year in Montana that compared with this for dryness and that was early in the '70's. There was almost no rain until the middle of September. Then the ground received several good soakings and there has not been better grass, except in size of the blades, before or since.",
+   "summary": "Comment that a comparable Montana drought in the 1870s was followed by excellent grass.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a36",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    53,
+    17,
+    6
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The butchers of New York have decided to boycott the N. P. Ref. Car Co's. retail shops there. It is supposed that the first effect of this was [seen?] in some broken windows in one of the shops, a few days ago. We cannot see how a boycott against the shops will be effective, as the whole business, from beginning to end is in the hands of the Co., and it would be a difficult thing to boycott the customers of thirty or more different stores.",
+   "summary": "New York butchers boycott the Northern Pacific Refrigerator Car Co.'s retail shops.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a37",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    59.5,
+    17,
+    7
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "The members of the Republican central committee for this, the twenty-third legislative district, will meet in Bismarck, August 13, for the purpose of calling the convention to place in nomination one member of the council and two members of the house and to make the apportionment of delegates for the several counties to this convention. We notice that Billings county's member of the central committee is printed as C. W. Sluper,—probably it means C. W. Sleeper.",
+   "summary": "The 23rd district Republican central committee will meet at Bismarck on August 13; Billings County's member is likely C. W. Sleeper.",
+   "people": [
+    "C. W. Sleeper"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a38",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    66.5,
+    17,
+    8
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "The Territorial Republican convention for the purpose of putting in nomination a candidate for delegate to congress, will be held in Yankton, Wednesday, September 22, 1886. Except for the fact that there are more carpet-bag politicions to the square inch in Dakota than any other part of this fair land and that every mother's son of them is scheming for office, Delegate Gifford stands the best chance of securing the plum. The outcome, in any event, is wrapped in a more impenetrable obscurity than the result of the deliberation of a coroner's jury.",
+   "summary": "The Territorial Republican convention will meet at Yankton September 22; Delegate Gifford is favored.",
+   "people": [
+    "Oscar S. Gifford"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a39",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    74.5,
+    17,
+    8.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "In spite of the large numbers of horses that have been brought to the Little Missouri ranges the last three years, the price holds up better than in almost any other part of the range country. This is probably explained by the facts that there is a constantly growing demand among the farmers east of us for work horses and that the horse ranches on the river have taken all the good mares that have been brought in. In any event, the price of good horses is as high as it was three years ago and there seems no immediate prospect of there being any break in the market. Within three years, however, the horse ranches here will be able to supply a large demand for first-class heavy work horses as well as the best quality of cow-horses.",
+   "summary": "Horse prices on the Little Missouri hold up despite heavy imports of horses.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a40",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    83,
+    17,
+    4
+   ],
+   "section": "local",
+   "headline": "Barb Wire for Sale.",
+   "text": "Between two and three hundred pounds of barb wire for sale at five and one-half cents per pound.\n\nA. T. Packard.",
+   "summary": "Packard offers barb wire for sale.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a41",
+   "page": 4,
+   "cols": "2-7",
+   "region": [
+    22,
+    5,
+    76,
+    95
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Royal Baking Powder — Royal Baking Powder Co., 106 Wall St., New York\nDuncan & Hilles, Furniture, Hager Block, Mandan\nE. J. Owenhouse, Bozeman, Mont. — stock saddles, Concord harness, bits and spurs\nMcDougal & Gunn, Mandan, Dak. — stoves and hardware\nCity Drug Store, Medora, Dak. — H. M. Jorgens, Proprietor\nDurham Bulls — L. S. Cravath, Audubon, Minn.\nEdick Bros., Cigars and Tobacco, 64 Main Street, Bismarck, Dak.\nHayward Hand Grenade fire extinguisher — Hayward Hand Grenade Co., 407-409 Broadway, N. Y.\nEstey Organ — Estey Organ Co., Brattleboro, Vt.\nMerwin, Hulbert & Co., New York — revolvers and cartridges\nGeo. P. Rowell & Co., Newspaper Advertising Bureau, New York\nStudebaker farm and freight wagons, buckboards — A. T. Packard, Agent, Medora, Dak.\nA Gift — Stinson & Co., Portland, Maine\nScientific American / Patents — Munn & Co., 361 Broadway, New York\nMinneapolis & St. Louis R'y, \"Famous Albert Lea Route\" — S. F. Boyd, Gen'l Tkt. & Pass. Ag't, Minneapolis\nBrand: Medora Stage & F. Co. — horse brand on left shoulder; horses strung on stage stations between Medora and Deadwood; $25 reward\nBrand: Chase & Gilmore's Ranch, Chase & Fry, Managers, Dickinson, Dak. — #7; ranges Cherry creek and Little Missouri in winter, Killdeer Mountains in summer\nBrand: Thomas & Arnett, J. B. Thomas (Cheyenne, Wyo.) and A. H. Arnett (Dickinson, Dak.) — AHA; range Little Missouri west of Killdeer Mts.; horse brand VH\nBrand: E. W. Casey, L. C. Hunt, Manager, P.O. Medora — KC F; horse brand KC; range Garner Creek\nBrand: Sloping Bottom Ranch, Lloyd Roberts, Proprietor, P.O. Medora — range Little Missouri 7 mi S of N.P.R.R.\nBrand: Badger Cattle Company, Howard Eaton, M'g'r, P.O. Medora — range Beaver creek and Little Missouri river\nBrand: Dorr Clark, Spearfish, Dakota — VVV; range Belle Fourche\nBrand: Clark & Plum, Spearfish, Dakota — EG; range Grand river\nBrand: Little Missouri Horse Company, H. R. Tarbell, M'n'g'r, Medora — range Davis creek and Little Missouri river\nBrand: W. N. Thompson & Co., Wm. Dantz, Manager, P.O. Medora — TD with quarter-circle diamond\nBrand: Lemoyne Cattle Co. (Limited), D. K. Wade, Manager, Medora — LC; range Little Missouri south of the R.R.; ranch Tepee bottom\nBrand: Soho Cattle Co., Chas. Eaton, Manager, Medora — SO; range Little Missouri river and Beaver creek north of N.P.R.R.\nBrand: Garner Creek Horse Ranch, J. A. VanEeghen, Prop., Medora — range Garner creek, eight miles from mouth\nBrand: Chimney Butte Ranch, Theodore Roosevelt, Proprietor; Ferris & Merrifield, Managers; P.O. Medora — Maltese cross on left hip or right side; range six miles south of N.P.R.R. on Little Missouri\nBrand: Bullion Creek Horse Ranch, Jack Bullion, Prop., Medora — SS; range Bullion creek, twenty miles south of Medora\nBrand: N. P. Refrigerator Car Co., Medora — ranges Little Missouri river and Beaver creek; also owner of steers bought of Mason & Lovell\nBrand: Ætna Ranch, Osborne Bros., Proprietors, P.O. Medora — Æ; range Knutson creek\nBrand: Berry, Boice & Co., P.O. Keith, Montana — 777; range south of N.P.R.R. on Little Missouri river and Beaver creek\nBrand: E. G. Paddock, P.O. Medora — six-inch circle-dot; range six miles north of crossing of N.P.R.R. and Little Missouri\nBrand: [owner illegible] — horse with four-inch circle-dot on left shoulder and left hip; ranch four miles north of crossing of N.P.R.R. and Little Missouri\nBrand: Spring Creek Ranch, L. D. & B. Rumsey, J. L. Truscott, Manager, P.O. Medora — R R; range south of N.P.R.R. on Little Missouri river\nBrand: Custer Trail Cattle Co., F. Alden Eaton, Supt., P.O. Medora — VI; range Little Missouri river, Deep and Davis creeks\nBrand: Neimmela Ranch, Gregor Lang, Manager, P.O. Medora — thistle; range Keogh crossing of Little Missouri to Pretty butte\nBrand: Bad Lands Cattle Co., M. Wadsworth, Manager, P.O. Medora — 7L, bellows, Pd; range Little Missouri river fifteen miles north of Medora\nBrand: Towers & Gudgell, P.O. Keith, Montana — OX; range south of N.P.R.R. on Little Missouri river and Beaver creek",
+   "summary": "Directory of page 4 display ads and cattle-brand ads, including the Chimney Butte Ranch brand listing Theodore Roosevelt as proprietor.",
+   "people": [
+    "Theodore Roosevelt",
+    "Sylvane Ferris",
+    "Bill Merrifield",
+    "A. T. Packard",
+    "H. M. Jorgens",
+    "Howard Eaton",
+    "Gregor Lang",
+    "D. K. Wade",
+    "M. Wadsworth"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  }
+ ],
+ "events": [
+  {
+   "id": "e1",
+   "date": "1886-07-18",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Sunday\" before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Fred Willard family returns from Spearfish",
+   "summary": "Mr. and Mrs. Fred Willard and Fred Jr. returned to Medora from Spearfish.",
+   "excerpt": "Mr. and Mrs. Fred Willard and Fred, Jr., returned Sunday from Spearfish.",
+   "people": [
+    "Fred Willard"
+   ],
+   "places": [
+    "Medora",
+    "Spearfish"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a22",
+   "confidence": "high"
+  },
+  {
+   "id": "e2",
+   "date": "1886-07-19",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Mrs. Peter Frazer leaves for Rapid City",
+   "summary": "Mrs. Peter Frazer left Medora for Rapid City to join her husband.",
+   "excerpt": "Mrs. Peter Frazer left Monday for Rapid City to join her husband there.",
+   "people": [
+    "Mrs. Peter Frazer"
+   ],
+   "places": [
+    "Medora",
+    "Rapid City"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a23",
+   "confidence": "high"
+  },
+  {
+   "id": "e3",
+   "date": "1886-07-19",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Monday\" before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Mrs. Frank Keeler leaves for Livingston",
+   "summary": "Mrs. Frank Keeler left for Livingston, where Frank Keeler has set up a brick kiln.",
+   "excerpt": "where Frank has established a brick kiln",
+   "people": [
+    "Mrs. Frank Keeler",
+    "Frank Keeler"
+   ],
+   "places": [
+    "Medora",
+    "Livingston"
+   ],
+   "tags": [
+    "town-life",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a24",
+   "confidence": "high"
+  },
+  {
+   "id": "e4",
+   "date": "1886-07-22",
+   "date_end": "1886-07-29",
+   "date_precision": "approx",
+   "date_basis": "\"in a few days\" after Thu 22 Jul 1886",
+   "planned": true,
+   "title": "Mrs. James Butler to leave for the Black Hills",
+   "summary": "Mrs. James Butler planned to leave for the Black Hills to join her husband, who was railroading there.",
+   "excerpt": "Mrs. James Butler will leave for the Black Hills in a few days",
+   "people": [
+    "Mrs. James Butler",
+    "James Butler"
+   ],
+   "places": [
+    "Medora",
+    "Black Hills"
+   ],
+   "tags": [
+    "town-life",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a25",
+   "confidence": "high"
+  },
+  {
+   "id": "e5",
+   "date": "1886-07-11",
+   "date_end": "1886-07-17",
+   "date_precision": "week",
+   "date_basis": "\"last week\" before Thu 22 Jul 1886; they left Medora about 12 Jul (\"ten days ago\")",
+   "planned": false,
+   "title": "Dick Moore and Lizzie Hannon marry in St. Paul",
+   "summary": "Dick Moore and Lizzie Hannon, who left Medora for the east about ten days earlier, were married in St. Paul.",
+   "excerpt": "Dick Moore and Lizzie Hannon who left for the east ten days ago, were marmaried in St. Paul last week.",
+   "people": [
+    "Dick Moore",
+    "Lizzie Hannon"
+   ],
+   "places": [
+    "Medora",
+    "St. Paul"
+   ],
+   "tags": [
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a26",
+   "confidence": "high"
+  },
+  {
+   "id": "e6",
+   "date": "1886-07-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday morning\" before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Wadsworth family comes in from Bad Lands Cattle Co. ranch",
+   "summary": "Mr. and Mrs. M. Wadsworth and their daughters came into Medora from the Bad Lands Cattle Co. ranch.",
+   "excerpt": "came in yesterday morning from the Bad Lands Cattle Co's ranch",
+   "people": [
+    "M. Wadsworth"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "town-life",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a27",
+   "confidence": "high"
+  },
+  {
+   "id": "e7",
+   "date": "1886-07-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday morning\" before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Johnny Goodall's sister arrives in Medora",
+   "summary": "Miss Goodall, sister of Johnny Goodall, arrived in Medora from La Grande, Oregon.",
+   "excerpt": "Miss Goodall, sister of Johnny Goodall, arrived in Medora yesterday morning.",
+   "people": [
+    "Miss Goodall",
+    "Johnny Goodall"
+   ],
+   "places": [
+    "Medora",
+    "La Grande, Oregon"
+   ],
+   "tags": [
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a28",
+   "confidence": "high"
+  },
+  {
+   "id": "e8",
+   "date": "1886-07-16",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Friday evening\" before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Bessie and Adele Wade arrive for summer at Tepee ranch",
+   "summary": "Misses Bessie and Adele Wade, sister and daughter of Mr. and Mrs. D. K. Wade, arrived for a summer visit to Tepee ranch.",
+   "excerpt": "arrived last Friday evening, for a summer's visit to Tepee ranch.",
+   "people": [
+    "Bessie Wade",
+    "Adele Wade",
+    "D. K. Wade"
+   ],
+   "places": [
+    "Tepee ranch",
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a30",
+   "confidence": "high"
+  },
+  {
+   "id": "e9",
+   "date": "1886-07-18",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Sunday morning\" before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Jorgens family leaves for Cave Hills ranch",
+   "summary": "Dr. Jorgens and family left for their Cave Hills ranch to spend the summer, with occasional visits to Medora.",
+   "excerpt": "started Sunday morning for the Cave Hills ranch.",
+   "people": [
+    "Dr. H. M. Jorgens"
+   ],
+   "places": [
+    "Medora",
+    "Cave Hills"
+   ],
+   "tags": [
+    "town-life",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a31",
+   "confidence": "high"
+  },
+  {
+   "id": "e10",
+   "date": "1886-08-01",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"August 1st.\" stated; planned as of Thu 22 Jul 1886",
+   "planned": true,
+   "title": "Boston C. Boot and Shoe House to leave Medora",
+   "summary": "T. W. Gordon, manager of the Boston C. Boot and Shoe House, announced the store would leave Medora August 1 and asked that bills be settled.",
+   "excerpt": "Having had instructions from our head office to leave Medora August 1st., we respectfully ask that all bills be settled at once.",
+   "people": [
+    "T. W. Gordon"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a32",
+   "confidence": "high"
+  },
+  {
+   "id": "e11",
+   "date": "1886-07-01",
+   "date_end": "1886-07-16",
+   "date_precision": "day",
+   "date_basis": "\"the first sixteen days of July\" 1886",
+   "planned": false,
+   "title": "Record heat in first half of July",
+   "summary": "T. Martin's weather records showed the first sixteen days of July were the hottest spell known, averaging 102 degrees in the shade.",
+   "excerpt": "there has never been known such a warm spell as the first sixteen days of July.",
+   "people": [
+    "T. Martin"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a33",
+   "confidence": "medium"
+  },
+  {
+   "id": "e12",
+   "date": "1886-07-15",
+   "date_end": "1886-07-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Cow Boy urges care in choosing legislative candidate",
+   "summary": "The Cow Boy urged Billings County citizens to find the best man to represent Bad Lands interests at Bismarck ahead of the legislative convention.",
+   "excerpt": "it especially behooves the citizens of Billings Co. to inquire who is the best man to represent their interests at Bismarck.",
+   "people": [],
+   "places": [
+    "Billings County",
+    "Bismarck",
+    "Stark County"
+   ],
+   "tags": [
+    "politics",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "high"
+  },
+  {
+   "id": "e13",
+   "date": "1886-07-15",
+   "date_end": "1886-07-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Drought continues on the range",
+   "summary": "The paper noted the present drought and recalled a comparable dry year in Montana in the 1870s that was followed by good grass.",
+   "excerpt": "The present drought has brought out a number of experiences, encouraging to stockmen.",
+   "people": [],
+   "places": [
+    "Little Missouri"
+   ],
+   "tags": [
+    "weather",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a35",
+   "confidence": "high"
+  },
+  {
+   "id": "e14",
+   "date": "1886-07-15",
+   "date_end": "1886-07-22",
+   "date_precision": "approx",
+   "date_basis": "\"a few days ago\" before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "New York butchers boycott N. P. Refrigerator Car Co. shops",
+   "summary": "New York butchers decided to boycott the Northern Pacific Refrigerator Car Co.'s retail shops; windows were broken in one shop.",
+   "excerpt": "The butchers of New York have decided to boycott the N. P. Ref. Car Co's. retail shops there.",
+   "people": [],
+   "places": [
+    "New York"
+   ],
+   "tags": [
+    "business",
+    "crime",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a36",
+   "confidence": "medium"
+  },
+  {
+   "id": "e15",
+   "date": "1886-08-13",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"August 13\" stated; planned as of Thu 22 Jul 1886",
+   "planned": true,
+   "title": "Republican district central committee to meet at Bismarck",
+   "summary": "The 23rd legislative district Republican central committee was to meet in Bismarck to call the nominating convention; Billings County's member was printed as C. W. Sluper, probably C. W. Sleeper.",
+   "excerpt": "will meet in Bismarck, August 13, for the purpose of calling the convention",
+   "people": [
+    "C. W. Sleeper"
+   ],
+   "places": [
+    "Bismarck",
+    "Billings County"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a37",
+   "confidence": "high"
+  },
+  {
+   "id": "e16",
+   "date": "1886-09-22",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Wednesday, September 22, 1886\" stated",
+   "planned": true,
+   "title": "Territorial Republican convention set for Yankton",
+   "summary": "The Territorial Republican convention to nominate a delegate to Congress was set for Yankton; the paper thought Delegate Gifford had the best chance.",
+   "excerpt": "Delegate Gifford stands the best chance of securing the plum.",
+   "people": [
+    "Oscar S. Gifford"
+   ],
+   "places": [
+    "Yankton"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a38",
+   "confidence": "high"
+  },
+  {
+   "id": "e17",
+   "date": "1886-07-15",
+   "date_end": "1886-07-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Horse prices hold up on Little Missouri",
+   "summary": "Despite many horses brought to the Little Missouri ranges in three years, prices of good horses remained as high as three years before.",
+   "excerpt": "the price of good horses is as high as it was three years ago",
+   "people": [],
+   "places": [
+    "Little Missouri"
+   ],
+   "tags": [
+    "ranching",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a39",
+   "confidence": "high"
+  },
+  {
+   "id": "e18",
+   "date": "1886-07-15",
+   "date_end": "1886-07-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Packard offers barb wire for sale",
+   "summary": "A. T. Packard offered two to three hundred pounds of barb wire at five and one-half cents a pound.",
+   "excerpt": "Between two and three hundred pounds of barb wire for sale at five and one-half cents per pound.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a40",
+   "confidence": "high"
+  },
+  {
+   "id": "e19",
+   "date": "1886-07-20",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"special session the afternoon of July 20\" stated",
+   "planned": false,
+   "title": "County commissioners accept Jorgens & Rider liquor bond and pay Cow Boy printing bills",
+   "summary": "Billings County commissioners Truscott, McKenzie and Goodall met in special session, accepted Jorgens & Rider's liquor bond and allowed $43.25 for Cow Boy printing.",
+   "excerpt": "Jorgens & Rider's liquor bond presented and accepted.",
+   "people": [
+    "J. L. Truscott",
+    "Dan. McKenzie",
+    "Johnny Goodall",
+    "J. C. Williamson",
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora",
+    "Billings County"
+   ],
+   "tags": [
+    "politics",
+    "saloons",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a5",
+   "confidence": "high"
+  },
+  {
+   "id": "e20",
+   "date": "1886-07-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Meeting on morning of July 21\" stated",
+   "planned": false,
+   "title": "County signs courthouse lease; school township election costs allowed",
+   "summary": "The commissioners signed R. Roberts's lease of a building for county purposes and paid election judges W. F. Van Driesche and Talleyrand Martin and clerk C. F. Ellison for the Medora election organizing school township No. 1.",
+   "excerpt": "an election held in Medora for the purpose of organization of school township number 1.",
+   "people": [
+    "R. Roberts",
+    "W. F. Van Driesche",
+    "Talleyrand Martin",
+    "C. F. Ellison"
+   ],
+   "places": [
+    "Medora",
+    "Billings County"
+   ],
+   "tags": [
+    "politics",
+    "building"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a5",
+   "confidence": "high"
+  },
+  {
+   "id": "e21",
+   "date": "1886-07-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Meeting in afternoon of July 21\" stated",
+   "planned": false,
+   "title": "Billings County divided into three commissioner districts",
+   "summary": "The commissioners divided Billings County into three commissioner districts, with terms of one, two and three years to be filled at the November election.",
+   "excerpt": "The commissioners proceeded to divide the county of Billings into Commissioners districts",
+   "people": [
+    "J. L. Truscott",
+    "Dan. McKenzie",
+    "Johnny Goodall"
+   ],
+   "places": [
+    "Billings County"
+   ],
+   "tags": [
+    "politics",
+    "land"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a5",
+   "confidence": "high"
+  },
+  {
+   "id": "e22",
+   "date": "1886-07-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Meeting in afternoon of July 21\" stated",
+   "planned": false,
+   "title": "Jurors' fees in Ferris and Merrifield vs. Mrs. Malloy laid over",
+   "summary": "Petitions of jurors for fees in the Justice's court case of Ferris and Merrifield vs. Mrs. Malloy were laid over; Justice Copeland's report was also held over and Dan. McKenzie was named to furnish the court house.",
+   "excerpt": "The petitions of jurors for their fees in Justice's court in the case of Ferris and Merrifield vs. Mrs. Malloy",
+   "people": [
+    "Sylvane Ferris",
+    "Bill Merrifield",
+    "Mrs. Malloy",
+    "Justice Copeland",
+    "Dan. McKenzie"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "courts",
+    "law"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a5",
+   "confidence": "medium"
+  },
+  {
+   "id": "e23",
+   "date": "1886-07-19",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Monday\" before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "J. H. Gordon buys 29 Washington Territory mares",
+   "summary": "J. H. Gordon bought twenty-nine Washington Territory mares to be ranged on Tepee Bottom.",
+   "excerpt": "J. H. Gordon bought twenty-nine head of Washington Territory mares last Monday.",
+   "people": [
+    "J. H. Gordon"
+   ],
+   "places": [
+    "Tepee Bottom"
+   ],
+   "tags": [
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a9",
+   "confidence": "high"
+  },
+  {
+   "id": "e24",
+   "date": "1886-07-15",
+   "date_end": "1886-07-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Ryan Bros. gathering Idaho cattle for Little Missouri",
+   "summary": "Ryan Bros. were gathering 4,000 head of cattle in Idaho, 2,000 to go to the Musselshell and 2,000 to the Little Missouri.",
+   "excerpt": "2,000 of which will be turned loose on the Musselshell and 2,000 on the Little Missouri.",
+   "people": [
+    "Ryan Bros."
+   ],
+   "places": [
+    "Idaho",
+    "Little Missouri",
+    "Musselshell"
+   ],
+   "tags": [
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a10",
+   "confidence": "high"
+  },
+  {
+   "id": "e25",
+   "date": "1886-07-15",
+   "date_end": "1886-07-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "A. M. Willard appointed stock inspector at Deadwood",
+   "summary": "Capt. A. M. Willard was appointed stock inspector at Deadwood instead of Standing Rock.",
+   "excerpt": "Capt. A. M. Willard has been appointed stock inspector at Deadwood, instead of at Standing Rock.",
+   "people": [
+    "A. M. Willard"
+   ],
+   "places": [
+    "Deadwood",
+    "Standing Rock"
+   ],
+   "tags": [
+    "ranching",
+    "law"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a11",
+   "confidence": "high"
+  },
+  {
+   "id": "e26",
+   "date": "1886-07-15",
+   "date_end": "1886-07-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Good feed and plentiful antelope toward South Moreau",
+   "summary": "Feed was reported good from Rocky Ridge to the South Moreau, though hay was scarce, and antelope more plentiful than ever.",
+   "excerpt": "Antelope are more plentiful than ever before.",
+   "people": [],
+   "places": [
+    "Rocky Ridge",
+    "South Moreau"
+   ],
+   "tags": [
+    "ranching",
+    "wildlife"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a12",
+   "confidence": "high"
+  },
+  {
+   "id": "e27",
+   "date": "1886-07-15",
+   "date_end": "1886-07-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Fred Willard recovers Howard Eaton's strayed horse",
+   "summary": "Fred Willard recovered Howard Eaton's pick S horse that strayed from the VI ranch the previous summer, and four other advertised horses.",
+   "excerpt": "Fred Willard has recovered the pick S horse of Howard Eaton's that strayed from the VI ranch last summer.",
+   "people": [
+    "Fred Willard",
+    "Howard Eaton"
+   ],
+   "places": [
+    "VI ranch"
+   ],
+   "tags": [
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a13",
+   "confidence": "high"
+  },
+  {
+   "id": "e28",
+   "date": "1886-07-07",
+   "date_end": "1886-07-21",
+   "date_precision": "approx",
+   "date_basis": "\"Wednesday last\" in a reprint from the Stockgrowers' Journal of unknown date; exact Wednesday cannot be resolved",
+   "planned": false,
+   "title": "Neimmela cowboy Henry Williams ropes a wild goose",
+   "summary": "Reprinting the Stockgrowers' Journal, the paper reported that Henry Williams of the Neimmela cattle company roped a flying wild goose by one wing on the Little Missouri.",
+   "excerpt": "quick as thought as the bird flew past him he pitched the rope at it and succeeded in catching it by one wing.",
+   "people": [
+    "Henry Williams"
+   ],
+   "places": [
+    "Little Missouri",
+    "Neimmela ranch"
+   ],
+   "tags": [
+    "ranching",
+    "wildlife"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a14",
+   "confidence": "medium"
+  },
+  {
+   "id": "e29",
+   "date": "1886-07-15",
+   "date_end": "1886-07-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Cow Boy offers Huffman's round-up photographs",
+   "summary": "The Cow Boy offered its remaining sets of thirty-six Huffman instantaneous round-up views for $5, or $6 with a year's subscription.",
+   "excerpt": "We have remaining a few sets of Huffmann's instantaneous round-up views",
+   "people": [
+    "L. A. Huffman",
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "press",
+    "roundup",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a2",
+   "confidence": "medium"
+  },
+  {
+   "id": "e30",
+   "date": "1886-07-15",
+   "date_end": "1886-07-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 Jul 1886",
+   "planned": false,
+   "title": "Chimney Butte Ranch brand ad lists Theodore Roosevelt as proprietor",
+   "summary": "The standing brand advertisement for Chimney Butte Ranch named Theodore Roosevelt as proprietor and Ferris & Merrifield as managers, with range six miles south of the N.P.R.R. on the Little Missouri.",
+   "excerpt": "Chimney Butte Ranch. Theodore Roosevelt, Proprietor. Ferris & Merrifield, Managers. P. O.—Medora, Dak.",
+   "people": [
+    "Theodore Roosevelt",
+    "Sylvane Ferris",
+    "Bill Merrifield"
+   ],
+   "places": [
+    "Chimney Butte Ranch",
+    "Little Missouri",
+    "Medora"
+   ],
+   "tags": [
+    "tr",
+    "brands",
+    "ranching"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a41",
+   "confidence": "high"
+  }
+ ]
+}

@@ -1,0 +1,5 @@
+*.alto.xml
+source/ocr/*/p*.num.txt
+.work/
+.DS_Store
+__pycache__/

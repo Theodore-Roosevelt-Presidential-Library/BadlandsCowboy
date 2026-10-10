@@ -1,0 +1,1827 @@
+{
+ "date": "1886-10-14",
+ "masthead": "Thursday, October 14, 1886",
+ "volume": "Vol. 3, No. 35",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "cols 1-3 display ads (incl. Cow Boy terms box and Huffman round-up views offer); cols 4-5 editorial paragraphs, local politics, pleuro-pneumonia and Butchers' Advocate editorial, stock notes; col 6 'Forage Plants of the West' (Inter Ocean reprint, begins foot of col 5). Some right-edge words in col 4 cut by the crop; a blot obscures two words of the Willard item."
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "Ready-print under the Cow Boy editorial-page heading (Knights of Labor, Dakota Republican convention speech, miscellany); not transcribed."
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "Ready-print fiction, miscellany and national ads; not transcribed."
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "col 1 masthead, NP time table and local items; cols 2-4 display ads; cols 5-8 cattle and horse brands. No duplicate page scans in this issue."
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "1-7",
+   "region": [
+    2,
+    5,
+    96,
+    9
+   ],
+   "section": "masthead",
+   "headline": "The Bad Lands Cow Boy.",
+   "text": "VOLUME 3, NUMBER 35. MEDORA, DAKOTA, OCTOBER 14, 1886. PRICE $2.00 PER YEAR\n\nBAD LANDS COW BOY, BY A. T. PACKARD.\n\nThe Cow Boy is not published for fun, but for $2 per year.\n\nAdvertising rates made known on application.\n\nStanding advertisements payable quarterly.\n\nTransient advertisements and all Job work, money in sight.\n\nAddress all communications to THE BAD LANDS COW BOY, MEDORA, DAKOTA.\n\nEntered at the post-office at Medora, Dak., as second class mail matter.",
+   "summary": "Front-page masthead and publisher's terms: Vol. 3, No. 35, Medora, Dakota, October 14, 1886.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a2",
+   "page": 1,
+   "cols": "3",
+   "region": [
+    27.5,
+    13,
+    23,
+    12
+   ],
+   "section": "local",
+   "headline": "INSTANTANEOUS ROUND-UP VIEWS.",
+   "text": "We have remaining a few sets of Huffmann's instantaneous round-up views, representing the most interesting events of the range cattle industry. There are thirty-six well-executed photographs in the series, making an extremely interesting and realistic panorama of cowboy life. We will sell the complete set for $5 or,\n\nTHE COW BOY A YEAR AND THE SET, $6\n\nThis offer will probably be recalled soon, but the bargain can now be secured by calling on or addressing THE BAD LANDS COW BOY, Medora, Dak.",
+   "summary": "The Cow Boy offers its remaining sets of thirty-six Huffman round-up photographs for $5, or with a year's subscription for $6.",
+   "people": [
+    "L. A. Huffman"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a3",
+   "page": 1,
+   "cols": "1-3",
+   "region": [
+    2,
+    13,
+    48,
+    80
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Bad Lands Cow Boy terms box (see masthead)\nA. T. Packard, Notary Public, Medora, Dak.\nW. Gouldspee, Boston, Mass. — \"Hunters and Trappers!!\" price-list of raw furs, skins, birds and water-fowls' skins and wild game\nF. E. Benjamin, Jeweler and Watchmaker, Mandan, Dakota\nFirst National Bank of Mandan, Dakota — H. R. Lyon, Prest.; H. VanVleck, Jr., Cashier; M. Lang, Vice President; paid-up capital $50,000, surplus $15,000\nAlex. Morton, Blacksmithing and Horse-Shoeing, Medora, Dak.\nD. Flynn, Boots, Shoes, Rubbers, Etc., Main Street, Mandan, Dak.\nJ. D. Garver's, Hardware and Tinware, Medora, Dakota\nF. M. Searles, Furniture, Carpets, 3rd St., Bismarck, Dak.\nInsurance! — policies at regular Eastern rates against fire, lightning, wind storms and hail; A. T. Packard, Agent, Medora, Dak.\nNorthern Pacific Railroad — direct line between St. Paul, Minneapolis or Duluth and the Northwest; Yellowstone National Park; Chas. S. Fee, General Passenger Agent, St. Paul, Minn.\nThe Clipper Tricycle wheel plow — Parlin & Orendorff Co., Canton, Ill.\nElectric Light Soap — Atkins Soap Co., Indianapolis, Ind.\nOil, gas and gasoline stoves — The Adams & Westlake M'f'g Co., Chicago, New York, Boston\nM. F. Kennedy & Bros., shotguns, rifles, revolvers, ammunition, fishing tackle, tents, 66 East Third St., St. Paul, Minn.\nJ. A. Ferris, Medora, Dak. — general merchandise, flour, feed, ranchmen's supplies; with notice from J. S. Collins & Co., Miles City, Mont., that Ferris is their only authorized agent at Medora for saddles, bridles, bits\nThe Natures Incubator — Natures Incubator Co., Quincy, Ill.\nJas. McMillan & Co., The Minneapolis Sheepskin Tannery — hides, sheep pelts, furs, tallow, ginseng\nThe Brookmont Herd (Herefords) — C. W. Cook & Son, Odebolt, Sac Co., Ia.\nC Spring Cart Co., Rushville, Ind. — two-wheeled vehicles, buckboards\nFire Insurance Co. of Fargo, Dakota — fire, lightning, tornado, hail; W. W. Walker, President; R. F. Woolfolk, Vice President; D. L. Fry, Treasurer; W. A. Lowell, Secretary; A. T. Packard, Agent, Medora",
+   "summary": "Display advertisements filling the first three columns of page 1.",
+   "people": [
+    "A. T. Packard",
+    "J. A. Ferris",
+    "Alex. Morton",
+    "J. D. Garver"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a4",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52.5,
+    14,
+    12,
+    3
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "Sullivan and Ryan have signed articles to box six rounds in San Francisco, Nov. 25.",
+   "summary": "Sullivan and Ryan have signed articles for a six-round bout in San Francisco on Nov. 25.",
+   "people": [
+    "John L. Sullivan",
+    "Paddy Ryan"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a5",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52.5,
+    16.5,
+    12,
+    4
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "The Canadian Blood Indians are crossing the line to give battle to their old enemies, the Gros Ventres. Military forces both from the United States and Canada are hastening to the scene and will put a stop to the proceedings.",
+   "summary": "Canadian Blood Indians were reported crossing the line to fight the Gros Ventres, with U.S. and Canadian troops on their way.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a6",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52.5,
+    20.5,
+    12,
+    4
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "Newspapers have, since the surrender of Geronimo and Natchez to Gen. Miles, used up columns of abuse on the General for his alleged lenient terms to his prisoners. It now transpires that the Apaches surrendered unconditionally and can be punished by any authority the government sees fit to recognize.",
+   "summary": "The paper notes it now appears the Apaches under Geronimo and Natchez surrendered unconditionally to Gen. Miles.",
+   "people": [
+    "Geronimo",
+    "Natchez",
+    "Nelson A. Miles"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a7",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52.5,
+    24.5,
+    12,
+    8
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "Spearfish had a fire Sunday that completely burned out about a third of the business portion of the town. Beginning at \"Uncle Jimmy\" Rogers' hotel it swept everything on the block facing Main street, to and including Williams' boot and shoe store. The total loss is about $75,000. We think Spearfish has sufficient recuperative power to recover from the loss and it will then be of the same benefit that the Chicago fire was to Chicago.",
+   "summary": "A Sunday fire burned about a third of Spearfish's business district, with losses of about $75,000.",
+   "people": [
+    "\"Uncle Jimmy\" Rogers"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a8",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52.5,
+    32.5,
+    12,
+    10
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "Governor Pierce's annual report to the secretary of the Interior is a carefully worded document in which he deals with facts and wisely avoids any further opening of the division question. He says that the debt of the territory is $568,200; not half the amount authorized by Congress limiting the debt to be contracted by the territories. This fact makes the territorial bonds as good securities as can be found in the market. He estimates the increase in population this year at 85,000. The report ends with an earnest appeal for admission as Dakota does and has for a long time posessed all the requirements for state-hood.",
+   "summary": "Editorial approving Governor Pierce's annual report, which puts the territorial debt at $568,200, estimates population growth of 85,000 and appeals for statehood.",
+   "people": [
+    "Gilbert A. Pierce"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a9",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52.5,
+    42.5,
+    12,
+    13
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "Trouble began last Monday over the attempted return by the Chicago pork packers to the ten-hour-a-day rule. All the pork butchers at the Stock Yards have struck except in one or two houses and in sympathy with them, many of the beef butchers have also quit work. The strike is so far, the most orderly that has been conducted. A special committee appointed by Master Workman Powderly is now in Chicago and a speedy and peaceful settlement of the difficulty is expected. The proprietors very reasonably urge that they cannot pay ten hours' wages for eight hours' work when they come in direct opposition with Kansas City and St. Louis houses paying the same wages for ten hours' work.",
+   "summary": "Chicago pork butchers struck over the packers' return to the ten-hour day; the paper sides with the packers.",
+   "people": [
+    "T. V. Powderly"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a10",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52.5,
+    55.5,
+    12,
+    10.5
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "At the Morton county Republican convention held Tuesday, delegates were elected to the legislative convention favorable to T. J. Mitchell of Mandan. The fight was between Mitchell and Lyon and was won by Mitchell after a sharp contest. The fight was still further complicated by the nomination at the same time of a full set of county officers. F. A. Briggs was nominated for treasurer, B. J. VanVleck for register of deeds, F. E. Bowen for district attorney, Geo. Harmon for sheriff and H. P. Hillis for auditor. It is hardly possible now to tell how the nomination will turn out at the legislative convention. The west Missouri country will be given a member of the lower house and the fight will again be between Lyon and Mitchell, with chances about even.",
+   "summary": "The Morton county Republican convention chose legislative delegates favoring T. J. Mitchell over Lyon and nominated county officers.",
+   "people": [
+    "T. J. Mitchell",
+    "Lyon",
+    "F. A. Briggs",
+    "B. J. VanVleck",
+    "F. E. Bowen",
+    "Geo. Harmon",
+    "H. P. Hillis"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a11",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52.5,
+    66,
+    12,
+    15
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "There seems but little doubt now that the seven Chicago anarchists will hang. The judge has denied their motion for a new trial and the supreme court, if appealed to, will undoubtedly back up the decision of the lower court. The summing-up of the judge in the case was a wonderfully clear statement of the facts and proved beyond a doubt the correctness of the decision. He quoted a long list of articles from the anarchists' written and spoken words that showed conclusively that for three years they had openly advocated killing the police and prominent men. The murders at the Haymarket last May were the legitimate out-come of their articles and were undoubtedly incited by them. Whether they or any of them threw the bomb that killed the policemen matters not. Judge Gary clearly showed that they advocated the use of dynamite; had set the day when it would be used; and that it was used as fore-told and fore-advised. If seven miscreants ever deserved hanging it is the seven who will assuredly suffer that fate soon in Chicago.",
+   "summary": "Editorial applauding Judge Gary's denial of a new trial for the seven Chicago anarchists.",
+   "people": [
+    "Joseph E. Gary"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a12",
+   "page": 1,
+   "cols": "4-5",
+   "region": [
+    52.5,
+    81,
+    12,
+    12
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Stock Inspector Fred Willard returned Monday night from Oliver county, where he had been quarantining Etheringtons' herd of cattle. Dr. Halloway, assistant territorial veterinarian of Montana, returned on the same train. The Dr. pronounces that the disease is undoubtedly pleuro-pneumonia. A long trench eight feet deep was dug on the ground where the herd had been quarantined and yesterday every animal in the herd, whether showing symptoms of the disease or not, was shot and thrown into the trench. One hundred barrels of lime were then thrown on the carcasses and they were then buried deeply. There never was a more perfect case of the complete stamping out of a disease and stockmen are congratulated on their escape from what threatened to be a vital danger. The disease was located a long way from the range country but if one animal had strayed away from the infected herd it might in the course of time have spread the disease here. The Montana Stockgrowers' Association, through Marquis de Mores and Theodore Roosevelt two Dakota members of the executive committee, are to be thanked for the prompt action taken.",
+   "summary": "Stock Inspector Fred Willard and Montana's Dr. Halloway confirmed pleuro-pneumonia in the Etherington herd in Oliver county, which was shot and buried in lime; the Montana Stockgrowers' Association, through de Mores and Roosevelt, is credited with the prompt action.",
+   "people": [
+    "Fred Willard",
+    "Dr. Halloway",
+    "Etherington",
+    "Marquis de Mores",
+    "Theodore Roosevelt"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a13",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65,
+    17.5,
+    12.5,
+    6
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "It is at last learned that \"Bobby\" Adams, one of the most notorious and successful burglars in the world, robbed the Minneapolis post-office of the $15,000 worth of stamps recently. He has been arrested and will doubtless be convicted as the evidence is said to be conclusive.",
+   "summary": "Burglar \"Bobby\" Adams has been arrested for the $15,000 Minneapolis post-office stamp robbery.",
+   "people": [
+    "\"Bobby\" Adams"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a14",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65,
+    24,
+    12.5,
+    5.5
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "There are several of our county officers who cannot or will not run again, but aside from these, the sentiment seems to be in favor of the re-election of the old ticket. The county has certainly been run an a very economical basis; a sure guarantee of the honesty and efficiency of the county officials. They have earned a re-nomination.",
+   "summary": "Editorial urging re-nomination of the Billings county officers who will run again, praising the county's economical government.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a15",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65,
+    29.5,
+    12.5,
+    14.5
+   ],
+   "section": "range",
+   "headline": "STOCK NOTES.",
+   "text": "The following are the latest cattle quotations in the Chicago market:\n\nPrime Beeves ... $5.30 @ 5.50\nChoice to fancy shipping, ... $4.50 @ 5.25\nGood to choice shipping, ... $4.00 @ 4.75\nCommon to good shipping, ... $3.50 @ 4.20\nPoor to medium steers, ... $3.20 @ 3.80\nGrass-fed natives, ... $3.00 @ 3.45\nGrass-fed Texans, ... $2.25 @ 3.15\nNorthern Rangers ... $2.70 @ 4.00\nFair to choice native cows, $1.[illegible] @ 2.70\nInferior to medium cows ... $1.25 @ 1.75\nPoor to choice bulls, ... $1.50 @ 2.75\nStockers, 500 to 860 lbs, ... $2.00 @ 2.80\nFeeders, 600 to 1,200 lbs, ... $2.75 @ 3.80\nVeal calves ... $3.50 @ 6.00\nMilch cows, ₩ head, ... $20.00 @ 45.00",
+   "summary": "Latest Chicago cattle quotations, with Northern Rangers at $2.70 to $4.00.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a16",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65,
+    44,
+    12.5,
+    46
+   ],
+   "section": "editorial",
+   "headline": "More of the Butchers' Advocate.",
+   "text": "We have several times had occasion to refer to the Butchers' Advocate of New York and its attacks on western dressed beef.\n\nThe Advocate was started as the organ of New York retail butchers and for the expression of their opposition to western dressed beef. No one denies the right of any corporation or set of individuals to establish a newspaper to represent them in all their interests and to lawfully oppose anything detrimental to those interests. The establishment of the Advocate for these reasons was not only right but was a good move on the part of the New York butchers.\n\nBut there is a limit to the lawful opposition of the Advocate in its crusade against western dressed beef and that limit it has not only reached but passed. No untruthful statements are lawful in backing up a position no matter how right that position may be.\n\nIn its last issue, the Advocate step-father's the report that pleuro-pneumonia has broken out near Medora and insinuates strongly that the diseased cattle were killed here and sent to New York to be sold in the Co.'s retail shops.\n\nIf the above were the truth in either of its parts, the Advocate or any sensible man knows that the Co. would be criminally liable in a large amount. If they were liable, the Advocate would be the first to take steps to have the Co. punished. No such steps have been or will be taken, because the Advocate knows the statement to be untrue. The nearest the disease has come to Medora is 160 miles away. The infected cattle were immediately quarantined and have now not only been killed but buried in a trench eight feet deep and the carcasses covered with lime and dirt. And this work was done by money guaranteed by Marquis de Mores and Theodore Roosevelt. The former is the head of the Company which the Advocate intimates slaughtered the diseased cattle for their retail trade and the latter is one of the prominent raisers of the \"sage-stubble\" beef, whom the Advocate accuses of selling diseased carcasses to confiding eastern purchasers. This article will reach the eye of the editor of the Advocate and we call upon him to right the wrong he has done range interests by stating that pleuro-pneumonia had broken out near Medora. The infected district is as far practically from Medora as is Australia. Over 160 miles of farming country lie between, across which the disease could scarcely have passed and certainly never will now that every animal in the infected herd whether diseased or not has been killed and buried.\n\nThe Advocate has a way of denying articles by saying that they are the work of the Co. That it cannot resort to such subterfuge in answering this article we will say that we have had no word of correspondence in any form with any member of the firm directly or indirectly on the subject; that we are in no sense in their pay and that we are now and for some time have been paying them more for rent alone than we have been receiving from them.\n\nThe facts as to the location of the disease are easily learned and a manly retraction from the editor of the Advocate is the only course left open for him.",
+   "summary": "Editorial denying the New York Butchers' Advocate's charge that pleuro-pneumonia broke out near Medora and that diseased cattle were sold by de Mores' company, noting the infected herd 160 miles away was destroyed with money guaranteed by de Mores and Theodore Roosevelt.",
+   "people": [
+    "Marquis de Mores",
+    "Theodore Roosevelt",
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a17",
+   "page": 1,
+   "cols": "5-6",
+   "region": [
+    78.5,
+    13,
+    12.5,
+    80
+   ],
+   "section": "range",
+   "headline": "Forage Plants of the West.",
+   "text": "WASHINGTON, Sept. 13.—Commissioner Coleman, of the Agricultural Department some time ago sent Professor George Vasey, the botanist of the department, to make an investigation of the grasses of the arid region of the west, in accordance with an appropriation for that purpose, to ascertain if there were other native grasses and forage plants which would probably be more productive than those now prevailing in that region. Vasey has just returned from his trip, and having made a very thorough investigation of the country included in northeastern New Mexico, eastern Colorado, western Kansas, and western Nebraska, is full of interesting information on the subject.\n\nHe says: The native grasses occupying this great tract are numerous, but those which constitute the great [proportion?] of the vegetation, and are the main [reliance?] for the support of stock, are but two kinds, namely, gramma grass and buffalo grass. These are botanically of different genera, but by the greater part of the people are both called buffalo grass. They are grasses of low growth, forming patches of greater or less extent, having spaces of bare soil between the patches. The leaves are very short and much crowded close to the ground. When not too closely cropped by cattle slender, flowering stems are sent up in July and August bearing at the summit one or two short banner-like spikes, which are rather conspicuous, as they stand out horizontally, and are swayed by the breeze. The true buffalo grass (buchloe dactyloides) formed extensive cushion-like beds, covering the ground closely with its short compact foliage, which is of a lighter green color than the gramma. Thess two grasses, in varying proportions, constitute generally 60 per cent of all the grass product. In most localities the gramma grass is much the more abundant of the two. There are several other kinds, which in some localities form a considerable amount of forage. One of these is the Colorado blue-stem or blue grass, very different from the\n\nBLUE GRASS OF THE EAST.\n\nThis is a great reliance for stock in winter, and often cut and cured for hay.\n\nAnother frequent grass is the blue-joint of Kansas and Nebraska, botanically a species of audropojon. It grows with rather a tall, coarse stock and long leaves, and although somewhat coarse is a valuable grass and everywhere cut for hay. In the bottom lands and in alkaline soils a grass prevails which is called alkali or salt grass. It often forms extensive beds, with the appearance of Kentucky blue grass, and is eaten by horses and cattle, and is said to be nutritious. There can be no doubt that the gramma and buffalo grasses have a very high nutritious value, but they grow so sparsely that cattle require an extensive range in order to obtain proper support. When we come to inquire as to the number of cattle that can be supported on a square mile or on a quarter section we shall realize that there is great poverty as to the amount of grass.\n\nThere is a surprising difference in the estimates as to the supporting ability of the plains of these States, some stating that it requires forty or fifty acres to support one animal, others giving twenty to thirty, and still others ten to fifteen acres. All these estimates are correct as to certain localities, and over the entire region it may be considered probable that the average amount required would be about fifteen acres to the head. The inquiry will naturally arise, can not the grazing capacity of this region be greatly increased by substituting more productive grasses?\n\nThe results of Professor Vasey's investigations on this subject show that this may undoubtedly be done. So long as the old system of keeping cattle on ranches of vast extent, without providing winter feed or shelter, continued no improvement could be expected, for\n\nNO CHANGE CAN BE EFFECTED\n\nwithout cultivation of the land. But the cattlemen have mostly evacuated Kansas, and are rapidly removing their herds from Nebraska to occupy Wyoming and Montana, and the vacated lands are now being rapidly occupied for homesteads by incoming settlers, notwithstanding the risks to be encountered from scarcity of water and possible droughts. From the results of farming experiments in various sections during a few years past very sanguine expectations are entertained as to the value of the land for general farming purposes. Admitting the possibility of moderate success in that line, there can yet be no doubt that the country is naturally a pastoral one, and that it can by proper means in the future be made to sustain a much greater number of cattle and sheep than it has in the past. This will be done by holders of limited quantities of land, from a quarter section up to a section or more, who will provide fodder for their stock in the winter and give them suitable shelter, and at the same time break up their land and lay down pastures of new and more productive grasses. What these grasses shall be is yet an open question, and can only be settled by carefully-conducted experiments. It is highly desirable that the government should establish a central and characteristic location, an experimental grass station, where all the commonly cultivated grasses and forage plants and also the more promising native ones could be thoroughly tried under various conditions of culture, and the results given to the public. Undoubtedly a properly conducted and well continued series of experiments in this direction would result in important discoveries of great value to the future residents in this arid district.—[Inter Ocean.",
+   "summary": "Reprint from the Inter Ocean on botanist George Vasey's survey of western range grasses, arguing for smaller fenced holdings, winter feed and a government experimental grass station.",
+   "people": [
+    "George Vasey",
+    "Norman J. Colman"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a18",
+   "page": 2,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": "THE BAD LANDS COW BOY. A. T. PACKARD, Publisher. MEDORA, DAKOTA.",
+   "text": "",
+   "summary": "Ready-print page under a Cow Boy editorial-page heading: syndicated national editorial paragraphs, the Knights of Labor general assembly at Richmond, the American Board meeting, Judge Moody's speech to the Dakota Republican convention, a Huron land-office ruling and miscellany (\"Found His Fault\", \"How to Begin a Letter\").",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a19",
+   "page": 3,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "",
+   "summary": "Ready-print page of fiction (\"A Trust\"), miscellany (\"The Nation's Library\", \"Moslem Teetotalism\", \"How to Judge Canned Goods\") and patent-medicine and national display ads.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a20",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    5,
+    13.5,
+    11
+   ],
+   "section": "railroad",
+   "headline": "Northern Pacific Time Table.",
+   "text": "BAD LANDS COW BOY, BY A. T. PACKARD. THURSDAY, OCTOBER 14, 1886.\n\nNorthern Pacific Time Table.\n\nWEST BOUND.\nPacific Express, No. 1 ... 6:45 p. m.\nExpress Freight, 2d Class ... 9:35 p. m.\nFreight, 3d Class ... 11:40 p. m.\n\nEAST BOUND.\nAtlantic Express, No. 2 ... 8:36 a. m.\nExpress Freight, 3d Class ... 6:20 a. m.\nFreight, 3rd Class ... 2:55 a. m.\n\nD. W. WILLIAMS, Agent.",
+   "summary": "Page 4 masthead dated Thursday, October 14, 1886, with the Northern Pacific time table at Medora.",
+   "people": [
+    "A. T. Packard",
+    "D. W. Williams"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a21",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    16,
+    13.5,
+    5
+   ],
+   "section": "politics",
+   "headline": "Billings County Convention.",
+   "text": "Notice is hereby given that on the 25th day of October, at two p. m., a convention will be held in the Town hall for the purpose of placing in nomination a full county ticket for the coming election. A full turn-out is desired.\n\nMANY VOTERS.",
+   "summary": "Notice signed \"Many Voters\" calling a Billings county convention at the Town hall on Oct. 25 to nominate a full county ticket.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a22",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    21.5,
+    13.5,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Father Martin of Mandan was here yesterday.",
+   "summary": "Father Martin of Mandan visited Medora yesterday.",
+   "people": [
+    "Father Martin"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a23",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    23,
+    13.5,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Northern Pacific preferred stocks, 62½; common, 28⅝.",
+   "summary": "Northern Pacific stock quotations.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a24",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    24.5,
+    13.5,
+    1.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Lloyd Roberts is still in St. Cloud buying and selling stock.",
+   "summary": "Lloyd Roberts is still in St. Cloud trading stock.",
+   "people": [
+    "Lloyd Roberts"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a25",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    26,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Miss Birdie Wadsworth went to Steele, Dak., last week. She will visit friends there.",
+   "summary": "Miss Birdie Wadsworth went to Steele, Dak., last week to visit friends.",
+   "people": [
+    "Birdie Wadsworth"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a26",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    28,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Dr. Jorgens is repairing his Spearfish residence and will probably live there this winter.",
+   "summary": "Dr. Jorgens is repairing his Spearfish house and will probably winter there.",
+   "people": [
+    "Dr. Jorgens"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a27",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    30,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "J. W. Tompkins and family have moved into the house formerly occupied by Mrs. O'Hara.",
+   "summary": "J. W. Tompkins and family moved into the house formerly occupied by Mrs. O'Hara.",
+   "people": [
+    "J. W. Tompkins",
+    "Mrs. O'Hara"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a28",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    31.5,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Dave Pugh and George Montford, who were here last year were on the east bound train yesterday morning.",
+   "summary": "Dave Pugh and George Montford passed through on yesterday morning's eastbound train.",
+   "people": [
+    "Dave Pugh",
+    "George Montford"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a29",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    33,
+    13.5,
+    2
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "Notices have been posted for the general election of legislative and county officers, which takes place Nov. 2.",
+   "summary": "Notices are posted for the Nov. 2 general election of legislative and county officers.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a30",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    35,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A. H. Bond who has for some time been visiting at the H T horse ranch, left for his home in Boston Tuesday.",
+   "summary": "A. H. Bond left the H T horse ranch for his home in Boston on Tuesday.",
+   "people": [
+    "A. H. Bond"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a31",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    36.5,
+    13.5,
+    2
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "Attention is called to the notice of a convention to be held on the 25th. A full county ticket is to be nominated.",
+   "summary": "The paper calls attention to the Oct. 25 county convention notice.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a32",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    38,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mike Knott has traded his store building for Tompkins' ranch down the river and will go to farming in the spring.",
+   "summary": "Mike Knott traded his store building for Tompkins' ranch down the river and will farm in the spring.",
+   "people": [
+    "Mike Knott",
+    "J. W. Tompkins"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a33",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    39.5,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "John Pohl has so far recovered from his strain that he is able to sit up. He is still at Lamborn hospital in Bismarck.",
+   "summary": "John Pohl, recovering from a strain at Lamborn hospital in Bismarck, can now sit up.",
+   "people": [
+    "John Pohl"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a34",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    41.5,
+    13.5,
+    2
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "John Munro was in Medora yesterday. As will be seen by the change in the Æ brand, he has purchased it from the Osborne Bros.",
+   "summary": "John Munro, in Medora yesterday, has bought the Æ brand from the Osborne Bros.",
+   "people": [
+    "John Munro",
+    "Osborne Bros."
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a35",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    43.5,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The smoke of prairie fires has been almost constantly seen for ten days, but the hard rain of Tuesday will put a stop to it in this section.",
+   "summary": "Prairie-fire smoke had been seen for ten days until Tuesday's hard rain.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a36",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    45.5,
+    13.5,
+    2
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "E. G. Paddock after taking some cattle to St. Paul, stopped off on his return at his old home in Wadena, Minn. He will return in a few days.",
+   "summary": "E. G. Paddock took cattle to St. Paul and stopped at his old home in Wadena, Minn., on the way back.",
+   "people": [
+    "E. G. Paddock"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a37",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    47.5,
+    13.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "L. D. Rumsey and Mr. Flaherty of Buffalo, N. Y., who have been visiting J. L. Truscott at the R quarter-circle ranch, started east last week.",
+   "summary": "L. D. Rumsey and Mr. Flaherty of Buffalo, visitors at J. L. Truscott's R quarter-circle ranch, left for the east last week.",
+   "people": [
+    "L. D. Rumsey",
+    "Mr. Flaherty",
+    "J. L. Truscott"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a38",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    50,
+    13.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Alex. Morton has brought his family to Medora and they are now keeping house in the building purchased from Dan. McKenzie. They will be a welcome addition to Medora.",
+   "summary": "Blacksmith Alex. Morton has brought his family to Medora, living in the building bought from Dan. McKenzie.",
+   "people": [
+    "Alex. Morton",
+    "Dan. McKenzie"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a39",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    52.5,
+    13.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mrs. J. A. McGregor arrived in Medora last week and is visiting with Mrs. Paddock. She will start in a few days for her home in Berlin Heights, Ohio, where she will spend the winter.",
+   "summary": "Mrs. J. A. McGregor is visiting Mrs. Paddock before leaving for Berlin Heights, Ohio.",
+   "people": [
+    "Mrs. J. A. McGregor",
+    "Mrs. Paddock"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a40",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    55,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "J. W. Proctor, self-styled \"Long Feather\" who has been posing in eastern dime musems as an Indian fighter, stopped off in Medora last week on his way west looking for curiosities. The Indians, it may be added call him \"White Feather.\"",
+   "summary": "J. W. Proctor, a dime-museum \"Indian fighter\" called \"Long Feather,\" stopped in Medora last week heading west.",
+   "people": [
+    "J. W. Proctor"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a41",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    59.5,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Sylvane Ferris was called on last Friday to mourn the death of his favorite horse, \"Water-skip.\" He hung himself by jumping into an adjoining manger to the one in which he was hitched in Jos. Ferris' stable.",
+   "summary": "Sylvane Ferris's favorite horse \"Water-skip\" died last Friday after hanging itself in a manger in Joe Ferris' stable.",
+   "people": [
+    "Sylvane Ferris",
+    "Joe Ferris"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a42",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    62.5,
+    13.5,
+    4
+   ],
+   "section": "correspondence",
+   "headline": null,
+   "text": "Herman Dickman writes us from Chicago that he is clerking in a store there, is married and has a daughter. He thinks there is no place like the Bad Lands and intends visiting here if he can get a vacation. George Myers called on him on his way home to Ohio.",
+   "summary": "Herman Dickman writes from Chicago that he is clerking, married with a daughter, and hopes to visit; George Myers called on him on his way to Ohio.",
+   "people": [
+    "Herman Dickman",
+    "George Myers"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a43",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    66.5,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A. C. Huidekoper's statement while here, that he was sure natural gas could be obtained by boring for it in the Bad Lands, has had a half-confirmation by the striking of a good vein of the gas at Fargo. The formation and physical characteristics of the Bad Lands point more conclusively than do any other part of Dakota, to the existence of natural gas.",
+   "summary": "A gas strike at Fargo is taken as partial confirmation of A. C. Huidekoper's belief that natural gas lies under the Bad Lands.",
+   "people": [
+    "A. C. Huidekoper"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a44",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    70.5,
+    13.5,
+    4.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "It seems that some kind of disease is attacking the deer, as four dead ones were found near together about two miles south of town, without a mark on them to indicate the cause of their death. One of them was the pet deer belonging to Mr. Eeger. W. F. VanDriesche has written to a competent authority to learn if possible the cause of their death.",
+   "summary": "Four dead deer, including Mr. Eeger's pet, were found unmarked two miles south of town; W. F. VanDriesche has written for expert advice.",
+   "people": [
+    "Mr. Eeger",
+    "W. F. VanDriesche"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a45",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    75,
+    13.5,
+    5
+   ],
+   "section": "local",
+   "headline": "Advertised Letters.",
+   "text": "Remaining in the postoffice at Medora for the week ending Oct. 14 1886:\n\nBartlett, R\nBergsett, S\nButler, J H\nDones & Wanfield,\nGallagher, Jas\nHicks, A S\nKollnick, F\nLingham, F R\nReynolds, G T\nSpencer R\n\nW. F. VAN DRIESCHE, P. M.",
+   "summary": "List of unclaimed letters at the Medora postoffice for the week ending Oct. 14, 1886.",
+   "people": [
+    "W. F. Van Driesche"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a46",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    80.5,
+    13.5,
+    8
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "To close out the stock of Studebaker wagons now on hand, I will make prices for cash that are lower than the wholesale factory rate. The wagons are new and first-class and have Studebaker Bros. full guarantee as to soundness. They will be sold cheaper than any wagons that have ever been sold in this country and cheaper than they can be bought in car lots at the factory. The only reason for making these rates is to close out stock on hand. They must and shall go soon.\n\nA. T. PACKARD.",
+   "summary": "A. T. Packard offers to close out his Studebaker wagons below wholesale factory prices.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a47",
+   "page": 4,
+   "cols": "2-8",
+   "region": [
+    20,
+    5,
+    77,
+    90
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Royal Baking Powder — Royal Baking Powder Co., 106 Wall St., New York City\nThe Elk! (Medora)\nE. J. Owenhouse, Bozeman, Mont. — stock saddles, Concord harness, bits, spurs, chaparejos, reatas, quirts, hackamores\nMcDougal & Gunn, Mandan, Dak. — stoves, cook stoves, ranges and general hardware, \"west of the Missouri river\"\nCity Drug Store, Medora, Dak. — drugs, patent medicines, toilet articles, periodicals, stationery; H. M. Jorgens, Proprietor\n\"Every-Day Life of Lincoln\" — agents wanted; N. D. Thompson Pub. Co., St. Louis and New York\nEdick Bros., Bismarck, Dak. — cigars, tobacco and smokers' articles, 64 Main Street\nHayward Hand Grenade fire-extinguisher — 407 Broadway, N. Y.\nEstey Organ Co., Brattleboro, Vt.\nMerwin, Hulbert & Co., New York — revolvers and American metallic cartridges\nGeo. P. Rowell & Co., Newspaper Advertising Bureau, 10 Spruce St., New York\nStudebaker farm and freight wagons, platform spring wagons, buckboards — A. T. Packard, Agent, Medora, Dak.\nStinson & Co., Portland, Maine — \"Gold\" home-work offer\nScientific American / Patents — Munn & Co., 361 Broadway, New York\nMinneapolis & St. Louis Ry, \"Famous Albert Lea Route\" — S. F. Boyd, Gen'l Tkt. & Pass. Ag't, Minneapolis\nBrand: Medora Stage & F. Co. — horse brand on left shoulder; horses strung on stage stations between Medora and Deadwood; $25 reward\nBrand: E. W. Casey, L. C. Hunt, Manager, P.O. Medora — KC and F; range Garner Creek\nBrand: Chase & Gilmore's Ranch, Chase & Fry, Managers, Dickinson — #7; ranges Cherry creek and Little Missouri in winter, Killdeer Mountains in summer\nBrand: Thomas & Arnett, J. B. Thomas, Cheyenne, Wyo., A. H. Arnett, Dickinson — AHA; range Little Missouri west of Killdeer Mts.\nBrand: Sloping Bottom Ranch, Lloyd Roberts, P.O. Medora — range Little Missouri 7 mi S of N.P.R.R.\nBrand: Badger Cattle Company, Howard Eaton, M'g'r, P.O. Medora — VI; range Beaver creek and Little Missouri river\nBrand: Dorr Clark, Spearfish — VVV; range Belle Fourche\nBrand: Clark & Plum, Spearfish — E6 and others; range Grand river\nBrand: Little Missouri Horse Company, M. R. Tarbell, M'n'g'r, Medora — HT horse brand; range Davis creek and Little Missouri river\nBrand: W. N. Thompson & Co., Wm. Dantz, Manager, P.O. Medora — TD with quarter-circle diamond\nBrand: Lemoyne Cattle Co. (Limited), J. P. Small, Manager, Glendive, Mont. — LC; range Little Missouri south of N.P.R.R. and Dawson Co., Mont.\nBrand: Soho Cattle Co., Chas. Eaton, Manager, Medora — SO; range Little Missouri river and Beaver Creek north of N.P.R.R.\nBrand: Garner Creek Horse Ranch, J. A. VanEeghen, Prop., Medora — VE; range Garner creek\nBrand: Chimney Butte Ranch, Theodore Roosevelt, Proprietor, Ferris & Merrifield, Managers, P.O. Medora — Maltese cross; range six miles south of N.P.R.R. on Little Missouri\nBrand: Bullion Creek Horse Ranch, Jack Bullion, Prop., Medora — SS; range Bullion creek twenty miles south of Medora\nBrand: N. P. Refrigerator Car Co., Medora — also -H- and 7Z steers purchased of Mason & Lovell; ranges Little Missouri river and Beaver creek\nBrand: Ætna Ranch, John Munro, Prop., P.O. Mingusville, Montana — Æ; range Knutson creek\nBrand: Berry, Boice & Co., P.O. Keith, Montana — 777; range south of N.P.R.R. on Little Missouri river and Beaver creek\nBrand: E. G. Paddock, P.O. Medora — six-inch circle-dot; range six miles north of crossing of N.P.R.R. and Little Missouri\nBrand: Spring Creek Ranch, L. D. & B. Rumsey, J. L. Truscott, Manager, P.O. Medora — R quarter-circle; range south of N.P.R.R. on Little Missouri river\nBrand: Custer Trail Cattle Co., F. Alden Eaton, Supt., P.O. Medora — three brands incl. HK in circle; range Little Missouri river, Deep and Davis creeks\nBrand: Neimmela Ranch, Gregor Lang, Manager, P.O. Medora — thistle; range Keogh crossing of Little Missouri to Pretty butte\nBrand: Bad Lands Cattle Co., M. Wadsworth, Manager, P.O. Medora — 7L, bellows, Pd; range Little Missouri fifteen miles north of Medora\nBrand: Towers & Gudgell, P.O. Keith, Montana — OX; range south of N.P.R.R. on Little Missouri river and Beaver creek",
+   "summary": "Page 4 display advertisements and cattle- and horse-brand directory.",
+   "people": [
+    "Theodore Roosevelt",
+    "Sylvane Ferris",
+    "Bill Merrifield",
+    "A. T. Packard",
+    "John Munro",
+    "Gregor Lang",
+    "Howard Eaton"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  }
+ ],
+ "events": [
+  {
+   "id": "e1",
+   "date": "1886-10-10",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Sunday\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Fire destroys a third of Spearfish's business district",
+   "summary": "A Sunday fire starting at \"Uncle Jimmy\" Rogers' hotel burned the Main street block through Williams' boot and shoe store in Spearfish, a loss of about $75,000.",
+   "excerpt": "Spearfish had a fire Sunday that completely burned out about a third of the business portion of the town.",
+   "people": [
+    "\"Uncle Jimmy\" Rogers"
+   ],
+   "places": [
+    "Spearfish"
+   ],
+   "tags": [
+    "fire",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a7",
+   "confidence": "high"
+  },
+  {
+   "id": "e2",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Governor Pierce's annual report appeals for Dakota statehood",
+   "summary": "Governor Pierce's annual report put the territorial debt at $568,200, estimated the year's population growth at 85,000 and appealed for admission as a state.",
+   "excerpt": "The report ends with an earnest appeal for admission as Dakota does and has for a long time posessed all the requirements for state-hood.",
+   "people": [
+    "Gilbert A. Pierce"
+   ],
+   "places": [
+    "Dakota Territory"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a8",
+   "confidence": "high"
+  },
+  {
+   "id": "e3",
+   "date": "1886-10-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Morton county Republicans back T. J. Mitchell for the legislature",
+   "summary": "The Morton county Republican convention elected legislative-convention delegates favorable to T. J. Mitchell of Mandan over Lyon and nominated a full county ticket; the west Missouri country is to get a member of the lower house.",
+   "excerpt": "delegates were elected to the legislative convention favorable to T. J. Mitchell of Mandan.",
+   "people": [
+    "T. J. Mitchell",
+    "Lyon",
+    "F. A. Briggs",
+    "B. J. VanVleck",
+    "F. E. Bowen",
+    "Geo. Harmon",
+    "H. P. Hillis"
+   ],
+   "places": [
+    "Mandan",
+    "Morton county"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a10",
+   "confidence": "high"
+  },
+  {
+   "id": "e4",
+   "date": "1886-10-11",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday night\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Stock Inspector Fred Willard returns from quarantining the Etherington herd",
+   "summary": "Stock Inspector Fred Willard returned from Oliver county, where he had quarantined Etherington's herd; Dr. Halloway, assistant territorial veterinarian of Montana, came on the same train and pronounced the disease pleuro-pneumonia.",
+   "excerpt": "Stock Inspector Fred Willard returned Monday night from Oliver county, where he had been quarantining Etheringtons' herd of cattle.",
+   "people": [
+    "Fred Willard",
+    "Dr. Halloway",
+    "Etherington"
+   ],
+   "places": [
+    "Oliver county"
+   ],
+   "tags": [
+    "ranching",
+    "health",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a12",
+   "confidence": "medium"
+  },
+  {
+   "id": "e5",
+   "date": "1886-10-13",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Pleuro-pneumonia herd in Oliver county shot and buried",
+   "summary": "Every animal in the Etherington herd, sick or not, was shot, thrown into an eight-foot trench, covered with one hundred barrels of lime and buried, stamping out the pleuro-pneumonia outbreak.",
+   "excerpt": "yesterday every animal in the herd, whether showing symptoms of the disease or not, was shot and thrown into the trench.",
+   "people": [
+    "Etherington"
+   ],
+   "places": [
+    "Oliver county"
+   ],
+   "tags": [
+    "ranching",
+    "health"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a12",
+   "confidence": "high"
+  },
+  {
+   "id": "e6",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "De Mores and Roosevelt credited with prompt action against pleuro-pneumonia",
+   "summary": "The Montana Stockgrowers' Association, acting through its two Dakota executive committee members, the Marquis de Mores and Theodore Roosevelt, was thanked for the prompt action that destroyed the infected Oliver county herd.",
+   "excerpt": "The Montana Stockgrowers' Association, through Marquis de Mores and Theodore Roosevelt two Dakota members of the executive committee, are to be thanked for the prompt action taken.",
+   "people": [
+    "Marquis de Mores",
+    "Theodore Roosevelt"
+   ],
+   "places": [
+    "Oliver county",
+    "Medora"
+   ],
+   "tags": [
+    "tr",
+    "mores",
+    "ranching",
+    "health"
+   ],
+   "tr": true,
+   "mores": true,
+   "article": "a12",
+   "confidence": "high"
+  },
+  {
+   "id": "e7",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Cow Boy rebuts Butchers' Advocate on Medora pleuro-pneumonia charge",
+   "summary": "Answering the New York Butchers' Advocate's report that pleuro-pneumonia had broken out near Medora and diseased cattle went to de Mores' company's shops, the paper said the disease was 160 miles away and that the infected herd was destroyed with money guaranteed by de Mores and Theodore Roosevelt.",
+   "excerpt": "And this work was done by money guaranteed by Marquis de Mores and Theodore Roosevelt.",
+   "people": [
+    "Marquis de Mores",
+    "Theodore Roosevelt",
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora",
+    "New York"
+   ],
+   "tags": [
+    "tr",
+    "mores",
+    "ranching",
+    "health",
+    "press"
+   ],
+   "tr": true,
+   "mores": true,
+   "article": "a16",
+   "confidence": "high"
+  },
+  {
+   "id": "e8",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Cow Boy favors re-electing Billings county officers",
+   "summary": "The paper reported sentiment in favor of re-electing the county officials who will run again, citing the county's economical management.",
+   "excerpt": "the sentiment seems to be in favor of the re-election of the old ticket.",
+   "people": [],
+   "places": [
+    "Billings County"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a14",
+   "confidence": "high"
+  },
+  {
+   "id": "e9",
+   "date": "1886-10-25",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "notice dated for \"25th day of October\" 1886",
+   "planned": true,
+   "title": "Billings county convention called to nominate a county ticket",
+   "summary": "A notice signed \"Many Voters\" called a convention at the Medora Town hall at 2 p.m. on Oct. 25 to nominate a full county ticket.",
+   "excerpt": "on the 25th day of October, at two p. m., a convention will be held in the Town hall",
+   "people": [],
+   "places": [
+    "Medora",
+    "Billings County"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a21",
+   "confidence": "high"
+  },
+  {
+   "id": "e10",
+   "date": "1886-11-02",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "election date \"Nov. 2\" given in notice",
+   "planned": true,
+   "title": "General election of legislative and county officers set for Nov. 2",
+   "summary": "Notices were posted for the general election of legislative and county officers on Nov. 2.",
+   "excerpt": "Notices have been posted for the general election of legislative and county officers, which takes place Nov. 2.",
+   "people": [],
+   "places": [
+    "Billings County"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a29",
+   "confidence": "high"
+  },
+  {
+   "id": "e11",
+   "date": "1886-10-13",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Father Martin of Mandan visits Medora",
+   "summary": "Father Martin of Mandan was in Medora.",
+   "excerpt": "Father Martin of Mandan was here yesterday.",
+   "people": [
+    "Father Martin"
+   ],
+   "places": [
+    "Medora",
+    "Mandan"
+   ],
+   "tags": [
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a22",
+   "confidence": "high"
+  },
+  {
+   "id": "e12",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Lloyd Roberts trading stock in St. Cloud",
+   "summary": "Lloyd Roberts of the Sloping Bottom Ranch was still in St. Cloud buying and selling stock.",
+   "excerpt": "Lloyd Roberts is still in St. Cloud buying and selling stock.",
+   "people": [
+    "Lloyd Roberts"
+   ],
+   "places": [
+    "St. Cloud"
+   ],
+   "tags": [
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a24",
+   "confidence": "high"
+  },
+  {
+   "id": "e13",
+   "date": "1886-10-04",
+   "date_end": "1886-10-10",
+   "date_precision": "week",
+   "date_basis": "\"last week\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Miss Birdie Wadsworth leaves for Steele",
+   "summary": "Miss Birdie Wadsworth went to Steele, Dak., to visit friends.",
+   "excerpt": "Miss Birdie Wadsworth went to Steele, Dak., last week.",
+   "people": [
+    "Birdie Wadsworth"
+   ],
+   "places": [
+    "Steele"
+   ],
+   "tags": [
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a25",
+   "confidence": "high"
+  },
+  {
+   "id": "e14",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Dr. Jorgens repairing his Spearfish residence",
+   "summary": "Dr. Jorgens was repairing his Spearfish residence and would probably winter there.",
+   "excerpt": "Dr. Jorgens is repairing his Spearfish residence and will probably live there this winter.",
+   "people": [
+    "Dr. Jorgens"
+   ],
+   "places": [
+    "Spearfish"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a26",
+   "confidence": "high"
+  },
+  {
+   "id": "e15",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "J. W. Tompkins family moves into the former O'Hara house",
+   "summary": "J. W. Tompkins and family moved into the house formerly occupied by Mrs. O'Hara.",
+   "excerpt": "J. W. Tompkins and family have moved into the house formerly occupied by Mrs. O'Hara.",
+   "people": [
+    "J. W. Tompkins",
+    "Mrs. O'Hara"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a27",
+   "confidence": "high"
+  },
+  {
+   "id": "e16",
+   "date": "1886-10-13",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday morning\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Dave Pugh and George Montford pass through on the eastbound train",
+   "summary": "Dave Pugh and George Montford, who were in Medora the year before, were on the eastbound train.",
+   "excerpt": "Dave Pugh and George Montford, who were here last year were on the east bound train yesterday morning.",
+   "people": [
+    "Dave Pugh",
+    "George Montford"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a28",
+   "confidence": "high"
+  },
+  {
+   "id": "e17",
+   "date": "1886-10-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "A. H. Bond leaves the H T horse ranch for Boston",
+   "summary": "A. H. Bond, who had been visiting the H T horse ranch, left for his home in Boston.",
+   "excerpt": "A. H. Bond who has for some time been visiting at the H T horse ranch, left for his home in Boston Tuesday.",
+   "people": [
+    "A. H. Bond"
+   ],
+   "places": [
+    "H T horse ranch",
+    "Boston"
+   ],
+   "tags": [
+    "visitors",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a30",
+   "confidence": "high"
+  },
+  {
+   "id": "e18",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Mike Knott trades his store for Tompkins' ranch",
+   "summary": "Mike Knott traded his store building for Tompkins' ranch down the river and planned to farm in the spring.",
+   "excerpt": "Mike Knott has traded his store building for Tompkins' ranch down the river",
+   "people": [
+    "Mike Knott",
+    "J. W. Tompkins"
+   ],
+   "places": [
+    "Medora",
+    "Little Missouri"
+   ],
+   "tags": [
+    "business",
+    "land"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a32",
+   "confidence": "high"
+  },
+  {
+   "id": "e19",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "John Pohl recovering at Lamborn hospital",
+   "summary": "John Pohl had recovered from his strain enough to sit up and was still at Lamborn hospital in Bismarck.",
+   "excerpt": "John Pohl has so far recovered from his strain that he is able to sit up.",
+   "people": [
+    "John Pohl"
+   ],
+   "places": [
+    "Bismarck"
+   ],
+   "tags": [
+    "health"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a33",
+   "confidence": "high"
+  },
+  {
+   "id": "e20",
+   "date": "1886-10-13",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "John Munro in Medora; buys the Æ brand from Osborne Bros.",
+   "summary": "John Munro was in Medora; the paper noted he had purchased the Æ brand from the Osborne Bros.",
+   "excerpt": "As will be seen by the change in the Æ brand, he has purchased it from the Osborne Bros.",
+   "people": [
+    "John Munro",
+    "Osborne Bros."
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "ranching",
+    "brands",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "high"
+  },
+  {
+   "id": "e21",
+   "date": "1886-10-04",
+   "date_end": "1886-10-12",
+   "date_precision": "approx",
+   "date_basis": "\"for ten days\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Prairie-fire smoke seen around Medora for ten days",
+   "summary": "Smoke of prairie fires had been seen almost constantly for ten days.",
+   "excerpt": "The smoke of prairie fires has been almost constantly seen for ten days",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "fire",
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a35",
+   "confidence": "high"
+  },
+  {
+   "id": "e22",
+   "date": "1886-10-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Hard rain ends prairie fires near Medora",
+   "summary": "A hard rain on Tuesday was expected to put a stop to the prairie fires in the section.",
+   "excerpt": "the hard rain of Tuesday will put a stop to it in this section.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "weather",
+    "fire"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a35",
+   "confidence": "high"
+  },
+  {
+   "id": "e23",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "E. G. Paddock ships cattle to St. Paul",
+   "summary": "E. G. Paddock took cattle to St. Paul and stopped at his old home in Wadena, Minn., on the way back.",
+   "excerpt": "E. G. Paddock after taking some cattle to St. Paul, stopped off on his return at his old home in Wadena, Minn.",
+   "people": [
+    "E. G. Paddock"
+   ],
+   "places": [
+    "St. Paul",
+    "Wadena"
+   ],
+   "tags": [
+    "ranching",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a36",
+   "confidence": "high"
+  },
+  {
+   "id": "e24",
+   "date": "1886-10-04",
+   "date_end": "1886-10-10",
+   "date_precision": "week",
+   "date_basis": "\"last week\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Rumsey and Flaherty leave the R quarter-circle ranch for the east",
+   "summary": "L. D. Rumsey and Mr. Flaherty of Buffalo, N.Y., who had been visiting J. L. Truscott at the R quarter-circle ranch, started east.",
+   "excerpt": "L. D. Rumsey and Mr. Flaherty of Buffalo, N. Y., who have been visiting J. L. Truscott at the R quarter-circle ranch, started east last week.",
+   "people": [
+    "L. D. Rumsey",
+    "Mr. Flaherty",
+    "J. L. Truscott"
+   ],
+   "places": [
+    "R quarter-circle ranch",
+    "Buffalo"
+   ],
+   "tags": [
+    "visitors",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a37",
+   "confidence": "high"
+  },
+  {
+   "id": "e25",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Alex. Morton brings his family to Medora",
+   "summary": "Blacksmith Alex. Morton brought his family to Medora; they are keeping house in the building bought from Dan. McKenzie.",
+   "excerpt": "Alex. Morton has brought his family to Medora and they are now keeping house in the building purchased from Dan. McKenzie.",
+   "people": [
+    "Alex. Morton",
+    "Dan. McKenzie"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "town-life",
+    "building"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a38",
+   "confidence": "high"
+  },
+  {
+   "id": "e26",
+   "date": "1886-10-04",
+   "date_end": "1886-10-10",
+   "date_precision": "week",
+   "date_basis": "\"last week\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Mrs. J. A. McGregor arrives to visit Mrs. Paddock",
+   "summary": "Mrs. J. A. McGregor arrived in Medora to visit Mrs. Paddock before leaving for Berlin Heights, Ohio, for the winter.",
+   "excerpt": "Mrs. J. A. McGregor arrived in Medora last week and is visiting with Mrs. Paddock.",
+   "people": [
+    "Mrs. J. A. McGregor",
+    "Mrs. Paddock"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a39",
+   "confidence": "high"
+  },
+  {
+   "id": "e27",
+   "date": "1886-10-04",
+   "date_end": "1886-10-10",
+   "date_precision": "week",
+   "date_basis": "\"last week\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "\"Long Feather\" Proctor stops at Medora",
+   "summary": "J. W. Proctor, who styled himself \"Long Feather\" and posed in eastern dime museums as an Indian fighter, stopped off in Medora on his way west looking for curiosities.",
+   "excerpt": "The Indians, it may be added call him \"White Feather.\"",
+   "people": [
+    "J. W. Proctor"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a40",
+   "confidence": "high"
+  },
+  {
+   "id": "e28",
+   "date": "1886-10-08",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Friday\" before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Sylvane Ferris's horse \"Water-skip\" dies in Joe Ferris' stable",
+   "summary": "Sylvane Ferris's favorite horse \"Water-skip\" hanged himself by jumping into the manger next to the one where he was hitched in Joe Ferris' stable.",
+   "excerpt": "Sylvane Ferris was called on last Friday to mourn the death of his favorite horse, \"Water-skip.\"",
+   "people": [
+    "Sylvane Ferris",
+    "Joe Ferris"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "ranching",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a41",
+   "confidence": "high"
+  },
+  {
+   "id": "e29",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Former resident Herman Dickman writes from Chicago",
+   "summary": "Herman Dickman wrote from Chicago that he is clerking in a store, is married with a daughter and hopes to visit; George Myers called on him on his way home to Ohio.",
+   "excerpt": "He thinks there is no place like the Bad Lands and intends visiting here if he can get a vacation.",
+   "people": [
+    "Herman Dickman",
+    "George Myers"
+   ],
+   "places": [
+    "Chicago"
+   ],
+   "tags": [
+    "social",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a42",
+   "confidence": "high"
+  },
+  {
+   "id": "e30",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Fargo gas strike cited as support for natural gas in the Bad Lands",
+   "summary": "A good vein of natural gas struck at Fargo was taken as half-confirmation of A. C. Huidekoper's view that gas could be found by boring in the Bad Lands.",
+   "excerpt": "A. C. Huidekoper's statement while here, that he was sure natural gas could be obtained by boring for it in the Bad Lands, has had a half-confirmation",
+   "people": [
+    "A. C. Huidekoper"
+   ],
+   "places": [
+    "Bad Lands",
+    "Fargo"
+   ],
+   "tags": [
+    "mining",
+    "land"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a43",
+   "confidence": "high"
+  },
+  {
+   "id": "e31",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Four dead deer found south of Medora",
+   "summary": "Four deer, including Mr. Eeger's pet, were found dead and unmarked about two miles south of town; W. F. VanDriesche wrote to an authority to learn the cause.",
+   "excerpt": "It seems that some kind of disease is attacking the deer, as four dead ones were found near together about two miles south of town",
+   "people": [
+    "Mr. Eeger",
+    "W. F. VanDriesche"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "wildlife",
+    "health"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a44",
+   "confidence": "high"
+  },
+  {
+   "id": "e32",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Packard closes out Studebaker wagons below factory price",
+   "summary": "A. T. Packard offered his remaining Studebaker wagons for cash below the wholesale factory rate to close out stock.",
+   "excerpt": "They must and shall go soon.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a46",
+   "confidence": "high"
+  },
+  {
+   "id": "e33",
+   "date": "1886-10-07",
+   "date_end": "1886-10-14",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 14 Oct 1886",
+   "planned": false,
+   "title": "Blood Indians cross the line to fight the Gros Ventres",
+   "summary": "Canadian Blood Indians were reported crossing the border to fight the Gros Ventres, with U.S. and Canadian troops hurrying to stop them.",
+   "excerpt": "The Canadian Blood Indians are crossing the line to give battle to their old enemies, the Gros Ventres.",
+   "people": [],
+   "places": [
+    "Montana"
+   ],
+   "tags": [
+    "Native-Americans",
+    "military"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a5",
+   "confidence": "medium"
+  }
+ ]
+}

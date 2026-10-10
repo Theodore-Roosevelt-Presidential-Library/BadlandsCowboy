@@ -1,0 +1,1430 @@
+{
+ "date": "1886-02-25",
+ "masthead": "Thursday, February 25, 1886",
+ "volume": "Vol. 3, No. 3",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "col 1 masthead and business cards; cols 2-4 display ads (Northern Pacific, Fargo Insurance Co. annual statement, Milwaukee Brewing, Clipper plow, Adams & Westlake, McMillan tannery, spring carts); col 5 'Nominating Convention', editorials and 'Stock Notes' including 'Cheaper Beef' (de Morès); col 6 local range notes then clipped 'What's in a Beef?' (Brooklyn Eagle) continuing into col 7 with clipped 'Life of the Cowboy' and 'Description of Glanders' (not transcribed)."
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "patent inside under a 'Bad Lands Cow Boy, A. T. Packard, Publisher' heading; syndicated national news, Congress, Dakota Territorial News and humor; not transcribed"
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "farm management, miscellany, market reports and patent-medicine ads; not transcribed"
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "col 1 masthead, N.P. time table, local items, Notice of Election; cols 2-4 display ads; cols 4-7 cattle and horse brands (incl. Roosevelt's Chimney Butte Ranch). No duplicate page scans in this issue."
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "1",
+   "region": [
+    2,
+    12,
+    14,
+    10
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "Volume 3, Number 3.\n\nBad Lands Cow Boy, By A. T. Packard.\n\nThe Cow Boy is not published for fun, but for $2 per year.\nAdvertising Rates made known on application.\nStanding Advertisements payable quarterly.\nTransient Advertisements and all Job work, money in sight.\nAddress all communications to The Bad Lands Cow Boy, Medora, Dakota.\n\nEntered at the post-office at Medora, Dak., as second class mail matter.\n\nMedora, Dakota, February 25, 1886. Price $2.00 per Year.",
+   "summary": "Front-page masthead and publisher's box, Vol. 3, No. 3, Medora, February 25, 1886.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a2",
+   "page": 1,
+   "cols": "1-4",
+   "region": [
+    2,
+    20,
+    50,
+    78
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "A. D. Carpenter, Attorney, Dickinson, Dak.\nW. [illegible] Coyle[?], M.D., Physician and Surgeon (late A. A. Surgeon, U.S.A.), Belfield, Dak.\nA. T. Packard, Notary Public, Medora, Dak.\nF. E. Benjamin, Jeweler and Watchmaker, Mandan, Dakota — repairing of all kinds promptly executed\nFirst National Bank of Mandan, Dakota — paid-up capital $50,000, surplus $15,000; H. Van Vleck, Jr., Cashier; M. Lang, Vice President\nDan. McKenzie, Blacksmithing and Horse-Shoeing, Medora, Dak. — \"Work done neatly and promptly\"\nD. Flynn, Main Street, Mandan, Dak. — manufacturer and dealer in boots, shoes, rubbers, etc.; custom work and repairing\nJ. D. Garver's, Medora, Dakota — hardware and tinware; tin and sheet-iron articles made and repaired\nInsurance! — policies issued at regular Eastern rates against fire, lightning, wind storms and hail; A. T. Packard, Agent, Medora, Dak.\nNorthern Pacific Railroad — the direct line between St. Paul, Minneapolis or Duluth and Minnesota, Dakota, Montana, Idaho, Washington Territory, Oregon, British Columbia, Puget Sound and Alaska; Pullman sleepers, dining cars, emigrant sleepers free, Yellowstone National Park line\nMilwaukee Brewing Company, proprietors of the Bismarck Brewery, Bismarck, Dak. — keg and bottled beer\nThe Clipper Tricycle wheel plow — Parlin & Orendorff Co., manufacturers\nThe Adams & Westlake interchangeable oil, gas and gasoline stoves — Adams & Westlake M'f'g Co., Chicago, New York, Boston\nFargo Insurance Company, Fargo, Dakota — annual statement for year ending Dec. 31, 1885, with Territory of Dakota Auditor's Office, Department of Insurance, company's certificate of authority\nJas. McMillan & Co., The Minneapolis Sheepskin Tannery, Minneapolis, Minn. — hides, sheep pelts, furs, tallow, ginseng and seneca root\nC Spring Cart Co. — two-wheeled vehicles, buckboards",
+   "summary": "Business cards and display advertisements filling columns 1-4 of the front page.",
+   "people": [
+    "A. T. Packard",
+    "Dan. McKenzie",
+    "J. D. Garver"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a3",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53,
+    13,
+    13.5,
+    8
+   ],
+   "section": "politics",
+   "headline": "Nominating Convention.",
+   "text": "A convention of the citizens and qualified voters of Billings county, will be held Monday evening, March 1, 1886, to place in nomination a list of county officers to be voted for on the second Monday in April, 1886 and to hold office until the next regular fall election. A full attendance is requested.",
+   "summary": "Call for a Billings County nominating convention on March 1, 1886, to name candidates for the April county election.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a4",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53,
+    19,
+    13.5,
+    8
+   ],
+   "section": "railroad",
+   "headline": null,
+   "text": "It seems that we are on the eve of one of the greatest railroad wars the United States has ever known. Through rates from Chicago to San Francisco have been reduced to $30, first class and $20, second class. All the Pacific roads have been interested except the Canadian Pacific. Now, by a combination with the Manitoba, they will begin on June 15, to run through trains from St. Paul via the Manitoba and Canadian Pacific to the Pacific terminus of the latter. This will make an important factor in the fight and we very much doubt if any of the Pacific roads make money this summer.",
+   "summary": "Editorial note on a coming transcontinental rate war, with Chicago-San Francisco fares cut to $30 and $20.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a5",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53,
+    27,
+    13.5,
+    20
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "There is at least one poliiician who dares state what he knows to be the facts concerning the hypocrisy over civil service reform. Witness the following from Robert G. Ingersoll:\n\n\"If the president feels that he is bound to carry out the civil service law, ought not the senate to feel the same way? Is it not the duty of the senate to see to it that the president does not, with its advice and consent, violate the civil service law? Is the consent of the senate a mere matter of form? In these appointments the president is not independent of or above the senate; they are equal, and each has the right to 'honor bright' with the other, at least. As long as the foolish law is unrepealed it must be carried out. Neither party is in favor of civil service reform, and never was. The republican party did not carry it out, and did not intend to. The president has the right to nominate. Under the law as it is now, when the president wants to appoint a clerk, or when one of his secretaries wants one, four names are sent, and from these four names the choice has to be made. This is clearly an invasion of the rights of the executive. If they have the right to compel the president to choose from four, why not from three, or two? Why not name the one, and have done with it? The law is worse than unconstitutional, it is absurd\".—[Col. Ingersoll.",
+   "summary": "Editorial quoting Robert G. Ingersoll attacking civil service reform as hypocrisy.",
+   "people": [
+    "Robert G. Ingersoll"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a6",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53,
+    47,
+    13.5,
+    13
+   ],
+   "section": "range",
+   "headline": "Stock Notes.",
+   "text": "The following are the latest cattle quotations in the Chicago market:\n\nChoice to fancy shipping,...$5.10 @ 5.70\nGood to choice shipping,....$4.20 @ 4.95\nCommon to good shipping,..$3.70 @ 4.50\nPoor to medium steers,.....$3.50 @ 4.20\nFair to choice cows,........$2.60 @ 3.60\nInferior to medium cows...$1.75 @ 2.65\nPoor to choice bulls,........$2.00 @ 3.60\nStockers, 550 to 860 lbs,....$2.75 @ 3.65\nFeeders, 875 to 1,150 lbs,..$3.50 @ 4.40\nSlop-fed cattle..............$5.30 @ 5.85\nMilch cows, ℔ head,.....$15.00 @ 50.00\nStock calves................$6.00 @ 15.00",
+   "summary": "Latest Chicago cattle market quotations under the 'Stock Notes' heading.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a7",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53,
+    60,
+    13.5,
+    5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The snow has almost entirely go only a few small drifts being left in sheltered spots. Almost all the creeks have running water, however, and no danger to cattle interests is apprehended unless everything is frozen up solid.",
+   "summary": "The snow is nearly gone and the creeks are running; no danger to cattle is expected unless a hard freeze comes.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a8",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53,
+    65,
+    13.5,
+    7
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "One of the best articles in the constitution of the National range association, is the one establishing a black-list, on which the names of all men in any way connected with the cattle business and who are known to be dishonest, shall be enrolled. These men are to be boycotted and thus driven out of the business. We confidently look for similar action to be taken at the coming meeting of the Montana association.",
+   "summary": "Packard praises the National range association's black-list of dishonest cattlemen and hopes the Montana association will follow.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a9",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53,
+    72,
+    13.5,
+    20
+   ],
+   "section": "range",
+   "headline": "Cheaper Beef.",
+   "text": "NEW YORK, Feb. 22.—The Marquis de Mores has not yet started for his cattle ranch in the west. He has been delayed here to perfect a scheme which will probably have considerable effect on the price of meats in this city. A Tribune reporter met him incidentally up town last night and although the project is not yet fully ripe, he explained the principal features of it. \"We propose\" he said, \"to stop the expense of middlemen and send meats direct from the producer to the consumer. I have discovered that in the practical working of the cattle business as at present conducted, there are eleven middlemen, each of whom must have a profit before the meat reaches the consumer. The wholesalers are eating us up. We propose to start retail shops in all the tenement-house districts of the city, where our meats will be sold on account of the company. The cattle will be killed at our abattoir. The beef will be shipped in refrigerator crrs. It will be delivered to a central market, and from there distributed to the different shops. We shall have the scheme at work in about sixty days. The details are now being perfected. The advantage to the consumer will amount to from 2 to 4 cents per pound all around. We think we might as well give the consumer the benefit of this profit which now goes to the middlemen.\"",
+   "summary": "New York dispatch of Feb. 22 reporting that the Marquis de Morès, delayed in New York, outlined a plan to sell his beef directly through company retail shops in the city.",
+   "people": [
+    "Marquis de Morès"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a10",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.3,
+    13,
+    13.8,
+    4
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The spring meeting of the Montana Stockgrowers' association begins at Miles City, April 19.",
+   "summary": "The Montana Stockgrowers' association spring meeting will open at Miles City on April 19.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a11",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.3,
+    17,
+    13.8,
+    8
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Range cattle, especially cows with sucking calves, are far from being in good condition. The small loss, almost nothing so far, is not by any means on account of the good condition of the animals, but because of the unusual mildness of the winter. Had there been as many cold snaps as there were last winter, the loss now would probably have reached five per cent. or more. The only danger of severe loss now is in a protracted cold snap, before another snowfall; a danger that we are happy to state is very remote.",
+   "summary": "Range cattle are in poor condition, but losses have been almost nothing because of the unusually mild winter.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a12",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.3,
+    25,
+    13.8,
+    8
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "In their last year's shipments, Ferris & Merrifield brought in several Polled-Angus cattle. It is a pleasure to see them now, brought into sharp contrast with the other cattle by their plump condition. They are not only in good fix, but are rolling in fat. The position of the Cow Boy for two years past that the black doddies are by long odds the best range cattle, has been abundantly proven by experience.",
+   "summary": "Polled-Angus cattle brought in by Ferris & Merrifield last year are in fine, fat condition, vindicating the Cow Boy's view of the breed.",
+   "people": [
+    "Sylvane Ferris",
+    "Bill Merrifield"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a13",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.3,
+    33,
+    13.8,
+    13
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "This winter, more than ever before, has the necessity been shown, of keeping cattle back from the river and creek bottoms. Rides over the ranges disclose the facts that a large number of poor cattle stay constantly on creek bottoms, where their existence is a slow starvation, owing to the almost total lack of feed. In almost every instance, the weakest cattle are found here, and although we have not yet seen a dead animal on the range, we are much mistaken if there is no loss among them. Back from the creeks, cattle are found to be in far better condition, having for the most part, plenty of feed. Many places were also found where no cattle had been all winter and where there is plenty of feed for the cattle now on the creek bottoms. It would require considerable extra work and expense to keep them back, but a look at the cattle ought to convince anyone of the advisability of the plan.",
+   "summary": "Packard urges ranchmen to keep cattle back from the river and creek bottoms, where the weakest stock are starving for lack of feed.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a14",
+   "page": 1,
+   "cols": "6-7",
+   "region": [
+    66.3,
+    46,
+    27.7,
+    40
+   ],
+   "section": "range",
+   "headline": "What's in a Beef?",
+   "text": "[Clipped article credited to the Brooklyn Eagle; not transcribed. Opens:] It should be observed in the first place, that the fashion which prevailed formerly of butchers purchasing their own animals and slaughtering them, has almost wholly gone out in Brooklyn.",
+   "summary": "Exchange article (Brooklyn Eagle) on how Brooklyn butchers buy city-dressed beef and the prices of each cut of a steer.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a15",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    80,
+    30,
+    14,
+    28
+   ],
+   "section": "range",
+   "headline": "Life of the Cowboy.",
+   "text": "[Clipped article credited to the Las Vegas Stock Grower; not transcribed.]",
+   "summary": "Exchange sketch (Las Vegas Stock Grower) of the cowboy's life and character.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a16",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    80,
+    58,
+    14,
+    38
+   ],
+   "section": "range",
+   "headline": "Description of Glanders.",
+   "text": "[Clipped article on the symptoms of glanders in horses, from a stock journal; not transcribed.]",
+   "summary": "Exchange article describing the symptoms of glanders in horses.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a17",
+   "page": 2,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "[Ready-print page; not transcribed.]",
+   "summary": "Patent inside under a 'Bad Lands Cow Boy, A. T. Packard, Publisher' heading: editorial paragraphs, General News Condensed, Latest News Condensations, Congressional Summary, Senate and President, Dakota Territorial News and humorous miscellany.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a18",
+   "page": 3,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "[Ready-print page; not transcribed.]",
+   "summary": "Patent inside: Farm Management, Lincoln anecdotes, What New York's Mrs. Grundy Says, market reports and patent-medicine advertisements.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a19",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    5,
+    14.5,
+    11
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "Bad Lands Cow Boy, By A. T. Packard.\n\nThursday, February 25, 1886.",
+   "summary": "Page-four masthead dated Thursday, February 25, 1886.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a20",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    10,
+    14.5,
+    6
+   ],
+   "section": "railroad",
+   "headline": "Northern Pacific Time Table.",
+   "text": "West Bound.\nPacific Express, No. 1..........6:47 p. m.\nExpress Freight, 2d Class..........8:59 p. m.\nFreight, 3d Class..........11:40 a. m.\n\nEast Bound.\nAtlantic Express, No. 2..........8:43 a. m.\nExpress Freight, 3d Class..........1:15 p. m.\nFreight, 3rd Class..........1:50 a. m.\n\nH. D. Breene, Agent.",
+   "summary": "Northern Pacific train times at Medora, H. D. Breene, agent.",
+   "people": [
+    "H. D. Breene"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a21",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    16,
+    14.5,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "J. A. Freeze and family have moved to Glendive.",
+   "summary": "J. A. Freeze and family have moved to Glendive.",
+   "people": [
+    "J. A. Freeze"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a22",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    17.5,
+    14.5,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Agent Breene visited in Dickinson and Gladstone last week.",
+   "summary": "Railroad agent Breene visited Dickinson and Gladstone last week.",
+   "people": [
+    "H. D. Breene"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a23",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    19,
+    14.5,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Theodore Roosevelt is expected here in a couple of weeks.",
+   "summary": "Theodore Roosevelt is expected in Medora in about two weeks.",
+   "people": [
+    "Theodore Roosevelt"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a24",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    20.5,
+    14.5,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Miss Lillie Roberts spent several days of last week in Medora.",
+   "summary": "Miss Lillie Roberts spent several days in Medora last week.",
+   "people": [
+    "Lillie Roberts"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a25",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    22,
+    14.5,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "About the best burning mine in the Bad Lands now is in a railroad cut near Scoria.",
+   "summary": "The best burning coal mine in the Bad Lands is in a railroad cut near Scoria.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a26",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    23.5,
+    14.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Dr. Jorgens is now keeping house in the cottage recently vacated by J. N. Maxwell.",
+   "summary": "Dr. Jorgens is keeping house in the cottage J. N. Maxwell recently vacated.",
+   "people": [
+    "Dr. Jorgens",
+    "J. N. Maxwell"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a27",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    25,
+    14.5,
+    1.8
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The Rev. Wm. Cooke of Gladstone will preach at half past seven in the depot on Sunday evening.",
+   "summary": "Rev. Wm. Cooke of Gladstone will preach in the depot Sunday evening.",
+   "people": [
+    "Wm. Cooke"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a28",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    26.8,
+    14.5,
+    1.8
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Lloyd Roberts started east Saturday to buy cattle. He will spend the most of the summer in Minnesota.",
+   "summary": "Lloyd Roberts left Saturday to buy cattle in the east and will spend most of the summer in Minnesota.",
+   "people": [
+    "Lloyd Roberts"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a29",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    28.5,
+    14.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "\"Calamity Joe\" is still in jail in Dickinson, and will not receive his preliminary examination until he recovers from his wounds.",
+   "summary": "\"Calamity Joe\" remains in jail in Dickinson awaiting recovery from his wounds before a preliminary examination.",
+   "people": [
+    "Calamity Joe"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a30",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    30.3,
+    14.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Joe Ferris and his bride returned Sunday evening from New Brunswick and have already gone to house-keeping in the rooms over the general store.",
+   "summary": "Joe Ferris and his bride returned from New Brunswick Sunday evening and set up house over the general store.",
+   "people": [
+    "Joe Ferris"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a31",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    32.8,
+    14.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Why wouldn't it be a good plan to organize another series of target matches? With a change by which each contest shall be final, a series of shoots would be popular.",
+   "summary": "Suggestion that Medora organize another series of target-shooting matches.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a32",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    35,
+    14.5,
+    4.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The river has gone down about eighteen inches in the last few days but is still too deep for fording. Beginning at the Ox-bow, for at least sixty miles up the river there is a solid jam of old ice, which is liable to do considerable damage when the thaw comes.",
+   "summary": "The Little Missouri has dropped eighteen inches but is still unfordable; an ice jam stretches sixty miles upriver from the Ox-bow.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a33",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    39.3,
+    14.5,
+    4.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "There are still a number of delinquent subscribers, whose subscriptions ran out last week and the week before. Some of them are neglectful and we do not wish to cut their names off the list without giving them notice. All who subscribed when the Cow Boy was started and have not paid lately, are delinquent.",
+   "summary": "Notice to Cow Boy subscribers whose subscriptions have lapsed.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a34",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    43.5,
+    14.5,
+    4.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The gang of midnight howlers who occasionally make night hideous, will be in condition to learn that a fine, costs and a trip to Dickinson come pretty high unless they stop their foolishness. It may be beyond the gang's comprehension, but there are people here who object to having the peace disturbed as it has been lately.",
+   "summary": "Warning to a gang of 'midnight howlers' disturbing the peace in Medora.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a35",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    47.8,
+    14.5,
+    6
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The flood in the river has brought[?] out a plan by which horses at least, can be transferred from one side of the river to the other in perfect safety, during high water. The plan is to nail six inch boards on each side of the two boards already laid. Of course it would be better to take up the old boards and lay new two-inch plank. This would cost several hundred dollars as against about twenty-five for the first plan. There ought to be at least twenty-five men, interested enough to give a dollar each and thus insure the success of the plan.",
+   "summary": "Proposal to widen the existing river crossing so horses can cross safely at high water, funded by twenty-five dollar subscriptions.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a36",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    53.5,
+    14.5,
+    7
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The advent of deputy sheriff Drury of Morton county and sheriff Sebastian of Stark county, last Sunday, caused a scattering among several bold and fearless youths, who, actuated by a lofty and heroic spirit, had saluted the departure of the train the night before, with the discharge of their six-shooters. It nearly scared a lady on the train to death, but of course this was not to be considered, in view of the glorious sport of frightening her into a fainting fit. Perhaps the officers had medals with which to reward the heroic daring of the six-shootists, but they didn't seem to think so and \"several were the skips\" when the officers were known to be in town.",
+   "summary": "Youths who fired six-shooters at a departing train scattered when two sheriffs arrived in Medora last Sunday.",
+   "people": [
+    "Drury",
+    "Sebastian"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a37",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    60.5,
+    14.5,
+    9.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "We have an over-stock of 3½ Studebaker wagons that the Studebaker M'f'g. Co. have instructed us to close out at $75 each. These wagons have never turned a wheel under a load, are new and first-class in every respect, have the Co's. full guarantee for 5,000 pounds, according to old freighters are the best-ironed and easiest running wagon of its size in the world, and cost at the factory, $[87?] in car lots. There never has and never will be such a bargain in wagons in this country. The $75 rate is cash of course and holds good for one or the lot of seven. The only reason for the cheap rate is to reduce stock on hand. For further particulars, call at or address the Cow Boy office.",
+   "summary": "The Cow Boy office offers seven 3½ Studebaker wagons at a $75 close-out price.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a38",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    70,
+    14.5,
+    25
+   ],
+   "section": "legal",
+   "headline": "Notice of Election.",
+   "text": "Notice is hereby given that on the Second (2nd.) Monday in April, 1886, at the following place, viz.: at the town of\n\nMedora,\n\nin the County of Billings, an election will be held for the following officers of said county of Billings, in said Territory of Dakota, in the organization of said county:\n\nThree County Commissioners,\nOne Register of Deeds,\nOne County Clerk,\nOne Sheriff,\nOne Assessor,\nOne Judge of Probate,\nOne County Treasurer,\nOne County Surveyor,\nOne Coroner,\nOne Superintendent of Public Schools,\nFour Justices of the Peace,\nFour Constables,\nand also for the temporary location of the\nCounty seat of said county,\nwhich election will be open at the hour of eight o'clock in the morning and will continue open until five o'clock in the afternoon of the same day.\n\nDated this 20th. day of January, 1886.\n\n[Seal.] Gilbert A. Pierce, Governor.\n\nM. L. McCormack, Secretary.",
+   "summary": "Governor Pierce's proclamation of the first Billings County election, to be held at Medora on the second Monday in April 1886, including the temporary county seat.",
+   "people": [
+    "Gilbert A. Pierce",
+    "M. L. McCormack"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a39",
+   "page": 4,
+   "cols": "2-7",
+   "region": [
+    21,
+    3,
+    78,
+    94
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Meat Market! Willard & Keeler, Props. — \"We have opened a first-class meat market in the building formerly occupied by Chas. Cook\"; steaks, roasts, mutton, pork, sausage, fresh fish, oysters; cash paid for game\nE. J. Owenhouse, Bozeman, Mont. — stock saddles, Concord harness, fancy bits and spurs, chaparejos, reatas, quirts, hackamores\nMcDougal & Gunn, Mandan, Dak. — stoves and hardware cheap; soft and hard coal stoves, cook stoves, ranges\nCity Drug Store!!, Medora, Dak., H. M. Jorgens, Proprietor — drugs, patent medicines, perfumery, toilet articles, notions, periodicals, stationery\nGladstone Rolling Mills!!, Lee Bros., Props., Gladstone, Dak. — flour; \"Try the Bonanza Brand!\"\nFreighters Attention! — King jeweler, Spearfish or Deadwood: watch repairs\nDuncan & Hilles, Furniture, Hager Block, Mandan — parlor suits, chamber suits, cheap beds, canvass cots, mattresses, house furnishing goods\nEdick Bros., 64 Main Street, Bismarck, Dak. — cigars, tobacco and smokers' articles\nHayward Hand Grenade Co., New York — fire-extinguishing hand grenades\nMerwin, Hulbert & Co., New York — 32, 38 & 44 calibre revolvers; American Metallic Cartridges\nStudebaker farm and freight wagons, platform spring wagons, buckboards — A. T. Packard, Agent, Medora, Dak.\n\"A Gift\" sample-box offer, Portland, Maine\nScientific American and patents\nMinneapolis & St. Louis R'y, \"Famous Albert Lea Route\" — map ad\nBrand: Medora Stage & F. Co. — horse brand on left shoulder; horses on stage stations between Medora and Deadwood; $25 reward re unlawful dealing with these horses\nBrand: Chase & Gilmore's Ranch, Chase & Fry, Managers, Dickinson, Dak. — ranges Cherry creek and Little Missouri in winter, Killdeer Mountains in summer; horse brand mule shoe, bar\nBrand: Thomas & Arnett, J. B. Thomas, Cheyenne, Wyo.; A. H. Arnett, Dickinson, Dak. — AHA; range Little Missouri west of Killdeer Mts.\nBrand: E. W. Casey, L. C. Hunt, Manager, P.O. Medora, Billings Co., Dak. — KC on left side, F on hip; also KC in circle; horse brand KC on left hip; range Garner Creek\nBrand: Sloping Bottom Ranch, Lloyd Roberts, Proprietor, P.O. Medora — range Little Missouri, 7 miles south of N. P. R. R.\nBrand: Badger Cattle Company, Howard Eaton, M'g'r, Medora — VI; range Beaver creek and Little Missouri river\nBrand: Dorr Clark, Spearfish, Dakota — VVV\nBrand: Clark & Plum, Spearfish, Dakota — E6\nBrand: Little Missouri Horse Company, H. R. Tarbell, M'n'g'r, Medora — range Davis creek and Little Missouri\nBrand: W. N. Thompson & Co., Medora — TD; additional brands quarter-circle diamond\nBrand: Lemoyne Cattle Co. (Limited), D. K. Wade, Manager, Medora, Dak. — brand on left side and reversed C on right hip; range Little Missouri, south of the R. R.; ranch Tepee bottom\nBrand: Soho Cattle Co., Chas. Eaton, Manager, Medora — SO\nBrand: Garner Creek Horse Ranch, J. A. Van Eeghen, Prop., Medora — range Garner creek, eight miles from mouth\nBrand: Chimney Butte Ranch, Theodore Roosevelt, Proprietor; Ferris & Merrifield, Managers; P.O. Medora, Dak. — Maltese cross on left hip, or right side, both or either; down cut dewlap; range six miles south of N. P. R. R., on Little Missouri\nBrand: Bullion Creek Horse Ranch, Jack Bullion, Prop., Medora, Dak. — SS on left hip; range Bullion creek, twenty miles south of Medora\nBrand: N. P. Refrigerator Car Co., Medora, Dak. — range Little Missouri and Beaver creek\nBrand: Ætna Ranch, Osborne Bros., Proprietors, Medora — Æ\nBrand: Berry, Boice & Co., Keith, Montana — 777\nBrand: E. G. Paddock, Medora — circle-dot\nBrand: Spring Creek Ranch, L. D. & B. Rumsey; J. L. Truscott, Manager, Medora\nBrand: Custer Trail Cattle Co., F. Alden Eaton, Supt., Medora\nBrand: Neimmela Ranch, Gregor Lang, Manager, Medora — thistle\nBrand: Bad Lands Cattle Co., M. Wadsworth, Manager, Medora — 7L, bellows, Pd\nBrand: Towers & Gudgell, Keith, Montana — OX",
+   "summary": "Display advertisements and cattle and horse brand advertisements, including Roosevelt's Chimney Butte Ranch brand.",
+   "people": [
+    "Theodore Roosevelt",
+    "Sylvane Ferris",
+    "Bill Merrifield",
+    "H. M. Jorgens",
+    "Lloyd Roberts",
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  }
+ ],
+ "events": [
+  {
+   "id": "e1",
+   "date": "1886-03-01",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday evening, March 1, 1886\" stated",
+   "planned": true,
+   "title": "Billings County nominating convention called",
+   "summary": "A convention of Billings County citizens and voters was called for the evening of March 1, 1886, to nominate county officers for the April election.",
+   "excerpt": "A convention of the citizens and qualified voters of Billings county, will be held Monday evening, March 1, 1886",
+   "people": [],
+   "places": [
+    "Billings County",
+    "Medora"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a3",
+   "confidence": "high"
+  },
+  {
+   "id": "e2",
+   "date": "1886-02-18",
+   "date_end": "1886-02-25",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Cow Boy reports transcontinental railroad rate war",
+   "summary": "The paper reported through rates from Chicago to San Francisco cut to $30 first class and $20 second class, and expected the Canadian Pacific to join via the Manitoba road from June 15.",
+   "excerpt": "we are on the eve of one of the greatest railroad wars the United States has ever known",
+   "people": [],
+   "places": [
+    "Chicago",
+    "San Francisco",
+    "St. Paul"
+   ],
+   "tags": [
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a4",
+   "confidence": "medium"
+  },
+  {
+   "id": "e3",
+   "date": "1886-02-18",
+   "date_end": "1886-02-25",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Snow nearly gone from the range; creeks running",
+   "summary": "The paper reported the snow almost entirely gone, with only small drifts in sheltered spots, and nearly all creeks carrying running water.",
+   "excerpt": "Almost all the creeks have running water, however, and no danger to cattle interests is apprehended",
+   "people": [],
+   "places": [
+    "Bad Lands"
+   ],
+   "tags": [
+    "weather",
+    "ranching",
+    "water"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a7",
+   "confidence": "high"
+  },
+  {
+   "id": "e4",
+   "date": "1886-02-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last night\" in a New York dispatch dated Mon 22 Feb 1886",
+   "planned": false,
+   "title": "Marquis de Morès outlines New York retail beef scheme",
+   "summary": "A New York dispatch said the Marquis de Morès had been delayed in the city and told a Tribune reporter he would sell beef killed at his abattoir directly to consumers through company shops in the tenement districts, cutting out middlemen within about sixty days.",
+   "excerpt": "The Marquis de Mores has not yet started for his cattle ranch in the west. He has been delayed here to perfect a scheme",
+   "people": [
+    "Marquis de Morès"
+   ],
+   "places": [
+    "New York",
+    "Medora"
+   ],
+   "tags": [
+    "mores",
+    "ranching",
+    "business",
+    "press"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a9",
+   "confidence": "high"
+  },
+  {
+   "id": "e5",
+   "date": "1886-04-19",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"April 19\" stated",
+   "planned": true,
+   "title": "Montana Stockgrowers' association spring meeting at Miles City announced",
+   "summary": "The paper announced that the spring meeting of the Montana Stockgrowers' association would begin at Miles City on April 19.",
+   "excerpt": "The spring meeting of the Montana Stockgrowers' association begins at Miles City, April 19.",
+   "people": [],
+   "places": [
+    "Miles City"
+   ],
+   "tags": [
+    "ranching",
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a10",
+   "confidence": "high"
+  },
+  {
+   "id": "e6",
+   "date": "1886-02-18",
+   "date_end": "1886-02-25",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Mild winter keeps range cattle losses small",
+   "summary": "The paper reported range cattle, especially cows with calves, in poor condition, but losses almost nothing so far because of the unusually mild winter.",
+   "excerpt": "The small loss, almost nothing so far, is not by any means on account of the good condition of the animals, but because of the unusual mildness of the winter.",
+   "people": [],
+   "places": [
+    "Bad Lands"
+   ],
+   "tags": [
+    "ranching",
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a11",
+   "confidence": "high"
+  },
+  {
+   "id": "e7",
+   "date": "1886-02-18",
+   "date_end": "1886-02-25",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Ferris & Merrifield's Polled-Angus cattle winter well",
+   "summary": "The paper reported that the Polled-Angus cattle Ferris & Merrifield brought in with last year's shipments were plump and \"rolling in fat,\" in contrast to other range cattle.",
+   "excerpt": "In their last year's shipments, Ferris & Merrifield brought in several Polled-Angus cattle.",
+   "people": [
+    "Sylvane Ferris",
+    "Bill Merrifield"
+   ],
+   "places": [
+    "Medora",
+    "Little Missouri"
+   ],
+   "tags": [
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a12",
+   "confidence": "high"
+  },
+  {
+   "id": "e8",
+   "date": "1886-02-18",
+   "date_end": "1886-02-25",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Cattle starving on creek bottoms, rides over range show",
+   "summary": "The paper reported that rides over the ranges found many poor cattle staying on creek bottoms with almost no feed, while cattle back from the creeks were in far better condition.",
+   "excerpt": "a large number of poor cattle stay constantly on creek bottoms, where their existence is a slow starvation",
+   "people": [],
+   "places": [
+    "Little Missouri"
+   ],
+   "tags": [
+    "ranching",
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a13",
+   "confidence": "high"
+  },
+  {
+   "id": "e9",
+   "date": "1886-02-18",
+   "date_end": "1886-02-25",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "J. A. Freeze family moves to Glendive",
+   "summary": "The paper reported that J. A. Freeze and his family had moved to Glendive.",
+   "excerpt": "J. A. Freeze and family have moved to Glendive.",
+   "people": [
+    "J. A. Freeze"
+   ],
+   "places": [
+    "Medora",
+    "Glendive"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a21",
+   "confidence": "high"
+  },
+  {
+   "id": "e10",
+   "date": "1886-02-14",
+   "date_end": "1886-02-20",
+   "date_precision": "week",
+   "date_basis": "week",
+   "planned": false,
+   "title": "Agent Breene visits Dickinson and Gladstone",
+   "summary": "The paper reported that Northern Pacific agent Breene visited Dickinson and Gladstone the previous week.",
+   "excerpt": "Agent Breene visited in Dickinson and Gladstone last week.",
+   "people": [
+    "H. D. Breene"
+   ],
+   "places": [
+    "Dickinson",
+    "Gladstone"
+   ],
+   "tags": [
+    "railroad",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a22",
+   "confidence": "high"
+  },
+  {
+   "id": "e11",
+   "date": "1886-03-11",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"in a couple of weeks\" from Thu 25 Feb 1886",
+   "planned": true,
+   "title": "Theodore Roosevelt expected in Medora in a couple of weeks",
+   "summary": "The paper reported that Theodore Roosevelt was expected in Medora in about two weeks.",
+   "excerpt": "Theodore Roosevelt is expected here in a couple of weeks.",
+   "people": [
+    "Theodore Roosevelt"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "tr",
+    "visitors"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a23",
+   "confidence": "high"
+  },
+  {
+   "id": "e12",
+   "date": "1886-02-14",
+   "date_end": "1886-02-20",
+   "date_precision": "week",
+   "date_basis": "week",
+   "planned": false,
+   "title": "Miss Lillie Roberts visits Medora",
+   "summary": "The paper reported that Miss Lillie Roberts spent several days of the previous week in Medora.",
+   "excerpt": "Miss Lillie Roberts spent several days of last week in Medora.",
+   "people": [
+    "Lillie Roberts"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a24",
+   "confidence": "high"
+  },
+  {
+   "id": "e13",
+   "date": "1886-02-18",
+   "date_end": "1886-02-25",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Burning mine in railroad cut near Scoria",
+   "summary": "The paper reported that about the best burning mine in the Bad Lands was in a railroad cut near Scoria.",
+   "excerpt": "About the best burning mine in the Bad Lands now is in a railroad cut near Scoria.",
+   "people": [],
+   "places": [
+    "Scoria",
+    "Bad Lands"
+   ],
+   "tags": [
+    "coal",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a25",
+   "confidence": "high"
+  },
+  {
+   "id": "e14",
+   "date": "1886-02-18",
+   "date_end": "1886-02-25",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Dr. Jorgens moves into the former Maxwell cottage",
+   "summary": "The paper reported that Dr. Jorgens was keeping house in the cottage recently vacated by J. N. Maxwell.",
+   "excerpt": "Dr. Jorgens is now keeping house in the cottage recently vacated by J. N. Maxwell.",
+   "people": [
+    "Dr. Jorgens",
+    "J. N. Maxwell"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a26",
+   "confidence": "high"
+  },
+  {
+   "id": "e15",
+   "date": "1886-02-28",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Sunday evening\" after Thu 25 Feb 1886",
+   "planned": true,
+   "title": "Rev. Wm. Cooke to preach in the Medora depot",
+   "summary": "The paper announced that the Rev. Wm. Cooke of Gladstone would preach at half past seven Sunday evening in the depot.",
+   "excerpt": "The Rev. Wm. Cooke of Gladstone will preach at half past seven in the depot on Sunday evening.",
+   "people": [
+    "Wm. Cooke"
+   ],
+   "places": [
+    "Medora",
+    "Gladstone"
+   ],
+   "tags": [
+    "social",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a27",
+   "confidence": "medium"
+  },
+  {
+   "id": "e16",
+   "date": "1886-02-20",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Saturday\" before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Lloyd Roberts goes east to buy cattle",
+   "summary": "The paper reported that Lloyd Roberts started east on Saturday to buy cattle and would spend most of the summer in Minnesota.",
+   "excerpt": "Lloyd Roberts started east Saturday to buy cattle.",
+   "people": [
+    "Lloyd Roberts"
+   ],
+   "places": [
+    "Medora",
+    "Minnesota"
+   ],
+   "tags": [
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a28",
+   "confidence": "high"
+  },
+  {
+   "id": "e17",
+   "date": "1886-02-18",
+   "date_end": "1886-02-25",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "\"Calamity Joe\" held in Dickinson jail",
+   "summary": "The paper reported that \"Calamity Joe\" was still in jail in Dickinson and would not get his preliminary examination until he recovered from his wounds.",
+   "excerpt": "\"Calamity Joe\" is still in jail in Dickinson",
+   "people": [
+    "Calamity Joe"
+   ],
+   "places": [
+    "Dickinson"
+   ],
+   "tags": [
+    "crime",
+    "courts",
+    "law"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a29",
+   "confidence": "high"
+  },
+  {
+   "id": "e18",
+   "date": "1886-02-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Sunday evening\" before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Joe Ferris and his bride return to Medora",
+   "summary": "The paper reported that Joe Ferris and his bride returned from New Brunswick on Sunday evening and had gone to housekeeping in the rooms over the general store.",
+   "excerpt": "Joe Ferris and his bride returned Sunday evening from New Brunswick",
+   "people": [
+    "Joe Ferris"
+   ],
+   "places": [
+    "Medora",
+    "New Brunswick"
+   ],
+   "tags": [
+    "social",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a30",
+   "confidence": "high"
+  },
+  {
+   "id": "e19",
+   "date": "1886-02-18",
+   "date_end": "1886-02-25",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 25 Feb 1886; \"the last few days\"",
+   "planned": false,
+   "title": "Little Missouri falls; 60-mile ice jam above the Ox-bow",
+   "summary": "The paper reported that the river had fallen about eighteen inches but was still too deep to ford, and that a solid jam of old ice ran at least sixty miles upriver from the Ox-bow.",
+   "excerpt": "Beginning at the Ox-bow, for at least sixty miles up the river there is a solid jam of old ice",
+   "people": [],
+   "places": [
+    "Little Missouri",
+    "Ox-bow"
+   ],
+   "tags": [
+    "water",
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a32",
+   "confidence": "high"
+  },
+  {
+   "id": "e20",
+   "date": "1886-02-18",
+   "date_end": "1886-02-25",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Cow Boy warns Medora's \"midnight howlers\"",
+   "summary": "The paper warned a gang of midnight howlers that a fine, costs and a trip to Dickinson awaited them if they kept disturbing the peace.",
+   "excerpt": "The gang of midnight howlers who occasionally make night hideous",
+   "people": [],
+   "places": [
+    "Medora",
+    "Dickinson"
+   ],
+   "tags": [
+    "law",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "medium"
+  },
+  {
+   "id": "e21",
+   "date": "1886-02-18",
+   "date_end": "1886-02-25",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Plan floated to make river crossing safe for horses",
+   "summary": "The paper proposed nailing six-inch boards beside the two boards already laid across the river so horses could cross in high water, at a cost of about twenty-five dollars raised by subscription.",
+   "excerpt": "There ought to be at least twenty-five men, interested enough to give a dollar each",
+   "people": [],
+   "places": [
+    "Medora",
+    "Little Missouri"
+   ],
+   "tags": [
+    "water",
+    "building"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a35",
+   "confidence": "medium"
+  },
+  {
+   "id": "e22",
+   "date": "1886-02-20",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"the night before\" \"last Sunday\" (21 Feb) before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Youths fire six-shooters at departing train",
+   "summary": "The paper reported that several youths saluted the departing train with six-shooter fire, nearly frightening a lady passenger into a fainting fit.",
+   "excerpt": "had saluted the departure of the train the night before, with the discharge of their six-shooters",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "crime",
+    "railroad",
+    "law"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a36",
+   "confidence": "high"
+  },
+  {
+   "id": "e23",
+   "date": "1886-02-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Sunday\" before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Sheriffs Drury and Sebastian come to Medora",
+   "summary": "The paper reported that the arrival of deputy sheriff Drury of Morton county and sheriff Sebastian of Stark county caused the train-shooting youths to scatter.",
+   "excerpt": "\"several were the skips\" when the officers were known to be in town.",
+   "people": [
+    "Drury",
+    "Sebastian"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "law",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a36",
+   "confidence": "high"
+  },
+  {
+   "id": "e24",
+   "date": "1886-02-18",
+   "date_end": "1886-02-25",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Cow Boy office closes out Studebaker wagons",
+   "summary": "The paper offered seven new 3½ Studebaker wagons at $75 each, cash, to reduce stock, as instructed by the Studebaker company.",
+   "excerpt": "Studebaker M'f'g. Co. have instructed us to close out at $75 each.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a37",
+   "confidence": "medium"
+  },
+  {
+   "id": "e25",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Second (2nd.) Monday in April, 1886\" = 12 Apr 1886",
+   "planned": true,
+   "title": "First Billings County organizing election set for Medora",
+   "summary": "Governor Gilbert A. Pierce's notice set an election at Medora on the second Monday in April 1886 for Billings County's first officers and the temporary county seat.",
+   "excerpt": "an election will be held for the following officers of said county of Billings, in said Territory of Dakota, in the organization of said county",
+   "people": [
+    "Gilbert A. Pierce"
+   ],
+   "places": [
+    "Medora",
+    "Billings County"
+   ],
+   "tags": [
+    "politics",
+    "law"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a38",
+   "confidence": "high"
+  },
+  {
+   "id": "e26",
+   "date": "1886-02-18",
+   "date_end": "1886-02-25",
+   "date_precision": "week",
+   "date_basis": "advertisement; no date given; week before Thu 25 Feb 1886",
+   "planned": false,
+   "title": "Willard & Keeler open meat market in former Chas. Cook building",
+   "summary": "An advertisement announced that Willard & Keeler had opened a first-class meat market in the building formerly occupied by Chas. Cook, and paid cash for game.",
+   "excerpt": "We have opened a first-class meat market in the building formerly occupied by Chas. Cook",
+   "people": [
+    "Willard",
+    "Keeler",
+    "Chas. Cook"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a39",
+   "confidence": "medium"
+  }
+ ]
+}

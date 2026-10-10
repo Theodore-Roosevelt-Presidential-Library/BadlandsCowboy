@@ -1,0 +1,1310 @@
+{
+ "date": "1886-11-11",
+ "masthead": "Thursday, November 11, 1886",
+ "volume": "Vol. 3, No. 39",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "cols 1-3 display ads and publisher's box; cols 4-6 Thanksgiving proclamation, comment, 'Additional Local' items, Stock Notes and reprinted range articles"
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "patent inside: editorial filler, Condensed News, Dakota election returns, miscellany"
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "patent inside (W.N.U.): elections, miscellany, patent-medicine ads"
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "col 1 local: masthead, NP time table, local items, partnership notice, county commissioners' proceedings (lower part dark/stained); cols 2-4 display ads; cols 5-7 cattle and horse brand ads"
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "1",
+   "region": [
+    2,
+    15,
+    13,
+    7
+   ],
+   "section": "masthead",
+   "headline": "Bad Lands Cow Boy, By A. T. Packard.",
+   "text": "The Cow Boy is not published for fun, but for $2 per year.\n\nAdvertising Rates made known on application.\n\nStanding Advertisements payable quarterly.\n\nTransient Advertisements and all Job work, money in sight.\n\nAddress all communications to THE BAD LANDS COW BOY, MEDORA, DAKOTA.\n\nEntered at the post-office at Medora, Dak., as second class mail matter.",
+   "summary": "Publisher's box: terms of subscription and advertising; masthead line reads Volume 3, Number 39, Medora, Dakota, November 11, 1886, price $2.00 per year.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a2",
+   "page": 1,
+   "cols": "1-3",
+   "region": [
+    2,
+    15,
+    52,
+    84
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "A. T. Packard, Notary Public, Medora, Dak.\nHunters and Trappers!! — W. Gouldspee, Boston, Mass. — price-list of raw furs and skins, birds and water-fowls' skins and wild game\nF. E. Benjamin, Jeweler and Watchmaker, Mandan, Dakota\nFirst National Bank of Mandan, Dakota — M. R. Lyon, Prest.; H. VanVleck, Jr., Cashier; M. Lang, Vice President; paid-up capital $50,000, surplus $15,000\nAlex. Morton, Blacksmithing and Horse-Shoeing, Medora, Dak. — \"Work done neatly and promptly.\"\nD. Flynn, manufacturer and dealer in Boots, Shoes, Rubbers, Etc., Main Street, Mandan, Dak.\nF. M. Searles, Furniture, Carpets, 3rd St., Bismarck, Dak.\nInsurance! Insurance! — policies at regular Eastern rates against fire, lightning, wind storms and hail — A. T. Packard, Agent, Medora, Dak.\nNorthern Pacific Railroad — \"The direct line between St. Paul, Minneapolis, or Duluth\" and points to Oregon, Puget Sound and Alaska; Chas. S. Fee, General Passenger Agent, St. Paul, Minn.\nEstey Organ Co., Brattleboro, Vt. — Estey Organ\nElectric Light Soap — Atkins Soap Co., Indianapolis, Ind.\nThe Adams & Westlake Mf'g Co., Chicago, New York, Boston — interchangeable oil, gas and gasoline stoves\nInstantaneous Round-Up Views — Huffmann's set of thirty-six round-up photographs, $5, or \"The Cow Boy a year and the set, $6,\" The Bad Lands Cow Boy, Medora, Dak.\nM. F. Kennedy & Bros., St. Paul, Minn. — shotguns, rifles, revolvers, ammunition, fishing tackle (est. 1867)\nJ. A. Ferris, Medora, Dak. — general merchandise, flour, feed, ranchmen's supplies; authorized Medora agent for J. S. Collins & Co., Miles City, Mont. (saddles, bridles, bits)\nJas. McMillan & Co., The Minneapolis Sheepskin Tannery, Minneapolis, Minn. — hides, sheep pelts, furs, tallow\nGriggs & Co., 190 and 192 East Fifth St., St. Paul, Minnesota — groceries at wholesale to consumers\nThe Brookmont Herd — C. W. Cook & Son, Odebolt, Sac Co., Ia. — Herefords; 25 young bulls and 40 yearlings\nC Spring Cart Co., Rushville, Ind. — two-wheeled vehicles, buckboards, harness\nFargo [Insurance Co.] of Fargo, Dakota — \"Fire, Lightning, Tornado, Hail!\"; W. W. Walker, President; R. F. Woolfolk, Vice President; D. L. Fry, Treasurer; W. A. Lowell, Secretary; A. T. Packard, Agent, Medora, Dakota",
+   "summary": "Directory of display advertisers on page 1, columns 1–3.",
+   "people": [
+    "A. T. Packard",
+    "J. A. Ferris",
+    "Alex. Morton"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a3",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    53.6,
+    15,
+    13,
+    25
+   ],
+   "section": "politics",
+   "headline": "Thanksgiving Proclamation.",
+   "text": "A Proclamation by the Governor.\n\nDuring the season that has passed, the people of this territory have been abundantly blessed with health and freedom from distressing calamities;\n\nThe hand of justice has not been stayed;\n\nThe laws have been observed;\n\nNo social disturbance has afflicted us;\n\nNo angry turmoil has rent communities in twain or called for force to maintain order.\n\nThough the fullest fruits of American citizen-ship have not yet been attained, no people are less burdened with legal restrictions, and no freer breath is drawn than that enjoyed by the citizens of this commmon-wealth. Safe in his home! Safe in the enjoyment of his conscience and his God!\n\nFor these and for kindred blessings it is becoming that we raise our voices in gratitude to the Almighty.\n\nTherefore, in conformity to the president's proclamation, I commend to the people the observance of Thursday, the 25th day of November, as a day of thanksgiving and prayer. \"With malice toward none, with charity for all,\" remembering the needy and afflicted, and beseeching the Divine blessing on the future of this land, let us meet in church and home and celebrate this annual festival—a season associated with sacred memories and hallowed by the custom of our fathers.\n\n\"Under God the people rule.\"\n\nWitness my hand and the great seal of the Territory, this 4th day of November, in the year of our Lord one thousand eight hundred and eignty six.\n\nGILBERT A. PIERCE.\n\nSEAL.\n\nBy the Governor:\n\nM. L. McCormack, Secretary.",
+   "summary": "Dakota Territorial Governor Gilbert A. Pierce proclaims Thursday, November 25, 1886, a day of thanksgiving and prayer.",
+   "people": [
+    "Gilbert A. Pierce",
+    "M. L. McCormack"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a4",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    53.6,
+    40,
+    13,
+    10
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "The reported majority of McGill, republican candidate for governor of Minnesota, has steadily dwindled day by day until the apparently official count is 2,314 in his favor. Had it not been for the demonstration against the McGill procession in Minneapolis just before the election, there seems little doubt that Ames would have carried the state. The republicans will have to work hard to roll up an old time majority in the next contest.",
+   "summary": "Comment on McGill's narrow apparent majority over Ames in the Minnesota governor's race.",
+   "people": [
+    "A. R. McGill",
+    "Ames"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a5",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    53.6,
+    50,
+    13,
+    13
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The Cherokee syndicate, formed in New York for the purpose of buying the Cherokee strip of the Indians, comes out with the cool statement that they intend getting up a corner on grazing lands. The coolness of this claim is refreshing. In the first place, the government has the first option on the purchase of these lands and it is not at all likely that it will wave its rights in the interest of a set of land-grabbers. In the second place, the Cherokee Strip is only an insignificant part of the grazing area of the west and a hundred times its 6,000,000 acres would hardly corner the range territory. The brains of the syndicate, if it has any, had better come west and see some of the country before they begin talking of cornering the western ranges. They are nearly as bad as Griffins' Irishman who wanted the earth—and some of the outside.",
+   "summary": "Editorial scoffing at a New York syndicate's claim that buying the Cherokee Strip would corner western grazing lands.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a6",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    53.6,
+    64,
+    13,
+    4
+   ],
+   "section": "local",
+   "headline": "Additional Local.",
+   "text": "Services were held in the depot last Sunday evening by a minister from Gladstone.",
+   "summary": "Church services held in the Medora depot by a Gladstone minister.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a7",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    53.6,
+    68,
+    13,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Geo. T. Reynolds of Reynolds Bros. outfit down the river, is president of First National bank of Albany, Texas.",
+   "summary": "Note that Geo. T. Reynolds of the Reynolds Bros. outfit is president of the First National Bank of Albany, Texas.",
+   "people": [
+    "Geo. T. Reynolds"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a8",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    53.6,
+    71,
+    13,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The expenses of the last trial of Marquis de Mores have just been paid by the territorial auditor. They amounted to $2,629.",
+   "summary": "The territorial auditor has paid the $2,629 expenses of the Marquis de Morès's last trial.",
+   "people": [
+    "Marquis de Morès"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a9",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    53.6,
+    73.5,
+    13,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Work has begun on the ice dam, which will be located in the same place it was last year. About 10,000 tons will be put up.",
+   "summary": "Work begun on the ice dam; about 10,000 tons of ice to be put up.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a10",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    53.6,
+    75,
+    13,
+    3.5
+   ],
+   "section": "railroad",
+   "headline": null,
+   "text": "Medora is now a changing point in the express messengers run, Helena being the western point on this run. The stopover here is ten hours and at Helena, thirty-six.",
+   "summary": "Medora becomes a changing point for express messengers on the run to Helena.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a11",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    53.6,
+    78.5,
+    13,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A man calling himself Sparks is supposed to have stolen one of the company's horses last week and skipped out. Vigorous measures are being taken for his apprehension.",
+   "summary": "A man calling himself Sparks is suspected of stealing one of the company's horses.",
+   "people": [
+    "Sparks"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a12",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    53.6,
+    81,
+    13,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "All kinds of wagon extras for sale, including double and single-trees, clevises, wrenches, neck-yokes, lock and stay-chains etc.\n\nA. T. PACKARD.",
+   "summary": "Packard advertises wagon extras for sale.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a13",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    53.6,
+    83.5,
+    13,
+    3.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The Marquis will return about the 20th. On his way from New York, he will stop in Chicago and deliver an address on dressed beef before the Consolidated stock associations.",
+   "summary": "The Marquis de Morès expected back about Nov. 20, after addressing stock associations in Chicago on dressed beef.",
+   "people": [
+    "Marquis de Morès"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a14",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    53.6,
+    87,
+    13,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "There are probably more cattle on Andrew's creek than any other of its size in the Bad Lands. The feed has been grazed low but the cattle are in fine condition; better than they have been in four years.",
+   "summary": "Cattle on Andrew's creek reported in fine condition.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a15",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    53.6,
+    90,
+    13,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The Marquise de Mores yesterday shot two large wild cats on the Glendive road. She has now killed one or more specimens of all the large game in the northwest, including grizzly and silver-tip bear, elk, deer, antelope, wild cats etc.",
+   "summary": "The Marquise de Morès shot two wild cats on the Glendive road.",
+   "people": [
+    "Marquise de Morès"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a16",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65.8,
+    15,
+    13,
+    6
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The river is later freezing over this year than it has been for five years. Last night it froze nearly across with slush ice out hard ice has only formed near the shore. Heretofore, the river has generally had a three or four inch coat of ice by Nov. 10.",
+   "summary": "Little Missouri freezing over later than in five years; slush ice nearly across the river last night.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a17",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65.8,
+    21,
+    13,
+    6
+   ],
+   "section": "railroad",
+   "headline": null,
+   "text": "By order of President Harris of the Northern Pacific, the sale of liquor on railroad land is prohibited. This will set such hotels as the Sheridan at Bismarck and the Headquarters at Fargo to guessing as to where their bars are to be located. During the last session of the legislature at Bismarck, the bar coined from $200 to $500 per day for landlord Bly.",
+   "summary": "Northern Pacific President Harris prohibits liquor sales on railroad land.",
+   "people": [
+    "Harris",
+    "Bly"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a18",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65.8,
+    27,
+    13,
+    11
+   ],
+   "section": "range",
+   "headline": "STOCK NOTES.",
+   "text": "The following are the latest cattle quotations in the Chicago market:\n\nPrime Beeves..............$5.10 @ 5.30\nChoice to fancy shipping,....$4.30 @ 5.10\nGood to choice shipping,....$4.00 @ 4.60\nCommon to good shipping,..$3.35 @ 3.90\nPoor to medium steers,.....$3.00 @ 3.45\nGrass-fed natives,..........$3.00 @ 3.20\nGrass-fed Texans,...........$2.15 @ 2.90\nNorthern Rangers..........$2.60 @ 3.65\nFair to choice native cows, $1.60 @ 2.60\nInferior to medium cows...$1.25 @ 1.65\nPoor to choice bulls,........$1.50 @ 2.75\nStockers, 500 to 860 lbs,....$1.75 @ 2.60\nFeeders, 600 to 1,200 lbs,...$2.55 @ 3.40\nVeal calves..................$3.50 @ 6.00\nMilch cows, [per] head,.....$20.00 @ 45.00",
+   "summary": "Latest Chicago cattle quotations.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a19",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65.8,
+    38,
+    13,
+    8
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "A case decided recently in Wyoming, declared it to be unconstitutional for a stock association to sell mavericks for its own benefit. This maverick question gives rise to more disputes than anything else in the cow business but the plan adopted by the Little Missouri association seems to give better satisfaction than any other. Here all mavericks are branded with the marks of the owner of the range on which the maverick is found. In case of dispute, the matter is left to arbitrators, whose decision is final.",
+   "summary": "Wyoming ruling on mavericks; the Little Missouri association's maverick plan described.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a20",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65.8,
+    46,
+    13,
+    15
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Col. C. C. Slaughter of Texas is busy at work on a scheme whereby the value of all range cattle will be raised $10 to $25 per head. The plan is to pool all range cattle- growers, the total number of cattle represented, being 10,000,000. Each owner is then to contribute a dollar a head and the $10,000,000 thus raised is to be used in building immense stock-yards in St. Louis and Chicago. Each owner is also to agree not to sell any cattle to outside buyers for less than six cents a pound, Providing all rangemen will adopt the plan it will be a success, but on this same plan farmers could combine and force wheat up to two dollars a bushel. They never have done this and never will. Enough will stay out to break the pool. Something should certainly be done to raise the maret price of cattle but it must be a more feasible plan than the above. If a few men would put up the requisite $10,000,000 for the good of their fellow stock-raisers, the plan ought to succeed. It never will if each owner is required to chip in a dollar a head on his cattle.",
+   "summary": "Skeptical comment on Col. C. C. Slaughter's plan to pool range cattle growers.",
+   "people": [
+    "C. C. Slaughter"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a21",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65.8,
+    61,
+    13,
+    16
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The present strike at the Union stock yards in Chicago, bids fair to be desperately fought out to the bitter and bloody end by both sides. The packers have positively declared that they will not under any circumstances employ Knights of Labor in the future. Any member who is employed by any of the packers must first resign and place his resignation in the hands of his employer. This is a move against the Knights of Labor as a body and the strikers claim that their cause must now be championed by the general assembly of the Knights. They declare that a boycott on all Chicago dressed beef will be declared and that they will not yield an inch. About 20,000 men are now striking and the packing houses are employing new men as fast as they apply for places. Pinkerton and Town of Lake police, 350 deputy sheriffs and two companies of state militia are now camped at the stock yards and will enforce order. The packing houses are all short handed but the proprietors say they will close before yielding a point to the strikers. Shots have been exchanged frequently but up to yesterday, no one had been killed.",
+   "summary": "Report on the Chicago Union stock yards strike against the packers.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a22",
+   "page": 1,
+   "cols": "5-6",
+   "region": [
+    65.8,
+    77,
+    25,
+    23
+   ],
+   "section": "range",
+   "headline": "Chicago Meat Products.",
+   "text": "In 1882 the number of slaughtering and meat packing establishments in Illinois was 143; the capital was $12,019,980, the number of hands employed was 16,878, the total amount paid in wages amounted to $4,077, 519.\n\nThe total number of beeves slaughtered by this force of men was 595,274; the average gross weight of the beeves was 990 pounds, and their total value was $18,391,799. The total number of sheep slaughtered was 47,783, aggregating a value of $196,010. Total number of hogs killed 5,745,263, total value aggregating $58,231,053.\n\nThe value of all the animals slaughtered was $79,679,478 and the total value of all the materials used in these slaughter houses, such as cooperage, salt etc., was $4,970,240.\n\nThe number of pounds of beef sold [fresh?], was 144,379,073, number of pounds [canned?] was 91,227,699. The beef salted was 44,568,911 lbs. Pounds of fresh mutton sold were 2,265,592, pounds of fresh and salt pork sold aggregated 386,794,475; number of pounds of bacon sold was 474,010,469; pounds of lard sold were 199,066,782, while the total value of all products handled amounted to $97,891,512. Since 1887, this branch of Illinois industry has considerably increased.\n\nIt will prove a heavy blow to Chicago if the labor troubles result in driving away this vast business and any sudden disruption of it will be disastrous to the commercial interests of the whole country and to the comfort at least, of many people.—[L. S. and Produce Review.",
+   "summary": "Reprinted statistics on Illinois meat packing (from the Live Stock and Produce Review).",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a23",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    78.3,
+    24,
+    13.5,
+    30
+   ],
+   "section": "range",
+   "headline": "A New Departure for Texas Steers.",
+   "text": "Last week, the representatives of Messrs. Driscoll, Blocker & Davis, heavy Texas drovers, closed negotiations with Messrs. Barnes & Scheafer for the winter care and feeding of 2,000 head of steers on DT ranch on the Platte below fremont's Orchard, in Weld county. The deal is a mutual co-partnership arrangement. Barnes & Scheafer have this year put up great quantities of hay on their ranch. With this they agree to feed the herd of steers through the winter and next May, when public grazing becomes good again, they are to turn over to the original owners four-sevenths of ninety per cent. of the cattle received in the fall. That is, they figure on a possible death loss of ten per cent. and for their interest in the scheme they take out three-sevenths of the herd for their share of the feed, labor and care in keeping the cattle from staryation.\n\nIt is understood that Barnes & Scheafer are prepared to do this feeding on an improved plan. They have two pastures. When the stock is not close-herded in one of these fields, but is run under watch out on the plains—and this is feasible in mild days in winter—the herd is to be held in pasture and fed where the stock stands by hauling the hay out to the fields on a four mule wagon and scattered about at convenient distances. After feeding, the cattle are driven into an adjoining field and their places filled by calves and yearlings, which do the after feeding on the old plan of keeping hogs for that purpose.\n\nBesides this sensible arrangement the receivers of the cattle will at once establish a sort of a hospital, in which one or two hundred of the very weakest animals in the bunch will be isolated and fed with special care so that they will become strong and healthy again and eventually be placed in the main herd. The parties think that under this plan the loss, counting on an ordinary winter, of course will be merely nominal. By feeding these Texas brutes in this way they will pass comfortably through the winter and come out in early spring prepared for the shambles, whereas were they not taken up and fed, the probubility is they would drift apart on the plains and die from starvation and cold.—[Field and Farm.",
+   "summary": "Reprint from Field and Farm on a Colorado winter-feeding partnership for 2,000 Texas steers.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a24",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    78.3,
+    54,
+    13.5,
+    42
+   ],
+   "section": "range",
+   "headline": "South American Live Stock.",
+   "text": "In considering the possible rivalry with which the producers of the United States would have to contend in their future foreigh fat stock trade, but little account has been taken of South America. It has been understood in a vague way that there were untold thousands of cattle and sheep wandering over the plains and tablelands, but their average quality and the comparatively unprogressive nature of the people owning them have taken as a kind of warrant that we need expect no serious interference from that quarter. Wool-growers have more fully appreciated the possibility of formidable competition from South America inasmuch as our markets have already handled no small quantity of the excellent Montevideo staple and the less valuable carpet wools of the grazing country. But we have yet to realize that South American cattle may croud us in the markets of Europe.\n\nThe evidence upon which, more than upon any other, rests the probability of an export trade of importance being created between South America and our trans-Atlantic customers lies in the current movement among our southern neighbors for the improvement of their stock. To this end importations of their breeding stock are rapidly increasing from year to year—so rapidly, in fact, that some of England's best customers for fine stock are being found in that direction, Uruguay and the Argentine Republic are investing heavily in breeding animals, the result of which must very substantially amend the quality of their stock in a few years.\n\nThere is doubtful significance in this. It is not only positively preparatory to the production of better stock in a latitude and under conditions peculiarly favorable, but it is establishing the closest business relations with our best customers for animal products. Let it be remembered too, that these [patrons?], through jealously and for other reasons, would be glad of an opportunity to diminish their purchases from the United States and a very important element is brought into the subject under consideration. We do not allude to this as a discouraging circumstance, simply as pointing to a condition of things to be expected, and which our people must take into consideration. It becomes more and more evident from year to year that we produce few, if any commodites whose position in the markets of the world can be held without effort. This is a \"glorious country,\" but out people have no sinecure in maintaining its supremacy in the directions indicated.—[National Stockman.",
+   "summary": "Reprint from the National Stockman on South American cattle as future competition in European markets.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a25",
+   "page": 2,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "",
+   "summary": "Ready-print (patent inside) page: editorial-page filler under a Bad Lands Cow Boy heading, 'Condensed News' (Indian commissioner's report, national items), Dakota election returns from Pioneer Press telegrams, 'The Genie Electron', industrial briefs and humor.",
+   "people": [],
+   "method": "ocr",
+   "confidence": "medium"
+  },
+  {
+   "id": "a26",
+   "page": 3,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "",
+   "summary": "Ready-print (patent inside) page marked W.N.U.: national election returns, 'The Cocaine Habit', Senate strategies and miscellany, with patent-medicine and mail-order advertisements.",
+   "people": [],
+   "method": "ocr",
+   "confidence": "medium"
+  },
+  {
+   "id": "a27",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5.5,
+    6,
+    14,
+    11
+   ],
+   "section": "railroad",
+   "headline": "Northern Pacific Time Table.",
+   "text": "Bad Lands Cow Boy, By A. T. Packard. Thursday, November 11, 1886.\n\nWEST BOUND.\nPacific Express, No. 1..........6:45 p. m.\nExpress Freight, 2d Class.......[9:35?] p. m.\nFreight, 3d Class.................11:40 p. m.\n\nEAST BOUND.\nAtlantic Express, No. 2..........[8:36?] a. m.\nExpress Freight, 3d Class......6:20 a. m.\nFreight, 3rd Class.................2:55 a. m.\n\nD. W. WILLIAMS, Agent.",
+   "summary": "Local masthead and Northern Pacific time table at Medora.",
+   "people": [
+    "D. W. Williams"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a28",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5.5,
+    17,
+    14,
+    2
+   ],
+   "section": "railroad",
+   "headline": null,
+   "text": "Railroad travel is remarkably light at present.",
+   "summary": "Railroad travel light.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a29",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5.5,
+    19,
+    14,
+    2
+   ],
+   "section": "railroad",
+   "headline": null,
+   "text": "Northern Pacific preferred stocks, 63½; common, 28⅝.",
+   "summary": "Northern Pacific stock prices.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a30",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5.5,
+    21,
+    14,
+    3
+   ],
+   "section": "railroad",
+   "headline": null,
+   "text": "Winter freight rates average a dollar a hundred higher than summer rate from St. Paul to Medora.",
+   "summary": "Winter freight rates from St. Paul to Medora a dollar a hundred higher.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a31",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5.5,
+    23.5,
+    14,
+    8
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The citizens of Medora were surprised to learn last Saturday that the previous evening, Ed. Turner and Miss Kate Goodall had been married and that they had immediately started west on their wedding trip. Ed. is generally liked here, and since her arrival this summer, Miss Goodall has made friends of all she has met. There was no previous announcement of the ceremony and to that extent it is a disappointment to many here who could have wished to give the contracting parties a good send-off. We learn that they will prebably settle in Oregon. Many are the good wishes that will follow them to their new home.",
+   "summary": "Ed. Turner and Miss Kate Goodall married without announcement and left west on their wedding trip.",
+   "people": [
+    "Ed. Turner",
+    "Kate Goodall"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a32",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5.5,
+    31.5,
+    14,
+    9
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "To close out the stock of Studebaker wagons now on hand, I will make prices for cash that are lower than the wholesale factory rate. The wagons are new and first-class and have Studebaker Bros. full guarantee as to soundness. They will be sold cheaper than any wagons that have ever been sold in this country and cheaper than they can be bought in car lots at the factory. The only reason for making these rates is to close out stock on hand. They must and shall go soon.\n\nA. T. PACKARD.",
+   "summary": "Packard offers to close out his stock of Studebaker wagons below factory rate.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a33",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5.5,
+    41,
+    14,
+    6
+   ],
+   "section": "legal",
+   "headline": "NOTICE.",
+   "text": "The co-partnership heretofore existing between the undersigned, is this day dissolved by mutual consent. Martin Timlin will assume all liabilities and all debts due said firm will be paid him. He will continue business at the old stand.\n\nMedora Dak. Nov. 1st. 1886\n\nM. D. RIDER.\nMARTIN TIMLIM.",
+   "summary": "Notice of dissolution of the Rider–Timlin partnership; Martin Timlin continues the business.",
+   "people": [
+    "M. D. Rider",
+    "Martin Timlin"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a34",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5.5,
+    47,
+    14,
+    51
+   ],
+   "section": "legal",
+   "headline": "Commissioners' Meeting.",
+   "text": "At a special meeting of the board of county commissioners held at the county building in Medora, Dak., Nov. 3, 1886.\n\nThe meeting was called to order by the chairman.\n\nPresent: Commissioners Truscott and Goodall and Clerk Williamson.\n\nThe first business before the board was that of adjusting bills on file against Billings Co.\n\nThe following bills were allowed:\n\nW. F. Van Driesche was allowed for services rendered in revising polling lists and acting as judge of election in the organization of Billings Co., $5.\n\nHoward Eaton was allowed $6 for like services.\n\nCommissioner McKenzie was allowed two days' attendance, $6.\n\nFees to the amount of $90.90 were allowed the treasurer.\n\nElection expense bill for precinct No. 1, was allowed and a warrant issued to Howard Eaton in full for the amount of $16.50.\n\nElection expense bill for precinct No. 2, was allowed and a warrant issued to W. F. Van Driesche in full for the amount of $23.95.\n\nElection expense bill for precinct No. 3 was allowed and a warrant issued to W. L. Eaton in full for thn amount of $21.00.\n\nW. L. Eaton was allowed for services rendered as assessor, $108.\n\nGeo. D. Barnard Co. of St. Louis, Mo., were allowed their balance in full to date for books and stationery, $411.50.\n\nOn motion, the board adjourned to meet in the morning at 8 o'clock.\n\nJ. C. WILLIAMSON, Clerk.\n\nMEETING ON MORNING OF NOV. 4.\n\nMeeting called to order by the chairman.\n\nPresent: Cmmissioners Truscott and Goodall and Clerk Williamson.\n\nThe first business before the board was the consideration of the Von Hoffmann cattle assessment.\n\nThe board agreed that the cattle assessed to L. A. Von Hoffmann do not belong in school township No. 1 and are not subject to the ten mill (.010) tax levied by the school board and it was stricken out.\n\nOn motion, Mosler, Bahmann & Co. of Cincinnati, O., were allowed as per contract for jail cells, [$1,650?] and a warrant issued for the full amount.\n\nOn motion, the name of H. S. Boles was chosen as one member of the Billings Co. brand committee, to serve to the 1st. of January, 1887. The name of B. F. Lamb was selected as the second member, to serve to the 1st. of January, 1888, and the county clerk, under the law, acts as the third member.\n\nJ. D. [Garver?] was allowed for ballot boxes furnished the county, [$3.00?] and a warrant issued for the amount.\n\nCommissioner Goodall was appointed a committee of one to have located the jail cells in their proper place in the building.\n\nJ. A. Copeland was awarded the contract of furnishing material and enclosing the jail building for [$35.80?].\n\nDan. McKenzie was allowed $10 for bedding furnished the jail and a warrant issued for the amount.\n\nW. F. Van Driesche was allowed $130.90 for funds [illegible] on account of poor and a warrant issued him for the amount.\n\nThe returns of the election of Nov. 2nd. having all been received, the board proceeded to canvass the votes. Having finished the canvass, the board adjourned.\n\nJ. C. WILLIAMSON, County Clerk.",
+   "summary": "Proceedings of the Billings County commissioners, Nov. 3–4, 1886: bills allowed, Von Hoffmann cattle assessment, jail cells, brand committee, and election canvass.",
+   "people": [
+    "Truscott",
+    "Goodall",
+    "J. C. Williamson",
+    "W. F. Van Driesche",
+    "Howard Eaton",
+    "Dan McKenzie",
+    "W. L. Eaton",
+    "L. A. Von Hoffmann",
+    "H. S. Boles",
+    "B. F. Lamb",
+    "J. A. Copeland"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a35",
+   "page": 4,
+   "cols": "2-4",
+   "region": [
+    19,
+    6,
+    38,
+    92
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Royal Baking Powder Co., 106 Wall St., New York City — \"Absolutely Pure.\"\nThe Elk! (display banner; no further text)\nE. J. Owenhouse, Bozeman, Mont. — stock saddles, Concord harness, fancy bits and spurs, chaparejos, reatas, quirts, hackamores\nMcDougal & Gunn, Mandan, Dak. — \"Stoves and Hardware Cheap!\"; soft and hard coal stoves, cook stoves, ranges, general hardware west of the Missouri River\nCity Drug Store, Medora, Dak. — H. M. Jorgens, Proprietor; drugs, patent medicines, perfumery, toilet articles, notions, periodicals, stationery\nN. D. Thompson Publishing Co., St. Louis, Mo., or New York — Agents Wanted for the Every Day Life of Lincoln\nEdick Bros., 64 Main Street, Bismarck, Dak. — cigars and tobacco, smokers' articles\nHayward Hand Grenade Co., 407-409 Broadway, N. Y. — fire extinguisher\nThe Clipper Tricycle — \"The leading Wheel Plow on the market\" — Parlin & Orendorff Co., Canton, Ill.\nMerwin, Hulbert & Co., 83 Chambers St., New York city — revolvers, American Metallic Cartridges\nGeo. P. Rowell & Co., Newspaper Advertising Bureau, 10 Spruce St., New York\nMedora Stage & F. Co. — horses branded on left shoulder, strung on stage stations between Medora and Deadwood; $25 reward for information on anyone dealing unlawfully with them\nStudebaker farm and freight wagons, platform spring wagons, buckboards — A. T. Packard, Agent, Medora, Dak.\nStinson & Co., Portland, Maine — \"Gold\"\nScientific American / Patents — Munn & Co., 361 Broadway, New York\nMinneapolis & St. Louis R'y and the \"Famous Albert Lea Route\"",
+   "summary": "Directory of display advertisers on page 4, columns 2–4 (ready-print and local).",
+   "people": [
+    "H. M. Jorgens",
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a36",
+   "page": 4,
+   "cols": "4-7",
+   "region": [
+    44.5,
+    6,
+    51,
+    92
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Brand: Chase & Gilmore's Ranch, Chase & Fry, Managers, Dickinson, Dak. — ranges Cherry creek and Little Missouri in winter, Killdeer Mountains in summer; horse brand mule shoe\nBrand: Thomas & Arnett, J. B. Thomas, Cheyenne, Wyo.; A. H. Arnett, Dickinson, Dak. — AHA; range Little Missouri, west of Killdeer Mts.; horse brand VH\nBrand: E. W. Casey, L. C. Hunt, Manager, P.O. Medora, Billings Co., Dak. — KC and F; range Garner Creek\nBrand: Sloping Bottom Ranch, Lloyd Roberts, Proprietor, P.O. Medora — range Little Missouri, 7 miles south of N. P. R. R.\nBrand: Badger Cattle Company, Howard Eaton, M'g'r, P.O. Medora, Billings Co. — range Beaver creek and Little Missouri river\nBrand: Dorr Clark, Spearfish, Dakota — VVV; range Belle Fourche\nBrand: Clark & Plum, Spearfish, Dakota — E6; range Grand river; $100 reward re VVV or E6 ranges\nBrand: Little Missouri Horse Company, E. R. Tarbell, M'n'g'r, Medora, Dak. — range Davis creek and Little Missouri river\nBrand: W. N. Thompson & Co., Wm. Dantz, Manager, P.O. Medora, Billings Co. — quarter-circle diamond and TD\nBrand: Lemoyne Cattle Co. (Limited), J. P. Small, Manager, Glendive, Montana — LC; range Little Missouri River south of N. P. R. R. and Dawson Co., Mont.\nBrand: Soho Cattle Co., Chas. Eaton, Manager, Medora, Dak. — SO; range Little Missouri river and Beaver Creek north of N. P. R. R.\nBrand: Garner Creek Horse Ranch, J. A. VanEeghen [?], Prop., Medora, Dak. — range Garner creek, eight miles from mouth\nBrand: Chimney Butte Ranch, Theodore Roosevelt, Proprietor; Ferris & Merrifield, Managers, P.O. Medora — Maltese cross; range six miles south of N. P. R. R. on Little Missouri\nBrand: Bullion Creek Horse Ranch, Jack Bullion, Prop., Medora, Dak. — SS; range Bullion creek, twenty miles south of Medora\nBrand: N. P. Refrigerator Car Co., Medora, Dak. — also steers purchased of Mason & Lovell; ranges Little Missouri river and Beaver creek\nBrand: Ætna Ranch, John Munro, Prop., P.O. Mingusville, Montana — Æ; range Knutson creek\nBrand: Berry, Boice & Co., P.O. Keith, Montana — 777; range south of N. P. R. R. on Little Missouri river and Beaver creek\nBrand: E. G. Paddock, P.O. Medora, Dak. — six-inch circle-dot; range six miles north of crossing of N. P. R. R. and Little Missouri\nBrand: Spring Creek Ranch, L. D. & B. Rumsey; J. L. Truscott, Manager, P.O. Medora, Billings Co. — range south of N. P. R. R. on Little Missouri river\nBrand: Custer Trail Cattle Co., F. Alden Eaton, Supt., P.O. Medora, Billings Co. — HK in circle and others; range Little Missouri river, Deep and Davis creeks\nBrand: Neimmela Ranch, Gregor Lang, Manager, P.O. Medora, Dak. — thistle; range Keogh crossing of Little Missouri to Pretty butte\nBrand: Bad Lands Cattle Co., M. Wadsworth, Manager, P.O. Medora, Billings Co. — 7L, bellows, Pd; range Little Missouri river, fifteen miles north of Medora\nBrand: Towers & Gudgell, P.O. Keith, Montana — OX; range south of N. P. R. R. on Little Missouri river and Beaver creek",
+   "summary": "Directory of cattle- and horse-brand advertisements on page 4, including Theodore Roosevelt's Chimney Butte Ranch.",
+   "people": [
+    "Theodore Roosevelt",
+    "Sylvane Ferris",
+    "Bill Merrifield",
+    "Howard Eaton",
+    "Gregor Lang",
+    "Lloyd Roberts",
+    "E. G. Paddock",
+    "J. L. Truscott",
+    "F. Alden Eaton"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  }
+ ],
+ "events": [
+  {
+   "id": "e1",
+   "date": "1886-11-04",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Proclamation dated 'this 4th day of November' 1886",
+   "planned": false,
+   "title": "Governor Pierce proclaims Thanksgiving for November 25",
+   "summary": "Dakota Territorial Governor Gilbert A. Pierce proclaimed Thursday, November 25, 1886, a day of thanksgiving and prayer.",
+   "excerpt": "I commend to the people the observance of Thursday, the 25th day of November, as a day of thanksgiving and prayer.",
+   "people": [
+    "Gilbert A. Pierce",
+    "M. L. McCormack"
+   ],
+   "places": [
+    "Dakota Territory"
+   ],
+   "tags": [
+    "politics",
+    "holidays"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a3",
+   "confidence": "high"
+  },
+  {
+   "id": "e2",
+   "date": "1886-11-25",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Thanksgiving set for Thursday 25 Nov 1886 by proclamation",
+   "planned": true,
+   "title": "Thanksgiving Day appointed in Dakota Territory",
+   "summary": "The governor's proclamation set Thursday, November 25 as the territorial day of thanksgiving.",
+   "excerpt": "let us meet in church and home and celebrate this annual festival",
+   "people": [
+    "Gilbert A. Pierce"
+   ],
+   "places": [
+    "Dakota Territory"
+   ],
+   "tags": [
+    "holidays"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a3",
+   "confidence": "high"
+  },
+  {
+   "id": "e3",
+   "date": "1886-11-07",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "'last Sunday' before Thu 11 Nov 1886",
+   "planned": false,
+   "title": "Church services held in the Medora depot",
+   "summary": "Services were held in the depot on Sunday evening by a minister from Gladstone.",
+   "excerpt": "Services were held in the depot last Sunday evening by a minister from Gladstone.",
+   "people": [],
+   "places": [
+    "Medora",
+    "Gladstone"
+   ],
+   "tags": [
+    "town-life",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a6",
+   "confidence": "high"
+  },
+  {
+   "id": "e4",
+   "date": "1886-11-04",
+   "date_end": "1886-11-11",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 11 Nov 1886 issue",
+   "planned": false,
+   "title": "Territory pays costs of the Marquis de Morès's last trial",
+   "summary": "The territorial auditor paid the expenses of the last trial of the Marquis de Morès, which amounted to $2,629.",
+   "excerpt": "The expenses of the last trial of Marquis de Mores have just been paid by the territorial auditor. They amounted to $2,629.",
+   "people": [
+    "Marquis de Morès"
+   ],
+   "places": [
+    "Dakota Territory"
+   ],
+   "tags": [
+    "mores",
+    "courts",
+    "law"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a8",
+   "confidence": "high"
+  },
+  {
+   "id": "e5",
+   "date": "1886-11-04",
+   "date_end": "1886-11-11",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 11 Nov 1886 issue",
+   "planned": false,
+   "title": "Work begins on the Medora ice dam",
+   "summary": "Work began on the ice dam at the same place as last year; about 10,000 tons of ice were to be put up.",
+   "excerpt": "Work has begun on the ice dam, which will be located in the same place it was last year. About 10,000 tons will be put up.",
+   "people": [],
+   "places": [
+    "Medora",
+    "Little Missouri River"
+   ],
+   "tags": [
+    "business",
+    "water",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a9",
+   "confidence": "high"
+  },
+  {
+   "id": "e6",
+   "date": "1886-11-04",
+   "date_end": "1886-11-11",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 11 Nov 1886 issue",
+   "planned": false,
+   "title": "Medora becomes a changing point for express messengers",
+   "summary": "Medora became a changing point in the express messengers' run, with Helena as the western point; the stopover at Medora is ten hours.",
+   "excerpt": "Medora is now a changing point in the express messengers run, Helena being the western point on this run.",
+   "people": [],
+   "places": [
+    "Medora",
+    "Helena"
+   ],
+   "tags": [
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a10",
+   "confidence": "high"
+  },
+  {
+   "id": "e7",
+   "date": "1886-10-31",
+   "date_end": "1886-11-06",
+   "date_precision": "week",
+   "date_basis": "'last week' before Thu 11 Nov 1886",
+   "planned": false,
+   "title": "Man calling himself Sparks suspected of stealing a company horse",
+   "summary": "A man calling himself Sparks was supposed to have stolen one of the company's horses and skipped out; measures were being taken to apprehend him.",
+   "excerpt": "A man calling himself Sparks is supposed to have stolen one of the company's horses last week and skipped out.",
+   "people": [
+    "Sparks"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "crime",
+    "law"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a11",
+   "confidence": "medium"
+  },
+  {
+   "id": "e8",
+   "date": "1886-11-20",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "'about the 20th' (November) per issue of Thu 11 Nov 1886",
+   "planned": true,
+   "title": "Marquis de Morès expected to return to Medora",
+   "summary": "The Marquis was expected back about the 20th; on the way from New York he was to address the Consolidated stock associations in Chicago on dressed beef.",
+   "excerpt": "The Marquis will return about the 20th. On his way from New York, he will stop in Chicago and deliver an address on dressed beef",
+   "people": [
+    "Marquis de Morès"
+   ],
+   "places": [
+    "Medora",
+    "Chicago",
+    "New York"
+   ],
+   "tags": [
+    "mores",
+    "visitors",
+    "business"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a13",
+   "confidence": "high"
+  },
+  {
+   "id": "e9",
+   "date": "1886-11-04",
+   "date_end": "1886-11-11",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 11 Nov 1886 issue",
+   "planned": false,
+   "title": "Cattle on Andrew's creek in fine condition",
+   "summary": "The paper reported that Andrew's creek probably held more cattle than any other creek its size in the Bad Lands, and that the cattle were in better condition than in four years.",
+   "excerpt": "The feed has been grazed low but the cattle are in fine condition; better than they have been in four years.",
+   "people": [],
+   "places": [
+    "Andrew's creek",
+    "Bad Lands"
+   ],
+   "tags": [
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a14",
+   "confidence": "high"
+  },
+  {
+   "id": "e10",
+   "date": "1886-11-10",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "'yesterday' before Thu 11 Nov 1886",
+   "planned": false,
+   "title": "Marquise de Morès shoots two wild cats on the Glendive road",
+   "summary": "The Marquise de Morès shot two large wild cats on the Glendive road; she had killed specimens of all the large game of the northwest.",
+   "excerpt": "The Marquise de Mores yesterday shot two large wild cats on the Glendive road.",
+   "people": [
+    "Marquise de Morès"
+   ],
+   "places": [
+    "Glendive road",
+    "Medora"
+   ],
+   "tags": [
+    "mores",
+    "hunting",
+    "wildlife"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a15",
+   "confidence": "high"
+  },
+  {
+   "id": "e11",
+   "date": "1886-11-10",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "'Last night' before Thu 11 Nov 1886",
+   "planned": false,
+   "title": "Little Missouri late freezing; slush ice nearly across",
+   "summary": "The river froze nearly across with slush ice, the latest freeze-up in five years; hard ice had formed only near the shore.",
+   "excerpt": "Last night it froze nearly across with slush ice out hard ice has only formed near the shore.",
+   "people": [],
+   "places": [
+    "Little Missouri River",
+    "Medora"
+   ],
+   "tags": [
+    "weather",
+    "water"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a16",
+   "confidence": "high"
+  },
+  {
+   "id": "e12",
+   "date": "1886-11-04",
+   "date_end": "1886-11-11",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 11 Nov 1886 issue",
+   "planned": false,
+   "title": "Northern Pacific bans liquor sales on railroad land",
+   "summary": "By order of President Harris of the Northern Pacific, the sale of liquor on railroad land was prohibited, affecting hotel bars such as the Sheridan at Bismarck.",
+   "excerpt": "By order of President Harris of the Northern Pacific, the sale of liquor on railroad land is prohibited.",
+   "people": [
+    "Harris"
+   ],
+   "places": [
+    "Bismarck",
+    "Fargo"
+   ],
+   "tags": [
+    "railroad",
+    "saloons",
+    "law"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a17",
+   "confidence": "high"
+  },
+  {
+   "id": "e13",
+   "date": "1886-11-04",
+   "date_end": "1886-11-11",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 11 Nov 1886 issue",
+   "planned": false,
+   "title": "Railroad travel light; winter freight rates higher",
+   "summary": "The paper noted that railroad travel was remarkably light and winter freight rates from St. Paul to Medora averaged a dollar a hundred higher than summer.",
+   "excerpt": "Winter freight rates average a dollar a hundred higher than summer rate from St. Paul to Medora.",
+   "people": [],
+   "places": [
+    "Medora",
+    "St. Paul"
+   ],
+   "tags": [
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a30",
+   "confidence": "high"
+  },
+  {
+   "id": "e14",
+   "date": "1886-11-05",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Learned 'last Saturday' (6 Nov) that wedding took place 'the previous evening' (Fri 5 Nov 1886)",
+   "planned": false,
+   "title": "Ed. Turner and Kate Goodall married",
+   "summary": "Ed. Turner and Miss Kate Goodall were married without prior announcement and left at once on a wedding trip west; they were expected to settle in Oregon.",
+   "excerpt": "Ed. Turner and Miss Kate Goodall had been married and that they had immediately started west on their wedding trip.",
+   "people": [
+    "Ed. Turner",
+    "Kate Goodall"
+   ],
+   "places": [
+    "Medora",
+    "Oregon"
+   ],
+   "tags": [
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a31",
+   "confidence": "high"
+  },
+  {
+   "id": "e15",
+   "date": "1886-11-04",
+   "date_end": "1886-11-11",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 11 Nov 1886 issue",
+   "planned": false,
+   "title": "Packard closes out Studebaker wagon stock",
+   "summary": "A. T. Packard advertised his stock of Studebaker wagons at cash prices below the wholesale factory rate to close it out.",
+   "excerpt": "To close out the stock of Studebaker wagons now on hand, I will make prices for cash that are lower than the wholesale factory rate.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a32",
+   "confidence": "high"
+  },
+  {
+   "id": "e16",
+   "date": "1886-11-01",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Notice dated Nov. 1st, 1886",
+   "planned": false,
+   "title": "Rider–Timlin partnership dissolved",
+   "summary": "The co-partnership of M. D. Rider and Martin Timlin was dissolved by mutual consent; Timlin continues business at the old stand.",
+   "excerpt": "The co-partnership heretofore existing between the undersigned, is this day dissolved by mutual consent.",
+   "people": [
+    "M. D. Rider",
+    "Martin Timlin"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a33",
+   "confidence": "high"
+  },
+  {
+   "id": "e17",
+   "date": "1886-11-03",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Meeting dated Nov. 3, 1886",
+   "planned": false,
+   "title": "Billings County commissioners settle election and county bills",
+   "summary": "At a special meeting in Medora the Billings County commissioners allowed bills for election judges, precinct election expenses, the assessor, and books and stationery.",
+   "excerpt": "At a special meeting of the board of county commissioners held at the county building in Medora, Dak., Nov. 3, 1886.",
+   "people": [
+    "Truscott",
+    "Goodall",
+    "J. C. Williamson",
+    "W. F. Van Driesche",
+    "Howard Eaton",
+    "W. L. Eaton"
+   ],
+   "places": [
+    "Medora",
+    "Billings County"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "high"
+  },
+  {
+   "id": "e18",
+   "date": "1886-11-04",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "'Meeting on morning of Nov. 4'",
+   "planned": false,
+   "title": "Commissioners strike Von Hoffmann cattle from school-township tax",
+   "summary": "The board agreed that cattle assessed to L. A. Von Hoffmann did not belong in school township No. 1 and struck out the ten-mill school tax on them.",
+   "excerpt": "the cattle assessed to L. A. Von Hoffmann do not belong in school township No. 1 and are not subject to the ten mill (.010) tax",
+   "people": [
+    "L. A. Von Hoffmann"
+   ],
+   "places": [
+    "Billings County"
+   ],
+   "tags": [
+    "politics",
+    "ranching",
+    "courts"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "high"
+  },
+  {
+   "id": "e19",
+   "date": "1886-11-04",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "'Meeting on morning of Nov. 4'",
+   "planned": false,
+   "title": "County pays for jail cells and contracts to enclose jail",
+   "summary": "The commissioners paid Mosler, Bahmann & Co. for jail cells, named Commissioner Goodall to locate them, gave J. A. Copeland the contract to enclose the jail building, and paid Dan McKenzie for jail bedding.",
+   "excerpt": "J. A. Copeland was awarded the contract of furnishing material and enclosing the jail building",
+   "people": [
+    "Goodall",
+    "J. A. Copeland",
+    "Dan McKenzie"
+   ],
+   "places": [
+    "Medora",
+    "Billings County"
+   ],
+   "tags": [
+    "building",
+    "law",
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "medium"
+  },
+  {
+   "id": "e20",
+   "date": "1886-11-04",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "'Meeting on morning of Nov. 4'",
+   "planned": false,
+   "title": "Billings County brand committee named",
+   "summary": "H. S. Boles (to Jan. 1, 1887) and B. F. Lamb (to Jan. 1, 1888) were chosen for the Billings County brand committee, with the county clerk as third member.",
+   "excerpt": "the name of H. S. Boles was chosen as one member of the Billings Co. brand committee",
+   "people": [
+    "H. S. Boles",
+    "B. F. Lamb"
+   ],
+   "places": [
+    "Billings County"
+   ],
+   "tags": [
+    "brands",
+    "ranching",
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "high"
+  },
+  {
+   "id": "e21",
+   "date": "1886-11-04",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Canvass at the Nov. 4 meeting of election held 'Nov. 2nd'",
+   "planned": false,
+   "title": "Commissioners canvass Billings County election returns",
+   "summary": "With all returns of the November 2 election received, the board canvassed the votes and adjourned.",
+   "excerpt": "The returns of the election of Nov. 2nd. having all been received, the board proceeded to canvass the votes.",
+   "people": [
+    "J. C. Williamson"
+   ],
+   "places": [
+    "Billings County"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "high"
+  },
+  {
+   "id": "e22",
+   "date": "1886-11-04",
+   "date_end": "1886-11-11",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 11 Nov 1886 issue",
+   "planned": false,
+   "title": "Chimney Butte Ranch brand advertised under Theodore Roosevelt's name",
+   "summary": "The standing brand advertisement lists the Chimney Butte Ranch, Theodore Roosevelt, proprietor, Ferris & Merrifield, managers, range six miles south of the N. P. R. R. on the Little Missouri.",
+   "excerpt": "Brand: Chimney Butte Ranch, Theodore Roosevelt, Proprietor; Ferris & Merrifield, Managers",
+   "people": [
+    "Theodore Roosevelt",
+    "Sylvane Ferris",
+    "Bill Merrifield"
+   ],
+   "places": [
+    "Chimney Butte Ranch",
+    "Little Missouri River",
+    "Medora"
+   ],
+   "tags": [
+    "tr",
+    "brands",
+    "ranching"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a36",
+   "confidence": "high"
+  }
+ ]
+}

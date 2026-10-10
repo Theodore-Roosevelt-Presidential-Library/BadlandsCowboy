@@ -1,0 +1,2147 @@
+{
+ "date": "1885-02-12",
+ "masthead": "Thursday, February 12, 1885",
+ "volume": "Vol. 2, No. 2",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "Cols 1-4 publisher's box and display ads; col 5 editorials (woman suffrage, herd law, cattle losses, International Arbeiter); col 6 Stock Notes: estray notices and clipped range items; col 7 'Smiles' clipped humor (summarized, not transcribed)."
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "Ready-print: Cow Boy heading over syndicated editorial paragraphs, 'Dakota Legislature' special telegrams and national wire news. No Medora items found (OCR search)."
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "Ready-print national/foreign news, miscellany and patent-medicine ads."
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "Cols 1-2 masthead date, stage and N.P. time tables, local items, The Shoot, Mail Reform; cols 2-4 display ads; cols 5-7 cattle and horse brand ads."
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "1",
+   "region": [
+    2.5,
+    12,
+    15,
+    10
+   ],
+   "section": "masthead",
+   "headline": "Bad Lands Cow Boy, By A. T. Packard.",
+   "text": "Volume 2, Number 2.\n\nBad Lands Cow Boy, By A. T. Packard.\n\nThe Cow Boy is not published for fun, but for $2 per year.\n\nAdvertising Rates made known on application.\n\nStanding Advertisements payable quarterly.\n\nTransient Advertisements and all Job work, money in sight.\n\nAddress all communications to THE BAD LANDS COW BOY, Medora, Dakota.\n\nEntered at the post-office at Medora, Dak., as second class mail matter.",
+   "summary": "Publisher's box: Vol. 2, No. 2, Medora, Dakota, Thursday, February 12, 1885; subscription $2 per year.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a2",
+   "page": 1,
+   "cols": "1-4",
+   "region": [
+    2.5,
+    12,
+    51.5,
+    88
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "A. D. Carpenter, Attorney, Dickinson, Dak.\nW. B. Coyle, M. D., Physician and Surgeon (Late A. A. Surgeon, U. S. A.), Belfield, Dak.\nA. T. Packard, Notary Public, Medora, Dak.\nDaily Dakota Blade, Room 2, 1st National Bank Block, Bismarck, Dak. — \"Tells the truth, and is only interested in pointing the way for settlers to make homes. The Blade is democratic, and considers a public office a public trust.\"\nRiverside Hotel, Max Bass, Prop., Belfield, Dakota — \"One of the neatest houses on the line of the N. P. R. R.\"\nF. E. Benjamin, Jeweler and Watchmaker, Mandan, Dakota\nFirst National Bank of Mandan, Dakota — H. R. Lyon, Prest., H. VanVleck, Jr., Cashier, M. Lang, Vice President; paid-up capital $50,000, surplus $15,000\nMcKenzie & O'Brien, Blacksmithing and Horse-Shoeing, Medora, Dak.\nM. Kline, Cigar Manufacturer, dealer in smoking & chewing tobacco, Mandan, Dakota\nTuttle & Howe, Dealers in Live Stock, Clear Lake, Iowa — \"We make a specialty of furnishing cattle for western ranches.\"\nD. Flynn, boots, shoes, rubbers, Main Street, Mandan, Dak.\nG. H. Tousey, wholesale and retail flour, feed, grain and commission, Mandan, Dakota\nMedora Hotel!, M. M. Coleman, Proprietor, Main St., opposite Cow Boy office — \"Give me a call.\"\nPyramid Park Hotel, Little Missouri, Dak., Arch. Boyd, Proprietor — terms $2.00 per day; livery stable in connection\nWarn & Brown's Oyster Grotto, corner Broadway and Third St., Medora, Dakota — fish, milk, eggs, poultry, game; first-class restaurant\nDuncan & Hilles, Furniture, Hager Block, Mandan\nJ. Slatcher's Golden Gun Armory, Dickinson, Dakota — Colts' six-shooters, cal. 45, $14; jobbing a specialty\nShort-horn bulls and heifers, W. E. Bean, Mt. Sterling, Ky.\nWestern House, Peter Malloy, Prop., Little Missouri, Dak. — transient rates $1.50 per day, regular board $6.00 per week; a fine bar connected with the house\nEdick Bros., manufacturers and jobbers in cigars and tobacco, 64 Main Street, Bismarck, Dak.\nNorthern Pacific Railroad — \"The direct line between St. Paul, Minneapolis, or Duluth\" and the Pacific Northwest; Chas. S. Fee, General Passenger Agent, St. Paul, Minn.\nMinneapolis & St. Louis R'y, \"Famous Albert Lea Route\" — S. F. Boyd, Gen'l Tkt. & Pass. Ag't, Minneapolis\nBrick!! made at the Medora Brick Kiln — \"Only $8 Per Thousand!\" — Peter J. Book, Medora, Dak.\nBingenheimer & Taylor, drugs, medicines, paints, oils, wall paper, books, stationery, Mandan, Dakota\nThe Senate, Roberts & Co., Billiard and Pool Hall — \"Finest Bar in Medora\"; \"The genial Jim is in constant attendance.\"\nInsurance! Springfield F. & M. Ins. Co., of Springfield, Mass. (36th annual statement, Jan. 1, 1884) — A. T. Packard, Agent, Bad Lands Cow Boy office",
+   "summary": "Page 1 display advertising directory, columns 1-4.",
+   "people": [
+    "A. T. Packard",
+    "Arch. Boyd",
+    "Peter Malloy",
+    "Peter J. Book",
+    "M. M. Coleman"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a3",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53.5,
+    13,
+    14.5,
+    9
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "It looks now as though women would be granted the right of suffrage in Dakota. There is but little opposition to the bill and it seems as though the majority of the legislature are in favor of it. On account of the crankiness of the leaders of the womans' rights movement the subject has always been a matter of mirth rather than a serious one. Practical experience has shown, however, that women are as well qualified to vote as men and we hope to see the measure pass.",
+   "summary": "The Cow Boy predicts Dakota will grant woman suffrage and says it hopes the measure passes.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a4",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53.5,
+    22,
+    14.5,
+    10
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "The Union News, of Union, N. Y. is the last tenderfoot sheet that has come to the front. The last issue contains the notice that snow is twenty to twenty-five feet deep in Montana. We do not think there is a place in Montana or Dakota where there has been even two feet on a level and only in exceptional cases has it reached a depth of eighteen inches. We merely make these remarks to show the animos of the eastern press toward the northwest. On every occasion they will publish articles such as the one referred to, knowing, if the editors have any sense, that they are entirely devoid of truth.",
+   "summary": "The paper rebuts an eastern report of 20-25 feet of snow in Montana, saying snow has nowhere reached two feet on a level.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a5",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53.5,
+    32,
+    14.5,
+    10
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "We have seen a letter srom Mr. McCall, who introduced a bill for the repeal of the herd law, stating that no one has petitioned for the repeal from here, and that it might be as well not to exempt the Bad Lands here, as no one seems to wish it. This is enough to call for immediate action on the part of cattlemen here, and a man should be sent at once to Bismarck to present our side of the case. While in Bismarck recently we were convinced from conversations with legislators that the herd law could be repealed and we have so expressed ourselves in the Cow Boy. Now the matter may go by default unless immediate action is taken.",
+   "summary": "A letter from Mr. McCall, author of the herd-law repeal bill, says no Bad Lands petition for repeal has arrived; the Cow Boy urges cattlemen to send a man to Bismarck at once.",
+   "people": [
+    "McCall"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a6",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53.5,
+    41,
+    14.5,
+    10
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "The Dakota Blade, Jimmy Emmon's paper, is on the war path after corruption, but Jimmy has bitten off more than he can chew in attempting to show that the herd law should not be repealed for the Bad Lands, because farmers could not then come in. The truth of the matter is, that although Jimmy is well acquainted with the east Missouri country, he has never been in the Bad Lands, and does not realize that perpendicular farming does not pay. From the nature of the ground, farming to any extent is impossible in the Bad Lands, and as long as so much better farming land can be had farther east for the taking, there will be no hardship in a repeal of the herd law here.",
+   "summary": "The Cow Boy rebuts the Dakota Blade (Jimmy Emmons) on herd-law repeal, arguing farming is impossible in the Bad Lands.",
+   "people": [
+    "Jimmy Emmons"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a7",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53.5,
+    51,
+    14.5,
+    18
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Experience although a dear teacher, seems to be about the only successful one, especially in cattle raising. From its teachings, however, two thing have, or ought to have been learned thoroughly. Never buy yearlings and never drive in cattle later than August. An exception might be made in favor of yearlings, in case they are brought in before June or July, but even in that case there is a far greater percentage of risk than it is necessary to take. There is scarcely a cattle man in the Bad Lands with whom we have not spoken on these two points and we think we are above the mark in estimating a loss of one per cent. on all two-year-olds and over on cattle landed here early, whether they are pilgrims or not. Two-thirds of the total loss will be on yearlings and cattle landed here late. A good illustration of this point are the V V V and B X B outfits, on the Belle Fouche. The V V V has lost but little on old cattle, the most of their loss coming on yearlings and late dogies. The B X B, with a corresponding location and a mixed herd which was driven in late in the fall, have been heavy losers on all classes of cattle. Of course any estimate of loss is pure guess-work, but there is no question that it would be nerely nominal had it not been for yearlings and late cattle.",
+   "summary": "Editorial advice never to buy yearlings or drive in cattle after August, citing winter losses of the VVV and BXB outfits on the Belle Fourche.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a8",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53.5,
+    69,
+    14.5,
+    25
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "An organization known as the International Arbeiter, or workingmen's association, has been holding secret meetings in Philadelphia for some time. A reporter of one of the papers joined the body, and exposed the workings of the organization. Johann Most and Justus Schwab are the leading spirits. At first there was difficulty in securing members, but of late the ranks have been swelled considerably. The object of this association seems to be to overthrow all law and build up a government of its own. It seems strange that any workingman, who has the slightest respect for himself or anyone else would join an organization of this kind. There are rights which workingmen have, and the best thing they can do is to exercise them in the best and most honorable ways. By joining such an order as the International Arbeiter he does not advance his interests one whit, but on the contrary, tends to lessen his chances for a fair deal. The leaders, Most and Schwab, are cranks on this subject, and are men whom every true workingmen should combine against. If a man joins a workingmen's protective association, let him join one he is not afraid to own publicly, in which all the members are on an equal footing, and not one lead by such men as are at the head of this body—who want everything their own way, though thousands of dollars worth of property are destroyed, or even at the price of blood. A workingman has the right to say he will work for so much and no less, but he cannot stop others from taking his place; nor has he the right to destroy his employer's property. Such proceedings cause bitter feelings between capital and labor, and it is to be hoped that the \"men of toil\" will learn this and prevent the spread of the International Arbeiter's association.",
+   "summary": "Editorial condemning the International Arbeiter association led by Johann Most and Justus Schwab in Philadelphia.",
+   "people": [
+    "Johann Most",
+    "Justus Schwab"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a9",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    13,
+    14.5,
+    5
+   ],
+   "section": "range",
+   "headline": "STOCK NOTES. Estrayed.",
+   "text": "From M. S. & F. Co., October 5, one sorrel horse; four white feet, white stripe in face, branded -Y- on left shoulder and [box brand] on left thigh. A reward of $25 will be paid for information leading to his recovery.",
+   "summary": "Standing estray notice of the Medora Stage & Forwarding Co. for a sorrel horse, $25 reward.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a10",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    18,
+    14.5,
+    9
+   ],
+   "section": "range",
+   "headline": "Strayed or Stolen.",
+   "text": "From my ranch on Little Missouri, ten miles south of Medora, the night of November 19, a dark sorrel mare, weighing about nine hundred pounds, left front knee stiff, white and red scar on left side, far back, brand M bar on left hip. Mare about nine years old. The finder will be paid for his trouble by leaving information leading to her recovery with me.\n\nA. YOUNG, Medora, Dak.",
+   "summary": "Standing notice by A. Young of a dark sorrel mare strayed or stolen from his ranch ten miles south of Medora.",
+   "people": [
+    "A. Young"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a11",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    27,
+    14.5,
+    9
+   ],
+   "section": "range",
+   "headline": "Strayed or Stolen.",
+   "text": "From Little Missouri, July 6, 1884, a bay horse, eight years old and weighing about 1,000 pounds. The horse was branded with an anchor on left cheek and a hat brand on left shoulder. On the left hip he had a Texas brand, looking something like 7N, connected with flourish at top of N. A reward of $25 will be paid for information leading to his recovery. The horse is the property of John Pohl, and information can be brought or sent to the Cow Boy office.",
+   "summary": "Standing notice for John Pohl's bay horse, lost July 6, 1884; $25 reward.",
+   "people": [
+    "John Pohl"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a12",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    36,
+    14.5,
+    9
+   ],
+   "section": "range",
+   "headline": "$50 Reward.",
+   "text": "The above reward will be paid for the return of the following stock or a proportionate reward will be paid for the return of any of them. The stock consists of the following horses:\n\nOne bay mare, one brown mare and one roan mare, all young and branded double or reverse P on left shoulder as advertised in our brand columns. Also one light sorrel pony, white legs and face and branded NC on left shoulder and triangle JP on right shoulder also as advertised in our brand columns.\n\nGREGOR LANG, Medora, Dak.",
+   "summary": "Gregor Lang offers $50 for the return of three mares and a pony.",
+   "people": [
+    "Gregor Lang"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a13",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    45,
+    14.5,
+    3
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "It took just 22,437 cars to bring in Chicago January supplies of live stock. The eastward shipments were 6,084 cars.—[Breeders' Gazette.",
+   "summary": "Chicago January live-stock receipts took 22,437 cars.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a14",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    48,
+    14.5,
+    3
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The receipts of horses for January were 1,098, against 1,256 for January 1884. The shipments were 1,063 and 1,194 respectively.—[Breeders' Gazette.",
+   "summary": "January horse receipts and shipments at Chicago compared with 1884.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a15",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    51,
+    14.5,
+    4
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Out of 12,000 sheep belonging to the Montana sheep company, on Flat Willow, Meagher county, only forty-one have died since the first of November.—[Stock and Mining Journal.",
+   "summary": "A Montana sheep company on Flat Willow lost only 41 of 12,000 sheep since November 1.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a16",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    54,
+    14.5,
+    6
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "One of the largest and most experienced breeders and raisers of horses in Illinois says that if you will give one or two mouthfuls of hay to the horse before you water him, there will never be any danger of the horse being water-founded. This is, as far as he knows, an infallible rule, and is worth being remembered by all horsemen.—[Ex.",
+   "summary": "Advice to feed a horse hay before watering to prevent water-founder.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a17",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    60,
+    14.5,
+    6
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "After all the fuss about cattle losses, it turns out that about the only loss amounting to much was in two or three counties south of San Antonio, where there is no grass and the cattle are very poor. And even in these counties the loss is greatly exagerated. Thanks to the prickly pear, the loss of cattle even there is much lighter than expected.—[Texas Stockman.",
+   "summary": "Texas cattle losses were confined to a few counties south of San Antonio.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a18",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    65,
+    14.5,
+    6
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Our reports from the different ranges of the territory are veay much alike. All agree that up to the present time there has not been much loss of stock, if any; but also all agree that unless we have fairly good weather from this out the loss is likely to make one feel uncomfortable. There is no use denying the fact that during the past 50 days stock has suffered much.—[Stock and Mining Journal.",
+   "summary": "Montana ranges report little loss so far but stock has suffered in the past 50 days.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a19",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    71,
+    14.5,
+    5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The building of wind breaks on the range has been suggested by a cattlemen who thinks that the expense would not be very great and that it would keep cattle from drifting. The breaks could be built of sod, stone or lumber, in a straight line, so that cattle could seek shelter on either side. Where the herds are not too large the plan would work very well.—[Globe L. S. Journal.",
+   "summary": "Suggestion to build wind breaks on the range to stop cattle drifting.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a20",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    76,
+    14.5,
+    15
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Cross-breds are coming to the front as prize winners. Everyone has become so accustomed to thinking some particular breed is the best, that the fact of every one coming from the same parent stock has been lost sight of. A new breed might be obtained by judicious crossing, or even a single cross might bring an animal superior to either of its parents. These remarks are called forth by the fact that a cross-bred four-year-old, from a Hereford sire out of a Short-horn at the Smithfield, England, show, took the $150 cup as the best cross-bred, the $250 cup as the best steer, and the $500 cup as the best animal in the show. It is a well-established law of breeding that offspring take the good rather than the poor points of their parents, and right here lies the difference between Texas and northern cattle. By comparison, the Texans have but few points as good as the cattle of the north. Blooded bulls are seldom or never used in Texas. The consequence is that the Texans are now a distinct breed, never improving in quality, and according to the best judges, are deteriorating. On the other hand, northern stockgrowers have, as a rule, used full-blood or graded bulls. The consequence is that but for the one point of the Texans making better mothers, and even this is disputed, the northern cattle are far superior.",
+   "summary": "Argument for cross-breeding and blooded bulls, contrasting Texas and northern cattle.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a21",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    81.5,
+    13,
+    16,
+    87
+   ],
+   "section": "ready-print",
+   "headline": "SMILES.",
+   "text": "",
+   "summary": "Column of clipped humor (not transcribed): verses and jokes credited to the Yonkers Statesman, B. H. Pioneer, London Serio Comic Journal, Boston Transcript, Texas Siftings, St. Paul Globe and Louisville Courier-Journal; no local news.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a22",
+   "page": 2,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "",
+   "summary": "Ready-print page: a Cow Boy heading over syndicated editorial paragraphs (Mormons, Cullom interstate commerce bill, Grand Army, Los Angeles), a 'Dakota Legislature' column of Bismarck special telegrams (Gamble's county-organization bill and other bills), 'News of the Week Summarized' wire news, and a death notice of S. S. Merrill of the Milwaukee road; no Medora items found.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a23",
+   "page": 3,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "",
+   "summary": "Ready-print page: British reverse at Khartoum, proceedings of Congress, Rochester excitement, topics of the day, a murder arrest, miscellany and patent-medicine ads (Red Star Cough Cure, Allen's Lung Balsam, Hostetter's Bitters, Tutt's Pills, Cuticura, etc.).",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a24",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    5,
+    14,
+    4
+   ],
+   "section": "masthead",
+   "headline": "Bad Lands Cow Boy, By A. T. Packard.",
+   "text": "Bad Lands Cow Boy, By A. T. Packard.\n\nTHURSDAY, FEB. 12, 1885.",
+   "summary": "Inside masthead dated Thursday, Feb. 12, 1885.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a25",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    9,
+    14,
+    13
+   ],
+   "section": "railroad",
+   "headline": "TIME TABLE",
+   "text": "TIME TABLE —of— Medora and Black Hills Stage and Express Line.\n\nARRIVE. Tuesday, Thursday, Saturday, 6 p. m. DEPART. Monday, Wednesday, Friday, 8:30 a. m.\n\nCoaches leaving Medora connect with east-bound passenger train.\n\nCoaches arriving at Medora connect with west-bound passenger train.\n\nNorthern Pacific Time Table.\n\nWEST BOUND. Pacific Express, No. 1 ... 5:57 p. m. Express Freight, 2d Class ... 5:25 a. m. Freight, 3d Class ... 12:01 a. m.\n\nEAST BOUND. Atlantic Express, No. 2 ... 9:02 a. m. Express Freight, 3d Class ... 6:05 a. m. Freight, 3rd Class ... 12:01 a. m.\n\nJ. N. MAXWELL, Agent.",
+   "summary": "Medora and Black Hills stage schedule and Northern Pacific train times at Medora.",
+   "people": [
+    "J. N. Maxwell"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a26",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    22,
+    14,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Get ready for the shoot Saturday.",
+   "summary": "Reminder of the rifle shoot on Saturday.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a27",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    23,
+    14,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "S. N. Thayer came up from Dickinson Wednesday.",
+   "summary": "S. N. Thayer came up from Dickinson.",
+   "people": [
+    "S. N. Thayer"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a28",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    24,
+    14,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "J. A. Ferris has built quite an addition to his stable.",
+   "summary": "J. A. Ferris enlarged his stable.",
+   "people": [
+    "J. A. Ferris"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a29",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    25.5,
+    14,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Chas. Cook expect a large number of valentines Friday.",
+   "summary": "Charles Cook expects valentines for sale Friday.",
+   "people": [
+    "Chas. Cook"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a30",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    26.5,
+    14,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mrs. J. A. McGregor is in from the ranch visiting Mrs. Paddock.",
+   "summary": "Mrs. J. A. McGregor visiting Mrs. Paddock.",
+   "people": [
+    "Mrs. J. A. McGregor",
+    "Mrs. Paddock"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a31",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    27.5,
+    14,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Northern Pacific preferred bonds are selling at 39[⅞?], and common at 17.",
+   "summary": "Northern Pacific bond prices.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a32",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    28.7,
+    14,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "John O'Sullivan has presented contractor McGee with a fine bird dog.",
+   "summary": "John O'Sullivan gave contractor McGee a bird dog.",
+   "people": [
+    "John O'Sullivan",
+    "McGee"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a33",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    29.8,
+    14,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Frank Keeler returned from Mandan Sunday, where he went to see his wife.",
+   "summary": "Frank Keeler returned from Mandan.",
+   "people": [
+    "Frank Keeler"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a34",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    31,
+    14,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Dr. Jorgens is expected home the latter part of next week. He is now in Spearfish.",
+   "summary": "Dr. Jorgens, in Spearfish, expected home late next week.",
+   "people": [
+    "Dr. Jorgens"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a35",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    32.5,
+    14,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "On account of cold weather, work was suspended for two days on the N. P. R. C. Co.'s new buildings.",
+   "summary": "Cold weather halted work on the N. P. R. C. Co. buildings for two days.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a36",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    35,
+    14,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Gen. Allen, U. S. Marshal for Dakota, came up from Deadwood this morning on his way to Bismarck.",
+   "summary": "U. S. Marshal Gen. Allen passed through from Deadwood to Bismarck.",
+   "people": [
+    "Gen. Allen"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a37",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    37,
+    14,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "J. W. Sheridan, of Jamestown, is in Medora on a business trip. He has two car loads of oats to sell.",
+   "summary": "J. W. Sheridan of Jamestown in Medora selling oats.",
+   "people": [
+    "J. W. Sheridan"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a38",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    38.5,
+    14,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Dan Williams came down from Sentinel Bute where he went to take operator Ive's place for a few days.",
+   "summary": "Dan Williams returned from relieving the telegraph operator at Sentinel Butte.",
+   "people": [
+    "Dan Williams",
+    "Ive"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a39",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    40,
+    14,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The skating rink has been closed, not on account of a lack of patronage, but the floor is in need of repairs.",
+   "summary": "Skating rink closed for floor repairs.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a40",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    41.5,
+    14,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "William Van Driesche, J. B. Foster and others took advantage of the recent freeze-up, and enjoyed themselves in cutting all sorts of figures in the ice.",
+   "summary": "Townspeople skated on the frozen river.",
+   "people": [
+    "William Van Driesche",
+    "J. B. Foster"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a41",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    44.5,
+    14,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "That Arch Boyd is a good host was abundantly proven last Friday night, at the dance held at the Pyramid Park hotel. A good attendance showed appreciation of this fact.",
+   "summary": "Dance at the Pyramid Park hotel hosted by Arch Boyd.",
+   "people": [
+    "Arch Boyd"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a42",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    47.5,
+    14,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "George Fitzgerald's new hotel, the Metropolitan is ready for occupancy. A week from next Saturday Mr. Fitzgerald will give a dance to which all are cordially invited.",
+   "summary": "George Fitzgerald's Metropolitan hotel is ready; a dance is planned.",
+   "people": [
+    "George Fitzgerald"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a43",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    50,
+    14,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "J. A. Van Eegan, who has been in the east for a month, returned Sunday last. The plug hat which he wore an his arrival would make a good seive, as numerous bullet holes now adorn it.",
+   "summary": "J. A. Van Eegan returned from the east; his plug hat was shot full of holes.",
+   "people": [
+    "J. A. Van Eegan"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a44",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    52.5,
+    14,
+    3.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "About 500,000 feet of lumber will be used in the slaughter house and cold storage rooms now building. Two months will probably be consumed before completion. The galvanized iron work in the boxes is now being done.",
+   "summary": "Slaughter house and cold storage construction details.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a45",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    56,
+    14,
+    3.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Dahl Bros., of Bismarck, are prepared to make suits on short notice. When in Bismarck, leave your measure with them and an order at any time will receive prompt attention. Repairing of all kinds promptly done and returned.",
+   "summary": "Reading notice for Dahl Bros., Bismarck tailors.",
+   "people": [
+    "Dahl Bros."
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a46",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    59,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "John S. Warn, of the Oyster Grotto, is still in Bozeman. In a letter received from him this morning he states that he will remain there several days longer, but will return in due time to give the boys a good square meal, \"on the dead square.\"",
+   "summary": "John S. Warn of the Oyster Grotto still in Bozeman.",
+   "people": [
+    "John S. Warn"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a47",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    64,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Frank Frankenberg, of the E 6 outfit, returned Monday from Springfield, Ohio, where he has been on a visit to his parents. He will leave for the E 6 ranch in a few days. Frank is a good guesser, winning one of Lorillard's $50 prizes in estimating the presidential vote.",
+   "summary": "Frank Frankenberg of the E 6 outfit returned from Ohio.",
+   "people": [
+    "Frank Frankenberg"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a48",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    67.5,
+    14,
+    4.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Last Sunday morning the little Missouri began to rise rapidly. A gorge was formed above the bridge, and it seemed as if we were going to have a flood. The weather here was very cold, which probably was the cause of no damage being done, as the river was frozen over Sunday night. The present cold snap came in good time, as the refrigerator company still requires 600 tons to fill its houses.",
+   "summary": "The Little Missouri rose and gorged above the bridge but froze again; the refrigerator company still needs 600 tons of ice.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a49",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    72,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "It is to be hoped that all will take an interest in the shooting club, and practice for the contests. The winning score of last Friday's shoot should be the lowest average. The cold weather accounted for much of the poor shooting, but lack of practice accounted for much more. There are enough good shots on the river so that a formidable team could be organized and matches made with other teams up and down the line.",
+   "summary": "Call for practice and a shooting team.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a50",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    76,
+    14,
+    14
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A preliminary meeting for the organization of a gun club was held last night in Roberts & Co.'s hall. Wm. Van Driesche was elected chairman and as but little business was to come before the meeting, the election of other officers was dispensed with. It was moved and carried that an executive committee of three, including the chairman of the meeting, be appointed to take charge of the shoot Saturday and that they should report next Wednesday evening at the same time and place, rules and regulation for succeeding shoots. The committee, as appointed, consists of Messrs. Packard, Paddock and Van Driesche. Now that the ball has been set rolling it is to be hoped that a lively interest will be aroused and that all interested in shooting will attend the meeting for permanent organization to be had next Wednesday evening at Roberts & Co.'s hall.",
+   "summary": "Preliminary gun club meeting at Roberts & Co.'s hall names a committee of Packard, Paddock and Van Driesche.",
+   "people": [
+    "Wm. Van Driesche",
+    "A. T. Packard",
+    "E. G. Paddock"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a51",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    22,
+    6.5,
+    13.5,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Williamson & Copeland have finished their shop.",
+   "summary": "Williamson & Copeland finished their shop.",
+   "people": [
+    "Williamson & Copeland"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a52",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    22,
+    8,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Dan Williams is again holding down his job as night watchman of the cold storage house.",
+   "summary": "Dan Williams back as night watchman at the cold storage house.",
+   "people": [
+    "Dan Williams"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a53",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    22,
+    9.5,
+    13.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The \"Telegs\" are practicing constantly for the shoot Saturday, and are liable to make some of the old timers rustle to 'git thar.\"",
+   "summary": "The telegraphers practice for Saturday's shoot.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a54",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    22,
+    11.5,
+    13.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "J. C. Fisher intends building a skating rink and shooting gallery 30x80 feet, provided negotiations now pending are successful.",
+   "summary": "J. C. Fisher plans a skating rink and shooting gallery.",
+   "people": [
+    "J. C. Fisher"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a55",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    22,
+    14.5,
+    13.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Superintendent Green's baby is not expected to live. Agent Maxwell will leave in the morning for Mandan, should there not be a favorable change.",
+   "summary": "Superintendent Green's baby gravely ill; Agent Maxwell may go to Mandan.",
+   "people": [
+    "Superintendent Green",
+    "J. N. Maxwell"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a56",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    22,
+    16.5,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "We do not think there is a person on the line but that rejoices over the return of conductor Clark to duty. Always pleasant and accommodating, he is one of the best liked \"connies\" on the road.",
+   "summary": "Conductor Clark returned to duty on the N. P.",
+   "people": [
+    "Clark"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a57",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    22,
+    19,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Messrs. Deffebach, Fisher and Packard returned last night from a four days' hunt down the river, stopping at McGregor's, Wadsworth's and Young's. An account of the trip will appear in succeeding issues.",
+   "summary": "Deffebach, Fisher and Packard returned from a four-day hunt down the river.",
+   "people": [
+    "Deffebach",
+    "Fisher",
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a58",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    22,
+    22,
+    13.5,
+    3.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Vic Smith was showing the tenderfoot how to shoot, in a back yard in Milwaukee, when a policeman put in an appearance and Vic had to pay $5 and costs in court. Vic can make lots more money shooting here than in Milwaukee. He is already pining for the Bad Lands, and will return soon.",
+   "summary": "Hunter Vic Smith fined in Milwaukee for shooting in a back yard.",
+   "people": [
+    "Vic Smith"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a59",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    22,
+    25.5,
+    13.5,
+    6
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Joe O'Brien returned Friday night from a visit to relatives in Missouri and Iowa. He reports a complicated state of affairs in Iowa. A prohibition law was passed by a popular vote and, as it cannot be enforced, the saloon keepers are holding high carnival. They of course, can pay no license, and cannot be held responsible for selling to minors, etc., as the law does not recognize the right to sell liquor, and of course cannot punish any harm done from its effects.",
+   "summary": "Joe O'Brien returned from Missouri and Iowa and described Iowa prohibition.",
+   "people": [
+    "Joe O'Brien"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a60",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    22,
+    34,
+    13.5,
+    12
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The Little Missouri river resembles the peace of God, \"in that it passeth all understanding.\" The break-ups of course all come from the south as the river runs north. Perhaps for several days previous to our coldest days, there has been a chinook blowing near the head of the river. The water immediately begins running, and it depends upon the length of the thaw how far the water flows on the ice. If it meets cold weather it is liable to freeze up at any time. Thus there are formed several thicknesses of ice. South of the railroad crossing there are four thicknesses, north there are three, and twenty miles down the river there are but two. A curious circumstance was also noted yesterday. At McGregor's ranch down the river, the water was at least six inches deep on the top of the ice and flowing rapidly. Coming up the river to Wadsworth's ranch there was no sign of a thaw, the top ice being about two inches thick. Farther up the river solid ice was found in some places and in others only a thin crust. Some top crusts had no water under them and some had two feet and over.",
+   "summary": "Observations of layered ice and overflow on the Little Missouri, including water on the ice at McGregor's ranch.",
+   "people": [
+    "McGregor",
+    "Wadsworth"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a61",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    22,
+    46,
+    13.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": "Freighters Attention!",
+   "text": "Be sure and take your watch to the King jeweler, Spearfish or Deadwood for repairs.",
+   "summary": "Reading notice for the King jeweler of Spearfish and Deadwood.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a62",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    22,
+    48.5,
+    13.5,
+    23
+   ],
+   "section": "local",
+   "headline": "The Shoot.",
+   "text": "The weather was quite warm last Friday forenoon and it deceived all the shooters, as none were prepared for the cold weather of the afternoon. The consequence was that some very poor shooting was done. The contestants put in a dollar each, dividing the prizes into a first of six dollars and a second of four. A. T. Packard won first on a score of twenty one, and E. G. Paddock and J. N. Maxwell divided second on a score of twelve each. None of the scores do justice to the shooters, and succeeding winners must make a much higher score. The ranges were fifty, one hundred and two hundred yards. The fifty yard range had a two-inch bull's eye, the hundred yard a four-inch, and the two hundred a six inch. The rings were an inch and a quarter successively from the bull's eye. All the shooting was strictly off-hand, except that at two hundred yards, a body rest was allowed. The order of contestants was decided by lot, and the scores were as follows:\n\nName. | 50 Yards | 100 Yards | 200 Yards | Per Cent.\nPackard | 1 1 2—4 | 1 1 3—5 | 4 4 4—12 | 46 6-9\nMaxwell | 2 0 1—3 | 4 1 4—9 | 0 0 0—0 | 26 6-9\nAyers | 1 5 1—7 | 1 1 1—3 | 1 0 0—1 | 24 4-9\nPaddock | 1 4 5—10 | 1 0 1—2 | 0 0 0—0 | [26 6-9?]\nFisher | 1 1 2—4 | 1 0 0—1 | 1 0 0—1 | 13 3-9\nVan Driesche | 0 3 1—4 | 1 0 1—2 | 0 0 1—1 | 15 5-9\nHannigan | 0 5 1—6 | 0 0 0—0 | 0 0 0—0 | 13 3-9\nBook | 1 4 1—6 | 1 1 0—2 | 3 0 0—3 | [24 4-9?]\nO'Sullivan | 1 0 0—1 | 0 0 1—1 | 0 0 2—2 | 8 8-9\nPiper | 1 1 1—3 | 0 0 1—1 | 0 0 0—0 | [8 8-9?]",
+   "summary": "Report of last Friday's rifle shoot, won by A. T. Packard, with a score table for ten shooters.",
+   "people": [
+    "A. T. Packard",
+    "E. G. Paddock",
+    "J. N. Maxwell",
+    "Ayers",
+    "Fisher",
+    "Van Driesche",
+    "Hannigan",
+    "Book",
+    "O'Sullivan",
+    "Piper"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a63",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    22,
+    71.5,
+    13.5,
+    19
+   ],
+   "section": "railroad",
+   "headline": "Mail Reform.",
+   "text": "The transfer of the capital from Yankton to Bismarck, throws a large portion of of the more important mail matter passing between the Hills and the seat of government, over the northern route. At present such runs via Miles, and the service thereon is simply and utterly abominable. For instance matter mailed at Medora Jan. 15 reached us yesterday—twelve days after. Bismarck papers reach us four and five at a time, many days after publication and it is reasonable to suppose that letters are equally as long in transit. No regularly equipped stage line runs between the Hills and Miles, but in lieu thereforo a small buckboard outfit is operated between Spearfish and the railroad. A movement is on foot to secure a transfer of the mail service from the Miles City to the Medora route. A splendidly equipped stage line occupies the latter, making regular and quick trips, and if the change is made service will be expedited from two to five days. Petitions are circulating throughout the country and are extensively signed. It is hoped that the department will grant our reasonable request.—[Black Hills Times.\n\nThe same trouble is experinced in Medora. Papers and letters arrive here two or three weeks after the time of their leaving the Deadwood postoffice. All this delay would be dispensed with, had the Medora route the mail contract, and the desire of the people should be granted.",
+   "summary": "The Black Hills Times urges moving the Hills mail from the Miles City route to the Medora stage route; the Cow Boy agrees.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a64",
+   "page": 4,
+   "cols": "2-7",
+   "region": [
+    22,
+    4,
+    77,
+    96
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Bismarck Steam Laundry — \"Headquarters in the Northwest for first-class work at bottom prices.\"\nGeneral Store of the N. P. R. C. Co., Medora, Dakota — groceries, dry goods, ready-made clothing, hats, caps, canned goods, harness, saddles, tobacco and cigars, felt shoes, overshoes, boots and shoes, flour and feed; \"Hunters Outfits a Specialty\"; wholesale and retail\nBrand: Medora Stage & F. Co. — Y-cross brand on left shoulder; horses strung on stage stations between Medora and Deadwood; $25 reward for conviction of anyone dealing unlawfully with these horses\nCity Drug Store, Medora, Dak., [illegible]. M. Jorgens, Proprietor — drugs, patent medicines, perfumery, toilet articles, notions, periodicals, stationery\nCharles Cook, Medora, Dakota — fruit, candy, nuts, cigars, tobacco, pipes, cider, newspapers, periodicals, magazines, books\nE. J. Owenhouse, Bozeman, Mont. — stock saddles, Concord harness, fancy bits and spurs, chaparejos, reatas, quirts, hackamores\nMayville Stock Farm, Mayville, Traill Co., Dak. — Short Horn bulls; J. L. & E. B. Grandin, Props., W. W. Warren, General Manager\nHardware and Tinware at J. D. Garver's, Little Missouri, Dak. — tin and sheet-iron articles made and repaired\nBrand: E. W. Casey, Frank S. Moore, Manager, P.O. Medora, Billings Co. — KC on left hip and shoulder; 2nd brand without circle; range O'Donnell creek\nBrand: Sloping Bottom Ranch, Lloyd Roberts, Proprietor, P.O. Medora — left hip; range Little Missouri, 7 miles south of N. P. R. R.; horse brand on left shoulder\nBrand: Badger Cattle Company, Howard Eaton, M'g'r, P.O. Medora — VI on left hip, horse brand same; range Beaver creek and Little Missouri river\nBrand: Dorr Clark, Spearfish, Dakota — VVV on left side; ear mark under-bit in left ear; range Belle Fourche\nBrand: Clark & Plum, Spearfish, Dakota — E6 on left side; left ear cropped; range Grand river; additional brands ZD, DZ, ZD (bar), circle cross; $100 reward re VVV or E6 ranges\nBrand: Little Missouri Horse Company, Medora — HT on left shoulder; range Davis creek and Little Missouri river\nBrand: W. N. Thompson & Co., Wm. Dantz, Manager, P.O. Medora — TD on left hip, quarter-circle diamond; tip of left ear cut off square\nBrand: Lemoyne Cattle Co. (Limited), D. K. Wade, Manager, Medora — LC on left side; range Little Missouri south of the R. R.; ranch Tepee bottom; owners of DW brand\nBrand: Soho Cattle Co., P.O. Medora — SO on left side; range Little Missouri river and Beaver creek, north of N. P. R. R.\nBrand: N. P. Refrigerator Car Co., Medora — NP and other brands on left side; also steers purchased of Mason & Lovell branded -H- and 7Z; range Little Missouri river and Beaver creek\nBrand: Spring Creek Ranch, L. D. & B. Rumsey, J. L. Truscott, Manager, P.O. Medora — R with half-circle on left hip and side; range south of N. P. R. R. on Little Missouri\nBrand: Berry, Boice & Co., P.O. Keith, Montana — 777 on right hip, side and shoulder; range south of N. P. R. R. on Little Missouri river and Beaver creek\nBrand: E. G. Paddock, P.O. Medora — six-inch circle-dot on both sides; range six miles north of crossing of N. P. R. R. and Little Missouri; horses four-inch circle-dot\nBrand: Pennell & Roberts, P.O. Medora — RR on shoulder and JP on left thigh for horses and mules; ranch four miles down river from N. P. crossing\nBrand: Lydia S. Fuller, Frank S. Moore, Manager, P.O. Medora — LSF on left shoulder; range O'Donnell creek\nBrand: Custer Trail Cattle Co., F. Alden Eaton, Supt., P.O. Medora — HK in circle on left side and other brands; range Little Missouri river, Deep and Davis creeks\nBrand: Towers & Gudgell, P.O. Keith, Montana — OX on right side, V both sides; range south of N. P. R. R. on Little Missouri river and Beaver creek\nBrand: Bad Lands Cattle Co., [H.?] Wadsworth, Manager, P.O. Medora — 7L on right hip and shoulder; bellows; Pd; range Little Missouri river, fifteen miles north of Medora\nBrand: Neimmela Ranch, Gregor Lang, Manager, P.O. Medora — thistle on left or right shoulder; range Keogh crossing of Little Missouri to Pretty butte",
+   "summary": "Page 4 display and cattle-brand advertising directory.",
+   "people": [
+    "Howard Eaton",
+    "Gregor Lang",
+    "E. G. Paddock",
+    "Lloyd Roberts",
+    "J. L. Truscott",
+    "F. Alden Eaton",
+    "Charles Cook"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  }
+ ],
+ "events": [
+  {
+   "id": "e1",
+   "date": "1885-02-14",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"the shoot Saturday\" after Thu 12 Feb 1885",
+   "planned": true,
+   "title": "Rifle shoot set for Saturday at Medora",
+   "summary": "Medora marksmen were told to get ready for a shoot on Saturday; the telegraph operators (\"Telegs\") were practicing for it, and the new gun club's committee was to take charge of it.",
+   "excerpt": "Get ready for the shoot Saturday.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "social",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a26",
+   "confidence": "high"
+  },
+  {
+   "id": "e2",
+   "date": "1885-02-11",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Wednesday\" before Thu 12 Feb 1885",
+   "planned": false,
+   "title": "S. N. Thayer comes up from Dickinson",
+   "summary": "S. N. Thayer came up to Medora from Dickinson.",
+   "excerpt": "S. N. Thayer came up from Dickinson Wednesday.",
+   "people": [
+    "S. N. Thayer"
+   ],
+   "places": [
+    "Medora",
+    "Dickinson"
+   ],
+   "tags": [
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a27",
+   "confidence": "high"
+  },
+  {
+   "id": "e3",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "J. A. Ferris enlarges his stable",
+   "summary": "J. A. Ferris built an addition to his stable.",
+   "excerpt": "J. A. Ferris has built quite an addition to his stable.",
+   "people": [
+    "J. A. Ferris"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "building",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a28",
+   "confidence": "high"
+  },
+  {
+   "id": "e4",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Mrs. J. A. McGregor in town from the ranch",
+   "summary": "Mrs. J. A. McGregor came in from the ranch to visit Mrs. Paddock.",
+   "excerpt": "Mrs. J. A. McGregor is in from the ranch visiting Mrs. Paddock.",
+   "people": [
+    "Mrs. J. A. McGregor",
+    "Mrs. Paddock"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "social",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a30",
+   "confidence": "high"
+  },
+  {
+   "id": "e5",
+   "date": "1885-02-08",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Sunday\" before Thu 12 Feb 1885",
+   "planned": false,
+   "title": "Frank Keeler returns from Mandan",
+   "summary": "Frank Keeler returned from Mandan, where he had gone to see his wife.",
+   "excerpt": "Frank Keeler returned from Mandan Sunday, where he went to see his wife.",
+   "people": [
+    "Frank Keeler"
+   ],
+   "places": [
+    "Medora",
+    "Mandan"
+   ],
+   "tags": [
+    "town-life",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a33",
+   "confidence": "high"
+  },
+  {
+   "id": "e6",
+   "date": "1885-02-19",
+   "date_end": "1885-02-21",
+   "date_precision": "approx",
+   "date_basis": "\"the latter part of next week\" after Thu 12 Feb 1885",
+   "planned": true,
+   "title": "Dr. Jorgens expected home from Spearfish",
+   "summary": "Dr. Jorgens, then in Spearfish, was expected home in Medora the latter part of the following week.",
+   "excerpt": "Dr. Jorgens is expected home the latter part of next week. He is now in Spearfish.",
+   "people": [
+    "Dr. Jorgens"
+   ],
+   "places": [
+    "Medora",
+    "Spearfish"
+   ],
+   "tags": [
+    "health",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "high"
+  },
+  {
+   "id": "e7",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Cold halts work on N. P. R. C. Co. buildings",
+   "summary": "Work on the Northern Pacific Refrigerator Car Company's new buildings was suspended for two days because of cold weather.",
+   "excerpt": "On account of cold weather, work was suspended for two days on the N. P. R. C. Co.'s new buildings.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "weather",
+    "building",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a35",
+   "confidence": "high"
+  },
+  {
+   "id": "e8",
+   "date": "1885-02-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"this morning\" in Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "U. S. Marshal Allen passes through from Deadwood",
+   "summary": "Gen. Allen, U. S. Marshal for Dakota, came up from Deadwood on his way to Bismarck.",
+   "excerpt": "Gen. Allen, U. S. Marshal for Dakota, came up from Deadwood this morning on his way to Bismarck.",
+   "people": [
+    "Gen. Allen"
+   ],
+   "places": [
+    "Medora",
+    "Deadwood",
+    "Bismarck"
+   ],
+   "tags": [
+    "visitors",
+    "law",
+    "stage"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a36",
+   "confidence": "high"
+  },
+  {
+   "id": "e9",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Jamestown dealer brings oats to Medora",
+   "summary": "J. W. Sheridan of Jamestown was in Medora on business with two carloads of oats to sell.",
+   "excerpt": "He has two car loads of oats to sell.",
+   "people": [
+    "J. W. Sheridan"
+   ],
+   "places": [
+    "Medora",
+    "Jamestown"
+   ],
+   "tags": [
+    "business",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a37",
+   "confidence": "high"
+  },
+  {
+   "id": "e10",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Dan Williams returns from Sentinel Butte",
+   "summary": "Dan Williams came back from Sentinel Butte, where he had relieved operator Ive for a few days, and resumed his job as night watchman of the cold storage house.",
+   "excerpt": "Dan Williams came down from Sentinel Bute where he went to take operator Ive's place for a few days.",
+   "people": [
+    "Dan Williams"
+   ],
+   "places": [
+    "Sentinel Butte",
+    "Medora"
+   ],
+   "tags": [
+    "railroad",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a38",
+   "confidence": "high"
+  },
+  {
+   "id": "e11",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Skating rink closed for repairs; skaters take to the ice",
+   "summary": "The skating rink closed because its floor needed repairs; William Van Driesche, J. B. Foster and others skated on the ice after the freeze-up. J. C. Fisher planned a new 30x80 skating rink and shooting gallery if negotiations succeeded.",
+   "excerpt": "The skating rink has been closed, not on account of a lack of patronage, but the floor is in need of repairs.",
+   "people": [
+    "William Van Driesche",
+    "J. B. Foster",
+    "J. C. Fisher"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "town-life",
+    "social",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a39",
+   "confidence": "high"
+  },
+  {
+   "id": "e12",
+   "date": "1885-02-06",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Friday night\" before Thu 12 Feb 1885",
+   "planned": false,
+   "title": "Dance at the Pyramid Park hotel",
+   "summary": "A well-attended dance was held at Arch Boyd's Pyramid Park hotel.",
+   "excerpt": "That Arch Boyd is a good host was abundantly proven last Friday night, at the dance held at the Pyramid Park hotel.",
+   "people": [
+    "Arch Boyd"
+   ],
+   "places": [
+    "Pyramid Park hotel",
+    "Little Missouri"
+   ],
+   "tags": [
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a41",
+   "confidence": "high"
+  },
+  {
+   "id": "e13",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Fitzgerald's Metropolitan hotel ready for occupancy",
+   "summary": "George Fitzgerald's new hotel, the Metropolitan, was reported ready for occupancy.",
+   "excerpt": "George Fitzgerald's new hotel, the Metropolitan is ready for occupancy.",
+   "people": [
+    "George Fitzgerald"
+   ],
+   "places": [
+    "Medora",
+    "Metropolitan hotel"
+   ],
+   "tags": [
+    "business",
+    "building"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a42",
+   "confidence": "high"
+  },
+  {
+   "id": "e14",
+   "date": "1885-02-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"A week from next Saturday\": next Saturday is 14 Feb 1885, a week later 21 Feb",
+   "planned": true,
+   "title": "Dance planned at the Metropolitan hotel",
+   "summary": "George Fitzgerald planned a dance, open to all, to open his Metropolitan hotel.",
+   "excerpt": "A week from next Saturday Mr. Fitzgerald will give a dance to which all are cordially invited.",
+   "people": [
+    "George Fitzgerald"
+   ],
+   "places": [
+    "Medora",
+    "Metropolitan hotel"
+   ],
+   "tags": [
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a42",
+   "confidence": "medium"
+  },
+  {
+   "id": "e15",
+   "date": "1885-02-08",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Sunday last\" before Thu 12 Feb 1885",
+   "planned": false,
+   "title": "J. A. Van Eegan's plug hat shot full of holes",
+   "summary": "J. A. Van Eegan returned after a month in the east; the plug hat he wore on arrival was soon riddled with bullet holes.",
+   "excerpt": "The plug hat which he wore an his arrival would make a good seive, as numerous bullet holes now adorn it.",
+   "people": [
+    "J. A. Van Eegan"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a43",
+   "confidence": "high"
+  },
+  {
+   "id": "e16",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Slaughter house and cold storage rooms under construction",
+   "summary": "About 500,000 feet of lumber was to go into the slaughter house and cold storage rooms then building, with about two months' work left; galvanized iron work in the boxes was under way.",
+   "excerpt": "About 500,000 feet of lumber will be used in the slaughter house and cold storage rooms now building.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "building",
+    "business",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a44",
+   "confidence": "high"
+  },
+  {
+   "id": "e17",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "John S. Warn still in Bozeman",
+   "summary": "John S. Warn of the Oyster Grotto wrote from Bozeman that he would stay several days longer before returning.",
+   "excerpt": "John S. Warn, of the Oyster Grotto, is still in Bozeman.",
+   "people": [
+    "John S. Warn"
+   ],
+   "places": [
+    "Bozeman",
+    "Medora"
+   ],
+   "tags": [
+    "business",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a46",
+   "confidence": "high"
+  },
+  {
+   "id": "e18",
+   "date": "1885-02-09",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 12 Feb 1885",
+   "planned": false,
+   "title": "Frank Frankenberg of the E 6 returns from Ohio",
+   "summary": "Frank Frankenberg of the E 6 outfit returned from visiting his parents in Springfield, Ohio, and was to leave for the E 6 ranch in a few days; he had won a Lorillard $50 prize for estimating the presidential vote.",
+   "excerpt": "Frank Frankenberg, of the E 6 outfit, returned Monday from Springfield, Ohio, where he has been on a visit to his parents.",
+   "people": [
+    "Frank Frankenberg"
+   ],
+   "places": [
+    "Medora",
+    "Springfield, Ohio",
+    "E 6 ranch"
+   ],
+   "tags": [
+    "ranching",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a47",
+   "confidence": "high"
+  },
+  {
+   "id": "e19",
+   "date": "1885-02-08",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Last Sunday morning\" before Thu 12 Feb 1885",
+   "planned": false,
+   "title": "Little Missouri rises and gorges above the bridge",
+   "summary": "The Little Missouri rose rapidly and an ice gorge formed above the bridge, threatening a flood, but the cold froze the river over again Sunday night with no damage. The refrigerator company still needed 600 tons of ice to fill its houses.",
+   "excerpt": "Last Sunday morning the little Missouri began to rise rapidly. A gorge was formed above the bridge, and it seemed as if we were going to have a flood.",
+   "people": [],
+   "places": [
+    "Little Missouri River",
+    "Medora"
+   ],
+   "tags": [
+    "weather",
+    "water"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a48",
+   "confidence": "high"
+  },
+  {
+   "id": "e20",
+   "date": "1885-02-11",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last night\" in Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Gun club organized at Roberts & Co.'s hall",
+   "summary": "A preliminary meeting to organize a gun club met at Roberts & Co.'s hall, elected Wm. Van Driesche chairman, and named Packard, Paddock and Van Driesche a committee to run Saturday's shoot and report rules.",
+   "excerpt": "A preliminary meeting for the organization of a gun club was held last night in Roberts & Co.'s hall.",
+   "people": [
+    "Wm. Van Driesche",
+    "A. T. Packard",
+    "E. G. Paddock"
+   ],
+   "places": [
+    "Medora",
+    "Roberts & Co.'s hall"
+   ],
+   "tags": [
+    "social",
+    "town-life",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a50",
+   "confidence": "high"
+  },
+  {
+   "id": "e21",
+   "date": "1885-02-18",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"next Wednesday evening\" after Thu 12 Feb 1885",
+   "planned": true,
+   "title": "Gun club meeting for permanent organization",
+   "summary": "The gun club was to meet the following Wednesday evening at Roberts & Co.'s hall for permanent organization and to receive the committee's rules.",
+   "excerpt": "all interested in shooting will attend the meeting for permanent organization to be had next Wednesday evening at Roberts & Co.'s hall.",
+   "people": [
+    "A. T. Packard",
+    "E. G. Paddock",
+    "Wm. Van Driesche"
+   ],
+   "places": [
+    "Medora",
+    "Roberts & Co.'s hall"
+   ],
+   "tags": [
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a50",
+   "confidence": "high"
+  },
+  {
+   "id": "e22",
+   "date": "1885-02-06",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Friday\" before Thu 12 Feb 1885",
+   "planned": false,
+   "title": "A. T. Packard wins Medora rifle shoot",
+   "summary": "At a rifle shoot at 50, 100 and 200 yards, spoiled by afternoon cold, A. T. Packard won first prize with 21; E. G. Paddock and J. N. Maxwell divided second with 12 each. Ten men shot.",
+   "excerpt": "A. T. Packard won first on a score of twenty one, and E. G. Paddock and J. N. Maxwell divided second on a score of twelve each.",
+   "people": [
+    "A. T. Packard",
+    "E. G. Paddock",
+    "J. N. Maxwell"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "social",
+    "press",
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a62",
+   "confidence": "high"
+  },
+  {
+   "id": "e23",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Williamson & Copeland finish their shop",
+   "summary": "Williamson & Copeland finished their shop.",
+   "excerpt": "Williamson & Copeland have finished their shop.",
+   "people": [
+    "Williamson & Copeland"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business",
+    "building"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a51",
+   "confidence": "high"
+  },
+  {
+   "id": "e24",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Superintendent Green's baby gravely ill",
+   "summary": "Superintendent Green's baby was not expected to live; Agent Maxwell planned to leave for Mandan if there was no improvement.",
+   "excerpt": "Superintendent Green's baby is not expected to live.",
+   "people": [
+    "Superintendent Green",
+    "J. N. Maxwell"
+   ],
+   "places": [
+    "Medora",
+    "Mandan"
+   ],
+   "tags": [
+    "health",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a55",
+   "confidence": "high"
+  },
+  {
+   "id": "e25",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Conductor Clark back on duty",
+   "summary": "Conductor Clark returned to duty on the Northern Pacific line.",
+   "excerpt": "We do not think there is a person on the line but that rejoices over the return of conductor Clark to duty.",
+   "people": [
+    "Clark"
+   ],
+   "places": [
+    "Northern Pacific Railroad"
+   ],
+   "tags": [
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a56",
+   "confidence": "high"
+  },
+  {
+   "id": "e26",
+   "date": "1885-02-08",
+   "date_end": "1885-02-11",
+   "date_precision": "approx",
+   "date_basis": "Four days' hunt ending \"last night\" (Wed 11 Feb) before Thu 12 Feb 1885",
+   "planned": false,
+   "title": "Packard, Deffebach and Fisher hunt down the Little Missouri",
+   "summary": "Deffebach, Fisher and Packard returned from a four-day hunt down the river, stopping at McGregor's, Wadsworth's and Young's ranches; an account was promised in later issues.",
+   "excerpt": "Messrs. Deffebach, Fisher and Packard returned last night from a four days' hunt down the river, stopping at McGregor's, Wadsworth's and Young's.",
+   "people": [
+    "Deffebach",
+    "Fisher",
+    "A. T. Packard"
+   ],
+   "places": [
+    "Little Missouri River",
+    "McGregor's ranch",
+    "Wadsworth's ranch",
+    "Young's ranch"
+   ],
+   "tags": [
+    "hunting",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a57",
+   "confidence": "high"
+  },
+  {
+   "id": "e27",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Vic Smith fined in Milwaukee",
+   "summary": "Hunter Vic Smith was fined $5 and costs in Milwaukee for shooting in a back yard and was expected back in the Bad Lands soon.",
+   "excerpt": "Vic had to pay $5 and costs in court.",
+   "people": [
+    "Vic Smith"
+   ],
+   "places": [
+    "Milwaukee"
+   ],
+   "tags": [
+    "hunting",
+    "courts"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a58",
+   "confidence": "high"
+  },
+  {
+   "id": "e28",
+   "date": "1885-02-06",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Friday night\" before Thu 12 Feb 1885",
+   "planned": false,
+   "title": "Joe O'Brien returns from Missouri and Iowa",
+   "summary": "Joe O'Brien returned from visiting relatives in Missouri and Iowa and described Iowa's unenforced prohibition law.",
+   "excerpt": "Joe O'Brien returned Friday night from a visit to relatives in Missouri and Iowa.",
+   "people": [
+    "Joe O'Brien"
+   ],
+   "places": [
+    "Medora",
+    "Iowa",
+    "Missouri"
+   ],
+   "tags": [
+    "town-life",
+    "saloons"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a59",
+   "confidence": "high"
+  },
+  {
+   "id": "e29",
+   "date": "1885-02-11",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday\" before Thu 12 Feb 1885",
+   "planned": false,
+   "title": "Water flowing on the ice at McGregor's ranch",
+   "summary": "The paper described layered ice on the Little Missouri from chinook thaws upstream; at McGregor's ranch water was at least six inches deep and flowing on top of the ice, while at Wadsworth's there was no sign of a thaw.",
+   "excerpt": "At McGregor's ranch down the river, the water was at least six inches deep on the top of the ice and flowing rapidly.",
+   "people": [
+    "McGregor",
+    "Wadsworth"
+   ],
+   "places": [
+    "Little Missouri River",
+    "McGregor's ranch",
+    "Wadsworth's ranch"
+   ],
+   "tags": [
+    "weather",
+    "water"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a60",
+   "confidence": "high"
+  },
+  {
+   "id": "e30",
+   "date": "1885-01-15",
+   "date_end": "1885-02-12",
+   "date_precision": "approx",
+   "date_basis": "Mail posted at Medora Jan. 15 arrived 12 days later per the Black Hills Times; complaint printed Thu 12 Feb 1885",
+   "planned": false,
+   "title": "Push to move Black Hills mail to the Medora stage route",
+   "summary": "Reprinting the Black Hills Times, the Cow Boy reported petitions to move the Hills mail from the Miles City route to the Medora stage line, and said Deadwood mail reached Medora two or three weeks late.",
+   "excerpt": "Papers and letters arrive here two or three weeks after the time of their leaving the Deadwood postoffice.",
+   "people": [],
+   "places": [
+    "Medora",
+    "Deadwood",
+    "Miles City",
+    "Spearfish"
+   ],
+   "tags": [
+    "stage",
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a63",
+   "confidence": "medium"
+  },
+  {
+   "id": "e31",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Cow Boy backs woman suffrage bill in Dakota",
+   "summary": "The Cow Boy reported that a woman suffrage bill had little opposition in the Dakota legislature and said it hoped the measure would pass.",
+   "excerpt": "Practical experience has shown, however, that women are as well qualified to vote as men and we hope to see the measure pass.",
+   "people": [],
+   "places": [
+    "Dakota",
+    "Bismarck"
+   ],
+   "tags": [
+    "politics",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a3",
+   "confidence": "high"
+  },
+  {
+   "id": "e32",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Cattlemen urged to fight for herd-law repeal in Bad Lands",
+   "summary": "A letter from Mr. McCall, author of the herd-law repeal bill, said no one in the Bad Lands had petitioned for repeal; the Cow Boy urged cattlemen to send a man to Bismarck at once, and rebutted the Dakota Blade's opposition.",
+   "excerpt": "This is enough to call for immediate action on the part of cattlemen here, and a man should be sent at once to Bismarck to present our side of the case.",
+   "people": [
+    "McCall",
+    "Jimmy Emmons"
+   ],
+   "places": [
+    "Bismarck",
+    "Bad Lands"
+   ],
+   "tags": [
+    "politics",
+    "ranching",
+    "land",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a5",
+   "confidence": "high"
+  },
+  {
+   "id": "e33",
+   "date": "1885-02-05",
+   "date_end": "1885-02-12",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 12 Feb 1885 issue",
+   "planned": false,
+   "title": "Winter losses of VVV and BXB outfits on the Belle Fourche",
+   "summary": "Citing the VVV and BXB outfits on the Belle Fourche, the paper said most winter losses fell on yearlings and late-driven cattle and advised never to drive cattle in after August.",
+   "excerpt": "The B X B, with a corresponding location and a mixed herd which was driven in late in the fall, have been heavy losers on all classes of cattle.",
+   "people": [],
+   "places": [
+    "Belle Fourche River"
+   ],
+   "tags": [
+    "ranching",
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a7",
+   "confidence": "high"
+  }
+ ]
+}

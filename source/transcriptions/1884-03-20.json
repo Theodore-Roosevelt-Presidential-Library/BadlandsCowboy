@@ -1,0 +1,1862 @@
+{
+ "date": "1884-03-20",
+ "masthead": "Thursday, March 20, 1884",
+ "volume": "Vol. 1, No. 7",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "masthead; cols 1-3 display/card ads; col 4 verse and freight-route editorial; col 5 \"Egotistical\" press notices and On the Range; col 6 clipped range news; col 7 clipped sporting notes"
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "patent inside under a Cow Boy heading"
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "patent inside; fiction, miscellany, ads"
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "cols 1-3 local items, time table, freight-route editorial, Belfield Gossip, correspondence, letter list; cols 3-7 display ads (N.P. Refrigerator Car Co., Pyramid Park Hotel, N.P.R.R.) and cattle brands"
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "1-7",
+   "region": [
+    2,
+    2,
+    96,
+    8
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "The Bad Lands Cow Boy.\n\nVolume 1, Number 7. LITTLE MISSOURI, MEDORA P. O., DAK., MARCH 20, 1884. Price $2.00 per Year.\n\nBAD LANDS COW BOY, By A. T. PACKARD.\n\nThe Cow Boy is not published for fun, but for $2 per year. Advertising Rates made known on application. Standing Advertisements payable quarterly. Transient Advertisements and all Job work, money in sight. Address all communications to THE BAD LANDS COW BOY, MEDORA, DAKOTA.\n\nEntered at the post-office at Medora, Dak., as second class mail matter.",
+   "summary": "Front-page masthead, dateline and publisher's terms for Vol. 1, No. 7.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a2",
+   "page": 1,
+   "cols": "1-3",
+   "region": [
+    3,
+    15,
+    40,
+    84
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "A. D. Carpenter, Attorney, Dickinson, Dak.\nOld Bob Montgomery's Saloon, Belfield, Dak. — \"He deals exclusively in first-class goods\"\nRiverside Hotel, Max Bass, Prop., Belfield, Dakota — \"One of the neatest houses on the line of the N. P. R. R. Only a few steps from the depot\"\nF. E. Benjamin, Jeweler and Watchmaker, Mandan, Dakota\nJ. A. Freeze, Contractor and Builder, Little Missouri, Dak. — residence at Cantonment\nFirst National Bank of Mandan, Dakota — T. R. Selmes, President; M. Lang, Vice President; H. R. Lyon, Cashier; paid-up capital $50,000, surplus $10,000\nDan McKenzie, Blacksmithing and Horse-Shoeing, Little Missouri, Dak.\nMahar & Drury's Billiard Hall & Pool Room (Tom Mahar, Ed Drury), Mandan, Dakota\nM. Kline, Cigar Manufacturer, dealer in smoking and chewing tobacco, Mandan, Dakota\nThe Senate, Roberts & Co., Billiard and Pool Hall, Little Missouri — \"Finest Bar in Little Missouri\"; \"The Genial Jim is in constant attendance\"\nThe General Store of the N. P. R. C. Co., Medora, Dakota — groceries, dry goods, ready-made clothing, hats, caps, canned goods, harness, saddles, tobacco and cigars, felt shoes, overshoes, boots and shoes, flour and feed; \"Hunters' Outfits a Specialty\"; wholesale and retail\nWestern House, Peter Malloy, Prop., Little Missouri, Dak. — transient rates $1.50 per day, regular board $6.00 per week; a fine bar connected\nMichael Knott, wines, liquors and cigars — \"The Finest Whiskies in Little Missouri\"; \"All are made welcome\"\nThe Elk — \"The finest goods. Courteous treatment.\"\nThe Pioneer Saloon of Little Missouri — choicest brands of liquors and cigars\nHotel De Mores, G. W. Fitzgerald, Prop. — \"The Best Hotel in Medora, Dak.\"; transient $2.00 per day, board $6.00 per week; livery stable and bar in connection",
+   "summary": "Directory of display and card advertisers on page 1.",
+   "people": [
+    "Max Bass",
+    "Peter Malloy",
+    "Michael Knott",
+    "G. W. Fitzgerald",
+    "J. A. Freeze",
+    "Dan McKenzie"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a3",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    43.5,
+    11,
+    14,
+    27
+   ],
+   "section": "local",
+   "headline": "The Cow-Boy's Tale.",
+   "text": "\"Are there no real good Injuns?\"\nThe cow-boy raised his head,\nAnd glancing at the tenderfoot,\nHe turned to him and said:\n\"I rode the prairies, pardner,\nTen years in rain and sun,\nBut as to 'real good Injuns,'\nI haven't met more nor one,\nA swig o' that hoss liniment,\nAnd then I'll try to place\nThis A 1 virtuous redskin\nThat for goodness trumped the ace,\n'Twas at the bar at Mack's Ford,\nA lot o' boys one day\nGot to making things quite lively\nIn a ball and cartridge way,\nI banged around about me,\nAnd didn't count the odds—\nI'd been soaking electricity\nLike fifty lightning rods:\nWhen suddenly the sheriff\nAnd his gang came bounding down,\nAnd the boys took to their cattle\nAnd dusted outen town.\nBut suthin' was the matter\nWith my head works, I dare say,\nFor I stumbled by the roadside,\nAnd I couldn't find my way;\nAnd the next I can remember,\nIt was night, and pitchy black,\nAnd I tried to strike the trail from there,\nBut couldn't hit a track,\nAnd I was mighty dizzy\nAnd felt I should have died,\nWhen standing just before,\nAn Injun's shape I spied,\nHe held his hands out to me,\nBut I didn't say a word;\nAnd when I tried to hail him,\nHe neither spoke nor stirred,\nAnd then I slipped in somehow\nBetween each sturdy arm,\nAnd then he let me down so gently,\nWithout a bit o' harm;\nAnd I lay there quite contented,\nAnd slept until 'twas day,\nAnd woke to find him watching\nAt my side the same old way;\nSo I climbed upon my uprights,\nAnd a word I couldn't say,\nBut I looked the red man in the face,\nAnd then I sneaked away.\nWe parted. But, as years passed by,\nI wonder more and more\nIf still that real good Injun stands\nAt Mack's tobacco store.\"\n—[The Northwest.",
+   "summary": "Humorous verse, credited to The Northwest, in which a cowboy's 'real good Injun' turns out to be a cigar-store Indian.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a4",
+   "page": 1,
+   "cols": "4-5",
+   "region": [
+    42.5,
+    37,
+    27,
+    60
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "The weakest article of all the maudlin trash that has appeared against our freight route emanated from a Dickinson numskull and was published in the Pioneer-Press of the 14th. The article says: \"We claim, and with justice, that the best road to that point (Deadwood) is from Dickinson.\" How does this sound when taken in connection with the statement of The Dickinson Press that a committee was appointed to view the road as soon as practicable? The article goes on to say: \"We claim, also, that this is the proper place from which to ship the freight, as it is the end of the Missouri freight division of the railroad.\" Does the writer have any idea that a railroad in such a case as this looks at the \"proper\" side of the case? A railroad is built and run to make money. The Northern Pacific can make more money by having a freight route start[?] from this point. Ergo, it will start from here. The article adds to the above quotation that to have the route start from here \"will necessitate the expenditure of vast sums of money by the railroad company for additional side-tracks, freight houses, etc.\" Were this even a fact, a practical view of the matter settles it. If it pays the railroad company to go to any additional expense they will do it, otherwise they will not. The fact of the matter is, however, that the Marquis de Mores stands all the expense of extra buildings, and if the freight route had never been thought of, our growing trade would have compelled the railroad company to put in a side-track.\n\nThe article further states: \"The road from Little Missouri (or Medora, as it is now called) is through an almost impassable series of buttes or Bad Lands.\" The writer here displays his ignorance of even the starting point of our route and states a willful lie in reference to the road in the Bad Lands. We call the lie willful because no writer has any business describing a thing of which his own utterances display his utter ignorance. We would willingly pay our share toward the expenses of an unbiased committee to view the merits of the two roads. Our road is as level as a floor and will not need a bridge, and only a little grading in one place while in the Bad Lands. The writer is informed that our road is decided upon. The road which their committee will \"view as soon as practicable\" he is, of course, as ignorant of as he is of ours. For his benefit we will state that the road from Dickinson that is free from gumbo consists of what are called \"buffalo wallows.\" That is, there is a space, say of ten feet, where the ground is as bare as a floor. Then comes an equal space of turf about six inches higher than the general level. In the lightest buggy it is impossible to go over this land on a trot. With heavy freight wagons the jar will be sufficient to tear the horses' shoulders to pieces. Also, Mr. Ignorance, we would like to know if you have figured on \"the vast sums of money\" it will take to bridge your route? Of course, you haven't, for your committee has not yet found it practicable to view your route.\n\nBut right here is where the most laughable ignorance of this writer is displayed. The very thing which condemns the Dickinson route beyond all peradventure. He says their route \"crosses the head-waters of the North and South Cannonball rivers, the Grand river (north and south forks)\" and then goes further out of his way to condemn the route by saying that \"it crosses a number of small streams known by various names, whereas the more western route from Little Missouri heads some of them, thus missing a number of watering places.\" We should say our route did \"miss some of the watering places.\" Almost from the Heart river to the South Moreau on the Dickinson route is one vast \"watering place.\" But we never heard gumbo called a \"watering place\" before.\n\nThe rest of the article is a mass of drivel that only reminds one of a spoiled child blubbering because a valuable toy that it does not know how to handle has been taken away from it. And, now, we want to ask this writer of what good was his production? If any one wants a freight route they must work for it personally. A mass of rot such as this article is can do nothing but injury. The falsity of most of the statements and the pusillanimity of the rest condemn the article as the route is already condemned. We dislike to fight men of straw such as the writer of this article has proved himself to be, as it scarcely furnishes the needed exercise. For the good of Dickinson we hope this effervescent individual will be effectually corkedup or he may slop over again.",
+   "summary": "Packard attacks a Dickinson writer in the Pioneer-Press of the 14th who claimed the Black Hills freight route should start at Dickinson, defending the Medora route.",
+   "people": [
+    "Marquis de Mores"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a5",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    55,
+    21,
+    14.5,
+    48
+   ],
+   "section": "editorial",
+   "headline": "EGOTISTICAL.",
+   "text": "Following a time-honored custom with newspapers we publish below a few of the many favorable comments we have received at the hands of the press. We don't believe much in a paper blowing its own trumpet, but like crumpets, we find these extracts \"werry filin' at the price.\"\n\nTHE BAD LANDS COW BOY is the name of a new paper in Little Missouri, Dak., and is owned and edited by A. T. Packard, '83. We are in receipt of the first two numbers and they look as newsy and neat as though printed in a city printing house and not a thousand miles from nowhere. \"Pack\" can run a paper as well as he can curve a base-ball and no fears for the new sheet need be entertained.—[Ann Arbor, Mich., University Chronicle.\n\nA handsome, wide-awake weekly paper called THE BAD LANDS COW BOY has been started at Medora, formerly Little Missouri, Dak., by A. T. Packard. It will have a good field in representing the cattle and sheep industries of one of the best grazing regions of the West, and in chronicling the growth and doings of the new town founded by the Marquis de Mores.—[The Northwest.\n\nTHE BAD LANDS COW BOY of which A. T. Packard, a former Chicago reporter, is the editor, tells each of the 600 what the rest have been doing during the week, and to the public at large details the many natural and acquired advantages of the new city as a place of business and residence. It has done this since February 4, a day that will therefore long be remembered in Medora.—[New York Sun.\n\nTHE BAD LANDS COW BOY, a new newspaper published at Little Missouri has reached our table. It is filled with fresh news and is of neat makeup. THE COW BOY is published in the heart of the Bad Lands of Western Dakota which are becoming famous as the best stock ranges in this country, if not in the world, and will devote considerable of its space to the stock industry.—[Kansas City Live Stock Indicator.\n\nThis week brings to our editorial table the initial number of THE BAD LANDS COW BOY, published by A. T. Packard, Medora, Dak., not for fun (as he says) but whereby to make a living. The paper starts out well, and we trust will keep up its lick, as The Northwestern Live Stock Journal (the daddy of all stock journals in the Northwest) wishes to see its children succeed. THE COW BOY is a four-page, seven-column paper, ably edited and representing well the interest for which mission it has started in.—[Cheyenne, Wyo., Northwestern Live Stock Journal.\n\nTHE BAD LANDS COW BOY, published at Little Missouri, Dak., is a surprisingly good paper.—[Minneapolis Hotel Register.\n\nThe first issue of THE BAD LAND COW BOY, published by A. T. Packard, at Little Missouri, is full of interesting matter to stock men. It aims to be the best cattle paper in the Northwest, and we trust the long-felt want among the ranchmen is filled by this paper.—[Dickinson Press.\n\nLittle Missouri has a newspaper which sails under the significant name of THE BAD LANDS COW BOY. Typographically it is excellent. It is ably edited by A. T. Packard.—[Glendive Times.\n\nTHE BAD LANDS COW BOY is the unique title of a thorough cattle paper, published at Medora, Dak., which is fast becoming a noted cattle point. It gives all the cattle and general news of the Bad Lands and advocates Medora as the cattle headquarters of the Northwest. The name of the paper calls attention to the two things concerning which the editor, A. T. Packard wishes to change public opinion, as the Bad Lands are not bad but very good and produce mints of money; and the cowboys, as a rule, are good citizens. The exceptions have formed public opinion against them.—[Pioneer-Press.",
+   "summary": "Reprints favorable notices of The Cow Boy from nine other newspapers.",
+   "people": [
+    "A. T. Packard",
+    "Marquis de Mores"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a6",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    55,
+    73,
+    14.5,
+    22
+   ],
+   "section": "range",
+   "headline": "ON THE RANGE.",
+   "text": "The Cattle buyers of Eastern Washington Territory are paying $12 for calves, $18 for yearlings, $25 for two-year-olds and $40 for cows.—Kansas City Live Stock Indicator.\n\nA correspondent writing from LaCueva, Mora Co., N. M., says: \"Cattle in this part of the country are fat enough to ship. I hear of considerable losses in Colfax county, north of this, and also out on the other side of Red river.\n\nYearling steers are worth from $11.50 to $12.50 and twos from $14.50 to $17. We refer to steer cattle. Better classes of yearlings sell from $12 up. Beeves are in good demand, but scarce at any price, if fat.—[Texas Live Stock Journal.\n\nE. E. Crawford, Miles City, Mont., writes: \"Stock of all kinds has wintered well thus far. On the range the horses and native cattle are fat; state cattle, late arrivals last fall, are a little thin. Loss, nothing to speak of. Unless we should have some very rough weather this month they will pull through all right.\"\n\nThe winter is over, if we know ourselves. Warm weather and the grass-growing rains have blessed a large portion of the country and the prospect is good. Our correspondents refer to the last spell of weather, which was threatening bad, but let up easily. Texas stock, on the average, wintered exceedingly well.—[Texas Live Stock Journal.",
+   "summary": "Clipped range news on cattle prices and wintering in Washington Territory, New Mexico, Montana and Texas.",
+   "people": [
+    "E. E. Crawford"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a7",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.3,
+    11,
+    15,
+    86
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "We notice many papers of late printing the names of parties prominent in rounding up cattle crooks. This is not advisable. The thieves know who are hunting them and keep out of the way. It exposes stock detectives and parties assisting to unnecessary danger. Thief-takers are not grateful for gratuitous advertising of their business.—[Cheyenne Live Stock Journal.\n\nOne of the largest sales of property ever made in the far west took place Friday, by which the Swan Land and Cattle Company purchased for a consideration of $2,588,825 upward of 88,000 head of cattle, besides ranch improvements, horses and other kinds of personal property and immense tracts of land, all of said property being in this county.—[Cheyenne Sun.\n\nMr. F. P. Ernest sometime last season bought a bunch of cattle of the Prairie Cattle Company, in the southern part of the state. Without handling a beef or looking at a single animal he had purchased, Mr. Ernest sold the cattle to the outfit known as the Mill-Iron Company, which was formerly the John Hitson Company, at an advance over the purchase of $32,000.—[Pueblo, Colo., Chieftain.\n\nThere was, perhaps, never a brighter outlook for the stock interests of Texas than at present. The nippers have been prohibited, made a deadly weapon, so to speak, the stock have wintered in good shape, those who have no land are arranging to secure it, those who have land are fencing or preparing to fence it, and, indeed, it begins to look as if the new era in the stock business of Texas, that we have been all along predicting, is about to be ushered in.—[Texas Stockmen.\n\nFifteen years ago people who had small herds of cattle, and when the state did not contain more than 100,000 head, proclaimed the thing overdone, and wanted the gates closed. They said there was room for no more. But despite this discouragement the increase has gone on until now we have 1,500,000 and there is room for more. Five years from now there will be as many cattle grazed west of the Continental Divide as there are east of it at the present time.—[Colorado Live Stock Record.\n\nPlenty of food and enough exercise to keep the muscles firm is the best treatment of horses in winter. It is quite common for many farmers to underfeed in winter, because they have little or nothing for horses to do. But a horse thus managed soon loses his capacity for hard service. Such a horse may be fed so as to make a good show in spring, but it will be fat, not muscle, and a few days in plowing or harrowing will bring him down. Horses worked continuously are less liable to [gall?] from the harness, as the skin is always firm and hard.—[Journal of Agriculture.\n\nMr. Bennett, who is employed by the Colorado Cattle Growers' Association to inspect the cattle killed by the railroads, is just in from Wallace, Kan., and reports large numbers of Republican river cattle suffering and dying on account of the large pasture fences on North Smoky river. These cattle are dying on both the outside and inside of the pastures. On the outside they die from want of water. Some hundreds of them have broken through the fence to get water, and the pastures having all been eaten out last fall and the cattle that were in them turned out south before winter set in, leaves them on the inside with no grass and they are dying in as great numbers as those on the outside.—[Denver Republican.\n\nEffective measures have already been taken to prevent the spread of the foot and mouth disease in Kansas. Gov. Glick, himself a large cattle owner, is personally interesting himself in the matter and a strict quarantine has been effected. The disease has undoubtedly spread from cattle that have been imported. Hereafter it is probable that the health of all imported stock will be strictly inquired into. The disease itself is a very contagious eruptive fever. It is communicable not only between animals of the same species but between those of species entirely different. For instance, it spreads from cattle to sheep, pigs and fowls and vice versa. The symptoms according to Prof. Law are, roughness of the coat or shivering, increased temperature, dry muzzle, hot red mouth, teats, and interdigital spaces, lameness, inclination to lie and shrinking from the hand in milking. The second or third day blisters arise on any part of the whole interior of the mouth, one-half to one inch in breadth, or on the teats and digits about one-half inch across. Saliva drivels from the mouth, collecting in froth around the lips and a loud smacking is made with the lips and tongue. Swine champ the jaws. Sheep and swine suffer more especially in the feet, often losing the hoofs or even the digital bones, a contingency not unknown in neglected cattle. We do not need to enter into a description of the prevention and cure of this disease, as it will probably never trouble any of our cattle men. It is sufficient to say that the quarantine is so effective that it is not at all likely to spread out of the five or six miles of infected district in Kansas.",
+   "summary": "Clipped stock news from other papers: cattle-thief reporting, the Swan Land and Cattle Company sale, Texas and Colorado outlooks, horse care, Kansas pasture die-off and foot and mouth quarantine.",
+   "people": [
+    "F. P. Ernest",
+    "Gov. Glick"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a8",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    82,
+    11,
+    17,
+    86
+   ],
+   "section": "local",
+   "headline": "SPORTING NOTES.",
+   "text": "[Not transcribed: clipped exchange matter, not Medora news. Column carries short national sporting items (billiards, prize-fighting including Sullivan and Robinson at San Francisco, baseball in St. Paul and St. Louis, pedestrianism) and a reprinted yarn, \"A Tenderfoot's Experience,\" set on a round-up of the Pincher Creek range, in which a cowboy ropes a bull and lets it chase a tenderfoot.]",
+   "summary": "Column of clipped national sporting notes and a reprinted cowboy yarn; summarized, not transcribed.",
+   "people": [],
+   "method": "ocr",
+   "confidence": "low"
+  },
+  {
+   "id": "a9",
+   "page": 2,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "[Ready-print page, not transcribed.]",
+   "summary": "Patent inside under a \"Bad Lands Cow Boy, A. T. Packard, Publisher, Little Missouri, Dakota\" heading: syndicated editorial filler, News of the Week Summarized, Proceedings of Congress, Territorial Notes and humor.",
+   "people": [],
+   "method": "ocr",
+   "confidence": "medium"
+  },
+  {
+   "id": "a10",
+   "page": 3,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "[Ready-print page, not transcribed.]",
+   "summary": "Patent inside carrying fiction, miscellany and patent-medicine advertising.",
+   "people": [],
+   "method": "ocr",
+   "confidence": "medium"
+  },
+  {
+   "id": "a11",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    3,
+    14,
+    5
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "Bad Lands Cow Boy,\nBy A. T. Packard.\nTHURSDAY, MARCH 20, 1884.",
+   "summary": "Local-page masthead dated Thursday, March 20, 1884.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a12",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    6,
+    14,
+    6
+   ],
+   "section": "railroad",
+   "headline": "Northern Pacific Time Table.",
+   "text": "Northern Pacific Time Table.\nWEST BOUND.\nPacific Express, No. 1 .......... 4:01 a[. m.?]\nExpress Freight, 2d Class .......... 8:57 a[. m.?]\nFreight, 3d Class .......... 5:45 a[. m.?]\nEAST BOUND.\nAtlantic Express, No. 1 .......... 10:20 p[. m.?]\nExpress Freight, 2d Class .......... 12:46 a[. m.?]\nFreight, 3rd Class .......... 1:55 p[. m.?]\nR. E. Spurrier, Agent.",
+   "summary": "Northern Pacific train times at Medora; R. E. Spurrier, agent.",
+   "people": [
+    "R. E. Spurrier"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a13",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    12.0,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Smoke the Far West cigar, sold only by Roberts & Co.",
+   "summary": "Plug for the Far West cigar at Roberts & Co.",
+   "people": [
+    "Roberts & Co."
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a14",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    15.4,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "In this climate and weather it is sufficient enjoyment to exist.",
+   "summary": "Remark on the pleasant weather.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a15",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    18.8,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The dance at the Hotel de Mores Monday night was a very pleasant affair.",
+   "summary": "A dance at the Hotel de Mores on Monday night was a pleasant affair.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a16",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    22.2,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The Far West is the best cigar in the city. The Senate holds the sole agency.",
+   "summary": "The Senate holds the sole agency for the Far West cigar.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a17",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    25.6,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Gill Kennedy went to Belfield Saturday. He has a claim adjoining the townsite.",
+   "summary": "Gill Kennedy went to Belfield, where he has a claim adjoining the townsite.",
+   "people": [
+    "Gill Kennedy"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a18",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    29.0,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The Marquis started for St. Paul the 17th and will doubtless be here inside of a week.",
+   "summary": "The Marquis de Mores left for St. Paul on the 17th and is expected back within a week.",
+   "people": [
+    "Marquis de Mores"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a19",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    32.4,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "J. M. Cook sold his team and outfit Tuesday, to A. T. Packard, to be used on the butte farm.",
+   "summary": "J. M. Cook sold his team and outfit to A. T. Packard for the butte farm.",
+   "people": [
+    "J. M. Cook",
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a20",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    35.8,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Will McNaughton, running for Dan Eisenberg, of Bismarck, put in a profitable day here last Saturday.",
+   "summary": "Will McNaughton, travelling for Dan Eisenberg of Bismarck, did good business in town Saturday.",
+   "people": [
+    "Will McNaughton",
+    "Dan Eisenberg"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a21",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    39.2,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The Northern Pacific bridge gang went up the road Monday. The pile-driver will soon start on its spring trip.",
+   "summary": "The Northern Pacific bridge gang went up the road Monday.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a22",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    42.6,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Abe Goodkind, travelling for Wise & Goodkind, of Bismarck, was in town Saturday. He had good success here.",
+   "summary": "Abe Goodkind of Wise & Goodkind, Bismarck, was in town Saturday.",
+   "people": [
+    "Abe Goodkind"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a23",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    46.0,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Wise & Goodkind, of Bismarck, have given Roberts & Co. the sole right to sell the Far West cigar in Little Missouri.",
+   "summary": "Wise & Goodkind gave Roberts & Co. sole right to sell the Far West cigar in Little Missouri.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a24",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    49.4,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "\"Doc\" Pennell has gone to Deadwood via the Medora route. Part or all of Mr. Jones' teams will doubtless return with him.",
+   "summary": "\"Doc\" Pennell has gone to Deadwood via the Medora route.",
+   "people": [
+    "\"Doc\" Pennell"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a25",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    52.8,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "C. A. Williams, of Bismarck, was in the city yesterday. He showed his appreciation of THE COW BOY by subscribing and advertising.",
+   "summary": "C. A. Williams of Bismarck visited and subscribed and advertised.",
+   "people": [
+    "C. A. Williams"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a26",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    56.2,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Pennell & Roberts drove their transportation outfit in from their ranch last Saturday and went into camp south of the railroad track.",
+   "summary": "Pennell & Roberts brought their transportation outfit in and camped south of the track.",
+   "people": [
+    "Pennell & Roberts"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a27",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    59.6,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The latest reports from all along the river for fifty miles up state that the cattle are in prime condition, many being fat enough to kill.",
+   "summary": "Reports say cattle for fifty miles up the river are in prime condition.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a28",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    63.0,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Only two head of the Marquis' cattle have died this winter. These were pure-bred Durhams that died from accidents. Out of about fifteen hundred head this is a splendid showing.",
+   "summary": "Only two of the Marquis' roughly 1,500 cattle died over the winter.",
+   "people": [
+    "Marquis de Mores"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a29",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    66.4,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Johnny Goodall, Frank Smith and Rev. Silas Cheval are the latest contributors to our Bad Lands museum. The latter \"held up\" a passing freight and secured a good specimen of galena.",
+   "summary": "Johnny Goodall, Frank Smith and Rev. Silas Cheval contributed specimens to the Bad Lands museum.",
+   "people": [
+    "Johnny Goodall",
+    "Frank Smith",
+    "Silas Cheval"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a30",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    69.8,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Moody and Jones, of the \"Big Foot\" Ryder outfit came in for supplies this week. When not \"tired\" they reported 5,000 posts cut. The increase, however, was about 1,000 posts to the \"smile.\"",
+   "summary": "Moody and Jones of the \"Big Foot\" Ryder outfit came in for supplies and reported 5,000 posts cut.",
+   "people": [
+    "Moody",
+    "Jones"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a31",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    73.2,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Howard Eaton will probably have the largest barn in the county when it is finished. It is a \"ready-made\" barn, every piece being cut to fit its proper place. Several teams are busy hauling the parts to Howard's ranch.",
+   "summary": "Howard Eaton is putting up a ready-made barn, probably the largest in the county.",
+   "people": [
+    "Howard Eaton"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a32",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    76.6,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "If any one doubts that the cattle are in good condition, let them go to the company's meat market or cold-storage room here and look at the cattle slaughtered Tuesday. They are rolling in fat and have had nothing to eat but the grass they rustled.",
+   "summary": "Cattle slaughtered Tuesday at the company's market were fat from grass alone.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a33",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    80.0,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The river was on a big boom Monday. A gorge forming a few miles up the river and breaking about 12 o'clock. For two or three hours it was a grand sight to see the broken ice shoot down stream. The current for a while was fully twelve miles an hour.",
+   "summary": "An ice gorge broke on the Little Missouri on Monday, sending ice down at twelve miles an hour.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a34",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    83.4,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The Northern Pacific, in connection with the new fast mail from New York to Chicago and St. Paul, will soon change their time from St. Paul to Portland to ninety-two hours instead of one hundred and four. The trains will then run through the Bad Lands in daylight, and two each way will be put on probably the first of the month.",
+   "summary": "The Northern Pacific will cut St. Paul-Portland time to ninety-two hours, running through the Bad Lands in daylight.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a35",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    86.8,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Work is progressing in good shape on the Packard-Steiger butte farm. As soon as the frost is out of the ground, plowing will commence. All sorts of vegetables will be planted to see which will do the best. The most of the ground, however, will be planted with potatoes. It will be an interesting experiment to find out what the summits of the buttes are good for.",
+   "summary": "Work progresses on the Packard-Steiger butte farm, to be planted mostly in potatoes.",
+   "people": [
+    "A. T. Packard",
+    "Steiger"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a36",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    90.2,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Reduced rates on emigrant movables have been issued by the Northern Pacific R. R. The term \"emigrant movables\" is meant to apply to any part of the outfit of an intending settler. This includes second-hand household goods, farming implements and tools and vehicles, trees, shrubbery, fowls and not to exceed ten head of live stock per car. It does not include merchandise, provisions, grain (except for feed in transit and fifty bushels for seed), or any article intended for sale. Twenty-five hundred feet of lumber and 500 fence posts, and portable houses may also be shipped. The rates are proportionate for any amount and are $71 per car of 20,000 pounds from St. Paul to Little Missouri.",
+   "summary": "The Northern Pacific issued reduced rates on emigrant movables, $71 per car from St. Paul to Little Missouri.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a37",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    93.6,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "John Doulisch met with a serious accident yesterday. He was excavating the dirt next to Michael Knott's saloon for a new building, when a number of large lumps fell on him. Joe Pennell and two or three others happened to be passing and stopped on hearing the noise. A slight groan convinced them that some one was hurt, but nothing could be seen except the frozen blocks of displaced earth. It took the combined strength of three men to roll the blocks off of Doulisch. It is not thought that he has received any internal injury, but it is difficult to tell at present. He was resting much easier last night. The victim would not have lived five minutes had he not been relieved from the pressure as he was squeezed so hard that it was impossible for him to breathe.",
+   "summary": "John Doulisch was nearly crushed by frozen earth while excavating next to Michael Knott's saloon.",
+   "people": [
+    "John Doulisch",
+    "Michael Knott",
+    "Joe Pennell"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a38",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    3,
+    14,
+    6
+   ],
+   "section": "local",
+   "headline": "Contributed.",
+   "text": "Let dogs delight to bark and bite,\nFor God hath made them so;\nLet bears and lions growl and fight,\nFor 'tis their nature too.\n\nBut, Sandy, you should never let\nYour angry passions rise,\nYour hands were never made\nTo scratch out Jones' eyes.",
+   "summary": "Contributed verse, a parody of Isaac Watts addressed to \"Sandy,\" warning against scratching out Jones' eyes.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a39",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    9,
+    14,
+    5
+   ],
+   "section": "range",
+   "headline": "Round-Up Meeting.",
+   "text": "Messrs. Boice and Towers arrived in town this afternoon to make arrangements for a round-up meeting to be held in Pennell's Hall, Little Missouri, April 5. This notice will take the place of a call, as enough cattle men are already interested to insure the success of the meeting. Turn out, stockmen.",
+   "summary": "Boice and Towers arrived to arrange a stockmen's round-up meeting at Pennell's Hall, Little Missouri, April 5.",
+   "people": [
+    "Boice",
+    "Towers"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a40",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    14,
+    14,
+    33
+   ],
+   "section": "editorial",
+   "headline": "The Medora Freight Route.",
+   "text": "The latest thing in reference to the freight route is that the Northwestern and Milwaukee roads have pooled and lowered rates to meet the Rock Island schedule. These rates apply to Medora, Dickinson and Belfield. Every town has a fair show and that is all our route wants. On account of the superiority of our road, none other can possibly compete with it.\n\nIn reply to our \"preposterous remarks about the freight line,\" the Press claims that it is not a fact that freight now in Dickinson is to be shipped here and freighted from this point. Up to date, this is the first \"claim\" emanating from Dickinson that is substantiated by facts. We were misled into stating it by reading orders from Messrs. Jansen & Bliss, Blum, Zeipp and F. B. Smith, of Deadwood, for all freight at Dickinson to be turned over to Cranston; also orders from Cranston to turn over the freight to Jones & Pennell. Upon inquiry, however, it was found that there was only a car-load or two at Dickinson and the firm here wouldn't ship such a small amount, and this very freight that we don't want is what Dickinson has gone so wild over!\n\nThe Press further states that eleven loaded freight outfits had started for the Black Hills last week. Your vocabulary needs enlarging, Bro. Scott. In speaking of outfits, one does not call every team an outfit. Mr. Jones' outfit will haul 200,000 pounds, Pennell & Roberts' 100,000 and Larson's 75,000.\n\nThe Press goes on to say:\n\n\"We will now give the facts as they exist at the present time. Keyes & Bramble, heavy freighters, have made contracts with the railroad to have all of their freight delivered at Dickinson and at no other point. Jones & Pennell have made contracts to have their freight delivered either at Dickinson or Little Missouri.\"\n\nAs food for thought on the part of The Press we will \"give the facts\" in the shape of a telegram from Mr. Jones to Mr. Pennell:\n\nDEADWOOD, March 16, 1884.\nJOE PENNELL, Little Missouri, Dak.:\nHave made contracts with many merchants. Have consolidated with Bramble in favor of Medora route. (Signed) JONES.\n\nRead, Bro. Scott, and then go out and weep a spring freshet into the Heart river.",
+   "summary": "Rebuts the Dickinson Press on the Black Hills freight route, printing a telegram from Jones in Deadwood that he has consolidated with Bramble in favor of the Medora route.",
+   "people": [
+    "Joe Pennell",
+    "Jones",
+    "Bramble",
+    "Scott"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a41",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    46.5,
+    14,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A trial of the Far West cigar is its best recommendation.",
+   "summary": "Plug for the Far West cigar.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a42",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    47,
+    14,
+    39
+   ],
+   "section": "correspondence",
+   "headline": "BELFIELD GOSSIP.",
+   "text": "BELFIELD, Dak., March 19, 1884.\nEDITOR COW BOY:\n\nBelfield is much pleased with the efforts of THE COW BOY in urging prompt organization of the county. Billings county is one of the richest of Dakota and for its age, most densely populated. We are entitled to organization and the executive should recognize the fact.\n\nTwo dozen buttons came off when the Dickinson freight-line article was read in The Pioneer-Press.\n\nWill Houk celebrated his twenty-third birthday on Sunday last, and hilarity reigned supreme upon this festive occasion.\n\nThe Galliens, who were expected to return last week, have not arrived yet and it is feared that their little child, which was sick at St. Paul, has grown worse.\n\nThe first new settler, Mr. Schurke, of Chicago, arrived last Monday, and will be followed by six families within a week.\n\nThe snow is disappearing fast and it is beginning to be unsafe to venture through the many creeks with ordinary ponies.\n\nQuite a traffic in relinquishment papers has commenced here. Many excellent claims were filed on by speculators last season who are now trying to unload. Such proceedings are utterly unlawful and suggest food for a special agent of the U. S. land department.\n\nQuite a number of Indians passed through here a few days ago.\n\nA somewhat interesting case of horse stealing came to light this week. A party of Indians recognized among some ponies belonging to our citizens, one which they claimed had been stolen from them three years ago and were going to take it from their present owner. After considerable parleying they were induced to seek redress by legal process, and will likely recover their animal to-day. The pony has passed through three different hands here and was originally purchased from the Townsite Company for $60. The moral attached to this item is that no one should ever purchase any kind of stock without taking a bill of sale for his money, or run the risk of being arrested for horse stealing.\n\nBoomer Kennedy was down from Little Missouri this week and thinks of erecting a two-story store this season.\n\nSenor Bass, the Delmonico of Billings county, entertained a number of guests royally on St. Patrick's day.\n\nThe anniversary of the Emerald Isle's noted saint was the occasion of a lavish expenditure of green ribbon, flags, etc.\n\nErtel & Houk have received a large supply of all kinds of garden seeds to furnish the million settlers around here.\n\nSeveral large herds of antelope were seen here the last few days, likely attracted by the fact of some young travelling men stopping over. The antelope have lots of fun with the latter.\n\nSADIE.",
+   "summary": "Belfield letter signed \"Sadie\": county organization, settlers, relinquishment speculation, an Indian horse-theft claim, St. Patrick's day and local doings.",
+   "people": [
+    "Will Houk",
+    "Schurke",
+    "Boomer Kennedy",
+    "Max Bass"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a43",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    86,
+    14,
+    6
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The effectual way in which the ice-dam, built last fall, protects the western bank of the river has called the attention of several to the fact that at a very trifling expense the channel could be turned so that the river will run as close to the abattoir as necessary. If this is done it will be a great benefit in two ways, in carrying away the debris from the abattoir and in saving the western bank, which threatens to wash away and dump several houses into the river. The matter will probably be attended to soon.",
+   "summary": "Suggests turning the river channel toward the abattoir, as last fall's ice-dam has protected the west bank.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a44",
+   "page": 4,
+   "cols": "3",
+   "region": [
+    33,
+    3,
+    14,
+    36
+   ],
+   "section": "correspondence",
+   "headline": "Correspondence.",
+   "text": "EDITOR COW BOY:\n\nThe recent effusion of a Dickinson correspondent in The Pioneer-Press prompts me to say a word in behalf of Belfield, which proudly looks to your aggressive journal as its champion, as long as it has not reached the stage where it can support a paper of its own.\n\nBelfield possesses none of the \"dog in the manger\" element and congratulates Medora upon having scored \"first blood\" in the Black Hills freight-line contest. If its superior energy, unity of action, backed by the necessary cash, has secured for it a large share of this valuable freight, Belfield, who has made a gallant fight, cheerfully echos \"amen.\" But what of Dickinson? Years before Belfield or Medora were dreamt of, Dickinson's wonderful advantages regarding the Black Hills freight route were or should have been known as well as now, and the very idea that its citizens should have permitted this fact, if such it be, to escape recognition augurs badly for a town, whose main brag is the imaginable halo surrounding the end of a freight division. Do the merchants of that hamlet, and they have some of the most wideawke in the country, begin to see that a few side tracks and a very modest freight-house are a mere myth, when it comes to the handling of fifty million pounds of freight? Would they grasp the idea that any village, even so humble, would gladly duplicate these accommodations for the terminus of a freight line and throw in a handsome bonus besides? Would they believe that the heavy freighters of the Hills are among the most intelligent, wide-awake men of the country, who are sure to select the shortest and best route where the hauling would be best, provided the rates of the railroad company would permit an option? Would Dickinson expect to come out victorious and carry off the trophies, when other towns, that happen to be blessed with better natural advantages, fight for it?\n\nDickinson is one of the most promising towns along the line, but it made a sad mistake when it allowed itself to be inflated with the erroneous idea that it could play a bluff game on other and younger places. Though its home journal had misled its own people by making them believe the freight line was theirs, the wail to the St. Paul Chamber of Commerce and The Pioneer-Press smacks too much of long clothes, and if no stronger efforts are put forth the freight line, as far as Dickinson is concerned, will remain and look best on paper.\n\nIn conclusion, Belfield trusts that Dickinson has not bankrupted itself in building stations and bridges, but if it has they will find ready purchasers for the same at Belfield, which will have use for them.\n\nWORKER.",
+   "summary": "Letter from Belfield signed \"Worker\" congratulating Medora on winning the Black Hills freight contest and mocking Dickinson.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a45",
+   "page": 4,
+   "cols": "3",
+   "region": [
+    33,
+    40,
+    14,
+    29
+   ],
+   "section": "correspondence",
+   "headline": "Correspondence.",
+   "text": "LITTLE MISSOURI, March 20, 1884.\nEDITOR COW BOY:\n\nIn several German newspapers, The Extrablatt and The Mecklenberger Wachrichten, there is an article warning emigrants against the Northwest, especially Dakota. The writer of the article, Mr. Anton Milde, of Bismarck, seems to be entirely unacquainted with the country in which he is living. In his article he says that emigration speculators buy a section of land of 160 acres and lay it out in town lots, sell these as quick as possible and skip the country. Poor man, go to the U. S. land office and ask how many acres a section contains before you write another article.\n\nThen he says that the winter is so severe, with continual lasting storms, that it is impossible to keep cattle except in heated stables. Where do people sometimes get the rage for writing about things they do not understand? If you would like to see cattle in winter-time, come out to the Bad Lands of Dakota and here you will find them neither stabled nor fed, but running free during the whole winter grazing.\n\nAnother sentence says nobody takes care of the emigrants after they are here, but have to seek their way alone to get enough to live on in winter. Well, let them bring wetnurses to lead these poor fellows who cannot find their way alone.\n\nAt the end of the article the writer wishing to prove his statements about Dakota says: \"I will give an illustration of one case. A former Vienna lawyer, T. Kratky, has to make his living in New York by washing dishes in a restaurant.\" Old friend, what has your lawyer in New York to do with Dakota. Let him wash dishes. I hope he will do less damage than as a lawyer. The less lawyers there are the more peace there is in a place, and the less doctors and druggists the better the health of the people. This can be proved by Little Missouri, where there are no fights and only two children have died; they grow up as well or quick as calves.\n\nTo this ridiculous article of Mr. Anton Milde (in plain English Anton Softness) I can only reply that it is true both your article and your name are soft, much too soft for Dakota. Go East!\n\nA.",
+   "summary": "Little Missouri letter signed \"A.\" rebutting Anton Milde of Bismarck, who warned German emigrants against Dakota.",
+   "people": [
+    "Anton Milde"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a46",
+   "page": 4,
+   "cols": "3",
+   "region": [
+    33,
+    69,
+    14,
+    7
+   ],
+   "section": "legal",
+   "headline": "Letters Unclaimed",
+   "text": "Remaining in the postoffice at Medora for the week ending March 19, 1884:\n\nBobean, Jos.; Clark, A. J.; Finnegan, M.; Lyle, Harry; McCree, D.; Reuter, John; Spencer, G. E.; Simple, Chas.; Thompson, Robt.; Webb, Thos.\n\nWM. F. VAN DRIESCHE.",
+   "summary": "List of unclaimed letters at the Medora post office for the week ending March 19, 1884.",
+   "people": [
+    "Wm. F. Van Driesche"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a47",
+   "page": 4,
+   "cols": "3",
+   "region": [
+    33,
+    76,
+    14,
+    1
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Smoke the Far West.",
+   "summary": "Cigar plug.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a48",
+   "page": 4,
+   "cols": "3-7",
+   "region": [
+    33,
+    3,
+    66,
+    95
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Mayville Stock Farm, Mayville, Traill Co., Dak. — Mayville Herd of Short Horns; J. L. & E. B. Grandin, Props.; W. W. Warren, General Manager\nSpringfield F. & M. Ins. Co., of Springfield, Mass. — 36th annual statement, Jan. 1, 1884 (gross assets $2,585,633.82); A. T. Packard, agent, Bad Lands Cow Boy office, Medora, Dak.\nMilwaukee Beer by the case, keg or car load — C. B. Williams & Co., Bismarck, Dak.\nJoseph Cuskelley, Groceries of all kinds, furnishing goods, etc., Little Missouri, Dak. — \"Takes the Lead\"; \"Flour a Specialty\"\nLittle Tom's Saloon, Little Missouri, Dak. — \"There's Rest for the Weary\"; \"the 'Festive Barkeep'\"; \"every thing from Cow-Boy Bitters to Dude Soda fresh on tap\"\nNorthern Pacific Refrigerator Car Company — Marquis de Mores, Pres't; C. W. Sleeper, Vice Prest.; L. A. Von Hoffman, Treas.; F. B. Allen, Sec'y — cold storage houses building at St. Paul, Duluth, Brainerd, Fargo, Grand Forks, Winnipeg, Jamestown, Bismarck, Mandan, Medora, Miles City, Billings, Bozeman, Helena, The Dalles and Portland; abattoirs at St. Paul, Medora, Miles City, Billings and The Dales\nPyramid Park Hotel, F. S. Moore, Prop., Little Missouri, Dakota — \"The Pioneer Hotel of Little Missouri, situated close to the depot\"; \"Headquarters for Travelling Men\"\nNorthern Pacific Railroad — \"Going East or Going West\"; Chas. S. Fee, General Passenger Agent, St. Paul, Minn.\nShort-Horn Bulls and Heifers, W. E. Bean, Mt. Sterling, Ky. — \"$100 to $1,000!\"\nFor Sale: N. P. Refrigerator Car Co., stock horses (60 mares, colts, stallions) and 8 pair of mules — enquire at stables of the Company, Medora, Dak.\nGood Situations — Sherman Telegraph Co., Oberlin, O. — telegraphy training for young men\nBrand: Spring Creek Ranch (heading partly torn), L. D. & B. Rumsey, J. L. Truscott, Manager, P.O. Medora, Billings Co. — R on left hip and side; range south of N.P.R.R. on Little Missouri river\nBrand: Towers & Gudgell, P.O. Keith, Montana — OX on right side, additional V on both sides; range south of N.P.R.R. on Little Missouri river and Beaver creek\nBrand: Berry, Boice & Co., P.O. Keith, Montana — 777 on right hip, side and shoulder; range south of N.P.R.R. on Little Missouri river and Beaver creek\nBrand: Pennell & Roberts, P.O. Medora, Billings Co. — horse and mule brands (P R on left shoulder; P on left thigh); ranch four miles down river from crossing of N.P.R.R. and Little Missouri\nBrand: E. G. Paddock, P.O. Medora — six-inch circle-dot on both sides; horses four-inch circle-dot; range six miles north of crossing of N.P.R.R. and Little Missouri\nBrand: N. P. Refrigerator Car Co., Medora, Billings Co. — NP monogram, M (crown-shaped), Y-type brand on left side; also steers bought of Mason & Lovell branded -H- and 7Z [?]; ranges Little Missouri river and Beaver creek\nBrand: Custer Trail Cattle Co., Howard Eaton, Manager, P.O. Medora, Billings Co. — horse brand T over V on left hip; cattle HK in circle, 6 (bar), V; range Little Missouri river, Deep and Davis creeks\nBrand: Soho Cattle Co., P.O. Medora, Billings Co. — SO on left side and HO on right; range Little Missouri river and Beaver creek, north of N.P.R.R.\nBrand: H. B. Wadsworth & Co., M. Wadzworth, Manager, P.O. Medora, Billings Co. — \"Reversed L\"; range Little Missouri river, north of N.P.R.R.\nBrand: W. N. Thompson & Co., Wm. Dantz, Manager, P.O. Medora, Billings Co. — TD on left hip\nBrand: E. W. Casey & Co., Frank S. Moore, Manager, P.O. Medora, Billings Co. — F (KC in circle) and F KC on left hip and shoulder; range O'Donnell creek\nBrand: Lydia S. Fuller, Frank S. Moore, Manager, P.O. Medora, Billings Co. — LSF on left shoulder; range O'Donnell creek",
+   "summary": "Directory of display and cattle-brand advertisers on page 4.",
+   "people": [
+    "Marquis de Mores",
+    "Howard Eaton",
+    "F. S. Moore",
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  }
+ ],
+ "events": [
+  {
+   "id": "e1",
+   "date": "1884-03-14",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Pioneer-Press \"of the 14th\", per Thu 20 Mar 1884 issue",
+   "planned": false,
+   "title": "Cow Boy denounces Dickinson freight-route article",
+   "summary": "The Cow Boy attacked a Dickinson writer whose article in the Pioneer-Press of the 14th claimed the best Black Hills road started at Dickinson, and said the Marquis de Mores pays for the extra buildings at Medora.",
+   "excerpt": "the Marquis de Mores stands all the expense of extra buildings",
+   "people": [
+    "Marquis de Mores",
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora",
+    "Dickinson",
+    "Deadwood"
+   ],
+   "tags": [
+    "press",
+    "stage",
+    "railroad",
+    "mores"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a4",
+   "confidence": "high"
+  },
+  {
+   "id": "e2",
+   "date": "1884-02-04",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"since February 4\", quoted from New York Sun",
+   "planned": false,
+   "title": "Cow Boy noted as publishing since February 4",
+   "summary": "The Cow Boy reprinted press notices of the new paper, including the New York Sun's note that it had been published since February 4.",
+   "excerpt": "It has done this since February 4, a day that will therefore long be remembered in Medora.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a5",
+   "confidence": "medium"
+  },
+  {
+   "id": "e3",
+   "date": "1884-03-17",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday night\" before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Dance at the Hotel de Mores",
+   "summary": "A dance was held at the Hotel de Mores on Monday night.",
+   "excerpt": "The dance at the Hotel de Mores Monday night was a very pleasant affair.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "social",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a15",
+   "confidence": "high"
+  },
+  {
+   "id": "e4",
+   "date": "1884-03-15",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Saturday\" before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Gill Kennedy goes to Belfield",
+   "summary": "Gill Kennedy went to Belfield, where he has a claim adjoining the townsite.",
+   "excerpt": "He has a claim adjoining the townsite.",
+   "people": [
+    "Gill Kennedy"
+   ],
+   "places": [
+    "Belfield"
+   ],
+   "tags": [
+    "land"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a17",
+   "confidence": "high"
+  },
+  {
+   "id": "e5",
+   "date": "1884-03-17",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"the 17th\" in Thu 20 Mar 1884 issue",
+   "planned": false,
+   "title": "Marquis de Mores leaves for St. Paul",
+   "summary": "The Marquis de Mores started for St. Paul on the 17th and was expected back within a week.",
+   "excerpt": "The Marquis started for St. Paul the 17th and will doubtless be here inside of a week.",
+   "people": [
+    "Marquis de Mores"
+   ],
+   "places": [
+    "Medora",
+    "St. Paul"
+   ],
+   "tags": [
+    "mores",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a18",
+   "confidence": "high"
+  },
+  {
+   "id": "e6",
+   "date": "1884-03-18",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday\" before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Packard buys J. M. Cook's team for the butte farm",
+   "summary": "J. M. Cook sold his team and outfit to A. T. Packard for use on the butte farm.",
+   "excerpt": "J. M. Cook sold his team and outfit Tuesday, to A. T. Packard",
+   "people": [
+    "J. M. Cook",
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a19",
+   "confidence": "high"
+  },
+  {
+   "id": "e7",
+   "date": "1884-03-15",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Saturday\" before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Bismarck salesmen in town",
+   "summary": "Will McNaughton, for Dan Eisenberg, and Abe Goodkind, for Wise & Goodkind, both of Bismarck, did business in town Saturday.",
+   "excerpt": "put in a profitable day here last Saturday",
+   "people": [
+    "Will McNaughton",
+    "Abe Goodkind"
+   ],
+   "places": [
+    "Medora",
+    "Bismarck"
+   ],
+   "tags": [
+    "visitors",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a20",
+   "confidence": "high"
+  },
+  {
+   "id": "e8",
+   "date": "1884-03-17",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Northern Pacific bridge gang leaves",
+   "summary": "The Northern Pacific bridge gang went up the road, and the pile-driver was soon to start its spring trip.",
+   "excerpt": "The Northern Pacific bridge gang went up the road Monday.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a21",
+   "confidence": "high"
+  },
+  {
+   "id": "e9",
+   "date": "1884-03-13",
+   "date_end": "1884-03-20",
+   "date_precision": "week",
+   "date_basis": "\"this week\"/undated, week before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Roberts & Co. get Far West cigar agency",
+   "summary": "Wise & Goodkind of Bismarck gave Roberts & Co. sole rights to sell the Far West cigar in Little Missouri.",
+   "excerpt": "have given Roberts & Co. the sole right to sell the Far West cigar in Little Missouri",
+   "people": [
+    "Abe Goodkind"
+   ],
+   "places": [
+    "Little Missouri"
+   ],
+   "tags": [
+    "business",
+    "saloons"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a23",
+   "confidence": "medium"
+  },
+  {
+   "id": "e10",
+   "date": "1884-03-13",
+   "date_end": "1884-03-20",
+   "date_precision": "week",
+   "date_basis": "\"this week\"/undated, week before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "\"Doc\" Pennell leaves for Deadwood by the Medora route",
+   "summary": "\"Doc\" Pennell went to Deadwood via the Medora route, and Jones' teams were expected to return with him.",
+   "excerpt": "\"Doc\" Pennell has gone to Deadwood via the Medora route.",
+   "people": [
+    "\"Doc\" Pennell",
+    "Jones"
+   ],
+   "places": [
+    "Medora",
+    "Deadwood"
+   ],
+   "tags": [
+    "stage",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a24",
+   "confidence": "high"
+  },
+  {
+   "id": "e11",
+   "date": "1884-03-19",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday\" before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "C. A. Williams of Bismarck visits",
+   "summary": "C. A. Williams of Bismarck visited and subscribed to and advertised in The Cow Boy.",
+   "excerpt": "He showed his appreciation of THE COW BOY by subscribing and advertising.",
+   "people": [
+    "C. A. Williams"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a25",
+   "confidence": "high"
+  },
+  {
+   "id": "e12",
+   "date": "1884-03-15",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Saturday\" before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Pennell & Roberts bring in their freight outfit",
+   "summary": "Pennell & Roberts drove their transportation outfit in from their ranch and camped south of the railroad track.",
+   "excerpt": "went into camp south of the railroad track",
+   "people": [
+    "Pennell & Roberts"
+   ],
+   "places": [
+    "Little Missouri"
+   ],
+   "tags": [
+    "stage",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a26",
+   "confidence": "high"
+  },
+  {
+   "id": "e13",
+   "date": "1884-03-13",
+   "date_end": "1884-03-20",
+   "date_precision": "week",
+   "date_basis": "\"this week\"/undated, week before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Cattle reported in prime condition after winter",
+   "summary": "Reports from fifty miles up the river said cattle were in prime condition, and only two of the Marquis' roughly 1,500 head had died this winter.",
+   "excerpt": "Out of about fifteen hundred head this is a splendid showing.",
+   "people": [
+    "Marquis de Mores"
+   ],
+   "places": [
+    "Little Missouri river"
+   ],
+   "tags": [
+    "ranching",
+    "weather",
+    "mores"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a28",
+   "confidence": "high"
+  },
+  {
+   "id": "e14",
+   "date": "1884-03-13",
+   "date_end": "1884-03-20",
+   "date_precision": "week",
+   "date_basis": "\"this week\"/undated, week before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Specimens given to the Bad Lands museum",
+   "summary": "Johnny Goodall, Frank Smith and Rev. Silas Cheval contributed to the Bad Lands museum, the latter a specimen of galena.",
+   "excerpt": "are the latest contributors to our Bad Lands museum",
+   "people": [
+    "Johnny Goodall",
+    "Frank Smith",
+    "Silas Cheval"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "town-life",
+    "mining"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a29",
+   "confidence": "high"
+  },
+  {
+   "id": "e15",
+   "date": "1884-03-13",
+   "date_end": "1884-03-20",
+   "date_precision": "week",
+   "date_basis": "\"this week\"/undated, week before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Ryder outfit reports 5,000 posts cut",
+   "summary": "Moody and Jones of the \"Big Foot\" Ryder outfit came in for supplies and reported 5,000 posts cut.",
+   "excerpt": "they reported 5,000 posts cut",
+   "people": [
+    "Moody",
+    "Jones"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a30",
+   "confidence": "high"
+  },
+  {
+   "id": "e16",
+   "date": "1884-03-13",
+   "date_end": "1884-03-20",
+   "date_precision": "week",
+   "date_basis": "\"this week\"/undated, week before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Howard Eaton builds a ready-made barn",
+   "summary": "Teams were hauling parts of a ready-made barn to Howard Eaton's ranch, likely the largest barn in the county.",
+   "excerpt": "Howard Eaton will probably have the largest barn in the county",
+   "people": [
+    "Howard Eaton"
+   ],
+   "places": [
+    "Custer Trail ranch"
+   ],
+   "tags": [
+    "building",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a31",
+   "confidence": "high"
+  },
+  {
+   "id": "e17",
+   "date": "1884-03-18",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"slaughtered Tuesday\" before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Grass-fed cattle slaughtered at Medora",
+   "summary": "Cattle slaughtered Tuesday and shown at the company's cold-storage room were fat on grass alone.",
+   "excerpt": "They are rolling in fat and have had nothing to eat but the grass they rustled.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "ranching",
+    "mores"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a32",
+   "confidence": "medium"
+  },
+  {
+   "id": "e18",
+   "date": "1884-03-17",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Ice gorge breaks on the Little Missouri",
+   "summary": "An ice gorge a few miles upriver broke about noon Monday, and broken ice ran down at twelve miles an hour for two or three hours.",
+   "excerpt": "The river was on a big boom Monday.",
+   "people": [],
+   "places": [
+    "Little Missouri river",
+    "Medora"
+   ],
+   "tags": [
+    "weather",
+    "water"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a33",
+   "confidence": "high"
+  },
+  {
+   "id": "e19",
+   "date": "1884-04-01",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"probably the first of the month\", after Thu 20 Mar 1884",
+   "planned": true,
+   "title": "Northern Pacific to run faster trains through the Bad Lands",
+   "summary": "The Northern Pacific planned to cut St. Paul-Portland time to ninety-two hours, putting trains through the Bad Lands in daylight.",
+   "excerpt": "The trains will then run through the Bad Lands in daylight",
+   "people": [],
+   "places": [
+    "Bad Lands"
+   ],
+   "tags": [
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "medium"
+  },
+  {
+   "id": "e20",
+   "date": "1884-03-13",
+   "date_end": "1884-03-20",
+   "date_precision": "week",
+   "date_basis": "\"this week\"/undated, week before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Work on the Packard-Steiger butte farm",
+   "summary": "Work was progressing on the Packard-Steiger butte farm, with plowing to start once the frost was out and potatoes the main crop.",
+   "excerpt": "It will be an interesting experiment to find out what the summits of the buttes are good for.",
+   "people": [
+    "A. T. Packard",
+    "Steiger"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "land",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a35",
+   "confidence": "high"
+  },
+  {
+   "id": "e21",
+   "date": "1884-03-13",
+   "date_end": "1884-03-20",
+   "date_precision": "week",
+   "date_basis": "\"this week\"/undated, week before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Northern Pacific reduces emigrant rates",
+   "summary": "The Northern Pacific issued reduced rates on emigrant movables, $71 per car of 20,000 pounds from St. Paul to Little Missouri.",
+   "excerpt": "are $71 per car of 20,000 pounds from St. Paul to Little Missouri",
+   "people": [],
+   "places": [
+    "Little Missouri",
+    "St. Paul"
+   ],
+   "tags": [
+    "railroad",
+    "land"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a36",
+   "confidence": "high"
+  },
+  {
+   "id": "e22",
+   "date": "1884-03-19",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday\" before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "John Doulisch buried by frozen earth",
+   "summary": "John Doulisch was nearly crushed while excavating next to Michael Knott's saloon for a new building; Joe Pennell and others rolled the blocks off him.",
+   "excerpt": "The victim would not have lived five minutes had he not been relieved from the pressure",
+   "people": [
+    "John Doulisch",
+    "Michael Knott",
+    "Joe Pennell"
+   ],
+   "places": [
+    "Little Missouri"
+   ],
+   "tags": [
+    "health",
+    "building",
+    "saloons"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a37",
+   "confidence": "high"
+  },
+  {
+   "id": "e23",
+   "date": "1884-03-20",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"this afternoon\", Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Boice and Towers arrive to call round-up meeting",
+   "summary": "Boice and Towers arrived to arrange a round-up meeting of stockmen.",
+   "excerpt": "Messrs. Boice and Towers arrived in town this afternoon",
+   "people": [
+    "Boice",
+    "Towers"
+   ],
+   "places": [
+    "Little Missouri"
+   ],
+   "tags": [
+    "roundup",
+    "ranching",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a39",
+   "confidence": "high"
+  },
+  {
+   "id": "e24",
+   "date": "1884-04-05",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"April 5\" stated",
+   "planned": true,
+   "title": "Round-up meeting at Pennell's Hall",
+   "summary": "A stockmen's round-up meeting was set for Pennell's Hall, Little Missouri, on April 5.",
+   "excerpt": "a round-up meeting to be held in Pennell's Hall, Little Missouri, April 5",
+   "people": [
+    "Boice",
+    "Towers"
+   ],
+   "places": [
+    "Little Missouri"
+   ],
+   "tags": [
+    "roundup",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a39",
+   "confidence": "high"
+  },
+  {
+   "id": "e25",
+   "date": "1884-03-16",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "telegram dated \"Deadwood, March 16, 1884\"",
+   "planned": false,
+   "title": "Jones consolidates with Bramble for the Medora route",
+   "summary": "The Cow Boy printed a telegram from Jones in Deadwood to Joe Pennell saying he had contracts with many merchants and had consolidated with Bramble in favor of the Medora route.",
+   "excerpt": "Have consolidated with Bramble in favor of Medora route.",
+   "people": [
+    "Jones",
+    "Joe Pennell",
+    "Bramble"
+   ],
+   "places": [
+    "Deadwood",
+    "Medora",
+    "Dickinson"
+   ],
+   "tags": [
+    "stage",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a40",
+   "confidence": "medium"
+  },
+  {
+   "id": "e26",
+   "date": "1884-03-16",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Sunday last\" in Belfield letter dated 19 Mar 1884",
+   "planned": false,
+   "title": "Will Houk celebrates his birthday at Belfield",
+   "summary": "Will Houk celebrated his twenty-third birthday at Belfield.",
+   "excerpt": "Will Houk celebrated his twenty-third birthday on Sunday last",
+   "people": [
+    "Will Houk"
+   ],
+   "places": [
+    "Belfield"
+   ],
+   "tags": [
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a42",
+   "confidence": "high"
+  },
+  {
+   "id": "e27",
+   "date": "1884-03-17",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Monday\" in Belfield letter dated Wed 19 Mar 1884",
+   "planned": false,
+   "title": "First new settler arrives at Belfield",
+   "summary": "Mr. Schurke of Chicago, the first new settler, arrived at Belfield, with six families to follow within a week.",
+   "excerpt": "The first new settler, Mr. Schurke, of Chicago, arrived last Monday",
+   "people": [
+    "Schurke"
+   ],
+   "places": [
+    "Belfield"
+   ],
+   "tags": [
+    "land",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a42",
+   "confidence": "high"
+  },
+  {
+   "id": "e28",
+   "date": "1884-03-13",
+   "date_end": "1884-03-19",
+   "date_precision": "week",
+   "date_basis": "Belfield letter dated 19 Mar 1884, \"this week\"",
+   "planned": false,
+   "title": "Indians claim a stolen pony at Belfield",
+   "summary": "A party of Indians recognized a pony at Belfield they said was stolen from them three years earlier and agreed to seek it by legal process.",
+   "excerpt": "they were induced to seek redress by legal process",
+   "people": [],
+   "places": [
+    "Belfield"
+   ],
+   "tags": [
+    "Native-Americans",
+    "crime",
+    "courts"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a42",
+   "confidence": "high"
+  },
+  {
+   "id": "e29",
+   "date": "1884-03-17",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "St. Patrick's day, 17 Mar 1884",
+   "planned": false,
+   "title": "St. Patrick's day at Belfield",
+   "summary": "Max Bass (\"Senor Bass, the Delmonico of Billings county\") entertained guests on St. Patrick's day at Belfield.",
+   "excerpt": "entertained a number of guests royally on St. Patrick's day",
+   "people": [
+    "Max Bass"
+   ],
+   "places": [
+    "Belfield"
+   ],
+   "tags": [
+    "holidays",
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a42",
+   "confidence": "high"
+  },
+  {
+   "id": "e30",
+   "date": "1884-03-13",
+   "date_end": "1884-03-19",
+   "date_precision": "week",
+   "date_basis": "Belfield letter dated 19 Mar 1884, \"this week\"",
+   "planned": false,
+   "title": "Boomer Kennedy plans a two-story store",
+   "summary": "Boomer Kennedy came down from Little Missouri and was thinking of erecting a two-story store.",
+   "excerpt": "thinks of erecting a two-story store this season",
+   "people": [
+    "Boomer Kennedy"
+   ],
+   "places": [
+    "Belfield",
+    "Little Missouri"
+   ],
+   "tags": [
+    "business",
+    "building"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a42",
+   "confidence": "high"
+  },
+  {
+   "id": "e31",
+   "date": "1884-03-12",
+   "date_end": "1884-03-19",
+   "date_precision": "week",
+   "date_basis": "Belfield letter dated 19 Mar 1884, \"a few days ago\"",
+   "planned": false,
+   "title": "Indians pass through Belfield; snow melting",
+   "summary": "The Belfield correspondent reported Indians passing through, snow disappearing fast, creeks unsafe, and traffic in relinquishment papers.",
+   "excerpt": "Quite a number of Indians passed through here a few days ago.",
+   "people": [],
+   "places": [
+    "Belfield"
+   ],
+   "tags": [
+    "Native-Americans",
+    "weather",
+    "land"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a42",
+   "confidence": "medium"
+  },
+  {
+   "id": "e32",
+   "date": "1884-03-13",
+   "date_end": "1884-03-20",
+   "date_precision": "week",
+   "date_basis": "letter in Thu 20 Mar 1884 issue",
+   "planned": false,
+   "title": "Belfield writer backs Medora in freight contest",
+   "summary": "A Belfield correspondent signed \"Worker\" congratulated Medora on scoring \"first blood\" in the Black Hills freight-line contest.",
+   "excerpt": "congratulates Medora upon having scored \"first blood\" in the Black Hills freight-line contest",
+   "people": [],
+   "places": [
+    "Belfield",
+    "Medora",
+    "Dickinson"
+   ],
+   "tags": [
+    "stage",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a44",
+   "confidence": "medium"
+  },
+  {
+   "id": "e33",
+   "date": "1884-03-20",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "letter dated Little Missouri, March 20, 1884",
+   "planned": false,
+   "title": "Local writer rebuts German anti-Dakota article",
+   "summary": "A Little Missouri correspondent signed \"A.\" rebutted Anton Milde of Bismarck, who had warned German emigrants against Dakota, noting cattle range unfed all winter in the Bad Lands.",
+   "excerpt": "here you will find them neither stabled nor fed, but running free during the whole winter grazing",
+   "people": [
+    "Anton Milde"
+   ],
+   "places": [
+    "Little Missouri"
+   ],
+   "tags": [
+    "press",
+    "land",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a45",
+   "confidence": "high"
+  },
+  {
+   "id": "e34",
+   "date": "1884-03-13",
+   "date_end": "1884-03-19",
+   "date_precision": "week",
+   "date_basis": "week ending March 19, 1884",
+   "planned": false,
+   "title": "Unclaimed letters at Medora post office",
+   "summary": "Ten unclaimed letters were listed at the Medora post office for the week ending March 19.",
+   "excerpt": "Remaining in the postoffice at Medora for the week ending March 19, 1884",
+   "people": [
+    "Wm. F. Van Driesche"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a46",
+   "confidence": "high"
+  },
+  {
+   "id": "e35",
+   "date": "1884-03-13",
+   "date_end": "1884-03-20",
+   "date_precision": "week",
+   "date_basis": "\"this week\"/undated, week before Thu 20 Mar 1884",
+   "planned": false,
+   "title": "Proposal to turn the river toward the abattoir",
+   "summary": "Townspeople proposed turning the river channel toward the abattoir to carry away debris and save the eroding west bank.",
+   "excerpt": "the channel could be turned so that the river will run as close to the abattoir as necessary",
+   "people": [],
+   "places": [
+    "Medora",
+    "Little Missouri river"
+   ],
+   "tags": [
+    "water",
+    "mores",
+    "building"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a43",
+   "confidence": "high"
+  }
+ ]
+}

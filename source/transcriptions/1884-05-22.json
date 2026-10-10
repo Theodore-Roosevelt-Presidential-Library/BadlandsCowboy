@@ -1,0 +1,1722 @@
+{
+ "date": "1884-05-22",
+ "masthead": "Thursday, May 22, 1884",
+ "volume": "Vol. 1, No. 16",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "cols 1-4 masthead box, card and display ads; col 5 editorials (Billings County Organized; Mandan/Bismarck papers; Allard correspondent; circulation); col 6 'Pointers' (Black Hills reprints) and Dickinson Notes; col 7 clipped Stock Notes"
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "patent inside with a Cow Boy heading over syndicated editorial filler, news digest and Dakota Territorial News; page 1 masthead shows through"
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "patent inside; congressional proceedings, miscellany, patent-medicine ads"
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "inside masthead dateline misprinted/stale 'THURSDAY, MAY 15, 1884' but local content belongs to May 22 issue (unclaimed letters list for week ending May 21, 1884); cols 1-2 time table, local items, Whipple robbery story, small notices; cols 3-5 display ads; cols 6-7 cattle-brand ads"
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "1-7",
+   "region": [
+    3,
+    4,
+    90,
+    14
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "The Bad Lands Cow Boy.\n\nVolume 1, Number 16. LITTLE MISSOURI, MEDORA P. O., DAK., MAY 22, 1884. Price $2.00 per Year.\n\nBAD LANDS COW BOY, By A. T. PACKARD.\n\nThe Cow Boy is not published for fun, but for $2 per year.\n\nAdvertising Rates made known on application. Standing Advertisements payable quarterly. Transient Advertisements and all Job work, money in sight.\n\nAddress all communications to THE BAD LANDS COW BOY, MEDORA, DAKOTA.\n\nEntered at the post-office at Medora, Dak., as second class mail matter.",
+   "summary": "Front-page masthead, volume and number, and the paper's terms.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a2",
+   "page": 1,
+   "cols": "1-4",
+   "region": [
+    3,
+    18,
+    51,
+    80
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "A. D. Carpenter, Attorney, Dickinson, Dak.\nWestern Starr, Attorney-at-Law, Dickinson, Dak.\nOld Bob Montgomery's Saloon, Belfield, Dak. — \"He deals exclusively in first-class goods. His friends are invited to give him a call.\"\nRiverside Hotel, Max Bass, Prop., Belfield, Dakota — \"One of the neatest houses on the line of the N. P. R. R. Only a few steps from the depot.\"\nF. E. Benjamin, Jeweler and Watchmaker, Mandan, Dakota — repairing of all kinds\nT. J. McClung, Contractor and Builder, Medora, Dak. — \"Bills of lumber made out and ground plans furnished. All work guaranteed.\"\nFirst National Bank of Mandan, Dakota — T. R. Selmes, President; M. Lang, Vice President; H. R. Lyon, Cashier; paid-up capital $50,000, surplus $10,000\nDan McKenzie, Blacksmithing and Horse-Shoeing, Little Missouri, Dak.\nMahar & Drury's Billiard Hall & Pool Room (Tom Mahar, Ed Drury), Mandan, Dakota\nM. Kline, Cigar Manufacturer, dealer in smoking & chewing tobacco and smokers' articles, Mandan, Dakota\nJ. A. Ferris, dealer in Dry Goods, ready-made clothing, hats & caps, boots & shoes, gents' furnishing goods, Little Missouri, Dak.\nHeadquarters Restaurant, M. J. Mahon, Prop., Mandan, Dakota — \"The only First-Class Restaurant West of St. Paul\"\nGood Situations — Sherman Telegraph Co., Oberlin, O. — telegraphy instruction for young men\nGeneral Store of the N. P. R. C. Co., Medora, Dakota — groceries, dry goods, ready-made clothing, hats, caps, canned goods, harness, saddles, tobacco and cigars, felt shoes, overshoes, boots and shoes, flour and feed, hunters' outfits; wholesale and retail\nWestern House, Peter Malloy, Prop., Little Missouri, Dak. — transient rates $1.50 per day, regular board $6.00 per week\nEdick Bros., manufacturers and jobbers in cigars and tobacco, smokers' articles, 64 Main Street, Bismarck, Dak.\nThe Elk / The Pioneer Saloon, Little Missouri — \"The finest goods. Courteous treatment.\" liquors & cigars\nHotel De Mores, G. W. Fitzgerald, Prop., Medora — \"The best hotel in Medora, Dak.\"; transient rates $2.00 per day; livery stable and bar in connection\nMedora the 1st., W. T. Kennedy, Proprietor — saloon (\"dispensary of spirituous comfort\"), No. 25 Main St., Medora\nDuncan & Hilles, Furniture, Hager Block, Mandan — parlor suits, chamber suits, cheap beds, canvass cots, mattresses\nJ. Slatcher's Golden Gun Armory, Dickinson, Dakota — Colt's six-shooters, cartridges, loaded shot-gun shells; jobbing\nThe Senate, Roberts & Co., Billiard and Pool Hall, Little Missouri — \"Finest bar in Little Missouri\"; \"The Genial Jim is in constant attendance\"\nShort-horn bulls and heifers, $100 to $1,000 — W. E. Bean, Mt. Sterling, Ky.",
+   "summary": "Directory of card and display advertisers on page 1.",
+   "people": [
+    "Peter Malloy",
+    "G. W. Fitzgerald",
+    "W. T. Kennedy",
+    "J. A. Ferris",
+    "Dan McKenzie"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a3",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53.5,
+    12.0,
+    13.5,
+    30.0
+   ],
+   "section": "editorial",
+   "headline": "Billings County Organized.",
+   "text": "If we were living eighteen hundred years ago we would return thanks to the immortal gods for the almost immediate answer to our prayer to be deliverd out of the hands of the Philistines, in other words, out of the judicial jurisdiction of Stark county. For the deliverance has come at last and the organization of Billings county is almost complete. It has been a long time coming but we are none the less thankful that it has come.\n\nThere is not a county in the Territory that has within its limits more of the elements of wealth than has Billings county. As far as sustaining ourselves is concerned, we could be cut off indefinitely from all the rest of the world. We are an empire in ourselves. Outside of a single vein in the Black Hills, we have the best coal in the whole west, the supply being inexhaustible. There is also an abundance of ash, cedar and cottonwood, thus furnishing fuel for all time to come. The eastern part of the county up to the Bad Lands, is as good agricultural land as there is in Dakota, and altogether the best of anything west of the Missouri. As a cattle country we are unsurpassed by anything in the United States. We have read reports from all cattle districts and none of them compare at all with our small per cent. of loss. Including every loss in the Bad Lands, we are confident that it will fall considerably short of two per cent. The cattle and agricultural territory, moreover, is so well divided that there is but little danger of their interests clashing. For citizens we have a pushing, intelligent class that can and will govern its affairs, with none of the picayuneishness that characterizes too many county governments.\n\nThe organization of Billings county will probably be one of the last official acts of Gov. Ordway and in it he shows a judgment that can only receive the highest praise. He had nothing to gain by the organization and the county had everything to lose by delay.\n\nWe predict for Billings county, a future that will be a matter of pride to the whole Territory. In the next issue we will publish at least a partial list of the county officers.",
+   "summary": "Packard hails the near-complete organization of Billings county, freeing it from Stark county's judicial jurisdiction, and praises Gov. Ordway.",
+   "people": [
+    "Nehemiah G. Ordway"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a4",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53.5,
+    42.0,
+    13.5,
+    30.0
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "If the Mandan and Bismarck papers would be more careful to get at facts, their mission as newspapers would be far better conserved. From the beginning to the end of the long struggle as to which Northern Pacific town should have the freight route, we think we are right in saying that not an original article appeared in any of them, except the Mandan Pioneer, stating the true facts. The truth of the matter is that Medora's prosperity lies heavily on the stomachs of the editors of the afore-mentioned papers, as both Mandan and Bismarck expected a share in the Black Hills trade. Had the freight gone to any other point on the road, a blind man could see that it would be only temporary as a railroad is necessary to hold it and there is no other town on the road besides Medora that has sufficient money to build a railroad, Mandan and Bismarck not excepted. A railroad to the Hills is a certainty of the near future and by our getting it, Mandan and Bismarck will be shut out entirely from the Black Hills trade. It is very easy to see the animus of the slurring articles published in these papers in reference to Medora and the Marquis de Mores and it is an evidence of little, dog-in-the-manger minds which our present prosperity and future prospects put us in a position to view with the contempt they deserve. Mandan and Bismarck can make up their minds that in a very short time, Medora will grow to be a successful rival to either of them. They are both almost entirely agricultural towns depending on crops which at the best, are doubtful. If every crop in Dakota should fail, it would scarcely affect Medora. The increase of Bad Lands cattle never fails, nor will all the jobbing and other industries of which Medora is to the seat.",
+   "summary": "Editorial accusing the Mandan and Bismarck papers of jealousy over Medora winning the Black Hills freight route and of slurring Medora and the Marquis de Mores.",
+   "people": [
+    "Marquis de Mores"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a5",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53.5,
+    70.0,
+    13.5,
+    9.0
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "The Allard correspondent of the Glendive Times again gets his dates mixed. Insectivorous animals and the family insectivora are not by any means synonymous. Almost all animals are to some extent insectivorous but the family insectivora feed exclusively on insects. Little Red Riding Hood will have to try again before he proves that ducks should be milked. This lesson will be one dollar, please.",
+   "summary": "Packard rebukes the Allard correspondent of the Glendive Times over insectivorous animals.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a6",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    53.5,
+    78.0,
+    13.5,
+    13.0
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "To the carping critics who prophecied that the name of our paper would kill it, we wish to state that our weekly circulation is now over four hundred copies and outside of a few personal friends we have not a deadhead on our list. When we started we figured on a circulation of three hundred at the end of the year, and as we have already beaten that number the chances are certainly very favorable for the Cow Boy. From letters and other means, we know that our success is due in a great measure to onr name. It describes exactly what our paper is intended to be and the name is striking enough to hold the attention of the stranger until he discovers the mission of the paper and after that, our success or failure depends upon its merits or demerits. That our advertising patronage is liberal a glance will show and the necessity of an enlargement in the immediate future forces itself upon us. Our prosperity is only an index of Medora's substantial future.",
+   "summary": "The Cow Boy reports a weekly circulation of over four hundred and plans enlargement.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a7",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.0,
+    12.0,
+    13.0,
+    4.0
+   ],
+   "section": "stage",
+   "headline": "Pointers.",
+   "text": "We are informed that the stages from Medora will roll across the Belle Fourche bridge in a short time.—[Minnesela Boomer.",
+   "summary": "Minnesela Boomer item: stages from Medora will soon cross the Belle Fourche bridge.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a8",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.0,
+    16.0,
+    13.0,
+    4.0
+   ],
+   "section": "stage",
+   "headline": null,
+   "text": "Star & Bullock started their bull outfit for Medora on Wednesday last via the Belle Fourche bridge, in charge of John Bowman.—[Minnesela Boomer.",
+   "summary": "Minnesela Boomer item: Star & Bullock's bull outfit started for Medora via the Belle Fourche bridge in charge of John Bowman.",
+   "people": [
+    "John Bowman"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a9",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.0,
+    19.5,
+    13.0,
+    4.0
+   ],
+   "section": "stage",
+   "headline": null,
+   "text": "There are seven men from Spearfish out on the new road north from the Belle Fourche bridge, building bridges across Owl, Crow, and Indian creeks and working the freight road.—[Minnesela Boomer.",
+   "summary": "Minnesela Boomer item: seven Spearfish men building bridges on the new freight road north of the Belle Fourche bridge.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a10",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.0,
+    21.0,
+    13.0,
+    6.0
+   ],
+   "section": "stage",
+   "headline": null,
+   "text": "John Sechler [Arkansas John,] one of the oldest freighters on the Pierre road, passed through our town during the past week, en route to Medora. This is one of the biggest mule trains which comes into the Hills, having a capacity to haul one hundred thousand pounds. John goes via the new Belle Fourche bridge.—[Minnesela Boomer.",
+   "summary": "Minnesela Boomer item: freighter John Sechler (Arkansas John) passed through en route to Medora with one of the biggest mule trains.",
+   "people": [
+    "John Sechler"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a11",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.0,
+    26.0,
+    13.0,
+    8.0
+   ],
+   "section": "railroad",
+   "headline": null,
+   "text": "The survey of the new town on the Belle Fourche has been completed and the stakes set that outline the limits of the proposed place. It embraces 240 acres of land and the location is reported to be a most desirable site for the erection of a city of several thousand population. The sale of lots will not commence until the plats are completed, at which time they will be offered, and from present indications they will go at a lively rate.—[Black Hills Pioneer.\n\n[The town-site referred to above is the one selected by the Marquis as the Hills terminus of the Medora & Black Hills railroad.—Ed.]",
+   "summary": "Black Hills Pioneer item on the surveyed new town on the Belle Fourche, which the editor notes is the Marquis's Hills terminus of the Medora & Black Hills railroad.",
+   "people": [
+    "Marquis de Mores"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a12",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.0,
+    33.0,
+    13.0,
+    10.0
+   ],
+   "section": "stage",
+   "headline": null,
+   "text": "Yesterday morning one of the prominent business men of this city received an important letter from the Marquis de Mores. In it he said that arrangements are completed for the establishment of a stage line from Medora to Deadwood, and from the import it conveyed we are lead to believe that stages will be rolling within the next thirty days. It contained no statement as to how frequent will be their arrival and departure. Of the Medora and Black Hills railroad he expresses much confidence in its ultimate building. More important news of both these enterprises may be expected within a few days.—[Black Hills Pioneer.",
+   "summary": "Black Hills Pioneer item: a letter from the Marquis de Mores says a Medora-Deadwood stage line is arranged and stages should run within thirty days.",
+   "people": [
+    "Marquis de Mores"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a13",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.0,
+    43.0,
+    13.0,
+    11.0
+   ],
+   "section": "railroad",
+   "headline": null,
+   "text": "Major W. R. Snider, the best editorial writer in Dakota, and editor of the Spearfish Register, is in the city. The Major is a strong believer that a railroad from the Northern Pacific will be built at an early day, and that it will be the first to reach us. He says the country between this place and Medora is the best watered and timbered of any of the prairie soil within two hundred miles of us, and that when it is settled, it will be the most fertile part of Dakota. He was very agreeably disappointed in the lay of the land and the character of the soil, and the numerous streams of living water. The country is now fast settling up by squatters along the anticipated line of the railroad. A stage line is a certainty whether a daily or not, is not yet determined.—[Black Hill Pioneer.",
+   "summary": "Black Hills Pioneer item: Major W. R. Snider of the Spearfish Register praises the country between the Hills and Medora and predicts a railroad.",
+   "people": [
+    "W. R. Snider"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a14",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.0,
+    54.0,
+    13.0,
+    16.0
+   ],
+   "section": "railroad",
+   "headline": null,
+   "text": "A meeting of the Black Hills Shippers' Association at the city hall last evening was a session of more importance than any of a previous date. The members have awakened to the stern necessity of using all proper means to secure the shipment of freight for the Hills by the Medora route, and give such encouragement to the enterprise as will secure its permanent operation. As there has never been a rate established between the Northern Pacific and Deadwood, and no previous steps taken that would tend to insure transportation, the meeting, upon the motion of S. C. Fargo, voted that $1.75 be admitted as the standard rate, subject to such classification as is made on that road. Two hundred postal cards will be printed and addressed to every member of the association, and merchants of the city, and neighboring towns explaining the action of last night's meeting. It will specify the rate established, and ask all shippers to have their goods shipped via that route.—[Black Hills Pioneer.",
+   "summary": "Black Hills Pioneer item: the Black Hills Shippers' Association set a $1.75 standard rate and urged shipping via the Medora route.",
+   "people": [
+    "S. C. Fargo"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a15",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    66.0,
+    71.0,
+    13.0,
+    20.0
+   ],
+   "section": "correspondence",
+   "headline": "DICKINSON NOTES.",
+   "text": "DICKINSON, Dak., May 19, 1884.\n\nConsiderable building is going on and for the most part they are substantial structures.\n\nF. W. Lawrence, cousin of N. C. Lawrence is in town. He intends being a permanent resident.\n\nA number of prospective residents have been in town lately and all are pleased with our prospects.\n\nDickinson is soon to have a good school building, as the issuance of bonds will be doubtless voted for that purpose on June 7.\n\nWork is being pushed on the freight route from here and we have by no means abandoned hope of getting the Black Hills freight.\n\nDickinson promises to be a large shipping point for cattle. The Killdeer mountains and northern Bad Lands are easily reached from here.\n\nA man named Joseph Clifford suffered a severe loss last Friday morning. He had three mules, a mare and colt, besides farm and household implements, valued altogether at $1,200, on the morning freight and the car in which they were contained caught fire, burning everything. The loss will probably be made good by the rail-road company.\n\nANTHROPOS.",
+   "summary": "Dickinson Notes from correspondent Anthropos: building, new residents, school bonds vote, freight route hopes, cattle shipping, and Joseph Clifford's loss in a burning freight car.",
+   "people": [
+    "F. W. Lawrence",
+    "N. C. Lawrence",
+    "Joseph Clifford"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a16",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    78.5,
+    12.0,
+    14.5,
+    79.0
+   ],
+   "section": "range",
+   "headline": "STOCK NOTES.",
+   "text": "Last week D. C. and A. P. [Rachal?], of Corpus Christi, purchased from Mrs. C. M. Rogers, the Texas cattle queen, her ten-elevenths interest in the Rabb cattle and landed interests, paying $4 per acre and $18 for the cows, with all the calves thrown in. The sale amounts to over two hundred thousand dollars.—[N. M. Stock Grower.\n\nFrom careful examination of reliable statistics at hand we see that beef cattle are selling at about the same relative prices as a year ago. All other meat are now at lower figures and in view of this fact cattle growers should feel encouraged. There is no prospect of any excitement, but the general outlook for a good healthy trade seems encouraging.—[New Mexico Stock Grower.\n\nCattlemen report a large number of cattle dying on account of scarcity of water and grass in their pastures and if the drouth continues the loss to stockmen will be great. In some sections the army worm or caterpillar has made its appearance and is eating the buds and leaves of the mesquite trees. The cattle cannot be safely driven, but will have to be shipped by rail to make it pay.—[Nat. L. S. Journal.\n\nThe shipment of cattle over the Fort Worth and Denver, on Thursday, was the largest stock shipments ever made in Texas in one day. It required the borrowing of seven engines, and consisted of 12 trains and over 200 cars, transporting 7,000 head of cattle. The work now is immense and on the increase. Hereafter we will give weekly statements of shipments of cattle, receiving them every Monday morning.—[Texas L. S. Journal.\n\nSnider & Drumm have sold all of their she cattle and bulls, to be delivered September 1st, to the Bugbee-Nelson Cattle Company. Every cow with a calf by her side brings $45; dry cows and two-year-old heifers $25; yearling heifers $20 and bulls $45. Snider & Drumm purchased of the Bugbee-Nelson Cattle Company 5,000 head of the Goodnight brand; 2,000 three and four-year-old steers at $35; and 3,000 two year-old at $28; also 4,000 yearling steers of the Bugbee brand, at $22.—[Kansas City Live Stock Indicator.\n\nCattlemen, do not let the push of your spring work crowd from your minds the bull question. The proper solution of this problem means an increase of twenty per cent. in the gross earnings of your herds. It is of too much importance to be laid aside for future consideration. Now is the time to act. Decide on your course and be ready by the fall season to gather and control your bulls. Seventy per cent. of calves, and we believe ninety per cent., may be annually secured by controlling the drop and fall weaning. Study the matter and get at the bottom facts and experiences of those who have tested the issue.—[N. W. L. S. Journal\n\nKing & Kennedy started for their ranch with over 20,000 head of steer cattle. Nine thousand started across a dry belt of country for Cotula, and from the best information 1,800 passed through, while the remainder were abandoned or turned loose to hunt water. About 5,000 have been picked up and brought back. There remain about 15,000 at Pena, where the firm has engaged with the railroad company to ship 1,000 per day. The loss can not be estimated, but a great many have perished for want of water, while many will stray away.—[San Antonio (Texas) Express.\n\nThere seems to be a growing disposition on the part of our range cattle owners to mix the Shorthorns and Herefords. The Shorthorn crossed on Texas or common cows rapidly breeds up in size, and gives a frame to take on a large store of fat. But some claim for these a tendency to roughness and lack of rustling qualities. This is overcome by the use of the small-boned, round and compact white faces. Many claim that this will add vitality and rustling ability to the herds. The next few years will settle the question in the minds of most ranchmen, for numerous experiments are being made on this line in all parts of the range.—[N. W. L. S. Journal.\n\nAlthough there is not the wild and visionary dream of wealth connected with the live-stock business as in mining schemes, still there is enough in it with its rapid gains and increases, to induce a great many people of the east to invest money in anything that happens to come their way with a brand on it. The purchaser discovers, of course, after it is too late, that the company never existed, except on paper, and that the great and unreasonable dividends promised in the prospectus were but a clever bait with which to catch the sucker. Now these paper companies exist to a great extent throughout the west. A few venturesome and penurious men organize a stock company with a good capital, incorporate it and have it made a matter of record in the Secretary of State's office. They own not a horn nor a hoof, neither do they expect or want to own any. But an agent floods the section he desires to work with prospectuses setting forth what enormous dividends can be derived from investing in the company he represents, the number of cattle now owned by them, and the great and unnatural increase that would surely follow in the number of the herd. Suckers are readily found, and the agent and incorporators are happy. There are numbers of these snide affairs in Colorado, and it would be well for the legitimate companies to begin a tour of investigation, run them down and compel them to cease their nefarious robbing business, as it is bringing discredit on legitimate concerns.—[Denver News.",
+   "summary": "Stock Notes: clipped range news from Texas, New Mexico, Kansas City, Colorado and livestock journals on cattle sales, drouth losses, breeding and paper cattle companies.",
+   "people": [
+    "C. M. Rogers",
+    "Snider & Drumm",
+    "King & Kennedy"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a17",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    6.0,
+    13.5,
+    4.0
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "BAD LANDS COW BOY, BY A. T. PACKARD.\n\nTHURSDAY, MAY 15, 1884.",
+   "summary": "Inside-page masthead; its dateline still reads May 15, 1884, though the page's content is of May 22.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a18",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    9.0,
+    13.5,
+    9.0
+   ],
+   "section": "railroad",
+   "headline": "Northern Pacific Time Table.",
+   "text": "WEST BOUND.\nPacific Express, No. 1 ........ 6:37 p. m.\nExpress Freight, 2d Class ........ 6:48 p. m.\nFreight, 3d Class ........ 12:05 a. m.\n\nEAST BOUND.\nAtlantic Express, No. 2 ........ 8:22 a. m.\nExpress Freight, 3d Class ........ 2:57 a. m.\nFreight, 3rd Class ........ 8:11 p. m.\n\nR. E. SPURRIER, Agent.",
+   "summary": "Northern Pacific time table at Medora.",
+   "people": [
+    "R. E. Spurrier"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a19",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    18.0,
+    13.5,
+    2.0
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "George Porter arrived last night from his business trip to Chicago.",
+   "summary": "George Porter returned from a business trip to Chicago.",
+   "people": [
+    "George Porter"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a20",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    19.5,
+    13.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mr. M. C. Conners, of Spearfish, was in town a day or two the first of the week. He will sell some beef cattle to the Co.",
+   "summary": "M. C. Conners of Spearfish was in town and will sell beef cattle to the company.",
+   "people": [
+    "M. C. Conners"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a21",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    21.5,
+    13.5,
+    2.0
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Ford's outfit made a pretty large hole in the freight here but enough is on the way to load all teams that come.",
+   "summary": "Ford's freight outfit took much of the waiting freight.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a22",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    23.0,
+    13.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Our commission as Notary Public was received yesterday and hereafter we will be prepared to do any business in that line.",
+   "summary": "Packard received his commission as Notary Public.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a23",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    25.0,
+    13.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The fire was started yesterday in the first brick kiln. Mr. Book has invented a new grate which he is testing in the furnaces.",
+   "summary": "The first brick kiln was fired; Mr. Book is testing a new grate he invented.",
+   "people": [
+    "Peter J. Book"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a24",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    27.0,
+    13.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The vein of coal south of town which was set on fire some time ago bids fair to develop into a rival of our famous Burning mine.",
+   "summary": "A burning coal vein south of town may rival the famous Burning mine.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a25",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    29.0,
+    13.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Several quarries of excellent foundation stone have been discovered in the neighboring buttes and will be put to immediate use.",
+   "summary": "Quarries of foundation stone were discovered in nearby buttes.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a26",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    31.0,
+    13.5,
+    3.0
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The dance at Ferris & Merrifield's ranch last night was a complete success. Several loads of participants went from here and they all enjoyed themselves hugely.",
+   "summary": "A dance at Ferris & Merrifield's ranch was a success, with several loads of guests from town.",
+   "people": [
+    "Sylvane Ferris",
+    "Bill Merrifield"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a27",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    33.5,
+    13.5,
+    3.0
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Western Starr, of Dickinson, and G. H. Spear, of Spearfish, started for Deadwood last Monday morning. They intend to take matters easy and to hunt and have a good time on the way down.",
+   "summary": "Western Starr and G. H. Spear left for Deadwood, hunting along the way.",
+   "people": [
+    "Western Starr",
+    "G. H. Spear"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a28",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    36.0,
+    13.5,
+    4.0
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Ford's outfit arrived Tuesday and is the largest that has yet come. It consists of over a hundred mules, about twenty horses and twenty-five large freight wagons. It will finish loading with 120,000 pounds of freight to-day and will start immediately for the Hills.",
+   "summary": "Ford's freight outfit, the largest yet, arrived and is loading 120,000 pounds for the Hills.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a29",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    39.5,
+    13.5,
+    4.0
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "T. G. Jones returned from Billings where his family is located, last Friday. He is convinced that Medora will make a good town and intends to identify himself with her interests hereafter. He and Joe Pennell are now busy figuring on the mail and stage routes.",
+   "summary": "T. G. Jones returned from Billings and, with Joe Pennell, is working on mail and stage routes.",
+   "people": [
+    "T. G. Jones",
+    "Joe Pennell"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a30",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    43.0,
+    13.5,
+    5.0
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mr. Lorin F. Deland, special correspondent of the Boston Herald and of the large printing firm of Deland & Barta, made us a plesant call Tuesday morning in company with his wife. They are on a pleasure trip along the line of the Northern Pacific and are of the class of people who make the most of their sight-seeing. They are old friends of Messrs. Eaton and Wade and visited them while here.",
+   "summary": "Boston Herald correspondent Lorin F. Deland and his wife called at the Cow Boy office.",
+   "people": [
+    "Lorin F. Deland",
+    "Eaton",
+    "Wade"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a31",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    47.0,
+    13.5,
+    6.0
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The Pierre route will soon be practically deserted, almost all the outfits coming on the Medora route. Several already here have had \"Northwestern Transportation Company\" stamped on their covers and others are on their way. \"Arkansas John\" will be here in a few days with one of the largest mule trains in the west. Star & Bullock also have a large bull outfit on the road here. Both these outfits, besides several others, have been taken off the Pierre route.",
+   "summary": "Freighters are leaving the Pierre route for the Medora route.",
+   "people": [
+    "John Sechler"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a32",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    53.0,
+    13.5,
+    7.0
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The first step we have taken to improve our paper will be readily noticed in to-day's issue. The new cattle and horse cuts were made expressly for us and \"came high but we must have 'em.\" Gregor Lang's brands are also published for the first time. We owe Berry, Boice & Co. an apology for not publishing their new brand, but through no fault of ours it was engraved backwards and we publish the old brand. We hope to rectify the mistake by next issue. Lloyd Roberts' and Rich, Randall & Co's. brands will also probably appear next issue.",
+   "summary": "The Cow Boy announces new cattle and horse cuts and new brand ads, including Gregor Lang's.",
+   "people": [
+    "Gregor Lang",
+    "Lloyd Roberts"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a33",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    59.5,
+    13.5,
+    10.0
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "We were pleased to receive a letter from H. M. Jorgens, of Spearfish, saying that he had his drug store fixtures all packed and boxed and would start immediately on receipt of a favorable reply. By this time he is probably on the way. We are also pleased to state that Dr. Louthan will probably accompany him and be a permanent resident of Medora. Mr. Jorgens qualified the remark by saying that Dr. Louthan would come if he could get away. Our readers will remember the forcible manner in which he was detained, as mentioned in our last issue. In Dr. Louthan's own words he \"can make ten dollars here to one in Spearfish\" and we fully expect that he will be here soon.",
+   "summary": "Druggist H. M. Jorgens of Spearfish is moving his store to Medora and Dr. Louthan may follow.",
+   "people": [
+    "H. M. Jorgens",
+    "Dr. Louthan"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a34",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    69.5,
+    13.5,
+    8.0
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Lloyd Roberts, E. G. Paddock and Dan. Friedman returned from Minnesota last Friday with 750 head of cattle for Rich, Randall & Co. The buying was done in a very short time and the cattle were only thirty-one hours on the road from Minnesota. Lloyd has the reputation of being the best and fastest buyer in the west and when seconded by two such men as Messrs. Paddock and Friedman, we do not wonder that quick time was made. Lloyd, Dan and Mr. Rich started back this morning to buy another lot. Besides buying cattle, Lloyd kept the Cow Boy in mind and brought us back eleven subscribers. We hope he will continue to insult us in the same way.",
+   "summary": "Lloyd Roberts, E. G. Paddock and Dan Friedman returned from Minnesota with 750 cattle for Rich, Randall & Co.",
+   "people": [
+    "Lloyd Roberts",
+    "E. G. Paddock",
+    "Dan Friedman"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a35",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    77.0,
+    13.5,
+    10.0
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "J. L. Bowman, one of the best known mule skinners in the Hills and who has driven over every possible route into Deadwood and almost every freight line in the west, says that the Medora route to the Hills is not only by far the best route into Deadwood, but the best he has ever driven over and at least twenty miles shorter than the Pierre route. The road he came over is the long one and the cut-off made by Bob. Roberts decreases the distance again by twenty miles. Mr. Bowman is on his way through to Montana and has given up driving, having come this far on his way with Wheeler's outfit, which arrived this morning. Such a recommendation as this for our route, coming from such an unbiased source, is final proof of its superiority.",
+   "summary": "Veteran freighter J. L. Bowman praises the Medora route to Deadwood as the best and shortest.",
+   "people": [
+    "J. L. Bowman",
+    "Bob Roberts"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a36",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    87.0,
+    13.5,
+    7.0
+   ],
+   "section": "local",
+   "headline": "Letters Unclaimed",
+   "text": "Remaining in the postoffice at Medora, for the week ending May 21, 1884:\nA. W. Balke, A. Kraft,\nA. Bealy, T. Olahan,\nW. T. Ford, J. O'Laughlin,\nAaron Fox, Sam Perry,\nR. R. Hickey, Chas. Rutledge,\nR. Kress, F. S. Worington.",
+   "summary": "List of unclaimed letters at the Medora post office for the week ending May 21, 1884.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a37",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    6.0,
+    13.0,
+    27.0
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Sergeant Clives, two soldiers and two scouts, an Indian and a half-breed, from Fort Buford, arrived Sunday afternoon. They were in pursuit of the robbers who had waylaid paymaster Whipple, north of Glendive, last Wednesday. Sergeant Clives states that Mr. Whipple, contrary to his usual custom, had the money, $18,000, in two grips in the ambulance, which went ahead of the escort wagon. About three in the afternoon, seven men stepped from the side of the road and began firing immediately. Sergeant Coonrod, an able and well-known soldier, was shot twice clear through the body and died while bravely fighting. In the melee, two of the ambulance mules were wounded and started to run away. This lucky circumstance saved the treasure as it was rapidly taken out of the robbers' reach. The escort wagon was plundered but nothing was taken except a cartridge belt. As soon as word could be sent to Fort Buford, the party under Sergeant Clives was sent out. The trail was struck near the scene of the attempted robbery and followed to Beaver creek. Here it was lost by cattle crossing it. It is exceedingly doubtful if the robbers will be arrested as they were all masked and there is no clue at present. It is the opinion of a number that they belonged to the Axleby gang. The facts seem to bear out this assumption, as the robbers retreated in the general direction of the Black Hills, although they separated into several parties. This and the fact that they tried to kill the mules smacks strongly of professionalism.\n\n[Since the above was put in type it has been found that one of the robbers was Dan. McCarthy, a well-known ranchman living across the river from Glendive. A bloody trail was found and followed, ending in a new grave which contained his body. It is now thought that the others may be captured.—Ed.]",
+   "summary": "A Fort Buford party pursuing the robbers who attacked paymaster Whipple north of Glendive, killing Sergeant Coonrod, reached Medora; one robber, Dan McCarthy, was later found dead.",
+   "people": [
+    "Sergeant Clives",
+    "Whipple",
+    "Sergeant Coonrod",
+    "Dan McCarthy"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a38",
+   "page": 4,
+   "cols": "2-5",
+   "region": [
+    20.5,
+    30,
+    52,
+    68
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Shepherd Dogs — litter of Collie pups from imported stock, B. M. Gallien, Belfield, Dak.\nBuilding for Rent, Little Missouri — enquire at Cow Boy office\nFor Sale: twenty pack saddles — Pennell & Roberts\nFar West cigar — sold only by Roberts & Co.; The Senate holds the sole agency; Wise & Goodkind, of Bismarck, give Roberts & Co. sole right in Little Missouri\nCook Stove for Sale — inquire at Cow Boy office\nFor Sale: fifteen yoke of work steers — Howard Eaton, Medora, Dak.\nBeef Cattle — \"Wishing to confine our attention exclusively to BEEF CATTLE\" — N. P. Ref. Car Co., Medora, offers entire herd of American cattle (about 700 she cattle and 250 steers) and a graded herd (65 bulls and 55 she cattle) on Beaver creek, Dawson county, Montana, ten miles north of Keith\nNorthern Pacific Railroad, \"Going East or Going West\" — Chas. S. Fee, General Passenger Agent, St. Paul\nBrick!! made at the Medora Brick Kiln, $8 per thousand — Peter J. Book, Medora\nLots! Lots in Medora — table of lots and prices; A. T. Packard, agent, Medora, Dak.\nFor Sale: The N. P. Refrigerator Car Co. offers its entire lot of stock horses (60 mares, colts, American mares, 3 stallions)\nMayville Stock Farm, Mayville, Traill Co., Dak. — short-horn bulls; J. L. & E. B. Grandin, Props.\nSupply Depot for Milwaukee Beer — C. B. Williams & Co., Bismarck, Dak.\nE. J. Owenhouse, Bozeman, Mont. — stock saddles, Concord harness, chaparejos, reatas, quirts\nNorthern Pacific Refrigerator Car Company — Marquis de Mores, Pres't; C. W. Sleeper, Vice Pres't; L. A. Von Hoffman, Treas.; F. B. Allen, Sec'y; building cold storage houses at St. Paul, Duluth, Brainerd, Fargo, Grand Forks, Winnipeg, Jamestown, Bismarck, Mandan, Medora, Miles City, Billings, Bozeman, Helena, The Dalles and Portland; abattoirs at St. Paul, Medora, Miles City, Billings & The Dalles\nInsurance — Springfield F. & M. Ins. Co., of Springfield, Mass.; A. T. Packard, Agent, Medora\nLittle Tom's Saloon, Little Missouri, Dak. — \"There's Rest for the Weary\"; \"Cow-boy bitters to dude soda\"",
+   "summary": "Directory of local notices and display advertisers on page 4.",
+   "people": [
+    "Howard Eaton",
+    "Peter J. Book",
+    "A. T. Packard",
+    "Marquis de Mores"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a39",
+   "page": 4,
+   "cols": "6-7",
+   "region": [
+    70,
+    4,
+    28,
+    92
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Brand: N. P. Refrigerator Car Co., Medora, Dak. — NP and other brands on left side; also owner of steers purchased of Mason & Lovell; ranges Little Missouri river and Beaver creek\nBrand: Spring Creek Ranch, L. D. & B. Rumsey, J. L. Truscott, Manager, P.O. Medora — R in circle on left hip; range south of N.P.R.R. on Little Missouri\nBrand: E. G. Paddock, P.O. Medora — circle-dot on both sides; range six miles north of crossing of N.P.R.R. and Little Missouri\nBrand: Pennell & Roberts, P.O. Medora, Billings Co. — RR on left shoulder for horses and mules; second horse brand on left thigh; ranch four miles down river from crossing of N.P.R.R. and Little Missouri\nBrand: Lydia S. Fuller, Frank S. Moore, Manager, P.O. Medora — LSF on left shoulder; range O'Donnell creek\nBrand: Berry, Boice & Co., P.O. Keith, Montana — 777 on right hip, side and shoulder; range south of N.P.R.R., Little Missouri river and Beaver creek\nBrand: Custer Trail Cattle Co., Howard Eaton, Manager, P.O. Medora — HK in circle and other brands; range Little Missouri river, Deep and Davis creeks\nBrand: Towers & Gudgell, P.O. Keith, Montana — OX on right side; range south of N.P.R.R., Little Missouri and Beaver creek\nBrand: Soho Cattle Co., P.O. Medora — SO on left side and HO on right; range Little Missouri river and Beaver creek, south of N.P.R.R.\nBrand: H. B. Wadsworth & Co., M. Wadsworth, Manager, P.O. Medora — \"Reversed L\"; range Little Missouri river, north of N.P.R.R.\nBrand: W. N. Thompson & Co., Wm. Dantz, Manager, P.O. Medora — TD on left hip\nBrand: Neimmela Ranch, Gregor Lang, Manager, P.O. Medora — thistle on left or right shoulder; range Keogh crossing of Little Missouri\nBrand: E. W. Casey & Co., Frank S. Moore, Manager, P.O. Medora — KC in circle; range O'Donnell creek",
+   "summary": "Directory of cattle-brand advertisements on page 4.",
+   "people": [
+    "Gregor Lang",
+    "Howard Eaton",
+    "E. G. Paddock",
+    "Frank S. Moore"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a40",
+   "page": 2,
+   "cols": "1-7",
+   "region": [
+    3,
+    4,
+    95,
+    94
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "Patent inside under a \"THE BAD LANDS COW BOY. A. T. PACKARD, Publisher. LITTLE MISSOURI, DAKOTA\" heading: syndicated editorial paragraphs, \"The Pith of the News\" national and foreign news digest, \"Dakota Territorial News\" and other miscellany. Not transcribed.",
+   "summary": "Ready-print page of syndicated editorial filler and news digests.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a41",
+   "page": 3,
+   "cols": "1-7",
+   "region": [
+    3,
+    4,
+    95,
+    94
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "Patent inside: congressional proceedings, national news and miscellany, livestock woodcuts, and patent-medicine advertisements (Cuticura, Allen's Lung Balsam, Tutt's Pills, Hostetter's Bitters, St. Jacobs Oil, Parsons' Pills and others). Not transcribed.",
+   "summary": "Ready-print page of national news, miscellany and patent-medicine ads.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  }
+ ],
+ "events": [
+  {
+   "id": "e1",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "Organization of Billings county nears completion",
+   "summary": "The Cow Boy reported that the organization of Billings county was almost complete, ending Stark county's judicial jurisdiction over the area, and credited Gov. Ordway; a partial list of county officers was promised for the next issue.",
+   "excerpt": "the organization of Billings county is almost complete",
+   "people": [
+    "Nehemiah G. Ordway"
+   ],
+   "places": [
+    "Billings County",
+    "Stark County",
+    "Medora"
+   ],
+   "tags": [
+    "politics",
+    "law"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a3",
+   "confidence": "high"
+  },
+  {
+   "id": "e2",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "Cow Boy answers Mandan and Bismarck papers over the Black Hills freight route",
+   "summary": "Packard charged that the Mandan and Bismarck papers published slurring articles about Medora and the Marquis de Mores out of jealousy that Medora won the Black Hills freight route, and predicted a railroad from Medora to the Hills.",
+   "excerpt": "the slurring articles published in these papers in reference to Medora and the Marquis de Mores",
+   "people": [
+    "Marquis de Mores"
+   ],
+   "places": [
+    "Medora",
+    "Mandan",
+    "Bismarck",
+    "Black Hills"
+   ],
+   "tags": [
+    "mores",
+    "press",
+    "railroad",
+    "business"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a4",
+   "confidence": "high"
+  },
+  {
+   "id": "e3",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "Cow Boy circulation passes four hundred",
+   "summary": "The Cow Boy reported a weekly circulation of over four hundred copies, beating its year-end goal of three hundred, and said an enlargement of the paper would soon be necessary.",
+   "excerpt": "our weekly circulation is now over four hundred copies",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a6",
+   "confidence": "high"
+  },
+  {
+   "id": "e4",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "\"Wednesday last\" in an undated Minnesela Boomer reprint; date unknown, week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "Star & Bullock bull outfit heads for Medora",
+   "summary": "A Minnesela Boomer item reprinted in the Cow Boy said Star & Bullock's bull outfit had started for Medora via the Belle Fourche bridge in charge of John Bowman; a local item added that it had been taken off the Pierre route.",
+   "excerpt": "Star & Bullock started their bull outfit for Medora on Wednesday last via the Belle Fourche bridge",
+   "people": [
+    "John Bowman"
+   ],
+   "places": [
+    "Belle Fourche bridge",
+    "Medora"
+   ],
+   "tags": [
+    "stage",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a8",
+   "confidence": "high"
+  },
+  {
+   "id": "e5",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "Spearfish men bridge creeks on the new Medora freight road",
+   "summary": "Seven men from Spearfish were reported building bridges across Owl, Crow and Indian creeks on the new road north from the Belle Fourche bridge.",
+   "excerpt": "building bridges across Owl, Crow, and Indian creeks",
+   "people": [],
+   "places": [
+    "Belle Fourche bridge",
+    "Owl Creek",
+    "Crow Creek",
+    "Indian Creek",
+    "Spearfish"
+   ],
+   "tags": [
+    "stage",
+    "building"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a9",
+   "confidence": "high"
+  },
+  {
+   "id": "e6",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "Arkansas John's mule train bound for Medora",
+   "summary": "Freighter John Sechler, known as Arkansas John, was reported passing through Minnesela en route to Medora with one of the biggest mule trains into the Hills, able to haul 100,000 pounds.",
+   "excerpt": "one of the biggest mule trains which comes into the Hills",
+   "people": [
+    "John Sechler"
+   ],
+   "places": [
+    "Minnesela",
+    "Belle Fourche bridge",
+    "Medora"
+   ],
+   "tags": [
+    "stage",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a10",
+   "confidence": "high"
+  },
+  {
+   "id": "e7",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "Survey of de Mores' Belle Fourche town site completed",
+   "summary": "The Black Hills Pioneer reported the survey of a 240-acre new town on the Belle Fourche; the Cow Boy's editor noted it was the site the Marquis selected as the Hills terminus of the Medora & Black Hills railroad.",
+   "excerpt": "the one selected by the Marquis as the Hills terminus of the Medora & Black Hills railroad",
+   "people": [
+    "Marquis de Mores"
+   ],
+   "places": [
+    "Belle Fourche",
+    "Black Hills"
+   ],
+   "tags": [
+    "mores",
+    "railroad",
+    "land"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a11",
+   "confidence": "high"
+  },
+  {
+   "id": "e8",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "De Mores letter announces Medora-Deadwood stage line",
+   "summary": "The Black Hills Pioneer reported that a Deadwood businessman received a letter from the Marquis de Mores saying arrangements were completed for a Medora-to-Deadwood stage line, with stages expected within thirty days.",
+   "excerpt": "arrangements are completed for the establishment of a stage line from Medora to Deadwood",
+   "people": [
+    "Marquis de Mores"
+   ],
+   "places": [
+    "Medora",
+    "Deadwood"
+   ],
+   "tags": [
+    "mores",
+    "stage",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a12",
+   "confidence": "high"
+  },
+  {
+   "id": "e9",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "Major Snider predicts railroad from the Northern Pacific to the Hills",
+   "summary": "Major W. R. Snider of the Spearfish Register, visiting Deadwood, said the country between the Hills and Medora was well watered and timbered, was settling with squatters, and that a stage line was a certainty.",
+   "excerpt": "the country between this place and Medora is the best watered and timbered",
+   "people": [
+    "W. R. Snider"
+   ],
+   "places": [
+    "Spearfish",
+    "Deadwood",
+    "Medora"
+   ],
+   "tags": [
+    "railroad",
+    "stage",
+    "land"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a13",
+   "confidence": "high"
+  },
+  {
+   "id": "e10",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "\"last evening\" in an undated Black Hills Pioneer reprint; week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "Black Hills shippers adopt rate for the Medora route",
+   "summary": "The Black Hills Shippers' Association, on motion of S. C. Fargo, set $1.75 as the standard rate from the Northern Pacific to Deadwood and urged all shippers to send goods via the Medora route.",
+   "excerpt": "voted that $1.75 be admitted as the standard rate",
+   "people": [
+    "S. C. Fargo"
+   ],
+   "places": [
+    "Deadwood",
+    "Medora"
+   ],
+   "tags": [
+    "railroad",
+    "business",
+    "stage"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a14",
+   "confidence": "high"
+  },
+  {
+   "id": "e11",
+   "date": "1884-05-16",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Friday\" in letter dated Mon 19 May 1884",
+   "planned": false,
+   "title": "Freight car fire destroys Joseph Clifford's stock and goods near Dickinson",
+   "summary": "The Dickinson correspondent reported that a freight car carrying Joseph Clifford's three mules, a mare and colt and farm and household implements, worth $1,200, caught fire and burned everything.",
+   "excerpt": "the car in which they were contained caught fire, burning everything",
+   "people": [
+    "Joseph Clifford"
+   ],
+   "places": [
+    "Dickinson"
+   ],
+   "tags": [
+    "fire",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a15",
+   "confidence": "high"
+  },
+  {
+   "id": "e12",
+   "date": "1884-06-07",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"June 7\" stated",
+   "planned": true,
+   "title": "Dickinson to vote on school bonds",
+   "summary": "The Dickinson correspondent reported that bonds for a school building would be voted on June 7.",
+   "excerpt": "the issuance of bonds will be doubtless voted for that purpose on June 7",
+   "people": [],
+   "places": [
+    "Dickinson"
+   ],
+   "tags": [
+    "building",
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a15",
+   "confidence": "high"
+  },
+  {
+   "id": "e13",
+   "date": "1884-05-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last night\" before Thu 22 May 1884",
+   "planned": false,
+   "title": "George Porter returns from Chicago",
+   "summary": "George Porter arrived back from a business trip to Chicago.",
+   "excerpt": "George Porter arrived last night from his business trip to Chicago.",
+   "people": [
+    "George Porter"
+   ],
+   "places": [
+    "Medora",
+    "Chicago"
+   ],
+   "tags": [
+    "business",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a19",
+   "confidence": "high"
+  },
+  {
+   "id": "e14",
+   "date": "1884-05-19",
+   "date_end": "1884-05-20",
+   "date_precision": "approx",
+   "date_basis": "\"the first of the week\" before Thu 22 May 1884",
+   "planned": false,
+   "title": "M. C. Conners of Spearfish visits to sell beef cattle",
+   "summary": "M. C. Conners of Spearfish was in town early in the week and will sell beef cattle to the company.",
+   "excerpt": "He will sell some beef cattle to the Co.",
+   "people": [
+    "M. C. Conners"
+   ],
+   "places": [
+    "Medora",
+    "Spearfish"
+   ],
+   "tags": [
+    "visitors",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a20",
+   "confidence": "high"
+  },
+  {
+   "id": "e15",
+   "date": "1884-05-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday\" before Thu 22 May 1884",
+   "planned": false,
+   "title": "Packard commissioned Notary Public",
+   "summary": "The Cow Boy's editor received his commission as Notary Public.",
+   "excerpt": "Our commission as Notary Public was received yesterday",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "press",
+    "law"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a22",
+   "confidence": "high"
+  },
+  {
+   "id": "e16",
+   "date": "1884-05-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday\" before Thu 22 May 1884",
+   "planned": false,
+   "title": "First brick kiln fired at Medora",
+   "summary": "The fire was started in Medora's first brick kiln, where Mr. Book was testing a new grate of his own invention.",
+   "excerpt": "The fire was started yesterday in the first brick kiln.",
+   "people": [
+    "Peter J. Book"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "building",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a23",
+   "confidence": "high"
+  },
+  {
+   "id": "e17",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "Coal vein south of Medora still burning",
+   "summary": "A coal vein south of town that had been set on fire was said to bid fair to rival the famous Burning mine.",
+   "excerpt": "bids fair to develop into a rival of our famous Burning mine",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "coal",
+    "fire"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a24",
+   "confidence": "high"
+  },
+  {
+   "id": "e18",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "Foundation-stone quarries found near Medora",
+   "summary": "Several quarries of foundation stone were discovered in the neighboring buttes.",
+   "excerpt": "Several quarries of excellent foundation stone have been discovered",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "building"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a25",
+   "confidence": "high"
+  },
+  {
+   "id": "e19",
+   "date": "1884-05-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last night\" before Thu 22 May 1884",
+   "planned": false,
+   "title": "Dance at Ferris & Merrifield's ranch",
+   "summary": "A dance at Ferris & Merrifield's ranch was a complete success, with several loads of participants going out from town.",
+   "excerpt": "The dance at Ferris & Merrifield's ranch last night was a complete success.",
+   "people": [
+    "Sylvane Ferris",
+    "Bill Merrifield"
+   ],
+   "places": [
+    "Ferris & Merrifield ranch",
+    "Medora"
+   ],
+   "tags": [
+    "social",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a26",
+   "confidence": "high"
+  },
+  {
+   "id": "e20",
+   "date": "1884-05-19",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Monday\" before Thu 22 May 1884",
+   "planned": false,
+   "title": "Western Starr and G. H. Spear leave for Deadwood",
+   "summary": "Western Starr of Dickinson and G. H. Spear of Spearfish started for Deadwood, planning to hunt on the way.",
+   "excerpt": "started for Deadwood last Monday morning",
+   "people": [
+    "Western Starr",
+    "G. H. Spear"
+   ],
+   "places": [
+    "Medora",
+    "Deadwood"
+   ],
+   "tags": [
+    "visitors",
+    "hunting",
+    "stage"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a27",
+   "confidence": "high"
+  },
+  {
+   "id": "e21",
+   "date": "1884-05-20",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday\" before Thu 22 May 1884",
+   "planned": false,
+   "title": "Ford's freight outfit arrives and loads for the Hills",
+   "summary": "Ford's outfit, the largest yet, with over a hundred mules, about twenty horses and twenty-five wagons, arrived and was loading 120,000 pounds of freight for the Black Hills.",
+   "excerpt": "It will finish loading with 120,000 pounds of freight to-day",
+   "people": [],
+   "places": [
+    "Medora",
+    "Black Hills"
+   ],
+   "tags": [
+    "stage",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a28",
+   "confidence": "high"
+  },
+  {
+   "id": "e22",
+   "date": "1884-05-16",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Friday\" before Thu 22 May 1884",
+   "planned": false,
+   "title": "T. G. Jones returns; works on mail and stage routes with Joe Pennell",
+   "summary": "T. G. Jones returned from Billings and, with Joe Pennell, was figuring on mail and stage routes.",
+   "excerpt": "He and Joe Pennell are now busy figuring on the mail and stage routes.",
+   "people": [
+    "T. G. Jones",
+    "Joe Pennell"
+   ],
+   "places": [
+    "Medora",
+    "Billings"
+   ],
+   "tags": [
+    "stage",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a29",
+   "confidence": "high"
+  },
+  {
+   "id": "e23",
+   "date": "1884-05-20",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday morning\" before Thu 22 May 1884",
+   "planned": false,
+   "title": "Boston Herald correspondent Lorin F. Deland visits Medora",
+   "summary": "Lorin F. Deland of the Boston Herald and his wife called at the Cow Boy office while touring the Northern Pacific and visited Messrs. Eaton and Wade.",
+   "excerpt": "made us a plesant call Tuesday morning in company with his wife",
+   "people": [
+    "Lorin F. Deland",
+    "Eaton",
+    "Wade"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a30",
+   "confidence": "high"
+  },
+  {
+   "id": "e24",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "Freighters abandon the Pierre route for Medora",
+   "summary": "The Cow Boy reported that almost all outfits were coming by the Medora route, some marked \"Northwestern Transportation Company,\" and that Arkansas John and Star & Bullock were on the way.",
+   "excerpt": "The Pierre route will soon be practically deserted",
+   "people": [
+    "John Sechler"
+   ],
+   "places": [
+    "Medora",
+    "Pierre"
+   ],
+   "tags": [
+    "stage",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a31",
+   "confidence": "high"
+  },
+  {
+   "id": "e25",
+   "date": "1884-05-22",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"to-day's issue\", Thu 22 May 1884",
+   "planned": false,
+   "title": "Cow Boy adds new cattle cuts and brand ads",
+   "summary": "The Cow Boy introduced new cattle and horse cuts and published Gregor Lang's brands for the first time, apologizing that Berry, Boice & Co.'s new brand was engraved backwards.",
+   "excerpt": "Gregor Lang's brands are also published for the first time.",
+   "people": [
+    "Gregor Lang"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "press",
+    "brands"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a32",
+   "confidence": "high"
+  },
+  {
+   "id": "e26",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 May 1884 issue",
+   "planned": true,
+   "title": "Spearfish druggist H. M. Jorgens moving to Medora",
+   "summary": "H. M. Jorgens wrote that his drug store fixtures were packed to come to Medora, and Dr. Louthan was expected to follow if he could get away.",
+   "excerpt": "he had his drug store fixtures all packed and boxed",
+   "people": [
+    "H. M. Jorgens",
+    "Dr. Louthan"
+   ],
+   "places": [
+    "Spearfish",
+    "Medora"
+   ],
+   "tags": [
+    "business",
+    "health"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a33",
+   "confidence": "high"
+  },
+  {
+   "id": "e27",
+   "date": "1884-05-16",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Friday\" before Thu 22 May 1884",
+   "planned": false,
+   "title": "750 Minnesota cattle arrive for Rich, Randall & Co.",
+   "summary": "Lloyd Roberts, E. G. Paddock and Dan Friedman returned from Minnesota with 750 head of cattle for Rich, Randall & Co., only thirty-one hours on the road.",
+   "excerpt": "returned from Minnesota last Friday with 750 head of cattle for Rich, Randall & Co.",
+   "people": [
+    "Lloyd Roberts",
+    "E. G. Paddock",
+    "Dan Friedman"
+   ],
+   "places": [
+    "Medora",
+    "Minnesota"
+   ],
+   "tags": [
+    "ranching",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "high"
+  },
+  {
+   "id": "e28",
+   "date": "1884-05-22",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"this morning\", issue date Thu 22 May 1884",
+   "planned": false,
+   "title": "Roberts, Friedman and Rich go back to Minnesota to buy cattle",
+   "summary": "Lloyd Roberts, Dan Friedman and Mr. Rich started back to buy another lot of cattle.",
+   "excerpt": "Lloyd, Dan and Mr. Rich started back this morning to buy another lot.",
+   "people": [
+    "Lloyd Roberts",
+    "Dan Friedman"
+   ],
+   "places": [
+    "Medora",
+    "Minnesota"
+   ],
+   "tags": [
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "high"
+  },
+  {
+   "id": "e29",
+   "date": "1884-05-22",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Wheeler's outfit \"arrived this morning\", issue date Thu 22 May 1884",
+   "planned": false,
+   "title": "Freighter J. L. Bowman praises the Medora route; Wheeler's outfit arrives",
+   "summary": "J. L. Bowman, who arrived with Wheeler's outfit, said the Medora route to Deadwood was the best he had driven and at least twenty miles shorter than the Pierre route, with Bob Roberts' cut-off saving twenty more.",
+   "excerpt": "the Medora route to the Hills is not only by far the best route into Deadwood",
+   "people": [
+    "J. L. Bowman",
+    "Bob Roberts"
+   ],
+   "places": [
+    "Medora",
+    "Deadwood",
+    "Black Hills"
+   ],
+   "tags": [
+    "stage",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a35",
+   "confidence": "high"
+  },
+  {
+   "id": "e30",
+   "date": "1884-05-14",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Wednesday\" before Sun 18 May 1884, the day the pursuers arrived",
+   "planned": false,
+   "title": "Robbers attack paymaster Whipple north of Glendive; Sergeant Coonrod killed",
+   "summary": "Seven men attacked paymaster Whipple's party north of Glendive; Sergeant Coonrod was killed, but runaway mules carried the $18,000 out of reach.",
+   "excerpt": "Sergeant Coonrod, an able and well-known soldier, was shot twice clear through the body",
+   "people": [
+    "Whipple",
+    "Sergeant Coonrod"
+   ],
+   "places": [
+    "Glendive"
+   ],
+   "tags": [
+    "crime",
+    "military",
+    "deaths"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a37",
+   "confidence": "high"
+  },
+  {
+   "id": "e31",
+   "date": "1884-05-18",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Sunday afternoon\" before Thu 22 May 1884",
+   "planned": false,
+   "title": "Fort Buford pursuit party reaches Medora",
+   "summary": "Sergeant Clives, two soldiers and two scouts from Fort Buford arrived in pursuit of the robbers, whose trail was lost at Beaver creek.",
+   "excerpt": "from Fort Buford, arrived Sunday afternoon",
+   "people": [
+    "Sergeant Clives"
+   ],
+   "places": [
+    "Medora",
+    "Fort Buford",
+    "Beaver Creek"
+   ],
+   "tags": [
+    "military",
+    "crime",
+    "visitors",
+    "Native-Americans"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a37",
+   "confidence": "high"
+  },
+  {
+   "id": "e32",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "Robber Dan McCarthy found dead and buried",
+   "summary": "The editor added that one of the robbers was found to be Dan McCarthy, a ranchman living across the river from Glendive, whose body was found in a new grave at the end of a bloody trail.",
+   "excerpt": "ending in a new grave which contained his body",
+   "people": [
+    "Dan McCarthy"
+   ],
+   "places": [
+    "Glendive"
+   ],
+   "tags": [
+    "crime",
+    "deaths"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a37",
+   "confidence": "high"
+  },
+  {
+   "id": "e33",
+   "date": "1884-05-15",
+   "date_end": "1884-05-22",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 22 May 1884 issue",
+   "planned": false,
+   "title": "N. P. Refrigerator Car Co. offers its stock cattle and horses for sale",
+   "summary": "Advertisements by the de Mores-headed N. P. Refrigerator Car Co. offered its entire herd of American cattle and its stock horses for sale, saying it wished to confine itself to beef cattle.",
+   "excerpt": "Wishing to confine our attention exclusively to BEEF CATTLE",
+   "people": [
+    "Marquis de Mores"
+   ],
+   "places": [
+    "Medora",
+    "Beaver Creek"
+   ],
+   "tags": [
+    "mores",
+    "ranching",
+    "business"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a38",
+   "confidence": "high"
+  }
+ ]
+}

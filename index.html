@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Bad Lands Cow Boy — Medora's Frontier Newspaper, 1884–1886</title>
+<meta name="description" content="Every surviving issue of The Bad Lands Cow Boy, the Medora, Dakota Territory newspaper Theodore Roosevelt read, transcribed and searchable: a week-by-week record of the town he knew, 1884–1886. From the Theodore Roosevelt Presidential Library.">
+<link rel="canonical" href="https://badlandscowboy.labs.trlibrary.com/">
+<meta property="og:title" content="The Bad Lands Cow Boy — Medora, 1884–1886">
+<meta property="og:description" content="Read Medora's frontier newspaper week by week: the town Theodore Roosevelt knew, in its own words.">
+<meta property="og:image" content="https://badlandscowboy.labs.trlibrary.com/assets/og.jpg">
+<meta property="og:url" content="https://badlandscowboy.labs.trlibrary.com/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='12' fill='%2325282A'/%3E%3Ctext x='50' y='62' text-anchor='middle' font-family='Georgia,serif' font-size='44' font-weight='bold' fill='%23ffffff'%3ET.R.%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/app.css">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Dataset","name":"The Bad Lands Cow Boy, 1884–1886: transcriptions and events",
+ "description":"Transcriptions of the local content of every surviving issue of The Bad Lands Cow Boy (Little Missouri and Medora, Dakota Territory), with a dated index of the events it reported.",
+ "url":"https://badlandscowboy.labs.trlibrary.com/","creator":{"@type":"Organization","name":"Theodore Roosevelt Presidential Library","url":"https://www.trlibrary.com/"},
+ "temporalCoverage":"1884-02-07/1886-12-23","spatialCoverage":"Medora, North Dakota",
+ "isBasedOn":"https://www.loc.gov/item/sn84024777/",
+ "distribution":[{"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://badlandscowboy.labs.trlibrary.com/data/events.csv"},
+                 {"@type":"DataDownload","encodingFormat":"application/json","contentUrl":"https://badlandscowboy.labs.trlibrary.com/data/events.json"}]}
+</script>
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap">
+    <a href="https://www.trlibrary.com/" aria-label="Theodore Roosevelt Presidential Library"><img src="assets/trpl-logo.svg" alt="Theodore Roosevelt Presidential Library"></a>
+    <a href="https://www.trlibrary.com/visit">Plan a visit to the Library →</a>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="wrap">
+    <div class="eyebrow">Little Missouri &amp; Medora, Dakota Territory · 1884–1886</div>
+    <h1>The Bad Lands Cow Boy</h1>
+    <p>Medora's frontier newspaper, every surviving issue, transcribed and searchable. Week by week, it's the town Theodore Roosevelt knew, in its own words.</p>
+    <div class="stats" id="stats"></div>
+  </div>
+  <div class="hero-credit">The Bad Lands Cow Boy, September 10, 1885. Library of Congress, Chronicling America</div>
+</div>
+
+<nav class="tabs" aria-label="Sections">
+  <div class="wrap" role="tablist">
+    <button role="tab" data-view="thisweek" aria-selected="true">This Week</button>
+    <button role="tab" data-view="timeline">Timeline</button>
+    <button role="tab" data-view="roosevelt">Roosevelt</button>
+    <button role="tab" data-view="paper">Read the Paper</button>
+    <button role="tab" data-view="search">Search</button>
+    <button role="tab" data-view="brands">Brands &amp; Businesses</button>
+    <button role="tab" data-view="about">About</button>
+    <button role="tab" data-view="embed" class="tab-embed">Embed &amp; Data</button>
+  </div>
+</nav>
+
+<main>
+  <section class="panel" data-panel="thisweek">
+    <div class="wrap">
+      <div class="panel-head">
+        <div>
+          <div class="eyebrow">On this week in Medora</div>
+          <h2 id="tw-title">This Week in Medora</h2>
+          <p class="lede" id="tw-lede"></p>
+        </div>
+        <div class="date-pick ui">
+          <button class="icon-btn" id="tw-prev" aria-label="Previous week">←</button>
+          <label class="sr" for="tw-m">Month</label>
+          <select id="tw-m"></select>
+          <label class="sr" for="tw-d">Day</label>
+          <select id="tw-d"></select>
+          <button class="icon-btn" id="tw-next" aria-label="Next week">→</button>
+          <button class="chip" id="tw-today">Today</button>
+        </div>
+      </div>
+      <div id="tw-issues" class="issue-strip"></div>
+      <div id="tw-body"></div>
+    </div>
+  </section>
+
+  <section class="panel" data-panel="timeline" hidden>
+    <div class="wrap">
+      <div class="panel-head">
+        <div>
+          <div class="eyebrow">Day by day, 1884–1886</div>
+          <h2>Timeline</h2>
+          <p class="lede">Everything the Cow Boy reported happening in and around Medora, dated from its own wording. Pick a month, or narrow by topic.</p>
+        </div>
+      </div>
+      <div class="histo" id="tl-histo" aria-label="Events per month"></div>
+      <div class="filters">
+        <div class="month-nav ui">
+          <button class="icon-btn" id="tl-prev" aria-label="Previous month">←</button>
+          <select id="tl-month" aria-label="Month"></select>
+          <button class="icon-btn" id="tl-next" aria-label="Next month">→</button>
+        </div>
+        <input type="search" id="tl-q" class="field" placeholder="Filter: a name, place or word" aria-label="Filter events">
+        <label class="toggle ui"><input type="checkbox" id="tl-tr"> Roosevelt</label>
+        <label class="toggle ui"><input type="checkbox" id="tl-mores"> Marquis de Morès</label>
+        <label class="toggle ui"><input type="checkbox" id="tl-all"> All months</label>
+      </div>
+      <div class="chips" id="tl-tags" role="group" aria-label="Topics"></div>
+      <div id="tl-body"></div>
+    </div>
+  </section>
+
+  <section class="panel" data-panel="roosevelt" hidden>
+    <div class="wrap">
+      <div class="panel-head">
+        <div>
+          <div class="eyebrow">As his hometown paper saw him</div>
+          <h2>Roosevelt in the Cow Boy</h2>
+          <p class="lede">Packard's paper reported Roosevelt's comings and goings, his stockmen's meetings, hunts and politics, often within days. Roosevelt treated the Cow Boy office as his Medora social headquarters. Every item here is in the paper with his name in print.</p>
+        </div>
+      </div>
+      <div class="filters">
+        <label class="toggle ui"><input type="checkbox" id="tr-rel"> Also show his ranches and partners (Maltese Cross, Elkhorn, Ferris, Merrifield, Sewall, Dow)</label>
+      </div>
+      <div id="tr-body" class="tr-line"></div>
+    </div>
+  </section>
+
+  <section class="panel" data-panel="paper" hidden>
+    <div class="wrap">
+      <div id="paper-root"></div>
+    </div>
+  </section>
+
+  <section class="panel" data-panel="search" hidden>
+    <div class="wrap">
+      <div class="panel-head">
+        <div>
+          <div class="eyebrow">Full text</div>
+          <h2>Search the Cow Boy</h2>
+          <p class="lede">Search the transcribed local news, editorials, notices and ads. Try a name, a ranch, a brand or a place.</p>
+        </div>
+      </div>
+      <form id="s-form" class="search-row" role="search">
+        <input type="search" id="s-q" class="field big" placeholder="e.g. Elkhorn, round-up, Packard, Little Missouri" aria-label="Search the transcriptions">
+        <button class="btn" type="submit">Search</button>
+      </form>
+      <div id="s-body"></div>
+    </div>
+  </section>
+
+  <section class="panel" data-panel="brands" hidden>
+    <div class="wrap">
+      <div class="panel-head">
+        <div>
+          <div class="eyebrow">As advertised</div>
+          <h2>Brands &amp; Businesses</h2>
+          <p class="lede">The Cow Boy ran columns of cattle and horse brands and the ads of the businesses that served the range. Here they are as printed, with the span of issues each one appeared in.</p>
+        </div>
+      </div>
+      <div class="filters">
+        <div class="chips" role="group" aria-label="Directory">
+          <button class="chip" data-dir="brands" aria-pressed="true">Brands</button>
+          <button class="chip" data-dir="businesses" aria-pressed="false">Businesses</button>
+        </div>
+        <input type="search" id="d-q" class="field" placeholder="Filter by name, town or brand" aria-label="Filter directory">
+      </div>
+      <div id="d-body" class="dir-grid"></div>
+    </div>
+  </section>
+
+  <section class="panel" data-panel="about" hidden>
+    <div class="wrap narrow" id="about-root"></div>
+  </section>
+
+  <section class="panel" data-panel="embed" hidden>
+    <div class="wrap narrow" id="embed-root"></div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p>Page images and original OCR: <a href="https://www.loc.gov/item/sn84024777/">Library of Congress, Chronicling America</a>, digitized from the State Historical Society of North Dakota's microfilm. Transcriptions and event index: Theodore Roosevelt Presidential Library. Always check a transcription against the page image before quoting it.</p>
+    <p><a href="https://www.trlibrary.com/">trlibrary.com</a> · <a href="https://www.trlibrary.com/visit">Visit the Library in Medora</a></p>
+  </div>
+</footer>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js" defer></script>
+<script src="assets/app.js" defer></script>
+</body>
+</html>

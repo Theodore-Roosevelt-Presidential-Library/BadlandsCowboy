@@ -1,0 +1,1814 @@
+{
+ "date": "1886-03-18",
+ "masthead": "Thursday, March 18, 1886",
+ "volume": "Vol. 3, No. 6",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "col 1 masthead and business cards; cols 2-4 display ads (Northern Pacific, Milwaukee Brewing, Clipper plow, Adams & Westlake, Royal Baking Powder, C Spring Cart, the Cow Boy's 'Round-Up Views' premium, McMillan tannery, Brookmont Herd, Natures Incubator); cols 5-7 local: Billings County ticket, editorials on the Stark County tax, roads and railroad tax, Stock Notes, Roosevelt's call for the Little Missouri River Stockgrowers' Association meeting, range items, and an excerpt from 'Wonderland' on the Bad Lands"
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "patent inside under 'The Bad Lands Cow Boy, A. T. Packard, Publisher' heading; national news, Congress, Dakota Territorial News; not transcribed"
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "fiction, miscellany, market reports and patent-medicine ads; not transcribed"
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "col 1 masthead, N.P. time table, local items, Notice of Election; cols 2-4 display ads; cols 4-7 cattle and horse brands (incl. Roosevelt's Chimney Butte Ranch). No duplicate page scans in this issue."
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "1",
+   "region": [
+    2,
+    12,
+    15,
+    10
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "Volume 3, Number 6.\n\nBad Lands Cow Boy, By A. T. Packard.\n\nThe Cow Boy is not published for fun, but for $2 per year.\nAdvertising Rates made known on application.\nStanding Advertisements payable quarterly.\nTransient Advertisements and all Job work, money in sight.\nAddress all communications to The Bad Lands Cow Boy, Medora, Dakota.\n\nEntered at the post-office at Medora, Dak., as second class mail matter.\n\nMedora, Dakota, March 18, 1886. Price $2.00 per Year.",
+   "summary": "Front-page masthead and publisher's box, Vol. 3, No. 6, Medora, March 18, 1886.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a2",
+   "page": 1,
+   "cols": "1-4",
+   "region": [
+    1,
+    13,
+    50,
+    85
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "A. D. Carpenter, Attorney, Dickinson, Dak.\nW. S. Coyle[?], M.D., Physician and Surgeon (late A. A. Surgeon, U. S. A.), Belfield, Dak.\nA. T. Packard, Notary Public, Medora, Dak.\nF. E. Benjamin, Jeweler and Watchmaker, Mandan, Dakota\nFirst National Bank of Mandan, Dakota — paid-up capital $50,000, surplus $15,000\nDan. McKenzie, Blacksmithing and Horse-Shoeing, Medora, Dak. — \"Work done neatly and promptly\"\nD. Flynn, Main Street, Mandan, Dak. — boots, shoes, rubbers, etc.; custom work and repairing\nJ. D. Garver's, Medora, Dakota — hardware and tinware\nInsurance! — policies issued at regular Eastern rates against fire, lightning, wind storms and hail; A. T. Packard, Agent, Medora, Dak.\nNorthern Pacific Railroad — the direct line between St. Paul, Minneapolis or Duluth and Minnesota, Dakota, Montana, Idaho, Washington Territory, Oregon, British Columbia, Puget Sound and Alaska; Pullman sleepers, dining cars, emigrant sleepers free; Yellowstone National Park line\nMilwaukee Brewing Company, proprietors of the Bismarck Brewery, Bismarck, Dak. — keg and bottled beer\nThe Clipper Tricycle wheel plow — Parlin & Orendorff Co., Canton, Ill.\nThe Adams & Westlake interchangeable oil, gas and gasoline stoves — Adams & Westlake M'f'g Co., Chicago, New York, Boston\nRoyal Baking Powder — \"Comparative Worth of Baking Powders\" chart and \"Reports of Government Chemists\"\nC Spring Cart Co. — two-wheeled vehicles, buckboards, folding Scotch harrows; \"Agents Wanted\"\nRound-Up Views!! — The Cow Boy premium offer: \"a complete set of Huffman's celebrated photographs, consisting of Thirty-Six Instantaneous Views of the most prominent scenes in a Montana round-up, and The Cow Boy for one year for only six big, round, flat dolyers\"; views alone $5; \"Call or send to the Cow Boy office, Medora, Dak.\"\nJas. McMillan & Co., The Minneapolis Sheepskin Tannery, Minneapolis, Minn. — hides, sheep pelts, furs, tallow\nThe Brookmont Herd, C. W. Cook & Son, Odebolt, Sac Co., Ia. — over 700 head of Herefords; 25 head young bulls, 18 to 24 mos. old, and 40 yearlings, all recorded in A. H. R.\nThe Natures Incubator — Natures Incubator Co., Quincy, Ill.; 200 egg size, $22",
+   "summary": "Front-page business cards and display ads, including the Cow Boy's own premium offer of Huffman's Montana round-up photographs.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a3",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    51,
+    14,
+    14.5,
+    14.5
+   ],
+   "section": "politics",
+   "headline": "Billings County's Ticket.",
+   "text": "Commissioners.\nJohn Goodall.\nDan. McKenzie.\nJ. L. Truscott.\nReg. of Deeds & Co. Clerk.\nJ. C. Williamson.\nSheriff.\nFred. A. Willard.\nAssessor.\nWillis L. Eaton.\nProbate Judge.\nT. W. Gordon.\nE. L. Simmers.\n(One of above to elect.)\nTreasurer.\nW. F. VanDriesche.\nCounty Surveyor.\nArthur W. Smith.\nCoroner.\nTalleyrand Martin.\nSup't. of Pub. Schools.\nWm. Dantz.\nJustices.\nGregor Lang,\nNorman Lebo,\nJ. C. Copeland,\nE. Elmer.\nConstables.\nJ. B. Harmon,\nFred. Banan,\nJohn Creedon,\nJ. W. Tompkins.",
+   "summary": "The paper's list of candidates for the first Billings County offices.",
+   "people": [
+    "John Goodall",
+    "Dan. McKenzie",
+    "J. L. Truscott",
+    "J. C. Williamson",
+    "Fred. A. Willard",
+    "Willis L. Eaton",
+    "T. W. Gordon",
+    "E. L. Simmers",
+    "W. F. VanDriesche",
+    "Arthur W. Smith",
+    "Talleyrand Martin",
+    "Wm. Dantz",
+    "Gregor Lang",
+    "Norman Lebo",
+    "J. C. Copeland",
+    "E. Elmer",
+    "J. B. Harmon",
+    "Fred. Banan",
+    "John Creedon",
+    "J. W. Tompkins"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a4",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    51,
+    33,
+    14.5,
+    3.3
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "Owing to the withdrawal and changes in the \"Stockmen's Ticket\" it was thought best to drop it and make the changes as seen in the list of candidates published. This is done with the approval of as many of the stockmen as have been seen and because the printing of both tickets in full doubles the expense of publication to almost all the candidates.",
+   "summary": "The separate \"Stockmen's Ticket\" is dropped and merged into the published candidate list.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a5",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    51,
+    36.6,
+    14.5,
+    2.8
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "Arthur Smith has declined to run for office of surveyor and it will be necessary on election day to vote for some one else in his stead. His name will be kept on the ticket, as there does not appear to be any other available candidate at present.",
+   "summary": "Arthur Smith declines to run for county surveyor.",
+   "people": [
+    "Arthur Smith"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a6",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    51,
+    44.5,
+    14.5,
+    12.5
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "That there is pressing need for work on the bridges and roads of Billings county, no one at all acquainted with the Bad Lands can doubt. That there is strong objection to the county paying out any large sum for these purposes and that there will be a vigorous kick should it be attempted, is also beyond doubt. Any plan by which the county can be spared expense and still have the work done, will consequently be hailed with delight. The best plan that has been proposed is to vote on additional day's work on poll tax, at the coming election. Instead of the one day's work that is required let each voter state his preference as to whether he wishes two, three or four day's work to be done on the roads by each voter in the county. If the number should be settled at four days, every road and bridge in the county can be put in first class order and new roads made where needed. In addition to this nearly every ranch in the county would furnish extra work with teams and men. This matter should be thoroughly agitated before election.",
+   "summary": "Editorial proposing that voters raise the poll-tax road-work requirement to pay for Billings County roads and bridges.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a7",
+   "page": 1,
+   "cols": "5-6",
+   "region": [
+    51,
+    57,
+    14.5,
+    36
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "Word has been sent by the treasurer of Stark county, that legal measures will be taken for the collection of the taxes from Billings county, if they are not paid by April 1. We scarcely think this notice will enrich the treasury of Stark county a solitary cent. Tilden R. Selmes has been retained as attorney for the tax-payers of Billings county and he will take immediate steps toward restraining the collection of the tax and deciding the constitutionality of the law authorizing it. The more this law is studied, the more unjust and unconstitutional does it appear. The railroad tax due Billings county, is abundant to pay all the amounts taxed against us by Stark and Morton counties. Only the actual cost the junior counties are to the senior counties, can be collected. This cost as we have said, is more than covered by the amount of tax raised from the forty miles of railroad running through Billings county and of which sum not even an act of Congress could deprive us. Enough of this tax is and has been paid to Stark and Morton counties, to cancel all our debts. Where then is the constitutionality in a law, compelling us to pay for what has already been paid? But even this is not all. The law, as construed by Stark county, gives the right to tax us for county, school and bridge purposes. It would be as just to make us help pay the county expenses of any other county in the United states, or New Jersey either, as it is to ask us to help out the financial standing of Stark county, which is already equal or superior to that of any county in the Territory. The taxes for school and bridge purposes are as unjust if not more so, than the county tax. Not a solitary cent has ever been spent for either bridges or schools in Billings county, except what has been raised by private subscription from our own citizens. Stark county has never contributed a nickel to us for either of these, or for any other purpose, whatsoever. In fact, the law is on its face unconstitutional, as it is nothing less than taxation without representation, an odious doctrine that died in the United States when our fore-fathers won their independence from England. As a matter of principle, the payment of this tax should and will be, resisted to the last ditch.\n\nOnly a few have so far paid the tax, and these only did so to avoid the penalty, or not knowing that a combined effort would be made to oppose its collection. If we are not mistaken, only four or five outfits have paid the tax, and all have signified their willingness to help fight it. Of course Stark county cannot be blamed for attempting to collect this tax and the only way to test the matter is to have the constitutionality of the law settled as soon as possible.",
+   "summary": "Editorial vowing resistance to Stark County's tax on Billings County and reporting that Tilden R. Selmes has been retained to contest it; continues at the top of column 6 (region [65, 13.5, 14, 5]).",
+   "people": [
+    "Tilden R. Selmes"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a8",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    65,
+    18.5,
+    14,
+    8
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "All here will remember the excitement created by the murder of Lenz, near Bismarck, the large reward offered for the supposed murderers, Mills and Gilbert and the subsequent arrest of Gilbert. His trial came to an end last Saturday in Bismarck, resulting in acquittal. Public opinion does not seem to agree with the verdict.",
+   "summary": "Gilbert, accused in the Lenz murder near Bismarck, is acquitted.",
+   "people": [
+    "Lenz",
+    "Mills",
+    "Gilbert"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a9",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    65,
+    26.5,
+    14,
+    11
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "Sitting Bull is now at his camp near Standing Rock and it is thought that he has not long to live. His voice is no longer the chief guide of the Sioux. He is now old and feeble, and younger braves are taking to themselves the power the old man formerly possessed alone. This state of affairs is an encouraging one for those who have been fearful that the Indians would again give trouble. Sitting Bull is too old and powerless to ever again combine the Sioux nation and lead the Indians to war and there is no young chief who can ever secure the power once held by Sitting Bull. The backbone of the great Sioux nation will be broken when he dies.",
+   "summary": "Comment that Sitting Bull, at his camp near Standing Rock, is old and failing.",
+   "people": [
+    "Sitting Bull"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a10",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    65,
+    37.6,
+    14,
+    15
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "We have written to the proper source to learn about the disposal of the railroad tax that would have been paid to Billings county in case we had been organized. This tax is raised from an assessment by the territory, on the gross earnings by the company within the territory and is then divided by the total number of miles of road and then divided proportionately among the counties through which the road passes, provided these counties are organized. When they are not, the expense they are to their senior county is paid. Since the Northern Pacific was built, there must have been several thousand dollars more raised from railroad taxes in Billings county than we have cost our senior countiys and the territory. It is in reference to this surplus that we have written. If we do not mistake, we stand, before organization, in exactly the same relation to the territory, that an orphan does toward his guardian. Now that we are coming of age, it is interesting for us to know whether the old man left us any money.",
+   "summary": "The Cow Boy has written to territorial authorities asking what became of the Northern Pacific railroad tax surplus attributable to Billings County.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a11",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    65,
+    52.8,
+    14,
+    10.5
+   ],
+   "section": "range",
+   "headline": "Stock Notes.",
+   "text": "The following are the latest cattle quotations in the Chicago market:\nChoice to fancy shipping,...$5.85 @ 6.25\nGood to choice shipping,....$5.10 @ 5.60\nCommon to good shipping,..$4.35 @ 5.05\nPoor to medium steers,......$3.90 @ 4.65\nFair to choice cows,.........$2.80 @ 3.75\nInferior to medium cows...$1.75 @ 2.65\nPoor to choice bulls,.........$2.50 @ 3.70\nStockers, 550 to 860 lbs,....$2.80 @ 3.65\nFeeders, 875 to 1,150 lbs,...$3.65 @ 4.25\nSlop-fed cattle..............$5.30 @ 5.85\nMilch cows, [per?] head,.....$20.00 @ 50.00\nStock calves.................$6.00 @ 15.00",
+   "summary": "Chicago cattle market quotations.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a12",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    65,
+    63.3,
+    14,
+    2.3
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The spring meeting of the Montana Stockgrowers' association begins at Miles City, April 19.",
+   "summary": "Montana Stockgrowers' Association spring meeting set for Miles City, April 19.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a13",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    65,
+    65.6,
+    14,
+    4.5
+   ],
+   "section": "range",
+   "headline": "Stock Meeting.",
+   "text": "There will be a meeting of the stockmen of round-up No. 7 at Mingusville, March 31, at two o'clock p. m.\n\nBy order of Commitee.",
+   "summary": "Notice of a meeting of round-up No. 7 stockmen at Mingusville, March 31.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a14",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    65,
+    71.5,
+    14,
+    4
+   ],
+   "section": "range",
+   "headline": "Little Missouri River Stockgrowers' Association.",
+   "text": "There will be a meeting of the above association at Medora, on the morning of April 13. The meeting will be held in the Town Hall, beginning at ten (10) o'clock. A full attendance of all interested, is desired.\n\nTheodore Roosevelt,\nChairman.",
+   "summary": "Theodore Roosevelt, as chairman, calls a meeting of the Little Missouri River Stockgrowers' Association at the Medora Town Hall on April 13.",
+   "people": [
+    "Theodore Roosevelt"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a15",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    65,
+    75.5,
+    14,
+    1.6
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The most of our stockmen will attend the meeting at Mingusville, March 31.",
+   "summary": "Most local stockmen will attend the Mingusville meeting.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a16",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    65,
+    79.5,
+    14,
+    3.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "J. A. VanEeghen has sold his bunch of horses to B. F. Lamb. \"Van.\" will start in afresh, by investing $40,000 in horses and ranch improvements this summer. This will give him one of the best horse herds in the whole country. He will make a specialty of fine riding horses of the Morgan breed.",
+   "summary": "J. A. Van Eeghen sells his horses to B. F. Lamb and plans to invest $40,000 in Morgan horses and ranch improvements.",
+   "people": [
+    "J. A. VanEeghen",
+    "B. F. Lamb"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a17",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    65,
+    83,
+    14,
+    5.3
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The House committee on Agriculture last Monday instructed Representative Hatch to report favorably to Congress a bill amending the act to establish a bureau of animal industry by providing means for the suppression of contagious diseases. Twenty employes are authorized for the bureau and every means will be taken to advance American cattle interests.",
+   "summary": "Congressional committee backs a bill strengthening the Bureau of Animal Industry against contagious cattle diseases.",
+   "people": [
+    "Representative Hatch"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a18",
+   "page": 1,
+   "cols": "6-7",
+   "region": [
+    65,
+    90.5,
+    14,
+    1.6
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "The call of Chairman Roosevelt, issued above, should secure the attendance of every stockman who is anywhere near Medora. Whether he is a member of the association or not, makes no difference. He should attend the meeting and join the association. Except for some unforeseen item of general importance, there is no tax on the members. It is a working association and a branch of the Montana one. To the stockmen with headquarters in Mingusville and Dickinson, it is of especial importance to join at this meeting. The date is one of the best that could have been selected, coming as it does, the day after election. We hope not only to see a large attendance, but to have many new names added to the membership roll.",
+   "summary": "Editorial urging every stockman near Medora to answer Chairman Roosevelt's call and join the Little Missouri River Stockgrowers' Association, a branch of the Montana association; continues at the top of column 7 (region [79, 13.5, 15, 6.5]).",
+   "people": [
+    "Theodore Roosevelt"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a19",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79,
+    23.5,
+    15,
+    5.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "A. N. Jeffries, who returned from Texas last Wednesday and went to his ranch down the river, Saturday, reports that his company will drive about 10,000 head of cattle this year. He also reports that the loss in western Kansas and eastern Colorado, as published in the last Cow Boy, is not exaggerated. The long wire fences, extending for hundreds of miles and against which the cattle drift, are responsible for the most of the loss. In many cases, fifty per cent will not begin to cover it.",
+   "summary": "A. N. Jeffries, back from Texas, says his company will drive about 10,000 cattle this year and confirms heavy losses in Kansas and Colorado.",
+   "people": [
+    "A. N. Jeffries"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a20",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79,
+    31.9,
+    15,
+    11.4
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Link Lee, well known here as one of the best \"broncho busters\" who has been in the Bad Lands is now in \"durance vile.\" He left here last fall and went to Montana, on the Rosebud. With a branding iron and a gall of the same metal he attempted to start a herd. His neighbors soon tumbled and Lee skipped to Wyoming. Here he was arrested and brought to Miles City by Stock Inspector Billy Smith. He plead guilty to the charge of stealing cattle and was sentenced to $100 fine and three years in the penitentiary. We knew that Lee did'nt have any more sense than to try to ride anything that had hair on but we certainly did credit him with more sense than to fool with the detective end of the Montana Stockgrowers Association.",
+   "summary": "Former Bad Lands bronco buster Link Lee is sentenced at Miles City for cattle stealing.",
+   "people": [
+    "Link Lee",
+    "Billy Smith"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a21",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79,
+    44,
+    15,
+    5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "\"Can you tell me,\" he asked as he entered an office on Broad street the other day, \"why the railroads should discriminate so heavily against dressed meat over live stock?\n\n\"Certainly, sir. Dressed meat is dead, isn't it?\"\n\n\"Of course.\"\n\n\"Well, anything that can't kick is always bulldozed by a railroad company.\"—[Wall Street News.",
+   "summary": "Clipped joke from the Wall Street News on railroad rates for dressed meat.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a22",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79,
+    49.3,
+    15,
+    42.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The new edition of \"Wonderland\" published by Chas. S. Fee, contains the following about the Bad Lands. \"Just as the sun was going down we entered that marvelous region, Pyramid Park, popularly known as the Bad Lands. If the most gifted writers acknowledge the impossibility of conveying an adequate idea of the extraordinary appearance of the country when describing it in detail, how can I expect to do it in the few lines that I can devote to it? That it is worth coming all the way from England to see is saying very little. The easiest way to describe anything is to compare it with something else and then you can say how far it surpasses and in what respect falls short of what you are comparing it with. But when there is nothing else like it in the world what are you to do? Well, the country owes its singular appearance to the combined influence of fire and water, which have united to produce the most fantastic forms and startling contrasts of color that the most disordered imagination could conceive. I should think there is more outline to the square mile than anywhere else in the world, and the mounds, and domes, and pyramids, and towers, and spires would constitute it a perfect Wonderland if even the whole were characterized by the dullest monotone of color. So also would the marvelous colors, if the extraordinary variety of outline were absent. Judge, then, of the combined effect. I felt, a- I have felt since, here in the Park, that, as in real life, truth is stranger than fiction, so, in nature, neither my childish dreams of fairy-land nor any conception of the genius of a Dore could paint such pictures as are unfolded in this true Wonderland. These pyramids, and turrets, and battlements, varying in height from a few feet to about three hundred feet, extend for many miles, and the surface of a single one will be black, and gray, and blue, and red, and green, not just a shade, or tinge, but the most decided and, not infrequently, the most brilliant of colors. The gray and blue are, I suppose, the natural colors of the clay, the black is coal, the green the short grass of the country, and the red the lovely terra-cotta into which the burning of the coal has turned the clay. If there were no signs of activity, the scene would be weird and awful enough. If all were cold and dead, and the power by which it was produced mere matter of speculation, I, at least, who never had much patience with scientific jargon, should be inclined to take refuge in the theory of supernatural agency, so appalling to the senses is the effect produced. But the process is still going on. Every day the burning coal is converting the gray and blue clay into the red terra-cotta, under the blue sky, and with the beautiful green grass all around. You can not only see the smoke, and from that, by a well known piece of logic, argue the existence of fire, but you can see the fire itself.\"",
+   "summary": "Excerpt from the new edition of the Northern Pacific's \"Wonderland\" guide (Chas. S. Fee) describing the Bad Lands, \"Pyramid Park,\" and its burning coal veins.",
+   "people": [
+    "Chas. S. Fee"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a23",
+   "page": 2,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "[Ready-print page; not transcribed.]",
+   "summary": "Patent inside under a \"The Bad Lands Cow Boy, A. T. Packard, Publisher\" heading: national editorial notes, Condensed General News, Proceedings of Congress, Dakota Territorial News, foreign items and humor.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a24",
+   "page": 3,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "[Ready-print page; not transcribed.]",
+   "summary": "Serial fiction (\"A Woman's Revenge\"), miscellany, market reports and patent-medicine advertisements.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a25",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    8,
+    15,
+    4
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "Bad Lands Cow Boy, By A. T. Packard.\n\nThursday, March 18, 1886.",
+   "summary": "Local-page masthead.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a26",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    11.5,
+    15,
+    5.3
+   ],
+   "section": "railroad",
+   "headline": "Northern Pacific Time Table.",
+   "text": "West Bound.\nPacific Express, No. 1..........6:47 p. m.\nExpress Freight, 2d Class.........8:59 p. m.\nFreight, 3d Class..........11:40 a. m.\nEast Bound.\nAtlantic Express, No. 2..........8:43 a. m.\nExpress Freight, 3d Class..........1:15 p. m.\nFreight, 3rd Class..........1:50 a. m.\nH. D. Breene, Agent.",
+   "summary": "Northern Pacific train times at Medora.",
+   "people": [
+    "H. D. Breene"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a27",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    16.8,
+    15,
+    1
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Are you insured?",
+   "summary": "Insurance reminder.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a28",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    17.8,
+    15,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Northern Pacific preferred stocks, 58⅞ common, 24¼.",
+   "summary": "Northern Pacific stock prices.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a29",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    19.3,
+    15,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A baby girl was born Tuesday night to Mr. and Mrs. John Kiefer.",
+   "summary": "Birth of a daughter to Mr. and Mrs. John Kiefer.",
+   "people": [
+    "John Kiefer"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a30",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    20.8,
+    15,
+    1.6
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Theodore Roosevelt is expected to arrive in Medora on the evening train.",
+   "summary": "Theodore Roosevelt is expected in Medora on the evening train.",
+   "people": [
+    "Theodore Roosevelt"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a31",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    22.2,
+    15,
+    1.3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Cowboys should have an accident insurance policy. Jas. G. Ramsay, Ag't.",
+   "summary": "Accident-insurance notice by agent Jas. G. Ramsay.",
+   "people": [
+    "Jas. G. Ramsay"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a32",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    22.9,
+    15,
+    1.4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mrs. D. K. Wade has been in town for several days on a visit.",
+   "summary": "Mrs. D. K. Wade visiting in town.",
+   "people": [
+    "Mrs. D. K. Wade"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a33",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    24.1,
+    15,
+    1.4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Miss Rachel O'Hara has been quite sick for several days, but is now recovering.",
+   "summary": "Miss Rachel O'Hara recovering from illness.",
+   "people": [
+    "Rachel O'Hara"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a34",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    25.3,
+    15,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "S. A. Marney of the Stockgrowers' Journal, beamed in on us for a short time yesterday.",
+   "summary": "S. A. Marney of the Stockgrowers' Journal visits the Cow Boy.",
+   "people": [
+    "S. A. Marney"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a35",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    27.3,
+    15,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Pierce Boland has gone to Helena, where times are said to be picking up wonderfully.",
+   "summary": "Pierce Boland leaves for Helena.",
+   "people": [
+    "Pierce Boland"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a36",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    29.4,
+    15,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Fred Banan's fine and costs came to a little over $31, instead of $64. He will be in Medora on the 22nd.",
+   "summary": "Fred Banan's fine and costs total about $31; he returns to Medora on the 22nd.",
+   "people": [
+    "Fred Banan"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a37",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    31.3,
+    15,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "We expected to publish a synopsis of the \"Estray law\" in this issue but it was crowded out. It will appear next week.",
+   "summary": "Synopsis of the estray law postponed to next week.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a38",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    33,
+    15,
+    2.2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Frank Chew, who worked last year for the 13 outfit, has been arrested in Texas for killing a negro and stealing a pair of mules.",
+   "summary": "Former 13-outfit hand Frank Chew arrested in Texas for murder and mule theft.",
+   "people": [
+    "Frank Chew"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a39",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    35,
+    15,
+    2.3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mr. and Mrs F. H. Eaton and Miss Hattie Eaton will arrive probably a week from to-night, to spend the summer in the Bad Lands.",
+   "summary": "The F. H. Eatons and Miss Hattie Eaton expected for the summer.",
+   "people": [
+    "F. H. Eaton",
+    "Hattie Eaton"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a40",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    37.3,
+    15,
+    2.6
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Fred Willard Jr. is getting to be a very lively yearling and is liable occasionally to wander away from the home ranch. This accounts for the corral that Fred, Sr. is building in front of his house.",
+   "summary": "Joke about Fred Willard building a corral in front of his house for his young son.",
+   "people": [
+    "Fred Willard Jr.",
+    "Fred Willard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a41",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    39.8,
+    15,
+    3.5
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "J. C. Fisher wishes us to announce that he declines running for office at the coming election. This reduces the changes from the county ticket to one, the name of E. L. Simmers being added as a candidate for Probate Judge.",
+   "summary": "J. C. Fisher declines to run; E. L. Simmers added as candidate for probate judge.",
+   "people": [
+    "J. C. Fisher",
+    "E. L. Simmers"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a42",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    43.3,
+    15,
+    3.3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The river raised four or five feet last night. It is very probable that the flood will break the ice-gorge, which begins near the Ox-Bow. In that event, it will probably be a week or two before the river can be again crossed.",
+   "summary": "The Little Missouri rises four or five feet and may break the ice gorge near the Ox-Bow.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a43",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    46.6,
+    15,
+    3.5
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "D. C. Rowe and J. A. Ferris have both signified their unwillingness to run for the offices of commissioner and probate judge respectively. The former withdraws unqualifiedly and the latter withdraws in favor of Ed. L. Simmers.",
+   "summary": "D. C. Rowe and J. A. Ferris withdraw as candidates.",
+   "people": [
+    "D. C. Rowe",
+    "J. A. Ferris",
+    "Ed. L. Simmers"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a44",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    50,
+    15,
+    4.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "It has been suggested to have a school meeting the evening of election day. There would be a larger attendance than any other day that could be set and trustees could be elected to begin their labors immediately. As soon as the matter takes more definite shape, we will issue a call.",
+   "summary": "Proposal to hold a school meeting on election evening to elect trustees.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a45",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    54.8,
+    15,
+    3.9
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The report comes from Cave Hills that Aleck Connell, for whom Lloyd Roberts is now buying a herd of cattle, went to Spearfish recently and took unto himself a bride. There is no one who deserves more of this world's joys than Aleck and if the report is true, he has done the right thing to secure his share.",
+   "summary": "Aleck Connell of Cave Hills reportedly married at Spearfish.",
+   "people": [
+    "Aleck Connell",
+    "Lloyd Roberts"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a46",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    58.8,
+    15,
+    4.7
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Rev. Wm. Cooke of Gladstone, held services here Sunday, Monday and Tuesday evenings, which were interesting and well attended. A Sunday school was organized, to which old and young are cordially invited. It will be held every Sunday forenoon at the depot, at half-past ten.",
+   "summary": "Rev. Wm. Cooke holds three evenings of services and a Sunday school is organized at the depot.",
+   "people": [
+    "Wm. Cooke"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a47",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    63.5,
+    15,
+    6.2
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Fred Willard and Harry Tarbell returned last Friday evening, from Standing Rock. No HT horse was found, but Fred rounded up a number of strays, including a fine carriage team belonging to Col. T. J. Bryan, president of the Montana association. A number of Capital B horses was also found. Fred speaks in the highest terms of Major McLaughlin, the Indian agent, who assisted in every way in the recovery of the stock.",
+   "summary": "Fred Willard and Harry Tarbell return from Standing Rock with recovered stray horses.",
+   "people": [
+    "Fred Willard",
+    "Harry Tarbell",
+    "T. J. Bryan",
+    "Major McLaughlin"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a48",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    69.7,
+    15,
+    9
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "We have an over-stock of 3½ Studebaker wagons that the Studebaker M'f'g. Co. have instructed us to close out at $75 each. These wagons have never turned a wheel under a load, are new and first-class in every respect, have the Co's. full guarantee for 5,000 pounds, according to old freighters are the best ironed and easiest running wagon of its size in the world, and cost at the factory, $87 each in car lots. There never has been and never will be again such a bargain in wagons in this country. The $75 rate is cash of course and holds good for one or more. For further particulars, call at or address the Cow Boy office.",
+   "summary": "The Cow Boy office offers surplus 3½ Studebaker wagons at $75 each.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a49",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    5,
+    79,
+    15,
+    15
+   ],
+   "section": "legal",
+   "headline": "Notice of Election.",
+   "text": "Notice is hereby given that on the Second (2nd.) Monday in April, 1886, at the following place, viz.: at the town of\n\nMedora,\n\nin the County of Billings, an election will be held for the following officers of said county of Billings, in said Territory of Dakota, in the organization of said county;\n\nThree County Commissioners,\nOne Register of Deeds,\nOne County Clerk,\nOne Sheriff,\nOne Assessor,\nOne Judge of Probate,\nOne County Treasurer,\nOne County Surveyor,\nOne Coroner,\nOne Superintendent of Public Schools,\nFour Justices of the Peace,\nFour Constables,\nand also for the temporary location of the County seat of said county,\nwhich election will be open at the hour of eight o'clock in the morning and will continue open until five o'clock in the afternoon of the same day.\n\nDated this 20th. day of January, 1886.\n\n[Seal.] Gilbert A. Pierce, Governor.\n\nM. L. McCormack, Secretary.",
+   "summary": "Governor's notice of the April 1886 election to organize Billings County at Medora.",
+   "people": [
+    "Gilbert A. Pierce",
+    "M. L. McCormack"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a50",
+   "page": 4,
+   "cols": "2-7",
+   "region": [
+    20,
+    3,
+    78,
+    94
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Meat Market! Willard & Keeler, Props. — \"We have opened a first-class meat market in the building formerly occupied by Chas. Cook\"; steaks, roasts, mutton, pork, sausage, fresh fish, oysters; cash paid for game\nE. J. Owenhouse, Bozeman, Mont. — stock saddles, Concord harness, fancy bits and spurs, chaparejos, reatas, quirts, hackamores\nMcDougal & Gunn, Mandan, Dak. — stoves and hardware cheap; soft and hard coal stoves, cook stoves, ranges\nCity Drug Store!!, Medora, Dak., H. M. Jorgens, Proprietor — drugs, patent medicines, perfumery, toilet articles, notions, periodicals, stationery\nGladstone Rolling Mills!!, Lee Bros., Props., Gladstone, Dak. — flour; \"ask your dealer for 'Bonanza'\"\nFreighters Attention! — King jeweler, Spearfish or Deadwood: watch repairs\nDuncan & Hilles, Furniture, Hager Block, Mandan — parlor suits, chamber suits, cheap beds, canvass cots, mattresses, house furnishing goods\nEdick Bros., 64 Main Street, Bismarck, Dak. — cigars, tobacco and smokers' articles\nHayward Hand Grenade Co., 407-409 Broadway, N. Y. — fire-extinguishing hand grenades\nMerwin, Hulbert & Co., New York — 32, 38 & 44 calibre revolvers; American Metallic Cartridges\nStudebaker farm and freight wagons, platform spring wagons, buckboards — A. T. Packard, Agent, Medora, Dak.\n\"A Gift\" sample-box offer, Portland, Maine\nScientific American and patents (Munn & Co.)\nMinneapolis & St. Louis R'y, \"Famous Albert Lea Route\" — map ad\nBrand: Medora Stage & F. Co. — horse brand on left shoulder; horses on stage stations between Medora and Deadwood; reward re unlawful dealing with these horses\nBrand: Chase & Gilmore's Ranch, Chase & Fry, Managers, Dickinson, Dak. — ranges Cherry creek and Little Missouri\nBrand: Thomas & Arnett, J. B. Thomas, Cheyenne, Wyo.; A. H. Arnett, Dickinson, Dak. — AHA; range Little Missouri west of Killdeer Mts.\nBrand: E. W. Casey, L. C. Hunt, Manager, P.O. Medora, Billings Co., Dak. — KC; range Garner Creek\nBrand: Sloping Bottom Ranch, Lloyd Roberts, Proprietor, P.O. Medora — range Little Missouri, south of N. P. R. R.\nBrand: Badger Cattle Company, Howard Eaton, M'g'r, Medora — VI; range Beaver creek and Little Missouri river\nBrand: Dorr Clark, Spearfish, Dakota — VVV\nBrand: Clark & Plum, Spearfish, Dakota — E6\nBrand: Little Missouri Horse Company, H. R. Tarbell, M'n'g'r, Medora — range Davis creek and Little Missouri\nBrand: W. N. Thompson & Co., Medora — TD\nBrand: Lemoyne Cattle Co. (Limited), D. K. Wade, Manager, Medora, Dak. — LC; range Little Missouri, south of the R. R.\nBrand: Soho Cattle Co., Chas. Eaton, Manager, Medora — SO\nBrand: Garner Creek Horse Ranch, J. A. Van Eeghen, Prop., Medora — range Garner creek\nBrand: Chimney Butte Ranch, Theodore Roosevelt, Proprietor; Ferris & Merrifield, Managers; P.O. Medora, Dak. — Maltese cross; range south of N. P. R. R., on Little Missouri\nBrand: Bullion Creek Horse Ranch, Jack Bullion, Prop., Medora, Dak. — range Bullion creek, south of Medora\nBrand: N. P. Refrigerator Car Co., Medora, Dak.\nBrand: Ætna Ranch, Osborne Bros., Proprietors, Medora\nBrand: Berry, Boice & Co., Keith, Montana — 777\nBrand: E. G. Paddock, Medora\nBrand: Spring Creek Ranch, L. D. & B. Rumsey; J. L. Truscott, Manager, Medora\nBrand: Custer Trail Cattle Co., F. Alden Eaton, Supt., Medora\nBrand: Neimmela Ranch, Gregor Lang, Manager, Medora\nBrand: Bad Lands Cattle Co., M. Wadsworth, Manager, Medora\nBrand: Towers & Gudgell, Keith, Montana — OX",
+   "summary": "Local-page display ads and cattle- and horse-brand directory, including Roosevelt's Chimney Butte Ranch (Ferris & Merrifield, managers).",
+   "people": [
+    "Theodore Roosevelt",
+    "Sylvane Ferris",
+    "Bill Merrifield",
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  }
+ ],
+ "events": [
+  {
+   "id": "e1",
+   "date": "1886-03-18",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"expected to arrive ... on the evening train\" in Thu 18 Mar 1886 issue; presumably that evening",
+   "planned": true,
+   "title": "Theodore Roosevelt expected in Medora",
+   "summary": "Theodore Roosevelt was expected to arrive in Medora on the evening train.",
+   "excerpt": "Theodore Roosevelt is expected to arrive in Medora on the evening train.",
+   "people": [
+    "Theodore Roosevelt"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "tr",
+    "visitors",
+    "railroad"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a30",
+   "confidence": "high"
+  },
+  {
+   "id": "e2",
+   "date": "1886-04-13",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"the morning of April 13\" stated; notice in Thu 18 Mar 1886 issue",
+   "planned": true,
+   "title": "Roosevelt calls Little Missouri River Stockgrowers' Association meeting",
+   "summary": "Theodore Roosevelt, as chairman, called a meeting of the Little Missouri River Stockgrowers' Association for 10 o'clock on April 13 in the Medora Town Hall. The paper urged every stockman near Medora to attend and join the association, a branch of the Montana association.",
+   "excerpt": "There will be a meeting of the above association at Medora, on the morning of April 13. ... Theodore Roosevelt, Chairman.",
+   "people": [
+    "Theodore Roosevelt"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "tr",
+    "ranching",
+    "politics"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a14",
+   "confidence": "high"
+  },
+  {
+   "id": "e3",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Second (2nd.) Monday in April, 1886\" = 12 Apr 1886",
+   "planned": true,
+   "title": "Billings County organizing election set",
+   "summary": "The governor's notice set the election of the first Billings County officers and a temporary county seat for the second Monday in April at Medora; the paper published its candidate ticket.",
+   "excerpt": "on the Second (2nd.) Monday in April, 1886, at the following place, viz.: at the town of Medora",
+   "people": [
+    "Gilbert A. Pierce"
+   ],
+   "places": [
+    "Medora",
+    "Billings County"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a3",
+   "confidence": "high"
+  },
+  {
+   "id": "e4",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "Stockmen's Ticket dropped; candidate withdrawals",
+   "summary": "The separate Stockmen's Ticket was dropped and merged into one list. J. C. Fisher declined to run, D. C. Rowe withdrew as commissioner candidate, J. A. Ferris withdrew for probate judge in favor of E. L. Simmers, and Arthur Smith declined the surveyor nomination.",
+   "excerpt": "This reduces the changes from the county ticket to one, the name of E. L. Simmers being added as a candidate for Probate Judge.",
+   "people": [
+    "J. C. Fisher",
+    "D. C. Rowe",
+    "J. A. Ferris",
+    "E. L. Simmers",
+    "Arthur Smith"
+   ],
+   "places": [
+    "Billings County"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a41",
+   "confidence": "high"
+  },
+  {
+   "id": "e5",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "Tilden R. Selmes retained to fight Stark County tax",
+   "summary": "Stark County's treasurer warned that legal measures would be taken if Billings County taxes were not paid by April 1. Tilden R. Selmes was retained as attorney for Billings County taxpayers to restrain collection and test the law's constitutionality.",
+   "excerpt": "Tilden R. Selmes has been retained as attorney for the tax-payers of Billings county",
+   "people": [
+    "Tilden R. Selmes"
+   ],
+   "places": [
+    "Billings County",
+    "Stark County"
+   ],
+   "tags": [
+    "politics",
+    "law",
+    "courts"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a7",
+   "confidence": "high"
+  },
+  {
+   "id": "e6",
+   "date": "1886-04-01",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"if they are not paid by April 1\" stated",
+   "planned": true,
+   "title": "Stark County tax deadline for Billings County",
+   "summary": "Stark County set April 1 as the deadline for Billings County taxes before legal collection measures.",
+   "excerpt": "legal measures will be taken for the collection of the taxes from Billings county, if they are not paid by April 1.",
+   "people": [],
+   "places": [
+    "Stark County",
+    "Billings County"
+   ],
+   "tags": [
+    "politics",
+    "law"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a7",
+   "confidence": "high"
+  },
+  {
+   "id": "e7",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "Proposal to vote on extra poll-tax road work",
+   "summary": "The Cow Boy proposed that voters at the coming election choose two, three or four days of poll-tax road work to improve Billings County roads and bridges without county expense.",
+   "excerpt": "The best plan that has been proposed is to vote on additional day's work on poll tax, at the coming election.",
+   "people": [],
+   "places": [
+    "Billings County"
+   ],
+   "tags": [
+    "politics",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a6",
+   "confidence": "high"
+  },
+  {
+   "id": "e8",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "Cow Boy asks about Billings County railroad tax surplus",
+   "summary": "The paper wrote to territorial authorities asking about the disposal of Northern Pacific railroad taxes that would have gone to Billings County had it been organized.",
+   "excerpt": "We have written to the proper source to learn about the disposal of the railroad tax",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Billings County"
+   ],
+   "tags": [
+    "politics",
+    "railroad",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a10",
+   "confidence": "high"
+  },
+  {
+   "id": "e9",
+   "date": "1886-03-13",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Saturday\" before Thu 18 Mar 1886",
+   "planned": false,
+   "title": "Gilbert acquitted in Lenz murder trial",
+   "summary": "Gilbert, arrested as one of the supposed murderers of Lenz near Bismarck, was acquitted when his trial ended in Bismarck; the paper said public opinion did not agree with the verdict.",
+   "excerpt": "His trial came to an end last Saturday in Bismarck, resulting in acquittal.",
+   "people": [
+    "Gilbert",
+    "Lenz"
+   ],
+   "places": [
+    "Bismarck"
+   ],
+   "tags": [
+    "crime",
+    "courts"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a8",
+   "confidence": "high"
+  },
+  {
+   "id": "e10",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "Sitting Bull reported old and failing",
+   "summary": "The paper reported Sitting Bull at his camp near Standing Rock, old and feeble, and thought he had not long to live.",
+   "excerpt": "Sitting Bull is now at his camp near Standing Rock and it is thought that he has not long to live.",
+   "people": [
+    "Sitting Bull"
+   ],
+   "places": [
+    "Standing Rock"
+   ],
+   "tags": [
+    "Native-Americans"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a9",
+   "confidence": "high"
+  },
+  {
+   "id": "e11",
+   "date": "1886-03-31",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"March 31, at two o'clock p. m.\" stated",
+   "planned": true,
+   "title": "Round-up No. 7 stockmen to meet at Mingusville",
+   "summary": "A meeting of round-up No. 7 stockmen was called at Mingusville for March 31; most Medora-area stockmen planned to attend.",
+   "excerpt": "There will be a meeting of the stockmen of round-up No. 7 at Mingusville, March 31, at two o'clock p. m.",
+   "people": [],
+   "places": [
+    "Mingusville"
+   ],
+   "tags": [
+    "ranching",
+    "roundup"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a13",
+   "confidence": "high"
+  },
+  {
+   "id": "e12",
+   "date": "1886-04-19",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"begins at Miles City, April 19\" stated",
+   "planned": true,
+   "title": "Montana Stockgrowers' spring meeting set",
+   "summary": "The spring meeting of the Montana Stockgrowers' Association was set to begin at Miles City on April 19.",
+   "excerpt": "The spring meeting of the Montana Stockgrowers' association begins at Miles City, April 19.",
+   "people": [],
+   "places": [
+    "Miles City"
+   ],
+   "tags": [
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a12",
+   "confidence": "high"
+  },
+  {
+   "id": "e13",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "Van Eeghen sells horses to B. F. Lamb",
+   "summary": "J. A. Van Eeghen sold his horses to B. F. Lamb and planned to invest $40,000 in horses and ranch improvements, specializing in Morgan riding horses.",
+   "excerpt": "J. A. VanEeghen has sold his bunch of horses to B. F. Lamb.",
+   "people": [
+    "J. A. VanEeghen",
+    "B. F. Lamb"
+   ],
+   "places": [
+    "Garner Creek"
+   ],
+   "tags": [
+    "ranching",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a16",
+   "confidence": "high"
+  },
+  {
+   "id": "e14",
+   "date": "1886-03-10",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"last Wednesday\" followed by \"Saturday\": read as Wed 10 Mar and Sat 13 Mar 1886, before Thu 18 Mar issue",
+   "planned": false,
+   "title": "A. N. Jeffries returns from Texas",
+   "summary": "A. N. Jeffries returned from Texas and went to his ranch down the river, reporting that his company would drive about 10,000 cattle this year and that wire fences caused heavy losses in Kansas and Colorado.",
+   "excerpt": "his company will drive about 10,000 head of cattle this year.",
+   "people": [
+    "A. N. Jeffries"
+   ],
+   "places": [
+    "Little Missouri River",
+    "Texas"
+   ],
+   "tags": [
+    "ranching",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a19",
+   "confidence": "medium"
+  },
+  {
+   "id": "e15",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "Link Lee sentenced for cattle stealing",
+   "summary": "Link Lee, formerly a bronco buster in the Bad Lands, was arrested in Wyoming, brought to Miles City by Stock Inspector Billy Smith, pleaded guilty to cattle stealing, and was sentenced to a $100 fine and three years in the penitentiary.",
+   "excerpt": "He plead guilty to the charge of stealing cattle and was sentenced to $100 fine and three years in the penitentiary.",
+   "people": [
+    "Link Lee",
+    "Billy Smith"
+   ],
+   "places": [
+    "Miles City",
+    "Rosebud"
+   ],
+   "tags": [
+    "crime",
+    "courts",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a20",
+   "confidence": "medium"
+  },
+  {
+   "id": "e16",
+   "date": "1886-03-16",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday night\" before Thu 18 Mar 1886",
+   "planned": false,
+   "title": "Baby girl born to the John Kiefers",
+   "summary": "A baby girl was born to Mr. and Mrs. John Kiefer.",
+   "excerpt": "A baby girl was born Tuesday night to Mr. and Mrs. John Kiefer.",
+   "people": [
+    "John Kiefer"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a29",
+   "confidence": "high"
+  },
+  {
+   "id": "e17",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "\"several days\" before Thu 18 Mar 1886",
+   "planned": false,
+   "title": "Mrs. D. K. Wade visits Medora",
+   "summary": "Mrs. D. K. Wade had been in town for several days on a visit.",
+   "excerpt": "Mrs. D. K. Wade has been in town for several days on a visit.",
+   "people": [
+    "Mrs. D. K. Wade"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a32",
+   "confidence": "high"
+  },
+  {
+   "id": "e18",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "\"several days\" before Thu 18 Mar 1886",
+   "planned": false,
+   "title": "Rachel O'Hara ill",
+   "summary": "Miss Rachel O'Hara had been quite sick for several days but was recovering.",
+   "excerpt": "Miss Rachel O'Hara has been quite sick for several days, but is now recovering.",
+   "people": [
+    "Rachel O'Hara"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "health"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a33",
+   "confidence": "high"
+  },
+  {
+   "id": "e19",
+   "date": "1886-03-17",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday\" before Thu 18 Mar 1886",
+   "planned": false,
+   "title": "S. A. Marney of the Stockgrowers' Journal visits",
+   "summary": "S. A. Marney of the Stockgrowers' Journal called briefly at the Cow Boy office.",
+   "excerpt": "S. A. Marney of the Stockgrowers' Journal, beamed in on us for a short time yesterday.",
+   "people": [
+    "S. A. Marney"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "high"
+  },
+  {
+   "id": "e20",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "Pierce Boland leaves for Helena",
+   "summary": "Pierce Boland went to Helena, where times were said to be picking up.",
+   "excerpt": "Pierce Boland has gone to Helena",
+   "people": [
+    "Pierce Boland"
+   ],
+   "places": [
+    "Helena"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a35",
+   "confidence": "high"
+  },
+  {
+   "id": "e21",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "Fred Banan's fine settled",
+   "summary": "Fred Banan's fine and costs came to a little over $31 instead of $64; he was expected in Medora on the 22nd.",
+   "excerpt": "Fred Banan's fine and costs came to a little over $31, instead of $64.",
+   "people": [
+    "Fred Banan"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "courts",
+    "law"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a36",
+   "confidence": "high"
+  },
+  {
+   "id": "e22",
+   "date": "1886-03-22",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"on the 22nd\" = 22 Mar 1886",
+   "planned": true,
+   "title": "Fred Banan to return to Medora",
+   "summary": "Fred Banan was expected back in Medora on March 22.",
+   "excerpt": "He will be in Medora on the 22nd.",
+   "people": [
+    "Fred Banan"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a36",
+   "confidence": "high"
+  },
+  {
+   "id": "e23",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "Frank Chew arrested in Texas",
+   "summary": "Frank Chew, who worked the previous year for the 13 outfit, was arrested in Texas for killing a black man and stealing a pair of mules.",
+   "excerpt": "Frank Chew, who worked last year for the 13 outfit, has been arrested in Texas",
+   "people": [
+    "Frank Chew"
+   ],
+   "places": [
+    "Texas"
+   ],
+   "tags": [
+    "crime"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a38",
+   "confidence": "high"
+  },
+  {
+   "id": "e24",
+   "date": "1886-03-25",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"probably a week from to-night\" from Thu 18 Mar 1886",
+   "planned": true,
+   "title": "Eaton family expected for the summer",
+   "summary": "Mr. and Mrs. F. H. Eaton and Miss Hattie Eaton were expected to arrive to spend the summer in the Bad Lands.",
+   "excerpt": "will arrive probably a week from to-night, to spend the summer in the Bad Lands.",
+   "people": [
+    "F. H. Eaton",
+    "Hattie Eaton"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a39",
+   "confidence": "high"
+  },
+  {
+   "id": "e25",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "Fred Willard builds a corral at his house",
+   "summary": "Fred Willard was building a corral in front of his house, which the paper joked was to keep his lively young son from wandering.",
+   "excerpt": "This accounts for the corral that Fred, Sr. is building in front of his house.",
+   "people": [
+    "Fred Willard",
+    "Fred Willard Jr."
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "building",
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a40",
+   "confidence": "high"
+  },
+  {
+   "id": "e26",
+   "date": "1886-03-17",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"last night\" relative to Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "Little Missouri rises; ice gorge may break",
+   "summary": "The river rose four or five feet overnight and was expected to break the ice gorge beginning near the Ox-Bow, leaving the river uncrossable for a week or two.",
+   "excerpt": "The river raised four or five feet last night.",
+   "people": [],
+   "places": [
+    "Little Missouri River",
+    "Ox-Bow"
+   ],
+   "tags": [
+    "water",
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a42",
+   "confidence": "high"
+  },
+  {
+   "id": "e27",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "School meeting proposed for election evening",
+   "summary": "It was suggested that a school meeting be held on election evening so trustees could be elected; the paper promised to issue a call.",
+   "excerpt": "It has been suggested to have a school meeting the evening of election day.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "town-life",
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a44",
+   "confidence": "high"
+  },
+  {
+   "id": "e28",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "approx",
+   "date_basis": "\"recently\"; reported in Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "Aleck Connell reported married at Spearfish",
+   "summary": "Word came from Cave Hills that Aleck Connell, for whom Lloyd Roberts was buying a herd of cattle, had recently married at Spearfish.",
+   "excerpt": "went to Spearfish recently and took unto himself a bride.",
+   "people": [
+    "Aleck Connell",
+    "Lloyd Roberts"
+   ],
+   "places": [
+    "Spearfish",
+    "Cave Hills"
+   ],
+   "tags": [
+    "social",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a45",
+   "confidence": "medium"
+  },
+  {
+   "id": "e29",
+   "date": "1886-03-14",
+   "date_end": "1886-03-16",
+   "date_precision": "day",
+   "date_basis": "\"Sunday, Monday and Tuesday evenings\" before Thu 18 Mar 1886 = 14-16 Mar",
+   "planned": false,
+   "title": "Rev. Wm. Cooke holds services; Sunday school organized",
+   "summary": "Rev. Wm. Cooke of Gladstone held well-attended services on three evenings, and a Sunday school was organized to meet Sundays at 10:30 at the depot.",
+   "excerpt": "A Sunday school was organized, to which old and young are cordially invited.",
+   "people": [
+    "Wm. Cooke"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "social",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a46",
+   "confidence": "high"
+  },
+  {
+   "id": "e30",
+   "date": "1886-03-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Friday evening\" before Thu 18 Mar 1886",
+   "planned": false,
+   "title": "Willard and Tarbell return from Standing Rock with strays",
+   "summary": "Fred Willard and Harry Tarbell returned from Standing Rock. They found no HT horse but recovered strays, including Col. T. J. Bryan's carriage team and Capital B horses, with help from Indian agent Major McLaughlin.",
+   "excerpt": "Fred rounded up a number of strays, including a fine carriage team belonging to Col. T. J. Bryan",
+   "people": [
+    "Fred Willard",
+    "Harry Tarbell",
+    "T. J. Bryan",
+    "Major McLaughlin"
+   ],
+   "places": [
+    "Standing Rock"
+   ],
+   "tags": [
+    "ranching",
+    "Native-Americans"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a47",
+   "confidence": "high"
+  },
+  {
+   "id": "e31",
+   "date": "1886-03-11",
+   "date_end": "1886-03-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Mar 1886 issue",
+   "planned": false,
+   "title": "Cow Boy office offers Studebaker wagons at $75",
+   "summary": "The Cow Boy office, agent for Studebaker, offered its surplus 3½ wagons at $75 each in cash.",
+   "excerpt": "We have an over-stock of 3½ Studebaker wagons that the Studebaker M'f'g. Co. have instructed us to close out at $75 each.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a48",
+   "confidence": "high"
+  }
+ ]
+}

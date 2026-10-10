@@ -1,0 +1,814 @@
+{
+ "date": "1886-11-18",
+ "masthead": "Thursday, November 18, 1886",
+ "volume": null,
+ "review_needed": "Page 1 could not be AI-transcribed (automated content filter stopped the run). Read it on the page scan; raw OCR is in data/raw/1886-11-18/p1.txt.",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "Not transcribed: flagged for human review. See the scan."
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "Ready-print; not transcribed."
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "Ready-print; not transcribed."
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "col 1 local (masthead, N.P. time table, local items, advertised letters, notice); cols 2-4 display ads; cols 4-7 cattle and horse brand ads incl. Chimney Butte Ranch (Theodore Roosevelt, proprietor). Volume/number not printed on page 4."
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "all",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "local",
+   "headline": null,
+   "text": null,
+   "summary": "Page 1 awaits human transcription. Open the scan to read it.",
+   "people": [],
+   "method": "ocr",
+   "confidence": "low"
+  },
+  {
+   "id": "a401",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    5,
+    15,
+    7
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "Bad Lands Cow Boy,\n\nBy A. T. Packard.\n\nThursday, November 18, 1886.",
+   "summary": "Page-4 masthead giving the issue date, Thursday, November 18, 1886.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a402",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    12,
+    15,
+    7
+   ],
+   "section": "railroad",
+   "headline": "Northern Pacific Time Table.",
+   "text": "Northern Pacific Time Table.\n\nWEST BOUND.\n\nPacific Express, No. 1..........6:45 p. m.\nExpress Freight, 2d Class..........9:35 p. m.\nFreight, 3d Class..........11:40 p. m.\n\nEAST BOUND.\n\nAtlantic Express, No., 2..........8:36 a. m.\nExpress Freight, 3d Class..........6:20 a. m.\nFreight, 3rd Class..........2:55 a. m.\n\nD. W. Williams, Agent.",
+   "summary": "Northern Pacific time table at Medora, D. W. Williams, agent.",
+   "people": [
+    "D. W. Williams"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a403",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    19.5,
+    15,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Northern Pacific preferred stocks, 64\u00bd; common, 29\u215d.",
+   "summary": "Northern Pacific stock quotations.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a404",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    21,
+    15,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Alex. Morton is building an addition to his cottage and making other improvements for winter.",
+   "summary": "Alex. Morton is enlarging his cottage for winter.",
+   "people": [
+    "Alex. Morton"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a405",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    23.5,
+    15,
+    3.0
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "R. Nepvne, who has been visiting at the VE horse ranch this summer, started for his home in Holland, last Friday morning.",
+   "summary": "R. Nepvne left the VE horse ranch for Holland.",
+   "people": [
+    "R. Nepvne"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a406",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    26.5,
+    15,
+    2.5
+   ],
+   "section": "railroad",
+   "headline": null,
+   "text": "The cattle-shipping season is nearly ended, but it seems as though there were never more freight trains running than there are at present.",
+   "summary": "Cattle shipping nearly over but freight traffic heavy.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a407",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    29,
+    15,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Postals have been sent out to all Billings county's tax-payers, stating the amount of their taxes and conveying a polite intimation that it is time to settle up.",
+   "summary": "Billings county taxpayers sent tax notices.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a408",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    32,
+    15,
+    3.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "J. W. Foley who is now here will probably take charge of the Medora interests of the N. P. Ref. Car Co. this winter, W. F. Van Driesche contemplating a trip to Europe.",
+   "summary": "J. W. Foley likely to take charge of the N. P. Refrigerator Car Co.'s Medora interests while W. F. Van Driesche goes to Europe.",
+   "people": [
+    "J. W. Foley",
+    "W. F. Van Driesche"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a409",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    35.5,
+    15,
+    3.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The Maltese Cross, Quarter-circle diamond and KC outfits started on a bull round-up Monday, which will last for several days yet. The object is to gather in the young bulls and weak cows that need feeding.",
+   "summary": "The Maltese Cross, Quarter-circle diamond and KC outfits began a bull round-up.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a410",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    39,
+    15,
+    3.5
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "The school tax for this year in the Medora precinct, is ten mills, which will leave a surplus for next years' expenses. All other taxes for county and territorial purposes, amount to ten and nine-tenths mills.",
+   "summary": "Medora precinct school tax is ten mills; other taxes 10.9 mills.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a411",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    42.5,
+    15,
+    3.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "George W. Fowler, agent and correspondent for the Bismarck Tribune, is in town to-day. The daily Tribune will be sent until March 1 for $2, making it the cheapest and most valuable daily for this part of the country.",
+   "summary": "Bismarck Tribune agent George W. Fowler is in Medora.",
+   "people": [
+    "George W. Fowler"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a412",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    46,
+    15,
+    4.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Several papers are making mention of remarkable veins of coal in their locality, some going as high as twenty feet. The Bad Lands still takes the lead however in the vein of coal on Deep creek at Mattox' ranch. It is over sixty feet thick in plain sight from the top to the bed of the creek. How much deeper it is no one knows.",
+   "summary": "A coal vein over sixty feet thick is exposed on Deep creek at Mattox' ranch.",
+   "people": [
+    "Mattox"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a413",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    50.5,
+    15,
+    4.5
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "The fight over the elections is not ended in Stark county. It will be remembered Trask, according to the returns, had a majority of one over Sebastian. The election was then contested by Mr. Sebastian and it appears with good prospect of succeess, although the courts will be called on to decide the case, no matter how it is decided by the county canvassing board.",
+   "summary": "Sebastian is contesting Trask's one-vote win in a Stark county election.",
+   "people": [
+    "Trask",
+    "Sebastian"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a414",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    55,
+    15,
+    5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "M. F. Mullins one of the butchers here last summer, won first prize at the recent butchers' contests at the Chicago Fat-Stock show over six other competitors, supposed to be the most skillful in the United States. Mullins' time was ten minutes and seventeen seconds, beating Noonan, another old butcher here, who left in August, by sixteen seconds. Noonan won second prize by twelve seconds.",
+   "summary": "Former Medora butchers M. F. Mullins and Noonan took first and second prizes at the Chicago Fat-Stock show butchers' contest.",
+   "people": [
+    "M. F. Mullins",
+    "Noonan"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a415",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    60,
+    15,
+    6
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Our little flurry of snow three weeks ago, which passed off almost as quickly as it came, was perhaps a harbinger of the disastrous snow storms that have blockaded business in some parts of Indiana, Michigan, New York and eastern states. In many places the snow was from a foot to twenty inches deep on a level, the drifts being from three to ten feet. We doubt if there is now a particle of snow in Dakota and the weather during the day is simply perfect.",
+   "summary": "Contrasts eastern snowstorms with fine snow-free weather in Dakota.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a416",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    66,
+    15,
+    8
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "To close out the stock of Studebaker wagons now on hand, I will make prices for cash that are lower than the wholesale factory rate. The wagons are new and first-class and have Studebaker Bros. full guarantee as to soundness. They will be sold cheaper than any wagons that have ever been sold in this country and cheaper than they can be bought in car lots at the factory. The only reason for making these rates is to close out stock on hand. They must and shall go soon.\n\nA. T. Packard.",
+   "summary": "Packard offers his Studebaker wagon stock below factory rate to close it out.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a417",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    74,
+    15,
+    5
+   ],
+   "section": "legal",
+   "headline": "Advertised Letters.",
+   "text": "Advertised Letters.\n\nRemaining in the postoffice at Medora for the week ending Nov. 18 1886:\n\nBaker, S G \u2014 Hall, George\nBeman, D E \u2014 Kennedy, Wm\nCutler, A \u2014 Northrop, W A\nDemonde, F B \u2014 Pettibone, C J\n\nW. F. Van Driesche, P. M.",
+   "summary": "List of unclaimed letters at the Medora post office.",
+   "people": [
+    "W. F. Van Driesche"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a418",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    79,
+    15,
+    6
+   ],
+   "section": "legal",
+   "headline": "NOTICE.",
+   "text": "NOTICE.\n\nThe co-partnership heretofore existing between the undersigned, is this day dissolved by mutual consent. Martin Timlin will assume all liabilities and all debts due said firm will be paid him. He will continue business at the old stand.\n\nMedora Dak. Nov. 1st. 1886 \u2014 M. D. Rider. Martin Timlim.",
+   "summary": "Notice dissolving the Rider\u2013Timlin partnership; Timlin continues the business (signature printed 'Timlim').",
+   "people": [
+    "M. D. Rider",
+    "Martin Timlin"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a419",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7.5,
+    85,
+    15,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "All kinds of wagon extras for sale, including double and single-trees, clevises wrenches, neck-yokes, lock and stay-chains etc.\n\nA. T. Packard.",
+   "summary": "Packard advertises wagon extras.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a420",
+   "page": 4,
+   "cols": "2-7",
+   "region": [
+    22,
+    5,
+    76,
+    93
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Royal Baking Powder, Royal Baking Powder Co., 106 Wall St., New York \u2014 \"Absolutely Pure\"\nLippincott's Magazine, J. B. Lippincott Company, 715 and 717 Market St., Philadelphia\nE. J. Owenhouse, Bozeman, Mont. \u2014 stock saddles, Concord harness, fancy bits and spurs, chaparejos, reatas, quirts, hackamores\nMcDougal & Gunn, Mandan, Dak. \u2014 stoves, cook stoves, ranges and hardware\nCity Drug Store, H. M. Jorgens, proprietor, Medora, Dak. \u2014 drugs, patent medicines, perfumery, toilet articles, notions, periodicals, stationery\nN. D. Thompson Publishing Co., St. Louis / New York \u2014 agents wanted for \"The Every Day Life of Lincoln\"\nEdick Bros., 64 Main Street, Bismarck, Dak. \u2014 cigars and tobacco, smokers' articles\nHayward Hand Grenade Co., 407-409 Broadway, New York \u2014 fire-extinguisher grenades\nEstey Organ Co., Brattleboro, Vt. \u2014 Estey organs\nMerwin, Hulbert & Co., 83 Chambers St., New York \u2014 revolvers and American Metallic Cartridges\nGeo. P. Rowell & Co., 10 Spruce St., New York \u2014 newspaper advertising bureau\nStudebaker farm and freight wagons, platform spring wagons, buckboards \u2014 A. T. Packard, agent, Medora, Dak.\nStinson & Co., Portland, Maine \u2014 home work (\"Gold\")\nScientific American / Munn & Co., 361 Broadway, New York \u2014 patents\nMinneapolis & St. Louis Railway, \"Famous Albert Lea Route\"\nBrand: Medora Stage & F. Co. \u2014 horses branded on left shoulder, strung on stage stations between Medora and Deadwood; $25 reward against horse thieves\nBrand: Chase & Gilmore's Ranch, Chase & Fry, managers, Dickinson, Dak. \u2014 #7; ranges Cherry creek and Little Missouri (winter), Killdeer Mountains (summer); horse brand mule shoe, bar\nBrand: Thomas & Arnett, J. B. Thomas, Cheyenne, Wyo., A. H. Arnett, Dickinson, Dak. \u2014 AHA; range Little Missouri west of Killdeer Mts.; horse brand VH\nBrand: E. W. Casey, L. C. Hunt, manager, P.O. Medora \u2014 KC; range Garner Creek\nBrand: Sloping Bottom Ranch, Lloyd Roberts, proprietor, P.O. Medora \u2014 range Little Missouri 7 mi S of N.P.R.R.\nBrand: Badger Cattle Company, Howard Eaton, m'g'r, P.O. Medora \u2014 VI; range Beaver creek and Little Missouri river\nBrand: Dorr Clark, Spearfish, Dakota \u2014 VVV; range Belle Fourche\nBrand: Clark & Plum, Spearfish, Dakota \u2014 E6, also ZD, DZ, EP, 9N; range Grand river; $100 reward\nBrand: Little Missouri Horse Co.[?], H. R. Tarbell[?], manager, Medora[?] (header faint) \u2014 range Davis creek and Little Missouri river\nBrand: W. N. Thompson & Co., Wm. Dantz, manager, P.O. Medora \u2014 quarter-circle diamond TD\nBrand: Lemoyne Cattle Co. (Limited), J. P. Small, manager, Glendive, Montana \u2014 LC; range Little Missouri south of N.P.R.R.; home ranch Dawson Co., Mont.\nBrand: Soho Cattle Co., Chas. Eaton, manager, Medora \u2014 SO; range Little Missouri and Beaver Creek north of N.P.R.R.\nBrand: Garner Creek Horse Ranch, J. A. VanEeghen, prop., Medora \u2014 VE; range Garner creek eight miles from mouth\nBrand: Chimney Butte Ranch, Theodore Roosevelt, proprietor, Ferris & Merrifield, managers, P.O. Medora \u2014 Maltese cross; range six miles south of N.P.R.R. on Little Missouri\nBrand: Bullion Creek Horse Ranch, Jack Bullion, prop., Medora \u2014 SS; range Bullion creek twenty miles south of Medora\nBrand: N. P. Refrigerator Car Co., Medora \u2014 also steers bought of Mason & Lovell; range Little Missouri river and Beaver creek\nBrand: Aetna Ranch, John Munro, prop., P.O. Mingusville, Montana \u2014 AE; range Knutson creek\nBrand: Berry, Boice & Co., P.O. Keith, Montana \u2014 777; range south of N.P.R.R. on Little Missouri and Beaver creek\nBrand: E. G. Paddock, P.O. Medora \u2014 circle-dot; range six miles north of crossing of N.P.R.R. and Little Missouri\nBrand: Spring Creek Ranch, L. D. & B. Rumsey, J. L. Truscott, manager, P.O. Medora \u2014 R; range south of N.P.R.R. on Little Missouri\nBrand: Custer Trail Cattle Co., F. Alden Eaton, supt., P.O. Medora \u2014 range Little Missouri river, Deep and Davis creeks\nBrand: Neimmela Ranch, Gregor Lang, manager, P.O. Medora \u2014 thistle; range Keogh crossing of Little Missouri to Pretty butte\nBrand: Bad Lands Cattle Co., M. Wadsworth, manager, P.O. Medora \u2014 7L, Pd; range Little Missouri fifteen miles north of Medora\nBrand: Towers & Gudgell, P.O. Keith, Montana \u2014 OX; range south of N.P.R.R. on Little Missouri and Beaver creek",
+   "summary": "Display advertisements (cols 2-4) and cattle- and horse-brand notices (cols 4-7), including Roosevelt's Chimney Butte Ranch brand.",
+   "people": [
+    "Theodore Roosevelt",
+    "Sylvane Ferris",
+    "Bill Merrifield",
+    "A. T. Packard",
+    "H. M. Jorgens",
+    "Gregor Lang",
+    "Howard Eaton",
+    "J. A. VanEeghen"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  }
+ ],
+ "events": [
+  {
+   "id": "e401",
+   "date": "1886-11-11",
+   "date_end": "1886-11-18",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 18 Nov 1886 issue",
+   "planned": false,
+   "title": "Alex. Morton enlarges his cottage for winter",
+   "summary": "Alex. Morton was building an addition to his cottage and making other improvements for winter.",
+   "excerpt": "Alex. Morton is building an addition to his cottage and making other improvements for winter.",
+   "people": [
+    "Alex. Morton"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "building",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a404",
+   "confidence": "high"
+  },
+  {
+   "id": "e402",
+   "date": "1886-11-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Friday\" before Thu 18 Nov 1886",
+   "planned": false,
+   "title": "R. Nepvne leaves the VE horse ranch for Holland",
+   "summary": "R. Nepvne, who had spent the summer visiting at the VE horse ranch, started for his home in Holland.",
+   "excerpt": "R. Nepvne, who has been visiting at the VE horse ranch this summer, started for his home in Holland, last Friday morning.",
+   "people": [
+    "R. Nepvne"
+   ],
+   "places": [
+    "VE horse ranch",
+    "Holland"
+   ],
+   "tags": [
+    "visitors",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a405",
+   "confidence": "high"
+  },
+  {
+   "id": "e403",
+   "date": "1886-11-11",
+   "date_end": "1886-11-18",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 18 Nov 1886 issue",
+   "planned": false,
+   "title": "Cattle-shipping season nearly over; freight traffic heavy",
+   "summary": "The cattle-shipping season was nearly ended, yet freight trains were running in greater numbers than ever.",
+   "excerpt": "it seems as though there were never more freight trains running than there are at present.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "railroad",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a406",
+   "confidence": "high"
+  },
+  {
+   "id": "e404",
+   "date": "1886-11-11",
+   "date_end": "1886-11-18",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 18 Nov 1886 issue",
+   "planned": false,
+   "title": "Billings county taxpayers sent tax notices",
+   "summary": "Postal cards were sent to all Billings county taxpayers stating the amount of their taxes and suggesting it was time to pay.",
+   "excerpt": "conveying a polite intimation that it is time to settle up.",
+   "people": [],
+   "places": [
+    "Billings County"
+   ],
+   "tags": [
+    "politics",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a407",
+   "confidence": "high"
+  },
+  {
+   "id": "e405",
+   "date": "1886-11-18",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"now here\" and \"this winter\" in Thu 18 Nov 1886 issue",
+   "planned": true,
+   "title": "J. W. Foley expected to run N. P. Refrigerator Car Co. interests at Medora; Van Driesche plans Europe trip",
+   "summary": "J. W. Foley, then in Medora, was expected to take charge of the N. P. Refrigerator Car Co.'s Medora interests for the winter while W. F. Van Driesche contemplated a trip to Europe.",
+   "excerpt": "J. W. Foley who is now here will probably take charge of the Medora interests of the N. P. Ref. Car Co. this winter",
+   "people": [
+    "J. W. Foley",
+    "W. F. Van Driesche"
+   ],
+   "places": [
+    "Medora",
+    "Europe"
+   ],
+   "tags": [
+    "business",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a408",
+   "confidence": "high"
+  },
+  {
+   "id": "e406",
+   "date": "1886-11-15",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 18 Nov 1886",
+   "planned": false,
+   "title": "Maltese Cross, Quarter-circle diamond and KC outfits start bull round-up",
+   "summary": "The Maltese Cross (Roosevelt's outfit), Quarter-circle diamond and KC outfits started a bull round-up expected to last several more days, to gather young bulls and weak cows that needed feeding.",
+   "excerpt": "The Maltese Cross, Quarter-circle diamond and KC outfits started on a bull round-up Monday",
+   "people": [],
+   "places": [
+    "Maltese Cross"
+   ],
+   "tags": [
+    "roundup",
+    "ranching",
+    "tr"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a409",
+   "confidence": "medium"
+  },
+  {
+   "id": "e407",
+   "date": "1886-11-11",
+   "date_end": "1886-11-18",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 18 Nov 1886 issue",
+   "planned": false,
+   "title": "Medora precinct school tax set at ten mills",
+   "summary": "The school tax in Medora precinct for the year was ten mills, leaving a surplus; other county and territorial taxes totalled ten and nine-tenths mills.",
+   "excerpt": "The school tax for this year in the Medora precinct, is ten mills",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a410",
+   "confidence": "high"
+  },
+  {
+   "id": "e408",
+   "date": "1886-11-18",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"to-day\" = issue date Thu 18 Nov 1886",
+   "planned": false,
+   "title": "Bismarck Tribune agent George W. Fowler visits Medora",
+   "summary": "George W. Fowler, agent and correspondent for the Bismarck Tribune, was in Medora, offering the daily Tribune until March 1 for $2.",
+   "excerpt": "George W. Fowler, agent and correspondent for the Bismarck Tribune, is in town to-day.",
+   "people": [
+    "George W. Fowler"
+   ],
+   "places": [
+    "Medora",
+    "Bismarck"
+   ],
+   "tags": [
+    "press",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a411",
+   "confidence": "high"
+  },
+  {
+   "id": "e409",
+   "date": "1886-11-11",
+   "date_end": "1886-11-18",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 18 Nov 1886 issue",
+   "planned": false,
+   "title": "Sixty-foot coal vein noted on Deep creek at Mattox' ranch",
+   "summary": "The paper reported a coal vein more than sixty feet thick exposed on Deep creek at Mattox' ranch.",
+   "excerpt": "It is over sixty feet thick in plain sight from the top to the bed of the creek.",
+   "people": [
+    "Mattox"
+   ],
+   "places": [
+    "Deep creek",
+    "Mattox' ranch"
+   ],
+   "tags": [
+    "coal"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a412",
+   "confidence": "high"
+  },
+  {
+   "id": "e410",
+   "date": "1886-11-11",
+   "date_end": "1886-11-18",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 18 Nov 1886 issue",
+   "planned": false,
+   "title": "Stark county election contest: Sebastian challenges Trask",
+   "summary": "Sebastian contested an election in Stark county that the returns gave to Trask by one vote; the case was expected to go to the courts.",
+   "excerpt": "Trask, according to the returns, had a majority of one over Sebastian. The election was then contested by Mr. Sebastian",
+   "people": [
+    "Trask",
+    "Sebastian"
+   ],
+   "places": [
+    "Stark County"
+   ],
+   "tags": [
+    "politics",
+    "courts"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a413",
+   "confidence": "high"
+  },
+  {
+   "id": "e411",
+   "date": "1886-11-11",
+   "date_end": "1886-11-18",
+   "date_precision": "week",
+   "date_basis": "\"recent\"; no date given; week before Thu 18 Nov 1886 issue",
+   "planned": false,
+   "title": "Former Medora butchers win prizes at Chicago Fat-Stock show",
+   "summary": "M. F. Mullins, a Medora butcher the previous summer, won first prize in the butchers' contest at the Chicago Fat-Stock show in ten minutes seventeen seconds; Noonan, another former Medora butcher, took second.",
+   "excerpt": "Mullins' time was ten minutes and seventeen seconds, beating Noonan, another old butcher here, who left in August, by sixteen seconds.",
+   "people": [
+    "M. F. Mullins",
+    "Noonan"
+   ],
+   "places": [
+    "Chicago"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a414",
+   "confidence": "high"
+  },
+  {
+   "id": "e412",
+   "date": "1886-10-28",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"three weeks ago\" before Thu 18 Nov 1886",
+   "planned": false,
+   "title": "Brief snow flurry in the Bad Lands",
+   "summary": "A little flurry of snow fell about three weeks earlier and passed off almost as quickly as it came.",
+   "excerpt": "Our little flurry of snow three weeks ago, which passed off almost as quickly as it came",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a415",
+   "confidence": "high"
+  },
+  {
+   "id": "e413",
+   "date": "1886-11-11",
+   "date_end": "1886-11-18",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 18 Nov 1886 issue",
+   "planned": false,
+   "title": "Fine, snow-free weather in Dakota while eastern states are blockaded by snow",
+   "summary": "The paper contrasted heavy snowstorms blockading business in Indiana, Michigan, New York and eastern states with snow-free, perfect weather in Dakota.",
+   "excerpt": "We doubt if there is now a particle of snow in Dakota and the weather during the day is simply perfect.",
+   "people": [],
+   "places": [
+    "Dakota"
+   ],
+   "tags": [
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a415",
+   "confidence": "high"
+  },
+  {
+   "id": "e414",
+   "date": "1886-11-11",
+   "date_end": "1886-11-18",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 18 Nov 1886 issue",
+   "planned": false,
+   "title": "Packard closes out Studebaker wagon stock",
+   "summary": "A. T. Packard offered his Studebaker wagons for cash below wholesale factory rate to close out his stock.",
+   "excerpt": "To close out the stock of Studebaker wagons now on hand, I will make prices for cash that are lower than the wholesale factory rate.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a416",
+   "confidence": "high"
+  },
+  {
+   "id": "e415",
+   "date": "1886-11-01",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "notice dated Medora, Nov. 1st. 1886",
+   "planned": false,
+   "title": "Rider and Timlin partnership dissolved",
+   "summary": "The co-partnership of M. D. Rider and Martin Timlin at Medora was dissolved by mutual consent; Timlin assumed the liabilities and continued the business at the old stand.",
+   "excerpt": "The co-partnership heretofore existing between the undersigned, is this day dissolved by mutual consent.",
+   "people": [
+    "M. D. Rider",
+    "Martin Timlin"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a418",
+   "confidence": "high"
+  }
+ ]
+}

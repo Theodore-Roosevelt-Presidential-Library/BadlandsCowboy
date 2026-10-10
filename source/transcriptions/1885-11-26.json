@@ -1,0 +1,1603 @@
+{
+ "date": "1885-11-26",
+ "masthead": "Thursday, November 26, 1885",
+ "volume": "Vol. 2, No. 43",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "col 1 publisher's box and business cards; cols 2-4 display ads; col 5 Hendricks telegram, Thanksgiving proclamation, editorials; col 6 Stock Notes and range items; cols 6-7 reprinted \"The Bad Lands\" (Minneapolis Tribune). Scan damaged at top of col 7."
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "Patent-inside news and editorial page with printed Cow Boy / Packard heading; no local content found."
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "Fiction, miscellany and patent-medicine ads; Youth's Companion announcement."
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "col 1 and top of col 2 local items and NP time table; rest display ads and cattle-brand ads (Chimney Butte Ranch, T. Roosevelt, col 6)."
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    15
+   ],
+   "section": "masthead",
+   "headline": "The Bad Lands Cow Boy",
+   "text": "The Bad Lands Cow Boy.\nVolume 2, Number 43. MEDORA, DAKOTA, NOVEMBER 26, 1885. Price $2.00 per Year\n\nBad Lands Cow Boy, By A. T. Packard.\n\nThe Cow Boy is not published for fun, but for $2 per year.\nAdvertising Rates made known on application.\nStanding Advertisements payable quarterly.\nTransient Advertisements and all Job work, money in sight.\nAddress all communications to THE BAD LANDS COW BOY, MEDORA, DAKOTA.\n\nEntered at the post-office at Medora, Dak., as second class mail matter.",
+   "summary": "Front-page nameplate, dateline and publisher's terms box.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a2",
+   "page": 1,
+   "cols": "1-4",
+   "region": [
+    2,
+    14,
+    50,
+    84
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "A. D. Carpenter, Attorney, Dickinson, Dak.\nW. B. Coyle, M. D., Physician and Surgeon (Late A. A. Surgeon, U. S. A.), Belfield, Dak.\nA. T. Packard, Notary Public, Medora, Dak.\nF. E. Benjamin, Jeweler and Watchmaker, Mandan, Dakota — \"Repairing of all kinds promptly executed.\"\nFirst National Bank of Mandan, Dakota — H. R. Lyon, Prest.; H. VanVleck, Jr., Cashier; M. Lang, Vice President; paid-up capital $50,000, surplus $15,000\nDan. McKenzie, Blacksmithing and Horse-Shoeing, Medora, Dak. — \"Work done neatly and promptly.\"\nD. Flynn, manufacturer and dealer in Boots, Shoes, Rubbers, Etc., Main Street, Mandan, Dak.\nHardware and Tinware at J. D. Garver's, Medora, Dakota\nInsurance! (fire, lightning, wind storms and hail) — A. T. Packard, Agent, Medora, Dak.\nT. W. Gordon, Manager, Boston Clothing, Boot and Shoe House (factory 631 Broadway, New York; branch stores Dayton, O., Bismarck, Mandan, Glendive, Miles City and Billings) — \"Always Awake ----- Never Napping\"; sole agents for Wilson Bros. shirts, Burt's and Hanan's ladies' boots and shoes, Stetson hats, Hanan and Son fine boots\nJas. McMillan & Co., The Minneapolis Sheepskin Tannery, hides, sheep pelts, furs, tallow, 101-105 Second St. North, Minneapolis, Minn.\nFargo Insurance (fire, lightning, tornado, hail) of Fargo, Dakota — paid-up capital $100,000; W. W. Walker, President; A. T. Packard, Agent, Medora\nDan. Eisenberg's Dry-goods Store, Bismarck, Dak.\nMilwaukee Brewing Company, proprietors of the Bismarck Brewery — keg and bottled beer, Bismarck, Dak.\nThe Adams & Westlake interchangeable oil, gas and gasoline stoves — Adams & Westlake M'f'g Co., Chicago, New York, Boston",
+   "summary": "Directory of the business cards and display advertisements on page 1.",
+   "people": [
+    "A. T. Packard",
+    "T. W. Gordon",
+    "Dan. McKenzie",
+    "J. D. Garver"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a3",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.0,
+    15.0,
+    13.5,
+    28.0
+   ],
+   "section": "politics",
+   "headline": "HENDRICKS DEAD. The Vice-President died at 1 o'clocd yesterday.",
+   "text": "INDIANAPOLIS IND., Nov. 25.—Vice-President T. J. Hendricks died very suddenly at one o'clock this afternoon at his home, of paralysis of the heart.\n\nThe above telegram puts a curious phase on American politics. There being a Republican senate, a Republican Vice President will doubtless be elected. Should this man be Senator Logan, an anamoly would arise, unparallelled in American history. In case then President Cleveland should not survive his term of office, we would really have a Republican administration and in any event the fact of our having a Republican Vice President with a Democratic administration is a curious enough circumstance to set political prophets all guessing.",
+   "summary": "Telegram reporting the death of Vice-President Thomas A. Hendricks at Indianapolis on Nov. 25, with Packard's comment on the political consequences.",
+   "people": [
+    "T. J. Hendricks",
+    "John A. Logan",
+    "Grover Cleveland"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a4",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.0,
+    30.0,
+    13.5,
+    22.0
+   ],
+   "section": "politics",
+   "headline": "Thanksgiving Proclamation.",
+   "text": "TERRITORY OF DAKOTA, EXECUTIVE OFFICE.\n\nIn accordance with a long established custom the president of the United States has set apart Thursday, the 26th day of November as a day of national Thanksgiving and gratitude to Almighty God for his manifold blessings during the year.\n\nThe citizens of the territory have more than ordinary cause for thankfulness. Though ill fortune has attended some, the masses have been abundantly blessed.\n\nPeace and plenty are upon the land and prosperity in all its borders.\n\nIt is a season for gratitude, for benevolence, for charity. It is the day for the prodigal to be welcomed, for differences to be reconciled, for injuries to be forgiven.\n\nI recommend therefore that the day designated by the president, be observed throughout the territory by ceasing from toil and by appropriate services in church and home. Let kindly deeds towards the suffering and destitnte, and tender sympathy for those who are in sickness and trouble distinguish our observance of this gracious time. Forgetting the strifes and enmities of life let us open wide the doors of charity and good will, remembering that \"One touch of nature makes the whole world kin.\"\n\nGiven under my hand and the great seal of the territory, this sixth day of November, in the year of our Lord one thousand eight hundred and eighty five.\n\nGILBERT A. PIERCE.",
+   "summary": "Governor Gilbert A. Pierce's proclamation recommending that Thursday, Nov. 26, be observed throughout Dakota as Thanksgiving.",
+   "people": [
+    "Gilbert A. Pierce"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a5",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.0,
+    54.0,
+    13.5,
+    24.0
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "We are in receipt of the fourth monthly Bulletin, by Commissioner of Immigration Dunlap. Amongst other valuable information, it contains the following: The weather has been highly favorable all over the Territory. The mean temperature for the nine weather stations has been about forty-three degrees; eighty degrees during the day-time and a little over eighteen at night making very enjoyable weather. There have been slight falls of snow at all stations except Yankton. The average of wheat to the acre in Dakota is 14.5 bushels, being the highest of any state or territory, Minnesota coming next with 11.5 bushels. There were 1136 homestead and pre-emption entries during October, an increase of 224 over September. The Governor's annual report to the secretary of the Interior is complimented, especially the part in reference to admission and division. The bonded debt of the territory is $568,200. The last legislature authorized a loan of $176,000, and the bonds were sold at 103.2, a splendid showing for Dakota's credit. The question of opening the Sioux, Winnebago and Crow creeek Indian reservations is spoken of and commissioner Dunlap thinks it will not be long before they will be opened. With this number of the bulletin comes a map of Dakota, revised to date, and probably the most accurate map of our Territory ever published. There are the usual inaccuracies concerning land-marks in the unsurveyed portions of western Dakota, but the surveyed portions are correct. Any person wishing the Bulletin, the map and O. H. Holt's pamphlet on Dakota can get them by sending their names and three cents in postage to Lauren Dunlap, Huron, Dakota.",
+   "summary": "Summary of the fourth monthly Bulletin of Dakota Commissioner of Immigration Lauren Dunlap: weather, wheat yield, land entries, territorial debt and a new map.",
+   "people": [
+    "Lauren Dunlap",
+    "O. H. Holt"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a6",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    52.0,
+    78.0,
+    13.5,
+    14.0
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "A sensational report has been telegraphed broad-cast by the Associated Press, that Wyoming cattlemen not only refuse to remove fences enclosing public lands but are building others, the President's order to the contrary notwithstanding. There can be little doubt that foundation is almost or wholly lacking for this report and that it is only one more of the many petty devices originated by eastern feeders whose profits are cut down by the range cattle industry, to turn public opinion against western cattlemen. The life and soul of the range cattle business is obedience to the law, both written and unwritten, and cattlemen too well understand this to disobey any law or executive order. The report on the face of it, is false. It may be that the charge is true in the case of one or two, and from this it has spread so as to involve all the Wyoming cowmen. Cattle associations should look to it that the originators of such criminal libels are punished to the full extent of the law.",
+   "summary": "Editorial calling an Associated Press report that Wyoming cattlemen defy the President's fence order a libel by eastern feeders.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a7",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    64.5,
+    15.0,
+    13.5,
+    13.0
+   ],
+   "section": "range",
+   "headline": "STOCK NOTES.",
+   "text": "The following are the latest cattle quotations in the Chicago market:\n\nExtra prime beeves..........$5.50 @ 5.75\nChoice to fancy shipping....$5.00 @ 5.50\nGood to choice shipping.....$4.10 @ 4.90\nCommon to good shipping.....$3.50 @ 4.25\nPoor to medium steers.......$3.10 @ 4.00\nFair to choice cows.........$2.25 @ 3.25\nInferior to medium cows.....$1.40 @ 2.50\nPoor to choice bulls........$1.60 @ 2.60\nStockers, 550 to 860 lbs....$2.50 @ 3.25\nFeeders, 875 to 1,150 lbs...$3.00 @ 4.00\nGrass-fed Texans............$2.50 @ 3.40\nSlop-fed cattle.............[illegible] @ [5.85?]\nNorthern wintered Texans....$2.90 @ 3.50\nNorthern range cattle.......$3.00 @ 4.50\nMilch cows, ⅌ head,.........$25.00 @ 55.00\nStock calves................$6.00 @ 15.00",
+   "summary": "Latest Chicago cattle market quotations.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a8",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    64.5,
+    27.0,
+    13.5,
+    5.0
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Arnett & Thomas, owners of the ΛHΛ brand, with postoffice at Dickinson, Dak. publish their brand in this issue of the Cow Boy. Their range is on the Little Missouri, west of Killdeer Mts.",
+   "summary": "Arnett & Thomas of Dickinson publish their AHA brand in the Cow Boy.",
+   "people": [
+    "A. H. Arnett",
+    "J. B. Thomas"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a9",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    64.5,
+    32.0,
+    13.5,
+    4.0
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The bulls of the quarter-circle diamond, LC and Maltese cross outfits, to be fed this winter at the Big Plateau, are now in good fix and will probably go through the winter in the same condition.",
+   "summary": "Bulls of the quarter-circle diamond, LC and Maltese cross outfits are in good condition for wintering at the Big Plateau.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a10",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    64.5,
+    36.0,
+    13.5,
+    6.0
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Reports are already coming in from the Cave Hills country to the effect that cattle are being killed there by wolves. The E6 outfit last year offered liberal inducements to hunters for poisoning wolves and the offer probably still holds good. If the ranches would all combine in offering liberal terms for wolf scalps, the result would be a great saving.",
+   "summary": "Wolves are killing cattle in the Cave Hills country; the paper urges ranches to combine on wolf-scalp bounties.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a11",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    64.5,
+    42.0,
+    13.5,
+    12.0
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The Nationl Cattlegrower's Association held their third annual meeting in Chicago last week Tuesday and Wednesday, too late for a report in the Cow Boy. Norman J. Coleman, Commissioner of Agriculture, read a long and interesting paper in which he mentioned some very interesting statistics relative to the cattle business. In 1850 there was an average of 776 cattbe to every thousand inhabitants. In 1860 there were 814 to the thousand and in 1880 there were 716 to the thousand. In the United States there is an average consumption of meat of 150 pounds per capita, in Great Britain 109 pounds [and?] in Italy only eighteen pounds. Upon report of the committee on organization, Maj. H. E. Alvord of Mountainville, N. Y. was elected president. The association adopted a resolution asking Congress to appropriate not less than $1,500,000 to pay for diseased cattle which were slaughtered and for the payment of experts who should settle the value of cattle thus slaughtered.",
+   "summary": "Report of the National Cattle Growers' Association's third annual meeting in Chicago.",
+   "people": [
+    "Norman J. Coleman",
+    "H. E. Alvord"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a12",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    64.5,
+    55.0,
+    13.5,
+    21.0
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The following is the St. Louis Whip's version of Sitting Bull's application for membership in the National Cattlemen's Association:\n\nSECRETARY ATWATER:—\n\nI am thinking of joining the national cattlemen's association and write to ask if I am eligible I own a steer, a calf, three dogs and a buffalo skin. Next year I want to invest in a cat and a tame coon and make better provision for raising stock. It is proper to state, however, that I cannot undertake to attend the cattlemen's ball in full dress and will insist on fixing up my costume to suit my own taste. I always dress with severe simplicity. A buffalo round-about and a pair of raw-hide knee-breeches constitute my full dress suit, which I would use in attending the cattlemen's ball. I would likewise insist on taking my own grip in dancing with the girls; when I waltz, I seize my partner by the hair with both hands and whirl around. The steps which I adopt in dancing are entirely original and were invented by myself.\n\nYours truly,\nSITTING BULL.",
+   "summary": "Humorous St. Louis Whip piece purporting to be Sitting Bull's application to join the National Cattlemen's Association.",
+   "people": [
+    "Sitting Bull"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a13",
+   "page": 1,
+   "cols": "6-7",
+   "region": [
+    64.5,
+    76,
+    27,
+    17
+   ],
+   "section": "correspondence",
+   "headline": "The Bad Lands.",
+   "text": "Westward bound, I entered the Bad Lands after dark. This was a fortunate circumstance, for it left the grandeur of the scenes to be a surprise when morning's light should reveal them. Stopping at Medora, I walked out quite early in the morning to see the town from the eminence behind it. Making a circuit of half a mile I was able to ascend the steep incline. A plateau as level as an Iowa hay-field, and quite like one in appearance, stretches before me, and the eye passes from this flat surface to another beyond, and the valley wherein the town lies is not revealed. A two minute's walk takes me across this plateau and brings me to the brink of the precipice and to a scene of surpassing lovliness. Down in the valley lies the town, a toy city, 300 feet below. The most conspicuous object is the group of buildings comprised in the slaughtering establishment of the Marquis de Mores. It is in reality a huge affair, but appears small indeed from so great a height. Some workmen were singing there, and up through the still morning air came faintly and intermittingly the strains of \"Climbin' up de Golden Stair.\" Across the valley and upon a plateau about fifty feet above the town, was the residence of the marquis, with its green sides and red roof; the palace of the village. The riv-\ner ran its tortuous course like a band of silver through the town and beyond the cliffs. At the foot of the bluff, upon the summit of which I stood, miners were boring through a nine-foot vein of lignite coal, with which the country abounds while but fifty feet above the tunnel, smoke was issuing from another vein, which was on fire and had been burning for no one knows how long. Soon the hills began to echo the rumbling of the passenger train from the west, and then the locomotive rounded the spur of a bluff and brought after it a long train that bended and twisted and turned as it moved slowly (it seemed slowly from so [great a?] distance) down the valley at the foot of the bluffs.\n\nSix or eight miles from Medora are the burning mines, of which every one has heard so much. I determined to see them, and engaging a conveyance and a guide, we set out. We rode a \"buckboard,\" and nothing but a \"buckboard\" would have remained upright. Our mustangs took us up hills and down declivities, our vehicle tipped first to one side and then to the other, until it seemed as though nothing could tip it over. My guide was \"frum Californy,\" and didn't like this country, and so would soon return. He told me we might see some deer, and once when upon an eminence his trained eye discerned an animal on a distant plateau. I leveled my field glass and discovered a deer lying down, secure from intrusion, however, because of the gullies between us and him. Cedar Canon is well described by its name. A long series of gullies, whose depths are a tangle of bushes and cedar trees, whose sides are the sides of buttes that rise hundreds of feet and terminate in a point, buttes that are table lands and have little hay fields for their tops, buttes that take the shapes of beasts and men, buttes that rise in terraces, buttes that have been mixed with others and tossed about indiscriminately, buttes that behave themselves and stand as orderly as soldiers, buttes that rise in conscious majesty above the common herd, buttes that crouch with modesty in the shadow of the monarchs, buttes with their heads shaggy in their coverings of cedars, buttes as bald as billard balls, slender little buttes that tip their heads coquettishly, and try to flirt with the clumsy, corpulent buttes across the way, ambitious buttes that fail in their attempt to be dignified because they are so small, Indian buttes that take on all the colors they can find, the green of the cedars, the red of the [scoria?], the gray of the clay and the [yellow?] of the sand, buttes fantastic, grotesque, buttes plain, commonplace. These were the hills I saw in Cedar Canon. It was wildly beautiful, and an adequate description demands a more eloquent pen than mine.\n\nThe burning mines were the objective point of the trip, and after many ups and downs, twists and turns, we at last reached them. We smelled the sulphur of the burning coal from afar, and as we approached, the hot air rose from the place just as I have seen it often from the mouth of a furnace in which iron was being melted. There was little smoke, though I am told that at times great volumes ascend. On one side of the butte was a depression, in the center of which was the greatest heat, and with this spot as a center there were innumerable cracks in the lines of concentric rings, formed as the earth sank in the center. These cracks ranged from a few inches to a foot or more in breadth, and the center was an undefined opening. Placing one of my feet over one of the outer cracks it was quickly warmed and I thought how great an improvement this would be over the ordinary method of warming by hot air registers. Approaching cautiously nearer the center, I threw into one of the orifices a handful of grass, and it blazed and was consumed within eight feet of my hand. If such is the heat at the surface, what must it be at the center, in the heart of the burnihg hill!\n\nThis was a very easy lesson in geology, and I saw right there the process nature had adopted to form the Bad Lands. Along the streams that years and years ago flowed across the country, drift-wood accumulated in immense quantities. Then followed a long period in which sediment, sand, gravel and dirt, was deposited, and the wood was buried two or three hundred feet deep. This drift-wood in time became coal, which by spontaneous combustion or electricity was ignited. As it burned, the deposits above fell into the cavities where the coal had been, and the depressions were widened and deepened by rains and winds. This, at least, is the theory of scientists; and it is very reasonable. Where the coal veins remain unburned the buttes are lofty and often their tops are plateaus on a level with the country on both sides of the Bad Lands. Very many of the buttes show on their summits unmistakable signs of heat. They are as red as burned bricks and the scoria, or burned clay, has an appearance very similar to broken bricks. Many of the prominences are surmounted with great formations best described by the name \"clinkers,\" almost exactly in appearance like the \"clinkers\" everybody has seen in the ashes of bituminous coal. These have assumed fantastic and sometimes startling shapes, one reminding me of a blanketed Indian, another of the human face and still another of a crouching animal. Fragments of these formations roll down the sides of the buttes and are encountered everywhere.\n\n—[C. W. Wilcox in Minneapolis Tribune.",
+   "summary": "Reprinted Minneapolis Tribune account by C. W. Wilcox of a stop at Medora, the view of the de Morès abattoir and residence, Cedar Canon and the burning coal mines.",
+   "people": [
+    "C. W. Wilcox",
+    "Marquis de Morès"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a14",
+   "page": 2,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "",
+   "summary": "Ready-print editorial and news page (Riel execution, \"The News Summarized,\" \"Dakota Territorial News,\" general miscellany) under a printed Bad Lands Cow Boy / A. T. Packard, Publisher heading.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a15",
+   "page": 3,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "",
+   "summary": "Ready-print page of fiction (\"Strange But True Story\"), household and market miscellany, patent-medicine ads and a Youth's Companion announcement for 1886.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a16",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    7,
+    13.5,
+    10
+   ],
+   "section": "railroad",
+   "headline": "Northern Pacific Time Table.",
+   "text": "BAD LANDS COW BOY,\nBY A. T. PACKARD.\nTHURSDAY, NOVEMBER 26, 1885.\n\nNorthern Pacific Time Table.\n\nWEST BOUND.\nPacific Express, No. 1..........6:47 p. m.\nExpress Freight, 2d Class......8:59 p. m.\nFreight, 3d Class..............11:40 a. m.\n\nEAST BOUND.\nAtlantic Express, No. 2........8:43 a. m.\nExpress Freight, 3d Class......1:15 p. m.\nFreight, 3rd Class.............1:50 a. m.\n\nJ. N. MAXWELL, Agent.",
+   "summary": "Local-page heading and the Northern Pacific train schedule at Medora.",
+   "people": [
+    "J. N. Maxwell"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a17",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    17,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The pay car passed through Tuesday.",
+   "summary": "The railroad pay car passed through Tuesday.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a18",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    17,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Bob. Roberts started Tuesday for the Black Hills. He will be absent several weeks.",
+   "summary": "Bob Roberts left Tuesday for a several-week stay in the Black Hills.",
+   "people": [
+    "Bob Roberts"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a19",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    19,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Messrs. E. G. and Billy Paddock, Fisher and McGregor are down the river on a hunting trip.",
+   "summary": "The Paddocks, Fisher and McGregor are hunting down the river.",
+   "people": [
+    "E. G. Paddock",
+    "Billy Paddock"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a20",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    21,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "C. A. Spurling formerly operator at Little Missouri, is now agent for the Northwestern at Bruce, Dak.",
+   "summary": "Former Little Missouri operator C. A. Spurling is now Northwestern agent at Bruce.",
+   "people": [
+    "C. A. Spurling"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a21",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    23,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A grand ball is to be given at Dickinson this evening by the firemen of the Missouri Division.",
+   "summary": "Missouri Division firemen give a ball at Dickinson tonight.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a22",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    25,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Wm. VanDriesche has made another addition to his flock of pigeons, by the purchase of a pair of beautiful fan-tail doves.",
+   "summary": "Wm. VanDriesche added fan-tail doves to his pigeon flock.",
+   "people": [
+    "Wm. VanDriesche"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a23",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    27,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Supt. Green passed through Medora yesterday morning in his new car, which is now one of the handiest on the road.",
+   "summary": "Supt. Green passed through Medora in his new car.",
+   "people": [
+    "Supt. Green"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a24",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    29,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Route agent Stedman of the Wells-Fargo express Co., was here this week, looking after the interests of the company he so ably represents.",
+   "summary": "Wells-Fargo route agent Stedman visited this week.",
+   "people": [
+    "Stedman"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a25",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    31,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "M. G. Hall, for a long time Ass't. Sup't. of the N. P. Express Co. has resigned his position to take the agency of the same company at St. Paul.",
+   "summary": "M. G. Hall left the assistant superintendency of the N. P. Express Co. for its St. Paul agency.",
+   "people": [
+    "M. G. Hall"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a26",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    33,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Henry Bennett recently killed a fine silver-tipped bear at the mouth of Magpie creek. The most of them are now hived up in winter quarters.",
+   "summary": "Henry Bennett killed a silver-tip bear at the mouth of Magpie creek.",
+   "people": [
+    "Henry Bennett"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a27",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    36,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Norman G. Dakin, a boy-hood friend of the editor, made us a pleasant call Tuesday night. He is travelling for the Bissell plow Co. of South Bend, Ind.",
+   "summary": "Norman G. Dakin, a boyhood friend of the editor, called Tuesday night.",
+   "people": [
+    "Norman G. Dakin",
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a28",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    39,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The petitions for county organization have been pronounced sufficient by Governor Pierce and progress will be made as fast as the law allows.",
+   "summary": "Gov. Pierce found the county-organization petitions sufficient.",
+   "people": [
+    "Gilbert A. Pierce"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a29",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    41,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "W. G. Taylor left on yesterday's train to accept an agency on the Fremont, Elk Horn & Missouri Valley railroad. R. J. Curran of Miles City takes his place here as day operator.",
+   "summary": "W. G. Taylor left for a railroad agency; R. J. Curran of Miles City replaces him as day operator.",
+   "people": [
+    "W. G. Taylor",
+    "R. J. Curran"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a30",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    44,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Howard Eaton reports that the Indian band who were thought to have left for their reservation, are still down the river. They are back in the Bad Lands and since the party went down the river to remove them, have caused no trouble.",
+   "summary": "Howard Eaton reports the Indian band is still in the Bad Lands down river, causing no trouble.",
+   "people": [
+    "Howard Eaton"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a31",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    48,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The Marquis returned Monday from his hunting trip down the river. He had good luck with deer and antelope, but did not succeed in getting a mountain-sheep or bear. He leaves in a couple of weeks for New York, to be gone until the last of February.",
+   "summary": "The Marquis de Morès returned Monday from a hunt and will soon leave for New York until late February.",
+   "people": [
+    "Marquis de Morès"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a32",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    51,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "It is rumored that the new house now going up by the Catholic church, will soon be occupied by C. F. Ellison and wife. We hope the rumor will prove correct as Medora is in need of just such young business men as Mr. Ellison.",
+   "summary": "A new house going up near the Catholic church is rumored to be for C. F. Ellison and wife.",
+   "people": [
+    "C. F. Ellison"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a33",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    56,
+    13.5,
+    5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "And now it is Fred Banan's turn to cast single blessedness behind him and enter upon married life. Miss Georgiana Jordan is the happy bride and together, the newly married couple are sure of the happiness so earnestly wished them by all their friends. The ceremony takes place at Dickinson to-day.",
+   "summary": "Fred Banan marries Miss Georgiana Jordan at Dickinson today.",
+   "people": [
+    "Fred Banan",
+    "Georgiana Jordan"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a34",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    60,
+    13.5,
+    5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The sale of J. B. Walker's effects took place yesterday morning in the hall building. Everything sold at a high price and enough was realized to pay the labor bills. It was rumored that Walker had been seen in Helena, but as he had attractions in the east, he is probably there now.",
+   "summary": "J. B. Walker's effects were sold to pay labor bills; Walker himself is believed gone east.",
+   "people": [
+    "J. B. Walker"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a35",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    65,
+    13.5,
+    6
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "There is scarcely any diminution in the number of people suffering from small pox in Canada and in several places the disease is spreading across the line. A few cases have been reported along the line of the N. P. in Dakota. In view of these facts it behooves every man, woman and child to be vaccinated and that immediately. A slight cost and a temporary inconvenience are liable to save many lives.",
+   "summary": "The paper urges immediate vaccination as smallpox spreads from Canada to the N. P. line.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a36",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    71,
+    13.5,
+    6
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Considerable game is brougt in by hunters and shipped east. Owing to the low price in St. Paul, however, none of the hunters are making anything. The game is also getting scarce in contrast with former years and the hunters have to earn every cent they make. We learn that immense quantities are being shipped from Dickinson and other points along the line and this supply, together with that killed in Minnesota, keeps the St. Paul market flooded.",
+   "summary": "Market hunters ship game east but earn little because the St. Paul market is glutted.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a37",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    76,
+    13.5,
+    7
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "About the only instance on record in which mountain sheep have been herded, occurred recently on the Yellowstone divide. A flock were found on top of a high butte to which there was but one ascent, by the cook of a hunting party. He had no gun and there being no other person in camp, he jumped on a horse and by a little riding, kept the flock on the butte for several hours, until one of the hunting party returned when three of the sheep were killed. To those who know the nature of mountain sheep, the idea of herding as mentioned is about as unique as herding a flock of wild geese.",
+   "summary": "A hunting-party cook \"herded\" mountain sheep on a butte on the Yellowstone divide.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a38",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    86,
+    13.5,
+    8
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "S. G. Miller, mentioned in our last issue as being here in the interests of a railroad project from Medora to the Hills, started east yesterday morning and will go into Deadwood via Chadron, he being afraid of the trip across country from here. Nothing was decided about the road before he left, but he is more firmly convinced than ever that the plan is not only feasible but will result in large profit to the builders. In the course of time there will surely be a branch of the Northern Pacific running into the Hills and we expect to see it start from Medora.",
+   "summary": "S. G. Miller, promoting a Medora–Black Hills railroad, left for Deadwood via Chadron.",
+   "people": [
+    "S. G. Miller"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a39",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    21.5,
+    7,
+    13,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Monday, it looked as though winter was almost at hand, but now the prophets think we will have more good weather.",
+   "summary": "Wintry weather Monday gave way to milder conditions.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a40",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    21.5,
+    10,
+    13,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mrs. James Wishart, wife of the well-known freighter, and who drove a string-team with the grace of a true mule-skinner, died a short time since in Deadwood. She was here several times last summer with her husband.",
+   "summary": "Mrs. James Wishart, a freighter's wife known for driving a string team, died in Deadwood.",
+   "people": [
+    "Mrs. James Wishart",
+    "James Wishart"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a41",
+   "page": 4,
+   "cols": "2-7",
+   "region": [
+    21.5,
+    7,
+    78.5,
+    92
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Meat Market!, Willard & Keeler, Props. — \"We have opened a first-class meat market in the building formerly occupied by Chas. Cook\"; Cash Paid for Game!\nE. J. Owenhouse, Bozeman, Mont. — stock saddles, Concord harness, bits and spurs, chaparejos, reatas, quirts\nStoves and Hardware Cheap! — McDougal & Gunn, Mandan, Dak.\nCity Drug Store!!, Medora, Dak. — drugs, patent medicines, stationery; H. M. Jorgens, Proprietor\nFreighters Attention! — take your watch to the King jeweler, Spearfish or Deadwood\nFor Sale: base burner hard coal stove, Fuller & Warren — D. K. Wade, Medora, Dak.\nDuncan & Hilles, Furniture, Hager Block, Mandan\nEdick Bros., cigars and tobacco, 64 Main Street, Bismarck, Dak.\nHayward Hand Grenade fire extinguisher, 407 Broadway, N. Y.\nMerwin, Hulbert & Co., revolvers and American Metallic Cartridges, New York\nStudebaker farm and freight wagons, buckboards — A. T. Packard, Agent, Medora, Dak.\nNorthern Pacific Railroad, the direct line between St. Paul, Minneapolis or Duluth and the Pacific Northwest — Chas. S. Fee, Gen'l Passenger Agent, St. Paul\nMinneapolis & St. Louis R'y, \"Famous Albert Lea Route\"\nBrand: Medora Stage & F. Co. — Y on left shoulder; horses strung on stage stations between Medora and Deadwood; $25 reward\nBrand: Chase & Gilmore's Ranch, Chase & Fry, Managers, Dickinson — #7; range Cherry creek and Little Missouri (winter), Killdeer Mountains (summer); horse brand mule shoe bar\nBrand: Thomas & Arnett, J. B. Thomas (Cheyenne, Wyo.) and A. H. Arnett (Dickinson) — ΛHΛ; range Little Missouri west of Killdeer Mts.; horse brand VH\nBrand: E. W. Casey, Frank S. Moore, Manager, P.O. Medora — KC and F; range O'Donnell creek\nBrand: Sloping Bottom Ranch, Lloyd Roberts, Proprietor, P.O. Medora — range Little Missouri 7 mi S of N. P. R. R.\nBrand: Badger Cattle Company, Howard Eaton, M'g'r, P.O. Medora — VI; range Beaver creek and Little Missouri river\nBrand: Dorr Clark, Spearfish, Dakota — VVV; range Belle Fourche\nBrand: Clark & Plum, Spearfish, Dakota — E6; range Grand river; $100 reward re VVV or E6 ranges\nBrand: Little Missouri Horse Company, H. R. Tarbell, M'n'g'r, Medora — range Davis creek and Little Missouri river\nBrand: W. N. Thompson & Co., Wm. Dantz, Manager, P.O. Medora — quarter-circle diamond TD\nBrand: Lemoyne Cattle Co. (Limited), D. K. Wade, Manager, Medora — LC; range Little Missouri south of the R. R., ranch Tepee bottom\nBrand: Soho Cattle Co., Chas. Eaton, Manager, Medora — SO; range Little Missouri river and Beaver [creek] north of N. P. R. R.\nBrand: Garner Creek Horse Ranch, J. A. VanEeghen, Prop., Medora — VE; range Garner creek, eight miles from mouth\nBrand: Chimney Butte Ranch, Theodore Roosevelt, Proprietor, Ferris & Merrifield, Managers, P.O. Medora — Maltese cross; range six miles south of N. P. R. R. on Little Missouri\nBrand: Bullion Creek Horse Ranch, Jack Bullion, Prop., Medora — range Bullion creek, twenty miles south of Medora\nBrand: N. P. Refrigerator Car Co., Medora — Y; also -H- and 7Z steers bought of Mason & Lovell; range Little Missouri river and Beaver creek\nBrand: Ætna Ranch, Osborne Bros., Managers, P.O. Medora — Æ; range Andrews creek, N of Sentinel Butte\nBrand: Berry, Boice & Co., P.O. Keith, Montana — 777; range south of N. P. R. R. on Little Missouri river and Beaver creek\nBrand: E. G. Paddock, P.O. Medora — circle-dot; range six miles north of crossing of N. P. R. R. and Little Missouri\nBrand: Spring Creek Ranch, L. D. & B. Rumsey, J. L. Truscott, Manager, P.O. Medora — R (rocker) on hip and side; range south of N. P. R. R. on Little Missouri\nBrand: Custer Trail Cattle Co., F. Alden Eaton, Supt., P.O. Medora — HK in circle and others; range Little Missouri river, Deep and Davis creeks\nBrand: Neimmela Ranch, Gregor Lang, Manager, P.O. Medora — thistle; range Keogh crossing of Little Missouri to Pretty butte\nBrand: Bad Lands Cattle Co., M. Wadsworth, Manager, P.O. Medora — 7L, bellows, Pd; range Little Missouri fifteen miles north of Medora\nBrand: Towers & Gudgell, P.O. Keith, Montana — OX; range south of N. P. R. R. on Little Missouri river and Beaver creek",
+   "summary": "Directory of display and cattle-brand advertisements on page 4, including Theodore Roosevelt's Chimney Butte Ranch brand.",
+   "people": [
+    "Theodore Roosevelt",
+    "Sylvane Ferris",
+    "Bill Merrifield",
+    "Howard Eaton",
+    "A. T. Packard",
+    "Gregor Lang",
+    "D. K. Wade",
+    "H. M. Jorgens"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  }
+ ],
+ "events": [
+  {
+   "id": "e1",
+   "date": "1885-11-24",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday\" before Thu 26 Nov 1885",
+   "planned": false,
+   "title": "Railroad pay car passes through Medora",
+   "summary": "The Northern Pacific pay car passed through.",
+   "excerpt": "The pay car passed through Tuesday.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a17",
+   "confidence": "high"
+  },
+  {
+   "id": "e2",
+   "date": "1885-11-24",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday\" before Thu 26 Nov 1885",
+   "planned": false,
+   "title": "Bob Roberts leaves for the Black Hills",
+   "summary": "Bob Roberts set out for the Black Hills, expecting to be away several weeks.",
+   "excerpt": "Bob. Roberts started Tuesday for the Black Hills.",
+   "people": [
+    "Bob Roberts"
+   ],
+   "places": [
+    "Medora",
+    "Black Hills"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a18",
+   "confidence": "high"
+  },
+  {
+   "id": "e3",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 26 Nov 1885 issue",
+   "planned": false,
+   "title": "Paddocks, Fisher and McGregor on hunting trip down the river",
+   "summary": "E. G. and Billy Paddock, Fisher and McGregor were hunting down the Little Missouri.",
+   "excerpt": "are down the river on a hunting trip.",
+   "people": [
+    "E. G. Paddock",
+    "Billy Paddock"
+   ],
+   "places": [
+    "Little Missouri River"
+   ],
+   "tags": [
+    "hunting"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a19",
+   "confidence": "high"
+  },
+  {
+   "id": "e4",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 26 Nov 1885 issue",
+   "planned": false,
+   "title": "Former Little Missouri operator C. A. Spurling now agent at Bruce",
+   "summary": "C. A. Spurling, once telegraph operator at Little Missouri, was reported as Northwestern agent at Bruce, Dakota.",
+   "excerpt": "C. A. Spurling formerly operator at Little Missouri, is now agent for the Northwestern at Bruce, Dak.",
+   "people": [
+    "C. A. Spurling"
+   ],
+   "places": [
+    "Little Missouri",
+    "Bruce, Dakota"
+   ],
+   "tags": [
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a20",
+   "confidence": "medium"
+  },
+  {
+   "id": "e5",
+   "date": "1885-11-26",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"this evening\", issue date Thu 26 Nov 1885",
+   "planned": true,
+   "title": "Railroad firemen's ball at Dickinson",
+   "summary": "The firemen of the Northern Pacific's Missouri Division were to give a grand ball at Dickinson.",
+   "excerpt": "A grand ball is to be given at Dickinson this evening by the firemen of the Missouri Division.",
+   "people": [],
+   "places": [
+    "Dickinson"
+   ],
+   "tags": [
+    "social",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a21",
+   "confidence": "high"
+  },
+  {
+   "id": "e6",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 26 Nov 1885 issue",
+   "planned": false,
+   "title": "Wm. VanDriesche adds fan-tail doves to his pigeon flock",
+   "summary": "Wm. VanDriesche bought a pair of fan-tail doves for his flock of pigeons.",
+   "excerpt": "by the purchase of a pair of beautiful fan-tail doves.",
+   "people": [
+    "Wm. VanDriesche"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a22",
+   "confidence": "high"
+  },
+  {
+   "id": "e7",
+   "date": "1885-11-25",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday\" before Thu 26 Nov 1885",
+   "planned": false,
+   "title": "Supt. Green passes through Medora in his new car",
+   "summary": "Railroad superintendent Green passed through Medora in his new private car.",
+   "excerpt": "Supt. Green passed through Medora yesterday morning in his new car",
+   "people": [
+    "Supt. Green"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "railroad",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a23",
+   "confidence": "high"
+  },
+  {
+   "id": "e8",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "week",
+   "date_basis": "\"this week\"; week before Thu 26 Nov 1885 issue",
+   "planned": false,
+   "title": "Wells-Fargo route agent Stedman visits Medora",
+   "summary": "Route agent Stedman of the Wells-Fargo express company was in Medora looking after company business.",
+   "excerpt": "Route agent Stedman of the Wells-Fargo express Co., was here this week",
+   "people": [
+    "Stedman"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a24",
+   "confidence": "high"
+  },
+  {
+   "id": "e9",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "approx",
+   "date_basis": "\"recently\"; set to week before Thu 26 Nov 1885",
+   "planned": false,
+   "title": "Henry Bennett kills a silver-tip bear at Magpie creek",
+   "summary": "Henry Bennett killed a silver-tipped bear at the mouth of Magpie creek.",
+   "excerpt": "Henry Bennett recently killed a fine silver-tipped bear at the mouth of Magpie creek.",
+   "people": [
+    "Henry Bennett"
+   ],
+   "places": [
+    "Magpie Creek"
+   ],
+   "tags": [
+    "hunting",
+    "wildlife"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a26",
+   "confidence": "high"
+  },
+  {
+   "id": "e10",
+   "date": "1885-11-24",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday night\" before Thu 26 Nov 1885",
+   "planned": false,
+   "title": "Norman G. Dakin calls on editor Packard",
+   "summary": "Norman G. Dakin, a boyhood friend of A. T. Packard travelling for the Bissell plow company, called at the Cow Boy.",
+   "excerpt": "Norman G. Dakin, a boy-hood friend of the editor, made us a pleasant call Tuesday night.",
+   "people": [
+    "Norman G. Dakin",
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a27",
+   "confidence": "high"
+  },
+  {
+   "id": "e11",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 26 Nov 1885 issue",
+   "planned": false,
+   "title": "Governor Pierce finds county organization petitions sufficient",
+   "summary": "Governor Gilbert A. Pierce pronounced the petitions for county organization sufficient.",
+   "excerpt": "The petitions for county organization have been pronounced sufficient by Governor Pierce",
+   "people": [
+    "Gilbert A. Pierce"
+   ],
+   "places": [
+    "Billings County"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a28",
+   "confidence": "high"
+  },
+  {
+   "id": "e12",
+   "date": "1885-11-25",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday's train\" before Thu 26 Nov 1885",
+   "planned": false,
+   "title": "Operator W. G. Taylor leaves; R. J. Curran takes over",
+   "summary": "W. G. Taylor left Medora for an agency on the Fremont, Elk Horn & Missouri Valley railroad; R. J. Curran of Miles City became day operator.",
+   "excerpt": "R. J. Curran of Miles City takes his place here as day operator.",
+   "people": [
+    "W. G. Taylor",
+    "R. J. Curran"
+   ],
+   "places": [
+    "Medora",
+    "Miles City"
+   ],
+   "tags": [
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a29",
+   "confidence": "high"
+  },
+  {
+   "id": "e13",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 26 Nov 1885 issue",
+   "planned": false,
+   "title": "Indian band still camped in the Bad Lands",
+   "summary": "Howard Eaton reported that an Indian band thought to have gone back to its reservation was still down the river in the Bad Lands, causing no trouble since a party went to remove them.",
+   "excerpt": "They are back in the Bad Lands and since the party went down the river to remove them, have caused no trouble.",
+   "people": [
+    "Howard Eaton"
+   ],
+   "places": [
+    "Little Missouri River",
+    "Bad Lands"
+   ],
+   "tags": [
+    "Native-Americans"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a30",
+   "confidence": "high"
+  },
+  {
+   "id": "e14",
+   "date": "1885-11-23",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 26 Nov 1885",
+   "planned": false,
+   "title": "Marquis de Morès returns from hunting trip",
+   "summary": "The Marquis returned from a hunt down the river with deer and antelope but no mountain sheep or bear.",
+   "excerpt": "The Marquis returned Monday from his hunting trip down the river. He had good luck with deer and antelope",
+   "people": [
+    "Marquis de Morès"
+   ],
+   "places": [
+    "Medora",
+    "Little Missouri River"
+   ],
+   "tags": [
+    "mores",
+    "hunting"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a31",
+   "confidence": "high"
+  },
+  {
+   "id": "e15",
+   "date": "1885-12-10",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"in a couple of weeks\" after Thu 26 Nov 1885",
+   "planned": true,
+   "title": "Marquis de Morès to leave for New York until February",
+   "summary": "The Marquis planned to leave for New York in about two weeks and stay until the end of February.",
+   "excerpt": "He leaves in a couple of weeks for New York, to be gone until the last of February.",
+   "people": [
+    "Marquis de Morès"
+   ],
+   "places": [
+    "Medora",
+    "New York"
+   ],
+   "tags": [
+    "mores"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a31",
+   "confidence": "high"
+  },
+  {
+   "id": "e16",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 26 Nov 1885 issue",
+   "planned": false,
+   "title": "New house going up near the Catholic church",
+   "summary": "A new house was going up by the Catholic church, rumored to be for C. F. Ellison and his wife.",
+   "excerpt": "the new house now going up by the Catholic church, will soon be occupied by C. F. Ellison and wife.",
+   "people": [
+    "C. F. Ellison"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "building"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a32",
+   "confidence": "medium"
+  },
+  {
+   "id": "e17",
+   "date": "1885-11-26",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"to-day\", issue date Thu 26 Nov 1885",
+   "planned": true,
+   "title": "Fred Banan marries Georgiana Jordan at Dickinson",
+   "summary": "Fred Banan and Miss Georgiana Jordan were to be married at Dickinson.",
+   "excerpt": "Miss Georgiana Jordan is the happy bride ... The ceremony takes place at Dickinson to-day.",
+   "people": [
+    "Fred Banan",
+    "Georgiana Jordan"
+   ],
+   "places": [
+    "Dickinson"
+   ],
+   "tags": [
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a33",
+   "confidence": "medium"
+  },
+  {
+   "id": "e18",
+   "date": "1885-11-25",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday morning\" before Thu 26 Nov 1885",
+   "planned": false,
+   "title": "Sale of J. B. Walker's effects pays labor bills",
+   "summary": "J. B. Walker's effects were sold in the hall building; prices were high and enough was realized to pay the labor bills. Walker was rumored to have been seen in Helena.",
+   "excerpt": "Everything sold at a high price and enough was realized to pay the labor bills.",
+   "people": [
+    "J. B. Walker"
+   ],
+   "places": [
+    "Medora",
+    "Helena"
+   ],
+   "tags": [
+    "business",
+    "courts"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a34",
+   "confidence": "high"
+  },
+  {
+   "id": "e19",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 26 Nov 1885 issue",
+   "planned": false,
+   "title": "Cow Boy urges vaccination as smallpox nears",
+   "summary": "With smallpox spreading from Canada and a few cases reported along the N. P. line in Dakota, the paper urged everyone to be vaccinated at once.",
+   "excerpt": "it behooves every man, woman and child to be vaccinated and that immediately.",
+   "people": [],
+   "places": [
+    "Dakota",
+    "Canada"
+   ],
+   "tags": [
+    "health"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a35",
+   "confidence": "high"
+  },
+  {
+   "id": "e20",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 26 Nov 1885 issue",
+   "planned": false,
+   "title": "Game shipped east but hunters earn little",
+   "summary": "Hunters were shipping considerable game east, but low St. Paul prices left them little profit, and game was getting scarce.",
+   "excerpt": "Owing to the low price in St. Paul, however, none of the hunters are making anything.",
+   "people": [],
+   "places": [
+    "Dickinson",
+    "St. Paul"
+   ],
+   "tags": [
+    "hunting",
+    "wildlife",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a36",
+   "confidence": "high"
+  },
+  {
+   "id": "e21",
+   "date": "1885-11-25",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday morning\" before Thu 26 Nov 1885",
+   "planned": false,
+   "title": "S. G. Miller leaves after promoting Medora–Black Hills railroad",
+   "summary": "S. G. Miller, promoting a railroad from Medora to the Black Hills, left for Deadwood by way of Chadron; nothing was decided, but he remained confident in the plan.",
+   "excerpt": "Nothing was decided about the road before he left, but he is more firmly convinced than ever that the plan is not only feasible",
+   "people": [
+    "S. G. Miller"
+   ],
+   "places": [
+    "Medora",
+    "Deadwood",
+    "Chadron",
+    "Black Hills"
+   ],
+   "tags": [
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a38",
+   "confidence": "high"
+  },
+  {
+   "id": "e22",
+   "date": "1885-11-23",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 26 Nov 1885",
+   "planned": false,
+   "title": "Wintry weather Monday, then milder",
+   "summary": "Monday looked like the start of winter, but more good weather was expected.",
+   "excerpt": "Monday, it looked as though winter was almost at hand",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a39",
+   "confidence": "high"
+  },
+  {
+   "id": "e23",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "approx",
+   "date_basis": "\"a short time since\"; set to week before Thu 26 Nov 1885",
+   "planned": false,
+   "title": "Death of Mrs. James Wishart in Deadwood",
+   "summary": "Mrs. James Wishart, wife of a well-known freighter, who drove a string team herself and had visited Medora with her husband the previous summer, died in Deadwood.",
+   "excerpt": "who drove a string-team with the grace of a true mule-skinner, died a short time since in Deadwood.",
+   "people": [
+    "Mrs. James Wishart",
+    "James Wishart"
+   ],
+   "places": [
+    "Deadwood",
+    "Medora"
+   ],
+   "tags": [
+    "deaths",
+    "stage"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a40",
+   "confidence": "medium"
+  },
+  {
+   "id": "e24",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 26 Nov 1885 issue",
+   "planned": false,
+   "title": "Willard & Keeler open meat market in former Chas. Cook building",
+   "summary": "Willard & Keeler advertised a new first-class meat market in the building formerly occupied by Chas. Cook, paying cash for game.",
+   "excerpt": "We have opened a first-class meat market in the building formerly occupied by Chas. Cook",
+   "people": [
+    "Willard",
+    "Keeler",
+    "Chas. Cook"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a41",
+   "confidence": "medium"
+  },
+  {
+   "id": "e25",
+   "date": "1885-11-26",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Thanksgiving Day, Thu 26 Nov 1885, named in proclamation",
+   "planned": false,
+   "title": "Thanksgiving Day proclaimed in Dakota",
+   "summary": "Governor Gilbert A. Pierce recommended that Thursday, November 26, be observed throughout the territory with rest and services in church and home.",
+   "excerpt": "I recommend therefore that the day designated by the president, be observed throughout the territory by ceasing from toil",
+   "people": [
+    "Gilbert A. Pierce"
+   ],
+   "places": [
+    "Dakota Territory"
+   ],
+   "tags": [
+    "holidays",
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a4",
+   "confidence": "high"
+  },
+  {
+   "id": "e26",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 26 Nov 1885 issue",
+   "planned": false,
+   "title": "Maltese Cross and other outfits' bulls readied for winter at the Big Plateau",
+   "summary": "The bulls of the quarter-circle diamond, LC and Maltese cross outfits, to be fed over winter at the Big Plateau, were in good condition.",
+   "excerpt": "The bulls of the quarter-circle diamond, LC and Maltese cross outfits, to be fed this winter at the Big Plateau, are now in good fix",
+   "people": [],
+   "places": [
+    "Big Plateau"
+   ],
+   "tags": [
+    "tr",
+    "ranching"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a9",
+   "confidence": "medium"
+  },
+  {
+   "id": "e27",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 26 Nov 1885 issue",
+   "planned": false,
+   "title": "Wolves killing cattle in the Cave Hills country",
+   "summary": "Reports came in of wolves killing cattle in the Cave Hills country; the paper suggested ranches jointly offer bounties for wolf scalps.",
+   "excerpt": "cattle are being killed there by wolves.",
+   "people": [],
+   "places": [
+    "Cave Hills"
+   ],
+   "tags": [
+    "wildlife",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a10",
+   "confidence": "high"
+  },
+  {
+   "id": "e28",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 26 Nov 1885 issue",
+   "planned": false,
+   "title": "Arnett & Thomas begin publishing AHA brand",
+   "summary": "Arnett & Thomas of Dickinson began publishing their AHA brand, ranged on the Little Missouri west of the Killdeer Mountains.",
+   "excerpt": "publish their brand in this issue of the Cow Boy.",
+   "people": [
+    "A. H. Arnett",
+    "J. B. Thomas"
+   ],
+   "places": [
+    "Dickinson",
+    "Killdeer Mountains",
+    "Little Missouri River"
+   ],
+   "tags": [
+    "brands",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a8",
+   "confidence": "high"
+  },
+  {
+   "id": "e29",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 26 Nov 1885 issue",
+   "planned": false,
+   "title": "Roosevelt's Chimney Butte Ranch brand advertised",
+   "summary": "The Cow Boy carried the brand advertisement of the Chimney Butte Ranch, Theodore Roosevelt proprietor, Ferris & Merrifield managers, with its Maltese cross brand.",
+   "excerpt": "CHIMNEY BUTTE RANCH. THEODORE ROOSEVELT, Proprietor. FERRIS & MERRIFIELD, Managers.",
+   "people": [
+    "Theodore Roosevelt",
+    "Sylvane Ferris",
+    "Bill Merrifield"
+   ],
+   "places": [
+    "Chimney Butte Ranch",
+    "Little Missouri River"
+   ],
+   "tags": [
+    "tr",
+    "brands",
+    "ranching"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a41",
+   "confidence": "high"
+  },
+  {
+   "id": "e30",
+   "date": "1885-11-19",
+   "date_end": "1885-11-26",
+   "date_precision": "approx",
+   "date_basis": "reprinted visit, no date given; set to week before Thu 26 Nov 1885",
+   "planned": false,
+   "title": "Visitor C. W. Wilcox describes Medora and the burning mines",
+   "summary": "A reprinted Minneapolis Tribune letter by C. W. Wilcox described Medora from the bluff, the de Morès abattoir and residence, Cedar Canon and the burning coal mines.",
+   "excerpt": "The most conspicuous object is the group of buildings comprised in the slaughtering establishment of the Marquis de Mores.",
+   "people": [
+    "C. W. Wilcox",
+    "Marquis de Morès"
+   ],
+   "places": [
+    "Medora",
+    "Cedar Canon",
+    "burning mines"
+   ],
+   "tags": [
+    "visitors",
+    "coal",
+    "fire",
+    "mores",
+    "press"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a13",
+   "confidence": "medium"
+  }
+ ]
+}

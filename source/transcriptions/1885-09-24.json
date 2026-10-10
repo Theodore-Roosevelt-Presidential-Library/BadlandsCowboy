@@ -1,0 +1,1907 @@
+{
+ "date": "1885-09-24",
+ "masthead": "Thursday, September 24, 1885",
+ "volume": "Vol. 2, No. 34",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "cols 1-3 business cards and display ads; cols 4-6 local editorials, local news, stock notes, range news; col 6 also reprints (hide article, humor sketch, Jamestown Capital item with reply)"
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "ready-print inside page with Cow Boy heading; Sioux Falls convention telegrams and national miscellany; col 7 carries wire report of De Mores trial (transcribed)"
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "patent-medicine ads, fiction, miscellany, market reports"
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "col 1 local masthead, NP time table, local items, sheriff's sale notice; col 2 local items and classifieds; cols 3-7 general store, railroad, drug store ads and cattle/horse brand ads"
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "1",
+   "region": [
+    2,
+    11,
+    15,
+    10
+   ],
+   "section": "masthead",
+   "headline": "Bad Lands Cow Boy, By A. T. Packard.",
+   "text": "Volume 2, Number 34. Medora, Dakota, September 24, 1885. Price $2.00 per Year.\n\nThe Cow Boy is not published for fun, but for $2 per year.\nAdvertising Rates made known on application.\nStanding Advertisements payable quarterly.\nTransient Advertisements and all Job work, money in sight.\nAddress all communications to THE BAD LANDS COW BOY, MEDORA, DAKOTA.\n\nEntered at the post-office at Medora, Dak., as second class mail matter.",
+   "summary": "Masthead and terms of the Bad Lands Cow Boy, Vol. 2, No. 34.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a2",
+   "page": 1,
+   "cols": "1-3",
+   "region": [
+    2,
+    12,
+    50,
+    85
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "A. D. Carpenter, Attorney, Dickinson, Dak.\nW. B. Coyle, M. D., Physician and Surgeon (Late A. A. Surgeon, U. S. A.), Belfield, Dak.\nA. T. Packard, Notary Public, Medora, Dak.\nF. E. Benjamin, Jeweler and Watchmaker, Mandan, Dakota — \"Repairing of all kinds promptly executed\"\nFirst National Bank of Mandan, Dakota — H. R. Lyon, Prest.; M. VanVleck, Jr., Cashier; M. Lang, Vice President; paid-up capital $50,000, surplus $15,000\nDan. McKenzie, Blacksmithing and Horse-Shoeing, Medora, Dak.\nM. Kline, Cigar Maker, Mandan, Dakota — smoking and chewing tobacco and smokers' articles\nTuttle & Howe, Dealers in Live Stock, Clear Lake, Iowa — \"We make a specialty of furnishing cattle for western ranches\"\nD. Flynn, Manufacturer and dealer in Boots, Shoes, Rubbers, Etc., Main Street, Mandan\nInsurance! — Policies issued at regular Eastern rates against Fire, Lightning, Wind Storms and Hail; A. T. Packard, Agent, Medora, Dak.\nNorthern Pacific Hotel!! — Arch. Boyd, Prop.; \"New hotel! New proprietor! New furniture! New rooms!\"\nNew Store! New Goods! New Prices!! — branch store at Medora, men's and boys' clothing, boots and shoes, etc.; Thomas W. Gordon, Manager (buying office 631 Broadway, New York)\nFargo Insurance [company] of Fargo, Dakota — Fire, Lightning, Tornado, Hail; paid-up capital $100,000; W. W. Walker, President; A. D. Collier, Vice President; D. L. Fry, Treasurer; W. A. Lowell, Secretary; A. T. Packard, Agent, Medora, Dakota\nH. F. Fountain, General Merchandise & Ranch Goods, \"Headquarters for Stockmen,\" Mingusville, Montana — agent for J. S. Collins & Co.'s Famous Leather Goods\nJ. S. Collins & Co., branch of the Cheyenne Saddlery House, Miles City, Montana — saddles, chaparejos, reatas, tents, tarpaulins, etc.\nMilwaukee Brewing Company, proprietors of the Bismarck Brewery — Keg & Bottled Beer; Fred Miller, Pres.; Geo. Eckhardt, Treas.; John Leokler [?], Sec.; Bismarck, Dak.\nEdick Bros., manufacturers and jobbers in Cigars and Tobacco, smokers' articles, 64 Main Street, Bismarck, Dak.\nDuncan & Hilles, Furniture, House Furnishing Goods, Hager Block, Mandan\nThe Adams & Westlake Interchangeable Oil, Gas and Gasoline Stoves — Adams & Westlake M'f'g Co., Chicago, New York, Boston\nHardware and Tinware at J. D. Garver's, Medora, Dakota — all kinds of tin and sheet-iron articles made and repaired",
+   "summary": "Directory of display advertisers on page 1.",
+   "people": [
+    "A. T. Packard",
+    "Arch. Boyd",
+    "Thomas W. Gordon",
+    "H. F. Fountain",
+    "J. D. Garver"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a3",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52,
+    13.5,
+    15,
+    4
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "Prosecuting attorney Long, of Morton county, in an interview published in the Mandan Pioneer, again rakes Judge Francis fore and aft. It behooves the judge to deny some of the charges, or resign immediately. We are loath to believe, however, that Francis is as unscrupulous as is claimed and shall give him the benefit of the doubt until he is proven guilty.",
+   "summary": "Packard notes Prosecuting Attorney Long's renewed attack on Judge Francis in the Mandan Pioneer and urges the judge to answer or resign.",
+   "people": [
+    "Long",
+    "Judge Francis"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a4",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52,
+    17.5,
+    15,
+    8
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "We are glad to see that the Stockgrowers' Journal is also willing to state the exact facts in reference to the cow business. If there are any losses, or any unprofitable points come up, we believe that the plain facts should be given to the public. Nothing can be gained by concealment, for the truth is bound to come out at last. The cattle business is undoubtedly the most profitable legitimate business in the world and why some editors wish to \"paint the lily\" by magnifying its profits, is beyond our comprehension.",
+   "summary": "Editorial agreeing with the Stockgrowers' Journal that the plain facts of the cattle business should be published.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a5",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52,
+    25.5,
+    15,
+    8
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The cattle are by this time nearly out of the Cheyenne and Arapahoe reservations in Indian Territory. As long as the authorities at Washington are satisfied that cattlemen in these sections are acting in good faith, no penalty will be inflicted on account of the forty-day limit being stretched. An official telegram received at Washington Tuesday stated that there are about 25,000 cattle on the reservations now and that they will be removed within thirty days.",
+   "summary": "Cattle are nearly cleared from the Cheyenne and Arapahoe reservations in Indian Territory.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a6",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52,
+    33.5,
+    15,
+    10
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Suits and counter suits have arisen over the cattle trail troubles and the end unless delayed too long or finally allowed to die a natural death, will be interesting. Messers Blocker, Campbell Pugsley, Donahoe & Fleming, Bennett & West Bros. Webber, C. A. Pugsley, Ringo Williams & Brown, Dowling, Vaughn Carrigan, Creswell, J. W. Driskill, Davis Childers and Pryor Bros. have all been indicted for driving Texas cattle, infected with Texas fever, into the Indian Territory and through the imbroved herds in northern part of the Territory. The first six men and firms mentioned above have brought counter-suits for causing the stoppage of their cattle in Indian Territory for an aggregate amount of $317,500.",
+   "summary": "Texas trail drivers indicted for bringing fever-infected cattle into Indian Territory have filed counter-suits totaling $317,500.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a7",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52,
+    43.5,
+    15,
+    15
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "It is now finally decided that the boundary line between Montana and Dakota was located twelve miles too far east. It then behooves the advocates of an honest county organization to get out their pencils and figure some more. The additional twelve miles of railroad will bring the taxes from that source up to if not quite $5,500. This will pay the ordinary running expenses of a county organization. In addition, we are credibly informed that Stark county's assessment will be about $4,000. This makes over $9,000, to which must be added the $1,400 we are now paying Morton county for liquor licenses. The whole makes a total of far more than enough to pay the expenses of a county organization. In addition to all this is to be added over $200,000 of taxable property that the changing of the line brings into Billings Co., and we ask any friend of the law, of the common good, of his own pocket book, shall we organize? The answer, taking into consideration everything, must be an almost unanimous affirmative.",
+   "summary": "With the Montana-Dakota line found to be twelve miles too far east, Packard argues the added tax base makes organizing Billings County affordable.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a8",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52,
+    61.5,
+    15,
+    3
+   ],
+   "section": "local",
+   "headline": "Additional Local.",
+   "text": "Peter Book has returned from Miles City, all the brick work there being finished.",
+   "summary": "Peter Book back from Miles City after finishing brick work there.",
+   "people": [
+    "Peter Book"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a9",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52,
+    64.5,
+    15,
+    3.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Dr. Jorgens started for his Cave Hills ranch with his family, last Saturday. They will return in a month or six weeks.",
+   "summary": "Dr. Jorgens and family left for his Cave Hills ranch.",
+   "people": [
+    "Dr. Jorgens"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a10",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52,
+    67.5,
+    15,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "We have received word from Mr. Ingersoll that he is having splendid success with his Bad Lands views. Those already ordered will be at the Cow Boy office for delivery in about three weeks.",
+   "summary": "Photographer Ingersoll reports success with his Bad Lands views, to be delivered at the Cow Boy office.",
+   "people": [
+    "Ingersoll"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a11",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52,
+    71,
+    15,
+    5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The prairie fires on the west extend from Beach to Sentinel Butte and thence south of the track for at least ten miles and it may go fifty before it stops. A movement ought certainly to be made to find the parties responsible for the fire and punish them to the full extent of the law.",
+   "summary": "Prairie fires west of Medora stretch from Beach to Sentinel Butte and south of the track.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a12",
+   "page": 1,
+   "cols": "4",
+   "region": [
+    52,
+    76,
+    15,
+    16
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "The long waiting is finally over and Marquis de Mores is a free man. When the case was given to the jury it took them less than ten minutes to come to a verdict of acquittal. The Marquis is to be congratulated on the result and every true friend of the west will rejoice in his acquittal. There is no one man in Dakota who has done more to develop the west than he, and a conviction in his case would have been a calamity to western Dakota. The merits and demerits of the affair are now set at rest and it would do no good to bring them all to mind. To any who are disposed to cast blame on the Marquis for the killing of Luffsey, we would say, put yourself in his place. Virtually a stranger in a strange land, almost entirely unacquainted with the habits and entiely so with the people, is it strange that he should have adopted fatal measures to protect his life which no one will say he did not believe was in danger? The fact that his life was probably in no real danger has nothing to do with his belief. Any one, situated as he was, would come to the same conclusion. The expenses of the trial hsve been very heavy, but it is probably better that the matter is now finally set at rest.",
+   "summary": "Packard celebrates the jury's acquittal of the Marquis de Mores in the Luffsey killing, reached in under ten minutes.",
+   "people": [
+    "Marquis de Mores",
+    "Riley Luffsey"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a13",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65.5,
+    14,
+    15,
+    6.5
+   ],
+   "section": "range",
+   "headline": "Stock Notes. For Sale.",
+   "text": "Six cows, twelve two-year-old steers, ninety two and three-year-old heifers, nine yearling heifers and two bulls. The stock is all in good condition and is from Minnesota and Iowa. Horses and outfit with cattle, if desired. Stock delivered here. Address,\n\nA. T. PACKARD,\nMedora,\nDakota.",
+   "summary": "Packard offers a small herd of Minnesota and Iowa cattle for sale.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a14",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65.5,
+    20.5,
+    15,
+    13
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The following are the latest cattle quotations in the Chicago market:\nExtra prime beeves........$5.95 @ 6.05\nChoice to fancy shipping,...$5.55 @ 5.90\nGood to choice shipping,....$5.00 @ 5.60\nCommon to good shipping,..$4.20 @ 4.90\nPoor to medium steers,......$3.80 @ 4.45\nFair to choice cows,........$2.00 @ 3.00\nInferior to medium cows...$1.25 @ 2.00\nPoor to choice bulls,........$1.50 @ 2.70\nStockers, 550 to 860 lbs,....$2.40 @ 3.35\nFeeders, 875 to 1,150 lbs,...$3.15 @ 3.85\nGrass-fed Texans...........$2.50 @ 3.60\nSlop-fed cattle.............$5.30 @ 5.85\nNorthern wintered Texans..$2.80 @ 4.25\nNorthern range cattle......$3.00 @ 5.00\nMilch cows, ℔ head,.....$25.00 @ 60.00\nStock calves...............$6.00 @ 15.00\n\nThe Chicago market shows very little change from our last week's report. In only one class, stockers, is there a change of over 10c. The receipts at Chicago last week were 41,000 head, against 36,000 the week before. Two-thirds of the arrivals were Texan and Western cattle. There were but few well-matured beeves, they bringing fully previous prices, while the commoner grades averaged 10c. lower. Montana and Dakota range cattle sold as high as $5; Dakota Texans up to $4.25 and Nebraska and Wyoming Texans averaged $3.25. A train-load of 1,265 lb Montana cattle sold at $5 and some extra fine Texans brought $4. The market is steady, with an upward tendency. The Liverpool and New York markets were also a trifle higher.",
+   "summary": "Chicago cattle quotations and market report; Montana and Dakota range cattle sold as high as $5.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a15",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65.5,
+    44.5,
+    15,
+    9
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The Little Missouri Horse Co. received a valuable addition to its herd last week. They received a car-load of blooded horses from Pennsylvania, of which the following is a list. One three-year-old stallion, half French coach horse and half Norman, one yearling Norman stallion, three sucking Norman colts and eleven French coach, Norman and standard bred trotting brood mares. The consignment arrived in first-class shape, under the charge of B. Speers, who will break some horses at the Co's. ranch this fall. Messrs. Tarbell and Bond were in town to receive the horses and were highly pleased with them.",
+   "summary": "The Little Missouri Horse Co. received a car-load of blooded Pennsylvania horses.",
+   "people": [
+    "B. Speers",
+    "Tarbell",
+    "Bond"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a16",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65.5,
+    54.5,
+    15,
+    12
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The air has been full of smoke from prairie fires for the last week and from all sides, especially the east, come accounts of serious loss. We think at a moderate estimate, 100,000 bushels of wheat and oats have been burned, besides houses, agricultural implements, etc. It seems that in most cases, not even the most ordinary precautions have been taken to guard against fire. An ordinary double furrow, will stop a prairie fire nine times out of ten. Two double furrows, fifteen or twenty feet apart, with the grass burned between, will stop any prairie fire that ever existed. Such criminal carelessness as allowing a wheat or oat stack to remain in a stubble field or prairie, without such a simple and effective protection as a furrow or two, is hard to explain. The recent losses will prove a serious but instructive lesson to the grangers.",
+   "summary": "Smoke from prairie fires has filled the air for a week; Packard estimates 100,000 bushels of grain burned and urges fire furrows.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a17",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65.5,
+    66,
+    15,
+    13
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "During their recent beef round-up, the Bad Lands cattle Co. branded the following stock:\nSeven Maltese cross calves,\nSix Elkhorn calves and eleven Elkhorn yearlings,\nFour VI calves,\nOne SOHO calf,\nOne TD (on side) calf,\nOne 76 (monogram) bar calf,\nOne KC F calf,\nOne B [brand with bar beneath?] [calf?] and\nThree quarter circle diamond calves.\n\nThe above action inaugurates a new movement among our cowmen and one that we hope to see gonerally followed hereafter. It gives cattle owners a feeling of greater confidence to know that others are also looking after their interests. It will also join the members of the Association together more firmly for the common good and cultivate a feeling of confidence in each other that is now too often lacking. We suggest that other outfits following this plan, send their lists to the Cow Boy for publication also.",
+   "summary": "During its beef round-up the Bad Lands Cattle Co. branded strays of other outfits, including Maltese cross and Elkhorn calves, and published the list.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a18",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65.5,
+    80,
+    15,
+    8
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Measers, Small, of Glendive, and DuVal, a stock holder in the LeMoyne cattle Co., were here Monday. It has been decided not to remove the L C herd this fall and on account of the overstocking of the North Yellowstone ranges we consider it likely that they will range where they are at present or somewhere else in the Bad Lands.",
+   "summary": "Small of Glendive and DuVal of the LeMoyne Cattle Co. visited; the LC herd will not be moved this fall.",
+   "people": [
+    "Small",
+    "DuVal"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a19",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    65.5,
+    88,
+    15,
+    4
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Over 50,000 cattle have been driven this season to the ranges north of the Yellowstone and already they are becoming so crowded that several outfits are looking for new locations.",
+   "summary": "Ranges north of the Yellowstone are crowded after 50,000 cattle were driven in this season.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a20",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    79,
+    13,
+    15.5,
+    22
+   ],
+   "section": "range",
+   "headline": "How to Take off a Hide.",
+   "text": "The hides of farm-slaughtered animals have a poor reputation, because of the careless way in which they are stripped. Calf skins and sheep-pelts are reduced one-half in value by being cut and gashed, and improperly stretched. When a hide is stripped off, it should be stretched at once, and pegged out to dry, with the flesh side upward. If it is rolled up, or thrown into a heap and left to dry in that shape, it is so mean-looking that a buyer will offer only half its real value. A few hints in regard to taking off a hide, may be useful. The throat should never be slit cross-wise, either in killing or taking off a hide. The skin is slit from the chin down the brisket, in a straight line to the tail; it is then cut around each hoof; the hind legs are slit behind over the gambrel, but the fore legs are slit up in front, over the knees. This leaves the skin in good shape for finishing the leather. The head and legs are first carefully skinned, and all cutting of the skin is avoided. The skin is then easily drawn off by taking hold of it firmly, and pulling it steadily. It is then spread out evenly on a floor, and salted with fine salt. If there is but one, it is best to take it out as soon as the salt has taken, and dry at once in a cool, shaded place. If there are more than one, they are laid upon each other and salted quite freely, and afterward are thoroughly dried. If the skins are to be kept on hand, they should be closely watched for moths or grubs.--[Montana L. S. Journal.",
+   "summary": "Reprinted advice from the Montana Live Stock Journal on skinning and curing hides.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a21",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    79,
+    35,
+    15.5,
+    43
+   ],
+   "section": "local",
+   "headline": "A Chinaman Who Was Up to Snuff.",
+   "text": "[Reprinted humorous sketch, credited \"[American Sports,\" about Mr. Mulcahey's game bantam and laundryman Ah Jim Wo's Shanghai rooster in a Mott street tenement, New York. Not local; not transcribed.]",
+   "summary": "Reprinted New York humor sketch credited to American Sports; not transcribed.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a22",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    79,
+    79,
+    15.5,
+    15
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "If the \"Dakota Blizzard\" of Casselton, would consolidate with the \"weekly Ozone,\" of Steele, and the \"BAD LANDS COW BOY,\" of Medora, with the \"Dakota Siftings,\" of Minnewaukan, what a team they would make. Just think of it! The daily \"Ozone Blizzard,\" what a dose that would be. And worse still, the daily \"Cow Boy-Siftings,\" or rather the \"Cow Boy Sifter,\" for the cow boys are said to be fond of making \"sifters\" of all obstinate people who don't agree with them. There is no accounting for newspaper men's taste for startling and gorgeous names.--[Jamestown Capital.\n\nWe readily admit that the name of our paper has a sensational side but we did not originate it with that end in view at all. There is really no more appropriate name for a paper in the world than the BAD LANDS COW BOY. The first part designates the place of publication, in the heart of the Bad Lands; the second certainly carries the true impression, that it deals mainly in cattle news. Editors are requested to look at this side of the mirror in the future.",
+   "summary": "Packard reprints the Jamestown Capital's joke about Dakota newspaper names and defends the name Bad Lands Cow Boy.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a23",
+   "page": 2,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": null,
+   "summary": "Ready-print inside page headed \"The Bad Lands Cow Boy, A. T. Packard, Publisher, Medora, Dakota\": general national editorial paragraphs, long Sioux Falls (South Dakota) constitutional convention telegrams, Senator Sabin interview, Masonic officers, and the death of Jumbo the elephant; also a wire report of the De Mores trial (transcribed separately).",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a24",
+   "page": 2,
+   "cols": "7",
+   "region": [
+    81.5,
+    9,
+    15.5,
+    37
+   ],
+   "section": "legal",
+   "headline": "A Lawyer Jailed by a Judge.",
+   "text": "At the trial of the Marquis de Mores [at?] Bismarck, a remarkable incident occurred which illustrates the hostile feeling existing between Judge Francis and some of the members of the bar. A correspondent says: Several witnesses had been examined. Irvine Kinley and Frank Pecket testified to having heard Luffsey and companions threaten De Mores' life. Justice Mark Bateman testified concerning the examination in his court and his discharge of De Mores on the ground that Luffsey was killed in self-defense and when resisting arrest. Howard Eaton testified that he was sent by De Mores to meet Sheriff Harmon, warn him that the Luffsey party would resist arrest, and advise him that De Mores and party would prevent their leaving town. Thomas Carruthers, who was with De Mores' party but some distance away from the place where the firing began, testified that he saw smoke from the first shots, and they were fired by Luffsey and companions. Martin Wadsworth testified regarding O'Donnel's quarrel with De Mores. This witness had been dismissed, when Prosecuting Attorney Long of Mandan called him to his side, and privately asked him if he was the Wadsworth who had accompanied Wannegan to visit De Mores in jail. Being answered yes, Long then asked to be permitted to place Wadsworth again on the stand. Objection was made, and the court ruled that the witness could not be placed on the stand again unless he was called as a witness for the prosecution.\n\nLong undertook to state what he intended to prove, and was called to order, and ordered to take his seat, but continued speaking, when the judge vigorously used his gavel, and threatened to commit him for contempt. In the course of his remarks Long advanced close to the judge, and gesturing with his right hand near to the judge's face, said:\n\nHe came here unwillingly to perform official duty. He had no feeling in the case. He only desired to see a fair and impartial trial. He appeared as a subordinate officer of the court, and was here to assist in the enforcement of substantial justice; that instead of the court extending to him the aid and support which he was entitled under the law to expect, the court had uniformly, during the whole trial, sought to tie the hands of the prosecution and openly aided the defense; that the court had shown by its action in this case that it had determined to aid in the acquittal of the defendant, and that the court would not leave a stone unturned in the accomplishment of such acquittal; that the court throughout had shown a most marked feeling in favor of the defendant and against the prosecution; that the court had sought at every point to embarrass the prosecution and to aid in the acquittal of the defendant.\n\nDuring all this time and for some time after, while Long was still talking, Judge Francis endeavored to silence him by the use of the gavel and by threats to commit him for contempt, but Long dared the judge to commit him and talked himself out, when the judge ordered him in custody, and he was taken to the jail building. The court then took a recess to 2 p. m.\n\nDuring the recess dinner was sent to Long from the Sheridan house with a message to the effect that an apology for his conduct would be accepted and it need not be abject, but he must expect the court to preserve its dignity at all hazards. In jail Long said to a correspondent:\n\nI have done nothing to regret. I have only tried to perform an official duty, and in the performance of that Judge Francis has abused me personally and insulted me repeatedly professionally. I shall stay here until I am ordered out. I will ask no favors or concession, and will grant none. I have no apology to make, and will make none. I maintain that Judge Francis acted in a manner unbecoming the office of a judge, and provoked me to say all that was said.\n\nWhen the court opened at 2 p. m., Long was brought in and refused to apologize.",
+   "summary": "Wire report from the De Mores murder trial at Bismarck: witnesses described Luffsey's threats, and Judge Francis jailed Prosecuting Attorney Long for contempt.",
+   "people": [
+    "Marquis de Mores",
+    "Judge Francis",
+    "Long",
+    "Irvine Kinley",
+    "Frank Pecket",
+    "Mark Bateman",
+    "Howard Eaton",
+    "Sheriff Harmon",
+    "Thomas Carruthers",
+    "Martin Wadsworth",
+    "Wannegan",
+    "Riley Luffsey"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a25",
+   "page": 3,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": null,
+   "summary": "Ready-print page of patent-medicine advertisements (Brown's Iron Bitters, Cuticura, Tutt's Pills, Hops & Malt Bitters, Taylor's Cherokee Remedy, Red Star Cough Cure, Hostetter's, S.S.S., etc.), serial fiction (\"The Storm in the Valley\"), miscellany, and grain market reports.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a26",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    6,
+    14.5,
+    10
+   ],
+   "section": "railroad",
+   "headline": "Northern Pacific Time Table.",
+   "text": "BAD LANDS COW BOY, BY A. T. PACKARD. THURSDAY, SEPTEMBER 24, 1885.\n\nNorthern Pacific Time Table.\nWEST BOUND.\nPacific Express, No. 1.......6:47 p. m.\nExpress Freight, 2d Class.......8:59 p. m.\nFreight, 3d Class.......11:40 a. m.\nEAST BOUND.\nAtlantic Express, No. 2.......8:48 a. m.\nExpress Freight, 3d Class.......1:15 p. m.\nFreight, 3rd Class.......1:50 a. m.\nJ. N. MAXWELL, Agent.",
+   "summary": "Local masthead and the Northern Pacific time table at Medora; J. N. Maxwell, agent.",
+   "people": [
+    "J. N. Maxwell"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a27",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    16.5,
+    14.5,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "\"Far West\" cigar at Roberts & Co.",
+   "summary": "Roberts & Co. sells the \"Far West\" cigar.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a28",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    17.5,
+    14.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The prairie fires extended nearly to Chalk Buttes, burning the Rocky Ridge stage station on Monday.",
+   "summary": "Prairie fires burned the Rocky Ridge stage station near Chalk Buttes.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a29",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    20.5,
+    14.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Sam. Townsend, with his own and Bob. Roberts' outfits, is freighting between Chadron and points in the Black Hills.",
+   "summary": "Sam Townsend is freighting between Chadron and the Black Hills.",
+   "people": [
+    "Sam Townsend",
+    "Bob Roberts"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a30",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    23,
+    14.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Geo. Fitzgerald and John Kiefer went to Miles City last night, having been subpœnaed in Wm. Roberts' case, which opens to-day.",
+   "summary": "Fitzgerald and Kiefer went to Miles City as witnesses in Wm. Roberts' case.",
+   "people": [
+    "Geo. Fitzgerald",
+    "John Kiefer",
+    "Wm. Roberts"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a31",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    25.5,
+    14.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "B. F. Lamb has been in St. Paul the last week. He will return Saturday night. A fine St. Bernard dog came for him a few days ago.",
+   "summary": "B. F. Lamb is in St. Paul and will return Saturday.",
+   "people": [
+    "B. F. Lamb"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a32",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    27.5,
+    14.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Messrs. Leonard and Warren Phillips of Boston, are here on a visit to their friend, Howard Eaton. They will spend some time in the Bad Lands, hunting and sight-seeing.",
+   "summary": "Leonard and Warren Phillips of Boston are visiting Howard Eaton to hunt.",
+   "people": [
+    "Leonard Phillips",
+    "Warren Phillips",
+    "Howard Eaton"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a33",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    30.5,
+    14.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Jim. Harmon, while having an understanding with a broncho a short time ago, was thrown and received a bruised leg and a badly sprained ankle. The accident will probably lay Jim. up for some time.",
+   "summary": "Jim Harmon was thrown by a broncho and hurt.",
+   "people": [
+    "Jim Harmon"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a34",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    33,
+    14.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Remember when you have any insurance policies you want made out, that it is always better to have it done by a home agent who will personally look after your interest. The Cow Boy office is the place to get your insuring done.",
+   "summary": "Notice that insurance can be had at the Cow Boy office.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a35",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    35.5,
+    14.5,
+    5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Simply a trial will convince anyone that \"Our Pet\" and \"Far West\" cigars, sold by Roberts & Co., are well worth the money they cost. They are sold at wholesale by Wise & Goodkind of Bismarck, a Dakota firm, and one which should be patronized in preference to eastern firms which have no interest in Dakota.",
+   "summary": "Puff for cigars sold by Roberts & Co. and wholesaled by Wise & Goodkind of Bismarck.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a36",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    40.5,
+    14.5,
+    6
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Osborne Bros. Æ brand appears in to-day's issue. Their range is on Andrew's creek, north of Sentinel Butte. Their herd, at present, is not very large, but as they will use Angus bulls, the quality of their herd will soon be unsurpassed on the river. We will have something to say in the future about this herd, as we believe that Polled Angus and Galloway grades are to be the northwestern range cattle of the future.",
+   "summary": "Osborne Bros.' Æ brand ad appears; they will use Angus bulls on their Andrew's creek range.",
+   "people": [
+    "Osborne Bros."
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a37",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    46.5,
+    14.5,
+    4.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "H. B. Wadsworth, while superintending the Bad Lands cattle Co's. shipment of beeves at Dickinson, last Saturday, slipped and fell from the top of a caboose, breaking his leg in the fall. Mrs. M. Wadsworth went to Dickinson, to attend him. The accident will disarrange Mr. Wadsworth's business plans and it is to be hoped that he will speedily recover.",
+   "summary": "H. B. Wadsworth broke his leg falling from a caboose while shipping Bad Lands Cattle Co. beeves at Dickinson.",
+   "people": [
+    "H. B. Wadsworth",
+    "Mrs. M. Wadsworth"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a38",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    51,
+    14.5,
+    8
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "One by one they join the Benedicts, and now it is Maxwell's turn to get ready to fight if anyone says he hasn't the best wife in the world. Mrs. Josie Maxwell, nee Smith, is the happy bride and all join in the hope that the newly married couple may experience none but the joys of life in their new relation of husband and wife. They return to-night and will go immediately to housekeeping in the cottage formerly occupied by Dr. Jorgens.",
+   "summary": "Maxwell has married Josie Smith; the couple return tonight to the cottage formerly occupied by Dr. Jorgens.",
+   "people": [
+    "J. N. Maxwell",
+    "Josie Maxwell",
+    "Dr. Jorgens"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a39",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    7,
+    68,
+    14.5,
+    27
+   ],
+   "section": "legal",
+   "headline": null,
+   "text": "TERRITORY OF DAKOTA, SIXTH JUDICIAL DISTRICT. } ss.\nIn the District court within and for Morton County.\nJAMES BELLOWS and IRA C. BELLOWS, vs. The Little Missouri LAND AND STOCK Company.\n\nNOTICE IS HEREBY GIVEN THAT BY virtue of a Judgment in the above entitled action on the ---- day of August, A. D., Eighteen hundred and eighty-five, and an execution issued upon said judgment, the subscriber, George W. Harmon, Sheriff of Morton county, Dakota Territory, will sell at Public Auction at the Cantonment, about one mile west of the town of Medora, Billings county, Dakota Territory, on the twenty-eighth day of September, Eighteen hundred and eighty-five, at eleven o'clock in the forenoon of that day, the personal property situate in the County of Billings, Territory of Dakota, the property of the Little Missouri Land and Stock company, as follows:\nThirteen mares,\nOne stallion,\nTwo colts,\nThree yearling or two-year-old colts,\nA lot of harness,\nSaddles,\nLumber wagons,\nBuggies and buckboards,\nTwo mowing machines,\nTwo hay rakes,\nFarming utensils,\nA lot of household furniture,\nBedding etc.,\nTwo cows,\nA quantity of hay,\nOther articles too numerous to mention,\nor so much thereof as may be sufficient to satisfy said judgment and costs, amounting in all to about three hundred and ninety dollars, with interest thereon from the date of said judgment and all accruing costs of sale.\nDated at Mandan, Dakota Territory, September 1[illegible], 1885.\nGEORGE W. HARMON, Sheriff of Morton County, By EDW. P. DRURY, His Deputy.\n[F. S.?] BOWEN and [E. C. RICE?], Plaintiffs' Attorneys.",
+   "summary": "Sheriff's notice of auction at the Cantonment near Medora on Sept. 28 of Little Missouri Land and Stock Co. property to satisfy the Bellows judgment.",
+   "people": [
+    "George W. Harmon",
+    "Edw. P. Drury",
+    "James Bellows",
+    "Ira C. Bellows"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a40",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    8,
+    14,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Geo. Fitzgerald is making a number of improvements in his hotel.",
+   "summary": "Fitzgerald is improving his hotel.",
+   "people": [
+    "Geo. Fitzgerald"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a41",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    10,
+    14,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Near New Salem a woman and child were burned to death while fighting prairie fires.",
+   "summary": "A woman and child near New Salem died fighting prairie fires.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a42",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    12.5,
+    14,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "E. Elmer has veneered his cottage with brick and is now ready to go into winter quarters.",
+   "summary": "E. Elmer brick-veneered his cottage.",
+   "people": [
+    "E. Elmer"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a43",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    14.5,
+    14,
+    3
+   ],
+   "section": "railroad",
+   "headline": null,
+   "text": "Last Sunday night a bridge between Sims and New Salem burning out and a freight train off the track at Sims delayed No. 1 about eight hours.",
+   "summary": "A burned bridge and a derailed freight at Sims delayed train No. 1 eight hours.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a44",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    17.5,
+    14,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The club kept by Mrs. Fortier, has been dissolved on account of losses by marriage and otherwise. Mr. and Mrs. Fortier will keep house in one of the brick cottages.",
+   "summary": "Mrs. Fortier's boarding club has been dissolved.",
+   "people": [
+    "Mrs. Fortier",
+    "Mr. Fortier"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a45",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    20,
+    14,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Cornelis VanEeghan, brother of our \"Van\" left Tuesday for his home in Amsterdam, Holland. He is much pleased with the Bad Lands and seems to have learned much of its advantages during his brief visit. He is thinking of coming again for a longer stay next year.",
+   "summary": "Cornelis VanEeghan left for Amsterdam after a visit.",
+   "people": [
+    "Cornelis VanEeghan"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a46",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    24,
+    14,
+    3
+   ],
+   "section": "railroad",
+   "headline": null,
+   "text": "Supt. Green will be here Friday or Saturday to locate new stock yards, capable of holding a large number of cattle. It will be a great convenience to our cattlemen as the present yards are but little better than a nuisance.",
+   "summary": "Supt. Green is coming to locate new stock yards at Medora.",
+   "people": [
+    "Supt. Green"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a47",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    27,
+    14,
+    5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Word came in yesterday that E. G. Paddock was discharged on his trial for complicity in the Luffsey killing. Prosecuting attorney Long turned the case over to Judge Francis, who probably discharged him on the same evidence that acquitted the Marquis. This will probably set the whole matter at rest, as, even if Moore and Miller are tried they must be acquitted.",
+   "summary": "E. G. Paddock was discharged on the charge of complicity in the Luffsey killing.",
+   "people": [
+    "E. G. Paddock",
+    "Long",
+    "Judge Francis",
+    "Marquis de Mores",
+    "Moore",
+    "Miller"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a48",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    20.5,
+    32,
+    14,
+    29
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "For Sale — base burner hard coal stove (Fuller & Warren); D. K. Wade, Medora, Dak.\nAttention — pocket-knives, pocket-books, mouth-organs, razors, pipes, albums, etc. at Cook's; Chas. Cook\nDrugs, Paints and Oils — Frank Frisby, Bismarck, Dak. — \"Correspondence solicited\"\nNotice to the Public — \"Previous to my removal from Medora, I will sell all goods in my store, consisting of all kinds of smoking and chewing tobaccos, all kinds of pipes, cigars, confectionery, stationery and notions at cost for cash.\" Chas. Cook\nFor Sale — nearly complete set of second-hand blacksmith tools; Dan. McKenzie, Medora, Dak.\nFor Sale — two counters with shelving, two show cases, two pair of counter scales, two bracket lamps, heating stove, cook stove; Chas. Cook\nOats For Sale (col. 1) — Becket & Foote, Dickinson, Dak.\nNotice (col. 1) — for sale, lot eleven, block nineteen and house, property of John O'Sullivan; apply to Wm. VanDriesche\nHayward Hand Grenade fire-extinguisher — Hayward Hand Grenade Co., 407 Broadway, N. Y.",
+   "summary": "Classified notices and small ads in columns 1-2 of page 4.",
+   "people": [
+    "D. K. Wade",
+    "Chas. Cook",
+    "Frank Frisby",
+    "Dan. McKenzie",
+    "John O'Sullivan",
+    "Wm. VanDriesche"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a49",
+   "page": 4,
+   "cols": "3-7",
+   "region": [
+    34,
+    5,
+    62,
+    92
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "General Store of the N. P. R. C. Co., Medora, Dakota — groceries, dry goods, ready-made clothing, hats, caps, canned goods, harness, saddles, felt shoes, overshoes, boots and shoes, flour and feed; \"Hunters Outfits a Specialty\"\nMerwin, Hulbert & Co., New York — 32, 38 & 44 calibre automatic revolvers, rifles, American Metallic Cartridges\nNorthern Pacific Railroad — the direct line between St. Paul, Minneapolis or Duluth and Montana, Oregon, Washington, Alaska, Yellowstone National Park; Chas. S. Fee, Gen'l Passenger Agent, St. Paul\nCity Drug Store, Medora, Dak. — drugs, patent medicines, perfumery, periodicals, stationery; H. M. Jorgens, Proprietor\nE. J. Owenhouse, Bozeman, Mont. — Stock Saddles, Concord Harness, bits, spurs, chaparejos, reatas, quirts\nMinneapolis & St. Louis Ry, \"Famous Albert Lea Route\" (with map)\nBrand: Medora Stage & F. Co. — horse brand on left shoulder; horses on stage stations between Medora and Deadwood, Dakota\nBrand: E. W. Casey, Frank S. Moore, Manager, P.O. Medora — KC and F, left hip and shoulder; range O'Donnell creek\nBrand: Sloping Bottom Ranch, Lloyd Roberts, Proprietor, P.O. Medora — range Little Missouri 7 mi S of N.P.R.R.\nBrand: Badger Cattle Company, Howard Eaton, M'g'r, P.O. Medora — VI left hip; range Beaver creek and Little Missouri river\nBrand: Dore Clark, Spearfish, Dakota — VVV; range Belle Fourche\nBrand: Clark & Plum, Spearfish, Dakota — EG; range Grand river; also ZD, DZ; $100 reward re VVV or EG ranges\nBrand: Little Missouri Horse Company, [illegible] Tarbell, M'g'r, Medora — H on left shoulder; range Davis creek and Little Missouri\nBrand: W. N. Thompson & Co., Wm. Dantz, Manager, P.O. Medora — quarter-circle diamond and TD left hip\nBrand: LeMoyne Cattle Co. (Limited), D. K. Wade, Manager, Medora — LC left side; range Little Missouri south of R.R.; ranch Tepee bottom; owners of DW brand\nBrand: Soho Cattle Co., Chas. Eaton, Manager, Medora — SO left side; range Little Missouri river and Beaver [creek] north of N.P.R.R.\nBrand: Garner Creek Horse Ranch, J. A. VanEeghen, Prop., Medora — VE low on left hip; range Garner creek eight miles from mouth\nBrand: Chimney Butte Ranch, Theodore Roosevelt, Proprietor; Ferris & Merrifield, Managers; P.O. Medora — Maltese cross, left hip or right side; also down cut dewlap; range six miles south of N.P.R.R. on Little Missouri\nBrand: Bullion Creek Horse Ranch, Jack Bullion, Prop., Medora — SS left hip; range Bullion creek twenty miles south of Medora\nBrand: N. P. Refrigerator Car Co., Medora — brand on left side; also steers bought of Mason & Lovell; range Little Missouri river and Beaver creek\nBrand: Ætna Ranch, Osborne Bros., Managers, P.O. Medora — Æ either side; range Andrews creek N of Sentinel Butte\nBrand: Berry, Boice & Co., P.O. Keith, Montana — 777 right hip, side and shoulder; range south of N.P.R.R. on Little Missouri and Beaver creek\nBrand: E. G. Paddock, P.O. Medora — six-inch circle-dot both sides; horses four-inch circle-dot; range six miles north of N.P.R.R. crossing of Little Missouri\nBrand: Spring Creek Ranch, L. D. & B. Rumsey; J. L. Truscott, Manager; P.O. Medora — R brands left hip and side; range south of N.P.R.R. on Little Missouri\nBrand: Custer Trail Cattle Co., F. Alden Eaton, Supt., P.O. Medora — HK in circle left side, 2nd and 3rd brands; range Little Missouri river, Deep and Davis creeks\nBrand: Neimmela Ranch, Gregor Lang, Manager, P.O. Medora — thistle brand; range Keogh crossing of Little Missouri to Pretty butte\nBrand: Bad Lands Cattle Co., M. Wadsworth, Manager, P.O. Medora — 7L right hip and shoulder, bellows, Pd; range Little Missouri fifteen miles north of Medora\nBrand: Towers & Gudgell, P.O. Keith, Montana — brand on right side, additional V; range south of N.P.R.R. on Little Missouri and Beaver creek",
+   "summary": "Directory of display and cattle-brand advertisements on page 4, including Theodore Roosevelt's Chimney Butte Ranch.",
+   "people": [
+    "Theodore Roosevelt",
+    "Sylvane Ferris",
+    "Bill Merrifield",
+    "Howard Eaton",
+    "Lloyd Roberts",
+    "Gregor Lang",
+    "D. K. Wade",
+    "E. G. Paddock",
+    "H. M. Jorgens",
+    "J. A. VanEeghen",
+    "M. Wadsworth"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  }
+ ],
+ "events": [
+  {
+   "id": "e1",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Prosecutor Long renews attack on Judge Francis",
+   "summary": "Prosecuting Attorney Long of Morton County again attacked Judge Francis in an interview in the Mandan Pioneer; the Cow Boy said the judge should answer the charges or resign.",
+   "excerpt": "again rakes Judge Francis fore and aft. It behooves the judge to deny some of the charges, or resign immediately.",
+   "people": [
+    "Long",
+    "Judge Francis"
+   ],
+   "places": [
+    "Mandan"
+   ],
+   "tags": [
+    "courts",
+    "press",
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a3",
+   "confidence": "high"
+  },
+  {
+   "id": "e2",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Boundary shift strengthens case for organizing Billings County",
+   "summary": "With the Montana-Dakota boundary found to be twelve miles too far east, the Cow Boy argued that added railroad mileage and over $200,000 of taxable property make organizing Billings County affordable.",
+   "excerpt": "the changing of the line brings into Billings Co., and we ask any friend of the law, of the common good, of his own pocket book, shall we organize?",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Billings County",
+    "Medora"
+   ],
+   "tags": [
+    "politics",
+    "land"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a7",
+   "confidence": "high"
+  },
+  {
+   "id": "e3",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Peter Book returns from Miles City",
+   "summary": "Peter Book returned from Miles City, the brick work there being finished.",
+   "excerpt": "Peter Book has returned from Miles City, all the brick work there being finished.",
+   "people": [
+    "Peter Book"
+   ],
+   "places": [
+    "Miles City",
+    "Medora"
+   ],
+   "tags": [
+    "building",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a8",
+   "confidence": "high"
+  },
+  {
+   "id": "e4",
+   "date": "1885-09-19",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Saturday\" before Thu 24 Sep 1885",
+   "planned": false,
+   "title": "Dr. Jorgens leaves for his Cave Hills ranch",
+   "summary": "Dr. Jorgens left with his family for his Cave Hills ranch, to return in a month or six weeks.",
+   "excerpt": "Dr. Jorgens started for his Cave Hills ranch with his family, last Saturday.",
+   "people": [
+    "Dr. Jorgens"
+   ],
+   "places": [
+    "Cave Hills"
+   ],
+   "tags": [
+    "town-life",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a9",
+   "confidence": "high"
+  },
+  {
+   "id": "e5",
+   "date": "1885-10-15",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"in about three weeks\" from Thu 24 Sep 1885",
+   "planned": true,
+   "title": "Ingersoll's Bad Lands views due at the Cow Boy office",
+   "summary": "Photographer Ingersoll reported success with his Bad Lands views; ordered copies were expected at the Cow Boy office in about three weeks.",
+   "excerpt": "he is having splendid success with his Bad Lands views. Those already ordered will be at the Cow Boy office for delivery in about three weeks.",
+   "people": [
+    "Ingersoll"
+   ],
+   "places": [
+    "Medora",
+    "Bad Lands"
+   ],
+   "tags": [
+    "business",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a10",
+   "confidence": "medium"
+  },
+  {
+   "id": "e6",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Prairie fires burn from Beach to Sentinel Butte",
+   "summary": "Prairie fires west of Medora extended from Beach to Sentinel Butte and at least ten miles south of the track; the paper called for the responsible parties to be punished.",
+   "excerpt": "The prairie fires on the west extend from Beach to Sentinel Butte and thence south of the track for at least ten miles",
+   "people": [],
+   "places": [
+    "Beach",
+    "Sentinel Butte"
+   ],
+   "tags": [
+    "fire",
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a11",
+   "confidence": "high"
+  },
+  {
+   "id": "e7",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Marquis de Mores acquitted of Luffsey killing",
+   "summary": "The Cow Boy reported that a jury acquitted the Marquis de Mores of the killing of Riley Luffsey after deliberating less than ten minutes, and congratulated him.",
+   "excerpt": "When the case was given to the jury it took them less than ten minutes to come to a verdict of acquittal.",
+   "people": [
+    "Marquis de Mores",
+    "Riley Luffsey"
+   ],
+   "places": [
+    "Bismarck"
+   ],
+   "tags": [
+    "mores",
+    "courts",
+    "law"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a12",
+   "confidence": "medium"
+  },
+  {
+   "id": "e8",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Prosecutor Long jailed for contempt at De Mores trial",
+   "summary": "A wire report described Judge Francis ordering Prosecuting Attorney Long of Mandan into custody for contempt during the De Mores trial at Bismarck after Long accused the court of favoring the defense.",
+   "excerpt": "the judge ordered him in custody, and he was taken to the jail building.",
+   "people": [
+    "Long",
+    "Judge Francis",
+    "Marquis de Mores",
+    "Howard Eaton",
+    "Martin Wadsworth"
+   ],
+   "places": [
+    "Bismarck"
+   ],
+   "tags": [
+    "mores",
+    "courts",
+    "law"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a24",
+   "confidence": "medium"
+  },
+  {
+   "id": "e9",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Little Missouri Horse Co. receives car-load of blooded horses",
+   "summary": "The Little Missouri Horse Co. received a car-load of blooded Pennsylvania horses, including Norman and French coach stock, in charge of B. Speers; Tarbell and Bond came to town to receive them.",
+   "excerpt": "They received a car-load of blooded horses from Pennsylvania",
+   "people": [
+    "B. Speers",
+    "Tarbell",
+    "Bond"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "ranching",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a15",
+   "confidence": "high"
+  },
+  {
+   "id": "e10",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Prairie fire smoke and heavy grain losses",
+   "summary": "The air was full of smoke from prairie fires for a week, with losses reported especially to the east; the paper estimated 100,000 bushels of wheat and oats burned.",
+   "excerpt": "We think at a moderate estimate, 100,000 bushels of wheat and oats have been burned, besides houses, agricultural implements, etc.",
+   "people": [],
+   "places": [
+    "Dakota"
+   ],
+   "tags": [
+    "fire",
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a16",
+   "confidence": "high"
+  },
+  {
+   "id": "e11",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Bad Lands Cattle Co. round-up brands Maltese Cross and Elkhorn calves",
+   "summary": "During its beef round-up the Bad Lands Cattle Co. branded other outfits' stock, including seven Maltese cross calves and six Elkhorn calves and eleven Elkhorn yearlings, and sent the list to the paper. The Maltese Cross and Elkhorn were Theodore Roosevelt's brands.",
+   "excerpt": "Seven Maltese cross calves, Six Elkhorn calves and eleven Elkhorn yearlings,",
+   "people": [],
+   "places": [
+    "Bad Lands",
+    "Maltese Cross",
+    "Elkhorn"
+   ],
+   "tags": [
+    "tr",
+    "roundup",
+    "brands",
+    "ranching"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a17",
+   "confidence": "medium"
+  },
+  {
+   "id": "e12",
+   "date": "1885-09-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 24 Sep 1885",
+   "planned": false,
+   "title": "Small and DuVal of the LeMoyne Cattle Co. visit; LC herd to stay",
+   "summary": "Small of Glendive and DuVal, a LeMoyne Cattle Co. stockholder, were in Medora; it was decided not to remove the LC herd this fall.",
+   "excerpt": "It has been decided not to remove the L C herd this fall",
+   "people": [
+    "Small",
+    "DuVal"
+   ],
+   "places": [
+    "Medora",
+    "Glendive"
+   ],
+   "tags": [
+    "ranching",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a18",
+   "confidence": "high"
+  },
+  {
+   "id": "e13",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Packard offers cattle for sale",
+   "summary": "A. T. Packard advertised six cows, twelve steers, ninety heifers, nine yearling heifers and two bulls from Minnesota and Iowa for sale, delivered at Medora.",
+   "excerpt": "The stock is all in good condition and is from Minnesota and Iowa.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "ranching",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a13",
+   "confidence": "high"
+  },
+  {
+   "id": "e14",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Cow Boy defends its name",
+   "summary": "Answering the Jamestown Capital's joke about Dakota newspaper names, Packard said Bad Lands Cow Boy names both the place of publication and its cattle news.",
+   "excerpt": "There is really no more appropriate name for a paper in the world than the BAD LANDS COW BOY.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora",
+    "Jamestown"
+   ],
+   "tags": [
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a22",
+   "confidence": "high"
+  },
+  {
+   "id": "e15",
+   "date": "1885-09-21",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"on Monday\" before Thu 24 Sep 1885",
+   "planned": false,
+   "title": "Prairie fire burns Rocky Ridge stage station",
+   "summary": "Prairie fires extended nearly to Chalk Buttes and burned the Rocky Ridge stage station.",
+   "excerpt": "The prairie fires extended nearly to Chalk Buttes, burning the Rocky Ridge stage station on Monday.",
+   "people": [],
+   "places": [
+    "Chalk Buttes",
+    "Rocky Ridge"
+   ],
+   "tags": [
+    "fire",
+    "stage"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a28",
+   "confidence": "high"
+  },
+  {
+   "id": "e16",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Sam Townsend freighting to the Black Hills",
+   "summary": "Sam Townsend, with his own and Bob Roberts' outfits, was freighting between Chadron and the Black Hills.",
+   "excerpt": "is freighting between Chadron and points in the Black Hills.",
+   "people": [
+    "Sam Townsend",
+    "Bob Roberts"
+   ],
+   "places": [
+    "Chadron",
+    "Black Hills"
+   ],
+   "tags": [
+    "business",
+    "stage"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a29",
+   "confidence": "medium"
+  },
+  {
+   "id": "e17",
+   "date": "1885-09-23",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last night\" before Thu 24 Sep 1885",
+   "planned": false,
+   "title": "Medora witnesses leave for Wm. Roberts' case at Miles City",
+   "summary": "Geo. Fitzgerald and John Kiefer went to Miles City under subpoena in Wm. Roberts' case, which opened on the issue date.",
+   "excerpt": "having been subpœnaed in Wm. Roberts' case, which opens to-day.",
+   "people": [
+    "Geo. Fitzgerald",
+    "John Kiefer",
+    "Wm. Roberts"
+   ],
+   "places": [
+    "Miles City"
+   ],
+   "tags": [
+    "courts"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a30",
+   "confidence": "high"
+  },
+  {
+   "id": "e18",
+   "date": "1885-09-26",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Saturday night\" after Thu 24 Sep 1885",
+   "planned": true,
+   "title": "B. F. Lamb to return from St. Paul",
+   "summary": "B. F. Lamb, in St. Paul for the past week, was to return Saturday night; a St. Bernard dog had arrived for him.",
+   "excerpt": "He will return Saturday night. A fine St. Bernard dog came for him a few days ago.",
+   "people": [
+    "B. F. Lamb"
+   ],
+   "places": [
+    "St. Paul",
+    "Medora"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a31",
+   "confidence": "high"
+  },
+  {
+   "id": "e19",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Phillips brothers of Boston visit Howard Eaton",
+   "summary": "Leonard and Warren Phillips of Boston came to visit Howard Eaton and planned to hunt and sight-see in the Bad Lands.",
+   "excerpt": "They will spend some time in the Bad Lands, hunting and sight-seeing.",
+   "people": [
+    "Leonard Phillips",
+    "Warren Phillips",
+    "Howard Eaton"
+   ],
+   "places": [
+    "Bad Lands"
+   ],
+   "tags": [
+    "visitors",
+    "hunting"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a32",
+   "confidence": "high"
+  },
+  {
+   "id": "e20",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Jim Harmon hurt by a broncho",
+   "summary": "Jim Harmon was thrown by a broncho, suffering a bruised leg and badly sprained ankle.",
+   "excerpt": "was thrown and received a bruised leg and a badly sprained ankle.",
+   "people": [
+    "Jim Harmon"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "health",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a33",
+   "confidence": "medium"
+  },
+  {
+   "id": "e21",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Osborne Bros. to use Angus bulls on Andrew's Creek range",
+   "summary": "Osborne Bros.' Æ brand appeared in the paper; their range is on Andrew's creek north of Sentinel Butte and they planned to use Angus bulls.",
+   "excerpt": "as they will use Angus bulls, the quality of their herd will soon be unsurpassed on the river.",
+   "people": [
+    "Osborne Bros."
+   ],
+   "places": [
+    "Andrew's creek",
+    "Sentinel Butte"
+   ],
+   "tags": [
+    "ranching",
+    "brands"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a36",
+   "confidence": "high"
+  },
+  {
+   "id": "e22",
+   "date": "1885-09-19",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Saturday\" before Thu 24 Sep 1885",
+   "planned": false,
+   "title": "H. B. Wadsworth breaks leg shipping beeves at Dickinson",
+   "summary": "While superintending the Bad Lands Cattle Co.'s beef shipment at Dickinson, H. B. Wadsworth fell from the top of a caboose and broke his leg.",
+   "excerpt": "slipped and fell from the top of a caboose, breaking his leg in the fall.",
+   "people": [
+    "H. B. Wadsworth",
+    "Mrs. M. Wadsworth"
+   ],
+   "places": [
+    "Dickinson"
+   ],
+   "tags": [
+    "ranching",
+    "railroad",
+    "health"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a37",
+   "confidence": "high"
+  },
+  {
+   "id": "e23",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Maxwell marries Josie Smith",
+   "summary": "Maxwell (the Northern Pacific agent J. N. Maxwell is listed in the time table) married Josie Smith; the couple were to return that night and set up house in Dr. Jorgens' former cottage.",
+   "excerpt": "Mrs. Josie Maxwell, nee Smith, is the happy bride",
+   "people": [
+    "Maxwell",
+    "Josie Maxwell"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a38",
+   "confidence": "medium"
+  },
+  {
+   "id": "e24",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Fitzgerald improves his hotel",
+   "summary": "Geo. Fitzgerald was making a number of improvements in his hotel.",
+   "excerpt": "Geo. Fitzgerald is making a number of improvements in his hotel.",
+   "people": [
+    "Geo. Fitzgerald"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business",
+    "building"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a40",
+   "confidence": "high"
+  },
+  {
+   "id": "e25",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Woman and child die in prairie fire near New Salem",
+   "summary": "A woman and child near New Salem were burned to death while fighting prairie fires.",
+   "excerpt": "Near New Salem a woman and child were burned to death while fighting prairie fires.",
+   "people": [],
+   "places": [
+    "New Salem"
+   ],
+   "tags": [
+    "fire",
+    "deaths"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a41",
+   "confidence": "high"
+  },
+  {
+   "id": "e26",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "E. Elmer brick-veneers his cottage",
+   "summary": "E. Elmer veneered his cottage with brick ahead of winter.",
+   "excerpt": "E. Elmer has veneered his cottage with brick",
+   "people": [
+    "E. Elmer"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "building"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a42",
+   "confidence": "high"
+  },
+  {
+   "id": "e27",
+   "date": "1885-09-20",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Last Sunday night\" before Thu 24 Sep 1885",
+   "planned": false,
+   "title": "Bridge fire and derailment delay No. 1 eight hours",
+   "summary": "A bridge between Sims and New Salem burned out and a freight train went off the track at Sims, delaying train No. 1 about eight hours.",
+   "excerpt": "a bridge between Sims and New Salem burning out and a freight train off the track at Sims delayed No. 1 about eight hours.",
+   "people": [],
+   "places": [
+    "Sims",
+    "New Salem"
+   ],
+   "tags": [
+    "railroad",
+    "fire"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a43",
+   "confidence": "high"
+  },
+  {
+   "id": "e28",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Mrs. Fortier's club dissolved",
+   "summary": "The club kept by Mrs. Fortier was dissolved because of losses by marriage and otherwise; the Fortiers will live in one of the brick cottages.",
+   "excerpt": "The club kept by Mrs. Fortier, has been dissolved on account of losses by marriage and otherwise.",
+   "people": [
+    "Mrs. Fortier"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "town-life",
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a44",
+   "confidence": "high"
+  },
+  {
+   "id": "e29",
+   "date": "1885-09-22",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday\" before Thu 24 Sep 1885",
+   "planned": false,
+   "title": "Cornelis VanEeghan leaves for Amsterdam",
+   "summary": "Cornelis VanEeghan, brother of \"Van,\" left for his home in Amsterdam, Holland, after a visit, pleased with the Bad Lands.",
+   "excerpt": "left Tuesday for his home in Amsterdam, Holland. He is much pleased with the Bad Lands",
+   "people": [
+    "Cornelis VanEeghan"
+   ],
+   "places": [
+    "Medora",
+    "Amsterdam"
+   ],
+   "tags": [
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a45",
+   "confidence": "high"
+  },
+  {
+   "id": "e30",
+   "date": "1885-09-25",
+   "date_end": "1885-09-26",
+   "date_precision": "day",
+   "date_basis": "\"Friday or Saturday\" after Thu 24 Sep 1885",
+   "planned": true,
+   "title": "Supt. Green to locate new Medora stock yards",
+   "summary": "Supt. Green was expected Friday or Saturday to locate new stock yards able to hold a large number of cattle.",
+   "excerpt": "Supt. Green will be here Friday or Saturday to locate new stock yards",
+   "people": [
+    "Supt. Green"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "railroad",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a46",
+   "confidence": "high"
+  },
+  {
+   "id": "e31",
+   "date": "1885-09-23",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Word came in yesterday\" before Thu 24 Sep 1885 (date of discharge itself not given)",
+   "planned": false,
+   "title": "E. G. Paddock discharged in Luffsey case",
+   "summary": "Word came that E. G. Paddock was discharged on the charge of complicity in the Luffsey killing; the paper expected Moore and Miller would also be acquitted if tried.",
+   "excerpt": "Word came in yesterday that E. G. Paddock was discharged on his trial for complicity in the Luffsey killing.",
+   "people": [
+    "E. G. Paddock",
+    "Long",
+    "Judge Francis",
+    "Marquis de Mores"
+   ],
+   "places": [
+    "Bismarck"
+   ],
+   "tags": [
+    "mores",
+    "courts",
+    "law"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a47",
+   "confidence": "high"
+  },
+  {
+   "id": "e32",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Chas. Cook selling out before leaving Medora",
+   "summary": "Chas. Cook advertised that before his removal from Medora he would sell his stock of tobacco, cigars, confectionery and notions at cost, and his store fixtures.",
+   "excerpt": "Previous to my removal from Medora, I will sell all goods in my store",
+   "people": [
+    "Chas. Cook"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a48",
+   "confidence": "high"
+  },
+  {
+   "id": "e33",
+   "date": "1885-09-28",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "sale date stated in sheriff's notice",
+   "planned": true,
+   "title": "Sheriff's sale of Little Missouri Land and Stock Co. property at the Cantonment",
+   "summary": "Sheriff George W. Harmon of Morton County gave notice he would auction horses, wagons, machinery and furniture of the Little Missouri Land and Stock Co. at the Cantonment west of Medora to satisfy a judgment for James and Ira C. Bellows.",
+   "excerpt": "will sell at Public Auction at the Cantonment, about one mile west of the town of Medora",
+   "people": [
+    "George W. Harmon",
+    "James Bellows",
+    "Ira C. Bellows"
+   ],
+   "places": [
+    "Cantonment",
+    "Medora"
+   ],
+   "tags": [
+    "courts",
+    "law",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a39",
+   "confidence": "high"
+  },
+  {
+   "id": "e34",
+   "date": "1885-09-17",
+   "date_end": "1885-09-24",
+   "date_precision": "week",
+   "date_basis": "no date given; week before Thu 24 Sep 1885 issue",
+   "planned": false,
+   "title": "Chimney Butte Ranch brand advertised: Theodore Roosevelt, proprietor",
+   "summary": "The issue's brand advertisements list Chimney Butte Ranch, Theodore Roosevelt, proprietor, with Ferris & Merrifield as managers, Maltese cross brand, range six miles south of the N.P.R.R. on the Little Missouri.",
+   "excerpt": "CHIMNEY BUTTE RANCH. THEODORE ROOSEVELT, Proprietor. FERRIS & MERRIFIELD, Managers.",
+   "people": [
+    "Theodore Roosevelt",
+    "Sylvane Ferris",
+    "Bill Merrifield"
+   ],
+   "places": [
+    "Chimney Butte",
+    "Little Missouri",
+    "Medora"
+   ],
+   "tags": [
+    "tr",
+    "brands",
+    "ranching"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a49",
+   "confidence": "high"
+  }
+ ]
+}

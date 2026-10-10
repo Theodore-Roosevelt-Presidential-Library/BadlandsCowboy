@@ -1,0 +1,2165 @@
+{
+ "date": "1884-12-18",
+ "masthead": "Thursday, Dec. 18, 1884 (p. 1: Medora, Dakota, December 18, 1884)",
+ "volume": "Vol. 1, No. 46",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "Cols 1-4 display ads and publisher's box; col 5 editorial, additional local, In Memoriam (Peter Malloy), stockmen's meeting notice signed Theodore Roosevelt; col 6 Stock Notes, estray and reward notices; col 7 clipped range items."
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "Ready-print national news page; col 1 carries a Cow Boy heading over syndicated editorial paragraphs. No local content found."
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "Ready-print fiction, miscellany and patent-medicine ads."
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "Col 1-2 top: masthead, stage and N.P. time tables, local items; cols 2-4 display ads; cols 5-7 cattle-brand ads."
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "1",
+   "region": [
+    1,
+    14,
+    17,
+    14
+   ],
+   "section": "masthead",
+   "headline": "Bad Lands Cow Boy, By A. T. Packard.",
+   "text": "The Cow Boy is not published for fun, but for $[illegible] per year.\n\nAdvertising Rates made known on application.\n\nStanding Advertisements payable quarterly.\n\nTransient Advertisements and all Job work, money in sight.\n\nAddress all communications to THE BAD LANDS COW BOY, Medora, Dakota.\n\nEntered at the post-office at Medora, Dak., as second class mail matter.",
+   "summary": "Publisher's box: terms, advertising rates and postal entry of the Cow Boy.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a2",
+   "page": 1,
+   "cols": "1-4",
+   "region": [
+    1,
+    14,
+    52,
+    86
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "A. D. Carpenter, Attorney, Dickinson, Dak.\nW. [illegible] Goyle, M. D., Physician and Surgeon (Late A. A. Surgeon, U. S. A.), Belfield, Dak.\nA. T. Packard, Notary Public, Medora, Dak.\nOld Bob Montgomery's Saloon, Belfield, Dak. — \"He deals exclusively in first-class goods.\"\nRiverside Hotel, Max Base, Prop., Belfield, Dakota — \"One of the neatest houses on the line of the N. P. R. R.\"\nF. E. Benjamin, Jeweler and Watchmaker, Mandan, Dakota\nFirst National Bank of Mandan, Dakota — M. R. Lyon, Prest.; H. VanVleck, Jr., Cashier; paid-up capital $50,000, surplus $15,000\nMcKenzie & O'Brien, Blacksmithing and Horse-Shoeing, Medora, Dak.\nM. Kline, Cigar Manufacturer, smoking and chewing tobacco, Mandan, Dakota\nTuttle & Howe, Dealers in Live Stock, Clear Lake, Iowa — furnishing cattle for western ranches\nD. Flynn, boots, shoes, rubbers, Main Street, Mandan, Dak.\nG. H. Tousey, Wholesale and Retail Flour, Feed, Grain and Commission, Mandan, Dakota\nMedora Hotel, M. M. Coleman, Proprietor, Main St., opposite Cow Boy office — \"Give me a call.\"\nPyramid Park Hotel, Little Missouri, Dak., Arch. Boyd, Proprietor — livery stable in connection\nJ. S. Warn's Oyster Grotto — fish, milk, eggs, poultry, game; first-class restaurant, corner Broadway and Third St., Medora, Dakota\nDuncan & Hilles, Furniture and house furnishing goods, Hager Block, Mandan\nJ. Slatcher's Golden Gun Armory, Dickinson, Dakota — Colt's six-shooters, cartridges, powder, jobbing\nShort-horn bulls and heifers, $100 to $1,000 — W. E. Bean, Mt. Sterling, Ky.\nWestern House, Peter Malloy, Prop., Little Missouri, Dak. — transient rates $1.50 per day, a fine bar\nEdick Bros., cigars, tobacco and smokers' articles, Bismarck, Dak.\nThe Elk, Pioneer Saloon, Little Missouri — choicest brands, liquors & cigars\nHotel De Mores, G. W. Fitzgerald, Prop. — \"The best hotel in Medora, Dak.\", $2.00 per day; livery stable and bar in connection\nBrick!! made at the Medora Brick Kiln — $8 per thousand; Peter J. Book, Medora, Dak.\nBingenheimer & Taylor, drugs, medicines, paints, oils, wall paper, books, stationery, Mandan, Dakota\nThe Senate, Roberts & Co., Billiard and Pool Hall — \"Finest bar in Medora\"; \"The Genial Jim is in constant attendance.\"\nInsurance! Springfield F. & M. Ins. Co. of Springfield, Mass., 36th annual statement — A. T. Packard, Agent, Bad Lands Cow Boy office",
+   "summary": "Directory of display advertisers on page 1, columns 1-4.",
+   "people": [
+    "A. T. Packard",
+    "Peter Malloy",
+    "Arch. Boyd",
+    "G. W. Fitzgerald",
+    "Peter J. Book",
+    "M. M. Coleman"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a3",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    15,
+    12.5,
+    11
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "With the extinction of buffalo comes an increase in the depredations of wolves. This is accounted for by the fact that buffalo calves and carcasses killed by hunters furnished the wolves plenty of food. Now, that the buffalo are all gone, the wolves have turned their attention to cattle, and the loss from this source is constantly increasing. It has not reached any alarming proportions as yet, but it is enough to show that unless active measures are immediately taken, the loss is liable to be considerable. Some of the cattle men and hunters are poisoning carcasses, and have good success in killing wolves, but the movement is not universal enough to produce the desired result. This is a point that should come up for attention at the cattle meeting to-morrow, and every man should pledge himself to do his utmost toward exterminating the growing pest. It would be a good plan to pay a bounty for all pelts brought in.",
+   "summary": "With the buffalo gone, wolves are killing cattle; the paper urges the cattle meeting to act and suggests a bounty on pelts.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a4",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    26,
+    12.5,
+    13
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "At the recent national stock meeting in St. Louis, the subject of damage to hides by branding was brought up, but nothing definite was done. From a practical tanner, who is also a stock grower, we gather the fact that the average hide is damaged three or four dollars by branding. He regretted the loss, but acknowledged that there seemed to be no cure. The tanners buy hides of wholesale slaughter houses which have already bought the cattle from stock growers. To the latter, the value of the hide does not enter into account, but the fact of his having a brand plain enough to be recognized by any one is a matter of the utmost importance. Hence the indifference with which stock men regard any attempt to change the present system of branding. It is even doubtful if any invention that will remove the hair and not damage the hide would be profitable, as there would still remain the question as to whether the price of live cattle would raise, and if it did not the stock growers would quickly return to the present system.",
+   "summary": "Comment on hide damage from branding, raised at the St. Louis national stock meeting.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a5",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    39.5,
+    12.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": "Additional Local.",
+   "text": "All kinds of nuts at Cook's.",
+   "summary": "Reading notice: nuts at Cook's.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a6",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    41.5,
+    12.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Northern Pacific preferred bonds are selling at 40[⅝?], and common at 17.",
+   "summary": "Price of Northern Pacific bonds.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a7",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    43,
+    12.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Owing to a broken axle, the coach did not reach here until 6 o'clock Wednesday morning.",
+   "summary": "The stage coach was delayed by a broken axle.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a8",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    45,
+    12.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "H. B. Wadsworth, of the Bad Lands Cattle Co., is at the company's ranch on an extended visit.",
+   "summary": "H. B. Wadsworth is visiting the Bad Lands Cattle Co. ranch.",
+   "people": [
+    "H. B. Wadsworth"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a9",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    47,
+    12.5,
+    3.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mrs. George Roderick returned Saturday evening from Jamestown. George is coming overland with his teams, and will be here a day or two before Christmas.",
+   "summary": "Mrs. George Roderick returned from Jamestown; George is coming overland.",
+   "people": [
+    "Mrs. George Roderick",
+    "George Roderick"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a10",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    50,
+    12.5,
+    4.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Herman Dickman, Walter Waterson and William Smith, well known cow boys on the river, started on No. 2 to-day for the east. They will all return early in the spring. \"Dick\" goes to his home in Chicago, and Will and Walt to Ohio.",
+   "summary": "Three local cowboys left for the east for the winter.",
+   "people": [
+    "Herman Dickman",
+    "Walter Waterson",
+    "William Smith"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a11",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    54,
+    12.5,
+    7.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The following passengers arrived from Deadwood on the Medora stage since last issue: T. H. Annier, S. Patenode, W. S. Hall, Mrs. B. McDonough, F. Smith, Wing Foo, Mrs. Buck, Mrs. Hawley, W. W. Driskill, K. P. Aldis. Departures are Mrs. M. Liebman, A. L. Gossage, Wm. Luce, Orrin Kinley, D. Robinson, A. Adams.",
+   "summary": "Stage passengers arriving from Deadwood and departing since the last issue.",
+   "people": [
+    "T. H. Annier",
+    "S. Patenode",
+    "W. S. Hall",
+    "Mrs. B. McDonough",
+    "F. Smith",
+    "Wing Foo",
+    "Mrs. Buck",
+    "Mrs. Hawley",
+    "W. W. Driskill",
+    "K. P. Aldis",
+    "Mrs. M. Liebman",
+    "A. L. Gossage",
+    "Wm. Luce",
+    "Orrin Kinley",
+    "D. Robinson",
+    "A. Adams"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a12",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    61.5,
+    12.5,
+    14
+   ],
+   "section": "local",
+   "headline": "In Memoriam.",
+   "text": "The sad duty devolves upon us this week of chronicling the death of Peter Malloy. Early last week he started down the river for a hunt, and was taken sick soon after his arrival at Young's ranch. He grew rapidly worse, but on Friday, seeming to be a little better, Mr. Young brought him to town, where he might secure medical attendance. His condition seemed hopeless, however, and Friday night he died.\n\nMr. Malloy was well known and liked all through this country, and had a warm place in the the hearts of his sriends as being a good husband, kind father and upright man. He was one of the pioneers of the west, and the first constable of Bismarck. While here he was proprietor of the Western house, and kept it in a high standard of excellence.\n\nHis remains were taken to Bismarck Sunday for burial by his relatives. He leaves a wife and three children and a host of friends to mourn his loss.",
+   "summary": "Obituary of Peter Malloy, proprietor of the Western House and first constable of Bismarck.",
+   "people": [
+    "Peter Malloy",
+    "Mr. Young"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a13",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    54.5,
+    75.5,
+    12.5,
+    20
+   ],
+   "section": "range",
+   "headline": "NOTICE. Of a Proposed Meeting of the Stockmen of the Little Missouri.",
+   "text": "At the request of Messrs. Huidekooper, Wadsworth, Eaton, Truscott, the N. P. R. C. Co. and of several other stockmen having ranges on the Little Missouri and Beaver Creek, a meeting of the stockmen of this river and its tributaries is hereby called to be held in Roberts Hall, Medora at 11 a. m. Friday December 19th. The object is to bring together the cattlemen of this vicinity in order that they may discuss certain questions of immediate and pressing interest to them, and in order that they may take measures to provide for a more efficient organization of the stockmen of this vicinity in the future, both so that they may be able to act more as a unit than has been the case in the past, and so that they can combine to protect their interests against unjust interference from the outside.\n\nAll gentlemen interested in stock raising both those on the Little Missouri, and those on the neighboring waters, are urgently requested to attend.\n\n[By request.]\n\nTHEODORE ROOSEVELT.",
+   "summary": "Call, signed by Theodore Roosevelt, for a meeting of Little Missouri stockmen at Roberts Hall, Medora, on Friday, December 19.",
+   "people": [
+    "Theodore Roosevelt",
+    "Huidekooper",
+    "Wadsworth",
+    "Eaton",
+    "Truscott"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a14",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67,
+    15,
+    12.5,
+    12
+   ],
+   "section": "range",
+   "headline": "STOCK NOTES. The Cowboy.",
+   "text": "Who is it has no fixed abode\nWho seeks adventures by the load—\nAn errant knight without a code?\nThe cowboy.\n\nWho is it when the drive is done,\nWill on a howling bender run,\nAnd bring to town his little gun?\nThe cowboy.\n\nWho is it paints the town so red\nAnd in the morning has a head\nUpon him like a feather bed?\nThe cowboy.\n\nWho is it with unbounded skill\nWill shoot big bullets with a will\nThat generally have the effect to kill?\nThe cowboy.\n\nWho is it, after all, who makes\nTown trade good, and uniformly takes\nFor big hearts what is called \"the cake?\"\nThe cowboy.\n\n—N. M. Stockgrower.",
+   "summary": "Humorous poem \"The Cowboy,\" reprinted from the N. M. Stockgrower.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a15",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67,
+    27,
+    12.5,
+    4.5
+   ],
+   "section": "range",
+   "headline": "Estrayed.",
+   "text": "From M. S. & F. Co., October 5, one sorrel horse; four white feet, white stripe in face, branded -Y- on left shoulder and [box brand] on left thigh. A reward of $25 will be paid for information leading to his recovery.",
+   "summary": "Medora Stage & Forwarding Co. offers $25 for a sorrel horse strayed October 5.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a16",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67,
+    32,
+    12.5,
+    5
+   ],
+   "section": "range",
+   "headline": "Lost—$10 Reward.",
+   "text": "Lost from the Little Missouri round-up, one bay horse 5 years old, branded J on left shoulder and S on right flank; partly broken and very wild when he left; had picket rope around neck. Any one returning or giving information of him will receive the above reward.\n\nW. N. THOMPSON & Co., Medora, Dak.",
+   "summary": "W. N. Thompson & Co. offer $10 for a bay horse lost from the round-up.",
+   "people": [
+    "W. N. Thompson"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a17",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67,
+    37.5,
+    12.5,
+    6.5
+   ],
+   "section": "range",
+   "headline": "Strayed or Stolen.",
+   "text": "From my ranch on Little Missouri, ten miles south of Medora, the night of November 19, a dark sorrel mare, weighing about nine hundred pounds, left front knee stiff, white and red scar on left side, far back, brand M bar on left hip. Mare about nine years old. The finder will be paid for his trouble by leaving information leading to her recovery with me.\n\nA. YOUNG, Medora, Dak.",
+   "summary": "A. Young seeks a mare strayed or stolen from his ranch November 19.",
+   "people": [
+    "A. Young"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a18",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67,
+    44,
+    12.5,
+    7
+   ],
+   "section": "range",
+   "headline": "$250 REWARD.",
+   "text": "The above reward will be paid for information leading to the arrest of any person or persons setting fire to the grass in the cattle sections of Western Dakota.\n\nN. P. REF. CAR CO.\nCONTINENTAL CATTLE CO.\nHUGHES & SIMPSON.\nDORR CLARK.\nCLARK & PLUM.\nDICKEY BROS.\nE. G. PADDOCK.",
+   "summary": "Cattle firms offer $250 for the arrest of anyone setting grass fires in western Dakota.",
+   "people": [
+    "Dorr Clark",
+    "E. G. Paddock"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a19",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67,
+    51,
+    12.5,
+    10
+   ],
+   "section": "range",
+   "headline": "$50 Reward.",
+   "text": "The above reward will be paid for the return of the following stock or a proportionate reward will be paid for the return of any of them. The stock consists of the following horses:\n\nOne bay mare, one brown mare and one roan mare, all young and branded double or reverse P on left shoulder as advertised in our brand columns. Also one light sorrel pony, white legs and face and branded NC on left shoulder and triangle JP on right shoulder also as advertised in our brand columns.\n\nGREGOR LANG, Medora, Dak.",
+   "summary": "Gregor Lang offers $50 for missing horses.",
+   "people": [
+    "Gregor Lang"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a20",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67,
+    61,
+    12.5,
+    10
+   ],
+   "section": "range",
+   "headline": "Notice.",
+   "text": "To prevent bulls running on the range during the winter, for the benefit of cattle men, I have established and fitted up a bull ranch on the Little Missouri. I will receive, care for and feed hay to all bulls given in my charge for the sum of $2 per month per bull. The bull round-up started on Monday, November 18th, 1884, and all bulls will be received at the Royal Chambord ranch.\n\nFor further particulars apply to Pierre Wibaux, Royal Chambord ranch. Postoffice address, Mingusville, Dawson county, Dakota.\n\nPIERRE WIBAUX.",
+   "summary": "Pierre Wibaux announces a winter bull ranch on the Little Missouri at $2 a month per bull.",
+   "people": [
+    "Pierre Wibaux"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a21",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67,
+    71,
+    12.5,
+    12
+   ],
+   "section": "range",
+   "headline": "Strayed.",
+   "text": "From North Grand river, near stage station on November 3d, a light bay horse, five years old, about 16 hands high weighs about 1,300. Has a scar on the fleshy part of the left thigh, just below the tail, one white hind foot; on each front leg just above the fetlock joint has a small knot or splint, and shoulder badly galled with some white hairs on shoulder. Also a brown horse branded U S on left shoulder, I C on left side of hip and neck., is pigeon-toed in left fore foot. About ten years old weighs about 1,000 pounds. A reward of twenty dollars ($20) will be paid for information leading to their recovery.\n\nWM. MILLER. Minneseela, Butte Co., Dak.",
+   "summary": "Wm. Miller offers $20 for two horses strayed from North Grand river November 3.",
+   "people": [
+    "Wm. Miller"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a22",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67,
+    83,
+    12.5,
+    12
+   ],
+   "section": "range",
+   "headline": "Taken up.",
+   "text": "By the undersigned at Knutson creek sheep corrall, one mottled white and buckskin pony weighing about 850 pounds. Black nose and feet except the left hind foot, which is white. Blackisk foretop, mane and tail. Pony branded dart point and anchor connected on left hip. Had halter on when taken up, December 4. Also a dark bay pony weighing about 900 pounds, having white strip in forehead to end of nose. Brand is very indictinct on left hip but looks like G bar.\n\nThe owner or owners may recover same by calling on the undesigned, paying resonable charges and for the insertion of this notice.\n\nFRANK WALKER, Medora, Dak.",
+   "summary": "Frank Walker took up two ponies at Knutson creek on December 4.",
+   "people": [
+    "Frank Walker"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a23",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79.5,
+    16,
+    12.5,
+    4.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Captain Richard King has sold the largest ranch in America to a New York company for $6,500,000. The ranch is in Texas. It comprises upwards of 800,000 acres, all under fence, and nearly 200,000 head of cattle, horses and sheep.—[Livingston Enterprise.",
+   "summary": "Clipped item: Richard King's Texas ranch sold to a New York company.",
+   "people": [
+    "Richard King"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a24",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79.5,
+    20.5,
+    12.5,
+    4.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "In Holland, cattle appear to be the leading interest, forty per cent. of the land being devoted to meadow and grass. The number of cattle is estimated at 1,500,000, sheep 1,000,009, swine 500,000, and horses 3,000,000. Cattle and sheep have increased during the last twenty years, but swine have fallen off.—[Official Report.",
+   "summary": "Clipped item on livestock in Holland.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a25",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79.5,
+    25,
+    12.5,
+    6.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Messrs. Miller and Lux, two cattle kings of the Pacific Coast, were poor men twenty years ago, and are now rated as worth $8,000,000 to $10,000,000. They have about 90,000 head of cattle and 115,000 head of sheep, of which latter they kill about 6,000 per month. They own an irrigating canal worth $1,000,000, fences 300 miles in length (a fortune in itself), in California 600,000 acres of land, in Nebraska 10,000 acres, and 15,000 acres of alfalfa grass.—[Montana Stock and Mining Journal.",
+   "summary": "Clipped item on Miller and Lux, California cattle kings.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a26",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79.5,
+    31.5,
+    12.5,
+    8.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Fifty years ago the average weight of beef cattle was 800 pounds, now it is 1,400 pounds. The increase is due to the introduction of pure-bred stock and more careful breeding, as well as the much better feeding of the product. It is now as common to have a animal of 1,800 pounds, as it was then to have them of 1,200 pounds, and the increase in weight is fully one-third. The improvement of the far western stock is still greater, and more, nearly double, since the large introduction of shorthorn blood into the herds.—[Kansas City Drovers' News.",
+   "summary": "Clipped item on increasing beef cattle weights.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a27",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79.5,
+    40,
+    12.5,
+    9.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Receipts of live stock at the Union Stock Yards for November were 175,143 cattle, 5,757 calves, 624,460 hogs, and 68,110 sheep; and the shipments 68,779 cattle, 4,618 calves, 79,636 hogs, and 12,373 sheep. For November, 1883, the receipts were 167,393 cattle, 2,716 calves, 890,684 hogs, and 69,613 sheep; and the shipment 80,792 cattle, 1,945 calves, 108,997 hogs, and 31,385 sheep. In comparison with November, 1883, the last month shows a decline in the receipts of 266,224 hogs and 1,503 sheep, and an increase of 7,750 cattle and 3,041 calves, while the shipments exhibit a falling off of 12,013 cattle, 29,361 hogs and 19,912 sheep, and an increase of 2,674 calves.—[Breeders' Gazette.",
+   "summary": "Clipped Union Stock Yards receipts and shipments for November.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a28",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79.5,
+    50,
+    12.5,
+    7.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "We have no more use for thoroughbred bulls on the range, is the way a good many cattle men now put it. What we want is graded stock. We have tried the thoroughbred bull and find there is no money in him. He can't rustle even when there is good grass. It is not his kind. He knows nothing about it, and soon begins to look drooping where range cattle are fat and sleek. It's different with graded bulls, even if they are not range stock. They soon learn to rustle and keep in good order. To make hardy range stock, calves must be dropped on the range. The get of thoroughbred bulls are all right, and there are now enough of them on the ranches to bring up the class to a beef animal. You will find, says the posted ranchman, that the majority of bulls sold for the range in the future will be graded.—[Transporter.",
+   "summary": "Clipped item: ranchmen prefer graded bulls to thoroughbreds on the range.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a29",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79.5,
+    57.5,
+    12.5,
+    19.5
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The London Live Stock Journal, in an article relating to the selection of a horse for the work he is expected to perform, after stating the results of many observations on horses, remarks that it is the arch of a bridge, which, from its structure, can bear weight placed upon it, whereas, an inverted arch would fall to pieces, or would withstand a far less pressure. It has been observed that low-backed, or rather hollow-backed horses, working in harness, kept their condition, while those with high back lost flesh. Persons of not very inquiring or observing dispositions would probably attribute this to the fact that the former were of more hardly constitution than the latter, but this would be a false conclusion. It is owing entirely to the curvature of the back, for a horse which can draw a weight was least able to bear a weight upon its back, while the horses unable to bear the strain of draft could beat the other any day in carrying a weight. The line of the vertebræ indicates the sort of work for which the horse is fitted. If it is high the weight must be on the top to press it together; if low, the pressure must be from below for the same reason. A downward curvature is, therefore, the best form of spine for a draft horse.",
+   "summary": "Clipped item from the London Live Stock Journal on horses' backs and draft work.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a30",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79.5,
+    77,
+    12.5,
+    16
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "An exchange says the foal is born with twelve grinders. When four front teeth have made their appearance the colt is twelve days old, and when the next four assert themselves its age will be about twenty-eight days. The corner teeth make their appearance when the foal is eight months, and these latter attain the height of the front teeth at the end of a year. The two-year-old has the kernel, the dark substance in the middle of the tooth's crown, ground out of all the front teeth. In the third year the middle front teeth are being shifted, and and when three years old those are substituted by the permanent or horse teeth which are larger and more yellow than their predecessors. The next four teeth are shifted in the fourth year and the corner teeth in the fifth, giving place to the permanent nipper. At five years of age a horse has forty teeth, of which twenty-four are grinders far back in the jaw, with which we have little to do. The buyer must be particularly on his guard against having palmed off on him as fully five years old a filly of less age, by calling your attention to the fact that \"she has no colt's teeth left\" when the truth is they have been cunningly extracted, and we have known the same said of a horse, when it was thought the customer was green enough. But, be it remembered, horses invariably have tushes, which mares very rarely have.",
+   "summary": "Clipped item on judging a horse's age by its teeth.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a31",
+   "page": 2,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "",
+   "summary": "Ready-print page: national editorial paragraphs under a Cow Boy heading, \"The Pith of the News\" (Washington, criminal, foreign and personal news, markets), \"Proceedings of Congress,\" \"Dakota Territorial News,\" and \"Life on Fifth Avenue\" and other miscellany.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a32",
+   "page": 3,
+   "cols": "1-7",
+   "region": [
+    0,
+    0,
+    100,
+    100
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "",
+   "summary": "Ready-print page: Christmas poem and story \"How It All Happened,\" miscellany (\"A Fireman's Luck,\" Margaret Fuller), and patent-medicine and national advertisements (Cuticura, Allen's Lung Balsam, Tutt's Pills, Hostetter's Bitters, etc.).",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a33",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    5,
+    12.5,
+    18
+   ],
+   "section": "railroad",
+   "headline": "TIME TABLE",
+   "text": "Medora and Black Hills Stage and Express Line.\n\nArrive: Tuesday, Thursday, Saturday, 6 p. m. Depart: Monday, Wednesday, Friday, 8:30 a. m.\n\nCoaches leaving Medora connect with east-bound passenger train.\n\nCoaches arriving at Medora connect with west-bound passenger train.\n\nNorthern Pacific Time Table.\n\nWEST BOUND.\nPacific Express, No. 1 ... 5:57 p. m.\nExpress Freight, 2d Class ... 5:25 a. m.\nFreight, 3d Class ... 12:01 p.m.\n\nEAST BOUND.\nAtlantic Express, No. 2 ... 9:02 a. m.\nExpress Freight, 3d Class ... 6:05 a. m.\nFreight, 3rd Class ... 12:01 p. m.\n\nJ. N. MAXWELL, Agent.",
+   "summary": "Stage and Northern Pacific time tables for Medora, with page-4 masthead dated Thursday, Dec. 18, 1884.",
+   "people": [
+    "J. N. Maxwell"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a34",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    23.5,
+    12.5,
+    1
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Cigars and tobacco at Cook's.",
+   "summary": "Reading notice for Cook's.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a35",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    24,
+    12.5,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Marquise de Mores will return this evening.",
+   "summary": "The Marquise de Morès is to return to Medora this evening.",
+   "people": [
+    "Marquise de Mores"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a36",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    25.5,
+    12.5,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "C. W. Sleeper returned from Helena Tuesday morning.",
+   "summary": "C. W. Sleeper returned from Helena.",
+   "people": [
+    "C. W. Sleeper"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a37",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    27,
+    12.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mrs. J. W. Anderson, formerly of this place, now of Dickinson, was visiting her friends here last week.",
+   "summary": "Mrs. J. W. Anderson of Dickinson visited Medora friends.",
+   "people": [
+    "Mrs. J. W. Anderson"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a38",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    29,
+    12.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The carpenters were forced to knock off work on the new slaughter house building, owing to the cold.",
+   "summary": "Cold weather halted work on the new slaughter house.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a39",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    31,
+    12.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mr. Chase, of Jamestown, was here Monday and bought a lot of venison, which he shipped with him.",
+   "summary": "Mr. Chase of Jamestown bought and shipped venison.",
+   "people": [
+    "Mr. Chase"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a40",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    33,
+    12.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Russ Wilson, foreman of the E 6 ranch, who has been here several days, started home yesterday morning. Come again Russ.",
+   "summary": "Russ Wilson, E 6 foreman, went home after several days in town.",
+   "people": [
+    "Russ Wilson"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a41",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    34.5,
+    12.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "It was quite airy around the edges this morning. Mr. Martin's thermometer registered thirty-four degrees below at 7 o'clock.",
+   "summary": "Thermometer at 34 below zero this morning.",
+   "people": [
+    "Mr. Martin"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a42",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    36,
+    12.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Gallop & Walton's outfit loaded Monday with Hills freight, and after \"carminizing the municipality\" they pulled out Wednesday morning.",
+   "summary": "Gallop & Walton's freight outfit loaded for the Black Hills and left.",
+   "people": [
+    "Gallop",
+    "Walton"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a43",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    38,
+    12.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "H. M. Heath, Wells, Fargo's travelling agent, made us another visit Monday. He says that the W., F. are after gore, and by the looks of their express car they are getting it.",
+   "summary": "Wells, Fargo agent H. M. Heath visited the office.",
+   "people": [
+    "H. M. Heath"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a44",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    41,
+    12.5,
+    3.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Several photographs and descriptions of a new self-heating branding iron have been sent to our stock men, and created much favorable comment. A specimen will be on exhibition at the COW BOY office in a few days.",
+   "summary": "A new self-heating branding iron is to be exhibited at the Cow Boy office.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a45",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    44.5,
+    12.5,
+    3.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mr. Maine, a young man from Denver, was here Tuesday, prospecting for a business opening. He readily saw the splendid opening for a boot and shoe business here, and thinks strongly of purchasing a stock and going into business.",
+   "summary": "Mr. Maine of Denver considered opening a boot and shoe business.",
+   "people": [
+    "Mr. Maine"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a46",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    48,
+    12.5,
+    4.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "School was opened Monday morning in the church building, Miss Finger of South Heart being teacher. The number of scholars was not as large as was expected, but by next Monday it is hoped that all children of a proper age will be in attendance.",
+   "summary": "School opened in the church building with Miss Finger as teacher.",
+   "people": [
+    "Miss Finger"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a47",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    52.5,
+    12.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Word has been received from Joe Pennell and Tom Jones. They are still working on their Canadian Pacific contract, and will not finish till the end of the month. Joe writes that he is getting homesick for Medora, and will return as soon as possible.",
+   "summary": "Joe Pennell and Tom Jones are still on their Canadian Pacific contract.",
+   "people": [
+    "Joe Pennell",
+    "Tom Jones"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a48",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    55.5,
+    12.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "C. F. Ellison returned from St. Paul Tuesday, and will start immediately to putting up ice here for the N. P. R. C. Co. Four thousand tons will be stored in the company's ice houses here, and about twenty thousand tons more at different points along the road.",
+   "summary": "C. F. Ellison will put up 4,000 tons of ice at Medora for the N. P. R. C. Co.",
+   "people": [
+    "C. F. Ellison"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a49",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    59.5,
+    12.5,
+    5.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Russ Wilson and Rassie Deffebach went to Miles last Sunday. On their return, it was \"which and t'other\" as to who told the truth about their experiences. Each insisted on having the other given away in the COW BOY, but we have an abiding consciousness that neither was responsible for his actions, we will draw the mantle of charity over the whole affair and say nothing about it.",
+   "summary": "Russ Wilson and Rassie Deffebach's Sunday trip to Miles City.",
+   "people": [
+    "Russ Wilson",
+    "Rassie Deffebach"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a50",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    65,
+    12.5,
+    8
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Five Indians were in town Monday, looking for a herd of twenty-six ponies which had been stolen from them. Their search here was unsuccessful, but there is a strong suspicion that the guilty parties are on the river. There has been considerable indifference in relation to the arrest of those who have stolen ponies from Indians, and it is time for this to cease. Indians are \"not like men who won't play even,\" and some innocent white man is sure to suffer. Punishment should be as swift and sure on these criminals as on those who steal horses from white men.",
+   "summary": "Five Indians searched Medora for 26 stolen ponies; the paper calls for punishing thieves who steal from Indians.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a51",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    73,
+    12.5,
+    7
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A careful enumeration of our population reveals the fact that we number two hundred and fifty-one citizens. Of these a hundred and forty-six are men, thirty-nine women and sixty-six children, twenty-five or more being old enough to go to school. It will be seen in this estimate that only permanent residents in town are counted. There is a floating population of between fifty and a hundred working men who are not included, nor are any of the stock men on the river. Their vote inside the county would swell our number to nearly three hundred and fifty voters.",
+   "summary": "Medora's permanent population counted at 251.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a52",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    9,
+    80,
+    12.5,
+    13
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "One might believe that wood was the principal fuel of Newcastle, that the Esquimaux ate no fish, that the farmers of Dakota had to ship in grain, but it would be hard to believe that, living as we do in the midst of a cattle country, we are entirely without milk, except what is shipped in from outside. Out of our plenty there arises a scarcity. And this very scarcity shows one of the best openings for business that can be found on the line of the road. A good dairy, conducted on business principles, will pay largely here. Cows can be bought or rented at a low rate, and the demand for dairy products will be practically unlimited. A fortune in this line awaits a practical man who will go into the dairy business here.",
+   "summary": "Medora has no local milk; the paper urges someone to start a dairy.",
+   "people": [],
+   "method": "image",
+   "confidence": "medium"
+  },
+  {
+   "id": "a53",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    21.5,
+    6,
+    12.5,
+    1.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Stationery at Cook's.",
+   "summary": "Reading notice for Cook's.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a54",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    21.5,
+    7,
+    12.5,
+    2.5
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Mr. Will Eaton, of Dakota, it visiting his sister, Mrs. William McConway, Thirty-third street.—[Pittsburgh Bulletin.",
+   "summary": "Clipped note: Will Eaton of Dakota is visiting his sister in Pittsburgh.",
+   "people": [
+    "Will Eaton",
+    "Mrs. William McConway"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a55",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    21.5,
+    9.5,
+    12.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Tommy Greif, who has been clerking for Gill Kennedy, left Tuesday morning for Cleveland, Ohio. Many were the expressions of desire that he would soon return.",
+   "summary": "Tommy Greif, Gill Kennedy's clerk, left for Cleveland.",
+   "people": [
+    "Tommy Greif",
+    "Gill Kennedy"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a56",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    21.5,
+    12.5,
+    12.5,
+    9
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "A freighter pulled out from Belfield recently loaded with giant powder and bug juice. It was \"six and six\" for awhile which would down the other, as the freighter imagined that he was driving a six-horse coach, and had his teams going so that the wagons only hit the high places. His mule skinners deserted him in a body, and the freighter had to walk back to Belfield after a new crew. If the powder had exploded the coroners from Lawrence county to Burleigh would have held enough inquests on him to pay all their holiday expenses!",
+   "summary": "A drunken freighter hauling giant powder from Belfield was deserted by his mule skinners.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a57",
+   "page": 4,
+   "cols": "2",
+   "region": [
+    21.5,
+    24,
+    12.5,
+    1
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Confectionery of all kinds at Cook's.",
+   "summary": "Reading notice for Cook's.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a58",
+   "page": 4,
+   "cols": "2-8",
+   "region": [
+    21,
+    21.5,
+    78,
+    77
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Freighters Attention! — take your watch to the King jeweler, Spearfish or Deadwood\nBismarck Steam Laundry — \"Headquarters in the Northwest for first-class work at bottom prices\"\nCity Drug Store, Medora, Dak., H. M. Jorgens, Proprietor — drugs, patent medicines, perfumery, stationery\nMayville Stock Farm, Mayville, Traill Co., Dak. — short horn bulls; J. L. & E. B. Grandin, Props.; W. W. Warren, General Manager\nHardware and Tinware at J. D. Garver's, Little Missouri, Dak.\nNorthern Pacific Railroad — \"Going East or Going West,\" St. Paul to Portland; Chas. S. Fee, General Passenger Agent, St. Paul\nGeneral Store of the N. P. R. C. Co., Medora, Dakota — groceries, dry goods, clothing, harness, saddles, boots and shoes, hunters' outfits\nFranz Falk Brewing Co., Milwaukee — Milwaukee Beer, Roberts & Co., agents, Medora; Otto Fischer, Manager of Bismarck Branch\nE. J. Owenhouse, Bozeman, Mont. — stock saddles, Concord harness, bits and spurs, chaparejos, reatas, quirts, hackamores\nMinneapolis & St. Louis Ry, \"Famous Albert Lea Route\"\nWise & Goodkind, Bismarck, Dak. — wholesale wines, liquors, cigars; case and bar goods\nBrand: Medora Stage & F. Co., A. T. Packard, General Manager, Medora — horse brand on left shoulder; horses on stage stations between Medora and Deadwood; $25 reward\nBrand: E. W. Casey & Co., Frank S. Moore, Manager, P.O. Medora — KC F on left hip and shoulder; range O'Donnell creek\nBrand: Sloping Bottom Ranch, Lloyd Roberts, Proprietor, P.O. Medora — brand on left hip; range Little Missouri 7 mi S of N. P. R. R.\nBrand: Badger Cattle Company, Howard Eaton, M'g'r, P.O. Medora — VI on left hip; range Beaver creek and Little Missouri river\nBrand: Dorr Clark, Spearfish, Dakota — VVV on left side; ear mark under-bit in left ear; range Belle Fourche\nBrand: Clark & Plum, Spearfish, Dakota — E6 on left side; range Grand river; additional brands ZD, DZ; $100 reward re VVV or E6 ranges\nBrand: H. R. Tarbell & Co., Medora, Dak. — horse brand H on left shoulder; range Davis creek and Little Missouri river\nBrand: W. N. Thompson & Co., Wm. Dantz, Manager, P.O. Medora — TD on left hip; additional brands\nBrand: Lemoyne Cattle Co. (Limited), D. K. Wade, Manager, Medora — LC on left side; range Little Missouri south of the R. R.; ranch Tepee bottom; owners of DW brand\nBrand: Soho Cattle Co., P.O. Medora — SO on left side; range Little Missouri river and Beaver creek north of N. P. R. R.\nBrand: N. P. Refrigerator Car Co., Medora, Dak. — JP and other brands on left side; also steers bought of Mason & Lovell; ranges Little Missouri river and Beaver creek\nBrand: Spring Creek Ranch, L. D. & B. Rumsey, J. L. Truscott, Manager, P.O. Medora — circle R; range south of N. P. R. R. on Little Missouri river\nBrand: Berry, Boice & Co., P.O. Keith, Montana — 777 on right hip, side and shoulder; range south of N. P. R. R. on Little Missouri river and Beaver creek\nBrand: E. G. Paddock, P.O. Medora — six-inch circle-dot on both sides; range six miles north of crossing of N. P. R. R. and Little Missouri; horses four-inch circle-dot\nBrand: Pennell & Roberts, P.O. Medora — RR on shoulder for horses and mules; JP on left thigh; ranch four miles down river from crossing of N. P. R. R. and Little Missouri\nBrand: Lydia S. Fuller, Frank S. Moore, Manager, P.O. Medora — LSF on left shoulder; range O'Donnell creek\nBrand: Custer Trail Cattle Co., F. Alden Eaton, Supt., P.O. Medora — HK in circle, 6, and other brands; range Little Missouri river, Deep and Davis creeks\nBrand: Towers & Gudgell, P.O. Keith, Montana — OX on right side; range south of N. P. R. R. on Little Missouri river and Beaver creek\nBrand: Bad Lands Cattle Co., [H.?] Wadsworth, Manager, P.O. Medora — 7L, bellows and Pd brands; range Little Missouri river fifteen miles north of Medora\nBrand: Neimmela Ranch, Gregor Lang, Manager, P.O. Medora — thistle brand on shoulder; range Keogh crossing of Little Missouri to Pretty butte",
+   "summary": "Directory of display advertisers and cattle-brand advertisements on page 4.",
+   "people": [
+    "A. T. Packard",
+    "Gregor Lang",
+    "Howard Eaton",
+    "Lloyd Roberts",
+    "E. G. Paddock",
+    "J. L. Truscott",
+    "Frank S. Moore",
+    "D. K. Wade",
+    "H. M. Jorgens",
+    "J. D. Garver"
+   ],
+   "method": "image",
+   "confidence": "medium"
+  }
+ ],
+ "events": [
+  {
+   "id": "e1",
+   "date": "1884-12-19",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Notice gives \"Friday December 19th\"; the wolf editorial calls it the cattle meeting \"to-morrow\" relative to Thu 18 Dec 1884",
+   "planned": true,
+   "title": "Theodore Roosevelt calls a meeting of Little Missouri stockmen at Roberts Hall",
+   "summary": "A notice signed by Theodore Roosevelt, issued at the request of Huidekoper, Wadsworth, Eaton, Truscott, the N. P. R. C. Co. and other stockmen, called a meeting of stockmen of the Little Missouri and its tributaries at Roberts Hall, Medora, at 11 a.m. Friday, December 19, to organize more efficiently and protect their interests.",
+   "excerpt": "a meeting of the stockmen of this river and its tributaries is hereby called to be held in Roberts Hall, Medora at 11 a. m. Friday December 19th.",
+   "people": [
+    "Theodore Roosevelt",
+    "Huidekooper",
+    "Wadsworth",
+    "Eaton",
+    "Truscott"
+   ],
+   "places": [
+    "Medora",
+    "Roberts Hall",
+    "Little Missouri River",
+    "Beaver Creek"
+   ],
+   "tags": [
+    "tr",
+    "ranching",
+    "politics"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a13",
+   "confidence": "high"
+  },
+  {
+   "id": "e2",
+   "date": "1884-12-11",
+   "date_end": "1884-12-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Dec 1884 issue",
+   "planned": false,
+   "title": "Wolves turning on cattle as buffalo vanish",
+   "summary": "The paper reported growing cattle losses to wolves now that the buffalo are gone, noted that some cattlemen and hunters were poisoning carcasses, and urged the next day's cattle meeting to act and pay a bounty on pelts.",
+   "excerpt": "Now, that the buffalo are all gone, the wolves have turned their attention to cattle, and the loss from this source is constantly increasing.",
+   "people": [],
+   "places": [
+    "Little Missouri River"
+   ],
+   "tags": [
+    "wildlife",
+    "ranching",
+    "hunting"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a3",
+   "confidence": "high"
+  },
+  {
+   "id": "e3",
+   "date": "1884-12-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Friday night\" before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Death of Peter Malloy, proprietor of the Western House",
+   "summary": "Peter Malloy fell sick at Young's ranch while on a hunt early the previous week, was brought to town by Mr. Young on Friday for medical care, and died Friday night. He had been proprietor of the Western House and the first constable of Bismarck.",
+   "excerpt": "Friday, seeming to be a little better, Mr. Young brought him to town, where he might secure medical attendance. His condition seemed hopeless, however, and Friday night he died.",
+   "people": [
+    "Peter Malloy",
+    "Mr. Young"
+   ],
+   "places": [
+    "Medora",
+    "Young's ranch",
+    "Bismarck"
+   ],
+   "tags": [
+    "deaths",
+    "health",
+    "hunting"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a12",
+   "confidence": "high"
+  },
+  {
+   "id": "e4",
+   "date": "1884-12-14",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Sunday\" before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Peter Malloy's remains taken to Bismarck for burial",
+   "summary": "Malloy's relatives took his remains to Bismarck on Sunday for burial; he left a wife and three children.",
+   "excerpt": "His remains were taken to Bismarck Sunday for burial by his relatives.",
+   "people": [
+    "Peter Malloy"
+   ],
+   "places": [
+    "Bismarck"
+   ],
+   "tags": [
+    "deaths",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a12",
+   "confidence": "high"
+  },
+  {
+   "id": "e5",
+   "date": "1884-12-11",
+   "date_end": "1884-12-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Dec 1884 issue",
+   "planned": false,
+   "title": "H. B. Wadsworth on extended visit to the Bad Lands Cattle Co. ranch",
+   "summary": "H. B. Wadsworth of the Bad Lands Cattle Co. was at the company's ranch on an extended visit.",
+   "excerpt": "H. B. Wadsworth, of the Bad Lands Cattle Co., is at the company's ranch on an extended visit.",
+   "people": [
+    "H. B. Wadsworth"
+   ],
+   "places": [
+    "Bad Lands Cattle Co. ranch"
+   ],
+   "tags": [
+    "ranching",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a8",
+   "confidence": "high"
+  },
+  {
+   "id": "e6",
+   "date": "1884-12-13",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Saturday evening\" before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Mrs. George Roderick returns from Jamestown",
+   "summary": "Mrs. George Roderick returned Saturday evening from Jamestown; George was coming overland with his teams and expected a day or two before Christmas.",
+   "excerpt": "Mrs. George Roderick returned Saturday evening from Jamestown. George is coming overland with his teams",
+   "people": [
+    "Mrs. George Roderick",
+    "George Roderick"
+   ],
+   "places": [
+    "Medora",
+    "Jamestown"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a9",
+   "confidence": "high"
+  },
+  {
+   "id": "e7",
+   "date": "1884-12-18",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"to-day\" = issue date Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Three cowboys leave for the east on train No. 2",
+   "summary": "Herman Dickman, Walter Waterson and William Smith, cowboys on the river, left on No. 2 for the east, Dickman to Chicago and the others to Ohio, planning to return in spring.",
+   "excerpt": "Herman Dickman, Walter Waterson and William Smith, well known cow boys on the river, started on No. 2 to-day for the east.",
+   "people": [
+    "Herman Dickman",
+    "Walter Waterson",
+    "William Smith"
+   ],
+   "places": [
+    "Medora",
+    "Chicago",
+    "Ohio"
+   ],
+   "tags": [
+    "ranching",
+    "railroad",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a10",
+   "confidence": "high"
+  },
+  {
+   "id": "e8",
+   "date": "1884-12-11",
+   "date_end": "1884-12-18",
+   "date_precision": "week",
+   "date_basis": "\"since last issue\" (Thu 11 Dec) to Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Stage passengers arrive from Deadwood and depart",
+   "summary": "Ten passengers, among them Wing Foo and W. W. Driskill, arrived from Deadwood on the Medora stage since the last issue; six departed.",
+   "excerpt": "The following passengers arrived from Deadwood on the Medora stage since last issue",
+   "people": [
+    "W. W. Driskill",
+    "Wing Foo",
+    "Mrs. M. Liebman",
+    "A. L. Gossage"
+   ],
+   "places": [
+    "Medora",
+    "Deadwood"
+   ],
+   "tags": [
+    "stage",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a11",
+   "confidence": "high"
+  },
+  {
+   "id": "e9",
+   "date": "1884-12-17",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Wednesday morning\" before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Stage coach delayed by broken axle",
+   "summary": "Because of a broken axle the coach did not reach Medora until 6 o'clock Wednesday morning.",
+   "excerpt": "Owing to a broken axle, the coach did not reach here until 6 o'clock Wednesday morning.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "stage"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a7",
+   "confidence": "high"
+  },
+  {
+   "id": "e10",
+   "date": "1884-12-18",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"this evening\" = issue date Thu 18 Dec 1884",
+   "planned": true,
+   "title": "Marquise de Morès expected back in Medora",
+   "summary": "The paper reported that the Marquise de Morès would return that evening.",
+   "excerpt": "Marquise de Mores will return this evening.",
+   "people": [
+    "Marquise de Mores"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "mores",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a35",
+   "confidence": "high"
+  },
+  {
+   "id": "e11",
+   "date": "1884-12-16",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday morning\" before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "C. W. Sleeper returns from Helena",
+   "summary": "C. W. Sleeper returned from Helena Tuesday morning.",
+   "excerpt": "C. W. Sleeper returned from Helena Tuesday morning.",
+   "people": [
+    "C. W. Sleeper"
+   ],
+   "places": [
+    "Medora",
+    "Helena"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a36",
+   "confidence": "high"
+  },
+  {
+   "id": "e12",
+   "date": "1884-12-07",
+   "date_end": "1884-12-13",
+   "date_precision": "week",
+   "date_basis": "\"last week\" relative to Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Mrs. J. W. Anderson of Dickinson visits Medora friends",
+   "summary": "Mrs. J. W. Anderson, formerly of Medora and now of Dickinson, visited friends in town last week.",
+   "excerpt": "Mrs. J. W. Anderson, formerly of this place, now of Dickinson, was visiting her friends here last week.",
+   "people": [
+    "Mrs. J. W. Anderson"
+   ],
+   "places": [
+    "Medora",
+    "Dickinson"
+   ],
+   "tags": [
+    "visitors",
+    "social"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a37",
+   "confidence": "high"
+  },
+  {
+   "id": "e13",
+   "date": "1884-12-11",
+   "date_end": "1884-12-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Dec 1884 issue",
+   "planned": false,
+   "title": "Cold stops work on the new slaughter house",
+   "summary": "Carpenters had to stop work on the new slaughter house building because of the cold.",
+   "excerpt": "The carpenters were forced to knock off work on the new slaughter house building, owing to the cold.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "building",
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a38",
+   "confidence": "high"
+  },
+  {
+   "id": "e14",
+   "date": "1884-12-15",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Jamestown buyer ships venison from Medora",
+   "summary": "Mr. Chase of Jamestown was in Medora Monday, bought a lot of venison and shipped it with him.",
+   "excerpt": "Mr. Chase, of Jamestown, was here Monday and bought a lot of venison, which he shipped with him.",
+   "people": [
+    "Mr. Chase"
+   ],
+   "places": [
+    "Medora",
+    "Jamestown"
+   ],
+   "tags": [
+    "hunting",
+    "business",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a39",
+   "confidence": "high"
+  },
+  {
+   "id": "e15",
+   "date": "1884-12-17",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday morning\" before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Russ Wilson, E 6 ranch foreman, heads home",
+   "summary": "Russ Wilson, foreman of the E 6 ranch, left for home after several days in town.",
+   "excerpt": "Russ Wilson, foreman of the E 6 ranch, who has been here several days, started home yesterday morning.",
+   "people": [
+    "Russ Wilson"
+   ],
+   "places": [
+    "Medora",
+    "E 6 ranch"
+   ],
+   "tags": [
+    "ranching",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a40",
+   "confidence": "high"
+  },
+  {
+   "id": "e16",
+   "date": "1884-12-18",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"this morning\" = issue date Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Thermometer at 34 below zero",
+   "summary": "Mr. Martin's thermometer registered thirty-four degrees below zero at 7 o'clock in the morning.",
+   "excerpt": "Mr. Martin's thermometer registered thirty-four degrees below at 7 o'clock.",
+   "people": [
+    "Mr. Martin"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "weather"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a41",
+   "confidence": "high"
+  },
+  {
+   "id": "e17",
+   "date": "1884-12-15",
+   "date_end": "1884-12-17",
+   "date_precision": "day",
+   "date_basis": "Loaded \"Monday\" (15 Dec), pulled out \"Wednesday morning\" (17 Dec) before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Gallop & Walton's outfit leaves with Black Hills freight",
+   "summary": "Gallop & Walton's freight outfit loaded Monday with freight for the Black Hills and, after a spree in town, pulled out Wednesday morning.",
+   "excerpt": "Gallop & Walton's outfit loaded Monday with Hills freight, and after \"carminizing the municipality\" they pulled out Wednesday morning.",
+   "people": [
+    "Gallop",
+    "Walton"
+   ],
+   "places": [
+    "Medora",
+    "Black Hills"
+   ],
+   "tags": [
+    "stage",
+    "business",
+    "saloons"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a42",
+   "confidence": "high"
+  },
+  {
+   "id": "e18",
+   "date": "1884-12-15",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Wells, Fargo agent H. M. Heath visits",
+   "summary": "H. M. Heath, travelling agent of Wells, Fargo, visited the Cow Boy office again Monday.",
+   "excerpt": "H. M. Heath, Wells, Fargo's travelling agent, made us another visit Monday.",
+   "people": [
+    "H. M. Heath"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "business",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a43",
+   "confidence": "high"
+  },
+  {
+   "id": "e19",
+   "date": "1884-12-18",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"in a few days\" after Thu 18 Dec 1884; exact date not given",
+   "planned": true,
+   "title": "Self-heating branding iron to be shown at the Cow Boy office",
+   "summary": "Photographs of a new self-heating branding iron drew favorable comment from stockmen, and a specimen was to be exhibited at the Cow Boy office in a few days.",
+   "excerpt": "A specimen will be on exhibition at the COW BOY office in a few days.",
+   "people": [],
+   "places": [
+    "Medora",
+    "Cow Boy office"
+   ],
+   "tags": [
+    "brands",
+    "ranching",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a44",
+   "confidence": "medium"
+  },
+  {
+   "id": "e20",
+   "date": "1884-12-16",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday\" before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Denver man considers opening a boot and shoe business",
+   "summary": "Mr. Maine, a young man from Denver, was in Medora Tuesday looking for a business opening and thought strongly of starting a boot and shoe business.",
+   "excerpt": "He readily saw the splendid opening for a boot and shoe business here",
+   "people": [
+    "Mr. Maine"
+   ],
+   "places": [
+    "Medora",
+    "Denver"
+   ],
+   "tags": [
+    "business",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a45",
+   "confidence": "high"
+  },
+  {
+   "id": "e21",
+   "date": "1884-12-15",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday morning\" before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "School opens in the church building",
+   "summary": "School opened Monday morning in the church building with Miss Finger of South Heart as teacher; attendance was below expectations.",
+   "excerpt": "School was opened Monday morning in the church building, Miss Finger of South Heart being teacher.",
+   "people": [
+    "Miss Finger"
+   ],
+   "places": [
+    "Medora",
+    "South Heart"
+   ],
+   "tags": [
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a46",
+   "confidence": "high"
+  },
+  {
+   "id": "e22",
+   "date": "1884-12-11",
+   "date_end": "1884-12-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Dec 1884 issue",
+   "planned": false,
+   "title": "Joe Pennell and Tom Jones still on Canadian Pacific contract",
+   "summary": "Word came that Joe Pennell and Tom Jones were still working on a Canadian Pacific contract until month's end; Pennell wrote he was homesick for Medora.",
+   "excerpt": "Joe writes that he is getting homesick for Medora, and will return as soon as possible.",
+   "people": [
+    "Joe Pennell",
+    "Tom Jones"
+   ],
+   "places": [
+    "Medora",
+    "Canada"
+   ],
+   "tags": [
+    "railroad",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a47",
+   "confidence": "high"
+  },
+  {
+   "id": "e23",
+   "date": "1884-12-16",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday\" before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "C. F. Ellison to put up ice for the N. P. R. C. Co.",
+   "summary": "C. F. Ellison returned from St. Paul Tuesday to begin putting up ice for the N. P. R. C. Co.: 4,000 tons in the company's Medora ice houses and about 20,000 more along the road.",
+   "excerpt": "Four thousand tons will be stored in the company's ice houses here",
+   "people": [
+    "C. F. Ellison"
+   ],
+   "places": [
+    "Medora",
+    "St. Paul"
+   ],
+   "tags": [
+    "business",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a48",
+   "confidence": "high"
+  },
+  {
+   "id": "e24",
+   "date": "1884-12-14",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Sunday\" before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Russ Wilson and Rassie Deffebach visit Miles City",
+   "summary": "Russ Wilson and Rassie Deffebach went to Miles last Sunday and returned disputing each other's account of the trip; the paper declined to print details.",
+   "excerpt": "Russ Wilson and Rassie Deffebach went to Miles last Sunday.",
+   "people": [
+    "Russ Wilson",
+    "Rassie Deffebach"
+   ],
+   "places": [
+    "Miles City"
+   ],
+   "tags": [
+    "social",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a49",
+   "confidence": "high"
+  },
+  {
+   "id": "e25",
+   "date": "1884-12-15",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Five Indians search Medora for 26 stolen ponies",
+   "summary": "Five Indians came to town Monday looking for twenty-six stolen ponies without success; the paper suspected the thieves were on the river and called for thieves who steal from Indians to be punished like other horse thieves.",
+   "excerpt": "Five Indians were in town Monday, looking for a herd of twenty-six ponies which had been stolen from them.",
+   "people": [],
+   "places": [
+    "Medora",
+    "Little Missouri River"
+   ],
+   "tags": [
+    "Native-Americans",
+    "crime",
+    "law"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a50",
+   "confidence": "high"
+  },
+  {
+   "id": "e26",
+   "date": "1884-12-11",
+   "date_end": "1884-12-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Dec 1884 issue",
+   "planned": false,
+   "title": "Medora counts 251 permanent residents",
+   "summary": "An enumeration counted 251 permanent residents of Medora: 146 men, 39 women and 66 children, not counting 50 to 100 transient workers or stockmen on the river.",
+   "excerpt": "we number two hundred and fifty-one citizens. Of these a hundred and forty-six are men, thirty-nine women and sixty-six children",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "town-life",
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a51",
+   "confidence": "high"
+  },
+  {
+   "id": "e27",
+   "date": "1884-12-11",
+   "date_end": "1884-12-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Dec 1884 issue",
+   "planned": false,
+   "title": "Paper calls for a dairy in Medora",
+   "summary": "The paper noted Medora had no milk except what was shipped in and urged someone to start a dairy.",
+   "excerpt": "we are entirely without milk, except what is shipped in from outside.",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a52",
+   "confidence": "medium"
+  },
+  {
+   "id": "e28",
+   "date": "1884-12-16",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday morning\" before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Tommy Greif leaves for Cleveland",
+   "summary": "Tommy Greif, who had been clerking for Gill Kennedy, left Tuesday morning for Cleveland, Ohio.",
+   "excerpt": "Tommy Greif, who has been clerking for Gill Kennedy, left Tuesday morning for Cleveland, Ohio.",
+   "people": [
+    "Tommy Greif",
+    "Gill Kennedy"
+   ],
+   "places": [
+    "Medora",
+    "Cleveland"
+   ],
+   "tags": [
+    "town-life",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a55",
+   "confidence": "high"
+  },
+  {
+   "id": "e29",
+   "date": "1884-12-11",
+   "date_end": "1884-12-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Dec 1884 issue",
+   "planned": false,
+   "title": "Drunken freighter with giant powder deserted by crew near Belfield",
+   "summary": "A freighter leaving Belfield with giant powder and liquor drove so wildly that his mule skinners deserted him, and he had to walk back to Belfield for a new crew.",
+   "excerpt": "A freighter pulled out from Belfield recently loaded with giant powder and bug juice.",
+   "people": [],
+   "places": [
+    "Belfield"
+   ],
+   "tags": [
+    "stage",
+    "saloons",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a56",
+   "confidence": "medium"
+  },
+  {
+   "id": "e30",
+   "date": "1884-12-11",
+   "date_end": "1884-12-18",
+   "date_precision": "week",
+   "date_basis": "No date given; clipped from the Pittsburgh Bulletin, week before Thu 18 Dec 1884",
+   "planned": false,
+   "title": "Will Eaton of Dakota visits his sister in Pittsburgh",
+   "summary": "A clipping from the Pittsburgh Bulletin reported Will Eaton of Dakota visiting his sister, Mrs. William McConway.",
+   "excerpt": "Mr. Will Eaton, of Dakota, it visiting his sister, Mrs. William McConway",
+   "people": [
+    "Will Eaton",
+    "Mrs. William McConway"
+   ],
+   "places": [
+    "Pittsburgh"
+   ],
+   "tags": [
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a54",
+   "confidence": "medium"
+  },
+  {
+   "id": "e31",
+   "date": "1884-11-17",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Notice says the bull round-up \"started on Monday, November 18th, 1884\"; 18 Nov 1884 was a Tuesday, so the day is uncertain (17 or 18 Nov)",
+   "planned": false,
+   "title": "Pierre Wibaux opens a winter bull ranch on the Little Missouri",
+   "summary": "Pierre Wibaux announced a bull ranch at the Royal Chambord ranch where he would winter and feed stockmen's bulls at $2 a month each; the bull round-up began in mid-November.",
+   "excerpt": "I have established and fitted up a bull ranch on the Little Missouri.",
+   "people": [
+    "Pierre Wibaux"
+   ],
+   "places": [
+    "Royal Chambord ranch",
+    "Mingusville",
+    "Little Missouri River"
+   ],
+   "tags": [
+    "ranching",
+    "roundup",
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a20",
+   "confidence": "medium"
+  },
+  {
+   "id": "e32",
+   "date": "1884-12-11",
+   "date_end": "1884-12-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Dec 1884 issue",
+   "planned": false,
+   "title": "Cattle firms offer $250 reward against grass-fire setters",
+   "summary": "The N. P. Ref. Car Co., Continental Cattle Co., Hughes & Simpson, Dorr Clark, Clark & Plum, Dickey Bros. and E. G. Paddock offered $250 for the arrest of anyone setting fire to grass in the cattle country of western Dakota.",
+   "excerpt": "The above reward will be paid for information leading to the arrest of any person or persons setting fire to the grass",
+   "people": [
+    "Dorr Clark",
+    "E. G. Paddock"
+   ],
+   "places": [
+    "Western Dakota"
+   ],
+   "tags": [
+    "fire",
+    "law",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a18",
+   "confidence": "high"
+  },
+  {
+   "id": "e33",
+   "date": "1884-10-05",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Notice dates the stray \"October 5\" (1884)",
+   "planned": false,
+   "title": "Sorrel horse strays from the Medora stage company",
+   "summary": "M. S. & F. Co. offered $25 for a branded sorrel horse that strayed October 5.",
+   "excerpt": "From M. S. & F. Co., October 5, one sorrel horse",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "stage",
+    "brands"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a15",
+   "confidence": "high"
+  },
+  {
+   "id": "e34",
+   "date": "1884-11-19",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Notice dates the loss \"the night of November 19\" (1884)",
+   "planned": false,
+   "title": "Mare strayed or stolen from A. Young's ranch",
+   "summary": "A. Young reported a dark sorrel mare strayed or stolen from his ranch ten miles south of Medora on the night of November 19.",
+   "excerpt": "From my ranch on Little Missouri, ten miles south of Medora, the night of November 19, a dark sorrel mare",
+   "people": [
+    "A. Young"
+   ],
+   "places": [
+    "Young's ranch",
+    "Little Missouri River"
+   ],
+   "tags": [
+    "crime",
+    "brands",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a17",
+   "confidence": "high"
+  },
+  {
+   "id": "e35",
+   "date": "1884-12-11",
+   "date_end": "1884-12-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Dec 1884 issue",
+   "planned": false,
+   "title": "W. N. Thompson & Co. horse lost from the round-up",
+   "summary": "W. N. Thompson & Co. offered $10 for a wild bay horse lost from the Little Missouri round-up.",
+   "excerpt": "Lost from the Little Missouri round-up, one bay horse 5 years old",
+   "people": [
+    "W. N. Thompson"
+   ],
+   "places": [
+    "Little Missouri River"
+   ],
+   "tags": [
+    "roundup",
+    "brands"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a16",
+   "confidence": "medium"
+  },
+  {
+   "id": "e36",
+   "date": "1884-12-11",
+   "date_end": "1884-12-18",
+   "date_precision": "week",
+   "date_basis": "No date given; week before Thu 18 Dec 1884 issue",
+   "planned": false,
+   "title": "Gregor Lang offers reward for missing horses",
+   "summary": "Gregor Lang offered $50 for the return of three mares and a pony bearing his brands.",
+   "excerpt": "One bay mare, one brown mare and one roan mare, all young and branded double or reverse P on left shoulder",
+   "people": [
+    "Gregor Lang"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "brands",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a19",
+   "confidence": "medium"
+  },
+  {
+   "id": "e37",
+   "date": "1884-11-03",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Notice dates the stray \"November 3d\" (1884)",
+   "planned": false,
+   "title": "Two horses stray from North Grand river stage station",
+   "summary": "Wm. Miller of Minnesela offered $20 for two horses that strayed from near a stage station on the North Grand river on November 3.",
+   "excerpt": "From North Grand river, near stage station on November 3d, a light bay horse",
+   "people": [
+    "Wm. Miller"
+   ],
+   "places": [
+    "North Grand River",
+    "Minnesela"
+   ],
+   "tags": [
+    "stage",
+    "brands"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a21",
+   "confidence": "high"
+  },
+  {
+   "id": "e38",
+   "date": "1884-12-04",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Notice says pony \"taken up, December 4\" (1884)",
+   "planned": false,
+   "title": "Frank Walker takes up two stray ponies at Knutson creek",
+   "summary": "Frank Walker took up two branded ponies at the Knutson creek sheep corral on December 4 and asked the owners to claim them.",
+   "excerpt": "Had halter on when taken up, December 4.",
+   "people": [
+    "Frank Walker"
+   ],
+   "places": [
+    "Knutson creek"
+   ],
+   "tags": [
+    "brands",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a22",
+   "confidence": "high"
+  }
+ ]
+}

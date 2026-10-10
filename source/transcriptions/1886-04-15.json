@@ -1,0 +1,1734 @@
+{
+ "date": "1886-04-15",
+ "masthead": "Thursday, April 15, 1886",
+ "volume": "Vol. 3, No. 10",
+ "pages": [
+  {
+   "seq": 1,
+   "kind": "mixed",
+   "notes": "cols 1-4 display ads (incl. Cow Boy round-up views premium); cols 5-7 local: Billings County election, stock notes, Little Missouri River Stockgrowers' Association meeting chaired by TR, alfalfa reprint"
+  },
+  {
+   "seq": 2,
+   "kind": "ready-print",
+   "notes": "patent inside under Cow Boy name plate: generic editorials, General News Condensed, Congressional Summary, Dakota Territorial News; no Medora items"
+  },
+  {
+   "seq": 3,
+   "kind": "ready-print",
+   "notes": "patent inside: fiction, miscellany, patent-medicine ads"
+  },
+  {
+   "seq": 4,
+   "kind": "mixed",
+   "notes": "col 1 local items (TR boat-thief capture, Marquis, tax injunction); cols 2-7 ads and brand directory"
+  }
+ ],
+ "articles": [
+  {
+   "id": "a1",
+   "page": 1,
+   "cols": "1-7",
+   "region": [
+    6,
+    13,
+    88,
+    3
+   ],
+   "section": "masthead",
+   "headline": null,
+   "text": "The Bad Lands Cow Boy.\n\nVolume 3, Number 10. MEDORA, DAKOTA, APRIL 15, 1886. Price $2.00 per Year\n\nBAD LANDS COW BOY, BY A. T. PACKARD.\n\nThe Cow Boy is not published for fun, but for $2 per year.\n\nAdvertising Rates made known on application.\n\nStanding Advertisements payable quarterly.\n\nTransient Advertisements and all Job work, money in sight.\n\nAddress all communications to THE BAD LANDS COW BOY, MEDORA, DAKOTA.\n\nEntered at the post-office at Medora, Dak., as second class mail matter.",
+   "summary": "Masthead and publisher's terms.",
+   "people": [
+    "A. T. Packard"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a2",
+   "page": 1,
+   "cols": "1-4",
+   "region": [
+    6,
+    15,
+    50,
+    85
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "A. T. Packard, Notary Public, Medora, Dak.\nLyman's Patent Gun Sights — Wm. Lyman, Middlefield, Conn.\nF. E. Benjamin, Jeweler and Watchmaker, Mandan, Dakota\nFirst National Bank of Mandan, Dakota — H. R. Lyon, Prest.; H. VanVleck, Jr., Cashier; M. Lang, Vice President\nDan. McKenzie, Blacksmithing and Horse-Shoeing, Medora, Dak.\nD. Flynn, manufacturer and dealer in Boots, Shoes, Rubbers, Etc., Main Street, Mandan, Dak.\nJ. D. Garver's, Hardware and Tinware, Medora, Dakota\nInsurance (fire, lightning, wind storms and hail) — A. T. Packard, Agent, Medora, Dak.\nNorthern Pacific Railroad — direct line St. Paul, Minneapolis or Duluth to the Pacific Northwest and Yellowstone National Park; Chas. S. Fee, General Passenger Agent, St. Paul\nMilwaukee Brewing Company, proprietors of the Bismarck Brewery — keg and bottled beer, Bismarck, Dak.\nThe Clipper Tricycle wheel plow — Parlin & Orendorff Co., Canton, Ill.\nThe Adams & Westlake oil, gas and gasoline stoves — Adams & Westlake M'f'g Co., Chicago\nRoyal Baking Powder — comparative worth diagram and government chemists' reports\nC Spring Cart Co., Rushville, Ind. — two-wheeled vehicles, buckboards\nRound-Up Views — Cow Boy premium offer: 36 Huffman instantaneous photographs of a Montana round-up and the Cow Boy one year for $6; Cow Boy office, Medora, Dak.\nJas. McMillan & Co., Minneapolis Sheepskin Tannery — hides, pelts, furs, tallow\nThe Brookmont Herd (Herefords) — C. W. Cook & Son, Odebolt, Sac Co., Ia.\nThe Natures Incubator — Natures Incubator Co., Quincy, Ill.",
+   "summary": "Page 1 display advertisements in columns 1-4, including the Cow Boy's Huffman round-up photograph premium offer.",
+   "people": [
+    "A. T. Packard",
+    "Dan. McKenzie",
+    "J. D. Garver",
+    "D. Flynn",
+    "F. E. Benjamin"
+   ],
+   "method": "ocr",
+   "confidence": "medium"
+  },
+  {
+   "id": "a3",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    55.5,
+    15,
+    12.5,
+    71
+   ],
+   "section": "politics",
+   "headline": "Billings County Election.",
+   "text": "Last Monday was not by any means an agreeable day out of doors and this coupled with the lack of excitement, caused the number of voters to be but little more than half the number who had been registered. The polls opened promptly at eight o'clock in Paddock's livery office. The greatest rush of voters was during the first hour, when a number of rail-road men who had not been registered had to swear in their votes. There had been just 122 votes cast at five o'clock when the polls closed. The result showed a much larger amount of scratching than was expected, some entirely new names running well. The following is the vote in full:\n\nCOMMISSIONERS.\nJ. W. Goodall. 121\nDan. McKenzie. 122\nJ. L. Truscott. 122\nREG. OF DEEDS & CO. CLERK.\nJ. C. Williamson. 122\nSHERIFF.\nFred. A. Willard. 122\nASSESSOR.\nWillis L. Eaton. 112\nGeorge Fitzgerald 9\nPROBATE JUDGE.\nT. W. Gordon. 56\nE. L. Simmers. 63\nJohn Warn 1\nTREASURER.\nW. F. VanDriesche. 122\nCOUNTY SURVEYOR.\nD. O. Sweet. 49\nArthur W. Smith. 72\nCORONER.\nTalleyrand Martin. 122\nSUP'T. OF PUB. SCHOOLS.\nWm. Dantz. 122\nJUSTICES.\nGregor Lang, 48\nNorman Lebo, 120\nJ. C. Copeland, 114\nE. Elmer. 121\nJ. A. Copeland, 8\nG. Gorham Bond, 70\nCONSTABLES.\nJ. B. Harmon, 119\nFred. Banan, 57\nJohn Creedon, 87\nJ. W. Tompkins. 122\nM. Coleman, 67\nH. R. Tarbell, 1\nJ. R. Grymes, 35\nCOUNTY SEAT—MEDORA. 121\n\n\"STICKERS\"\n\n122 votes polled.\n\nThe judges and clerks had the hardest work of any. Their siege of fourteen hours, with no intermission, was harder than sawing wood.\n\nMr. McGinness made a good supervisor. In case any of his decisions had not given satisfaction, a glance at his frame would have discouraged the average objector.\n\nThere were three different kinds of tickets used. There being a chance for four or more stickers on the regular ticket, the result in some cases, was unexpected.\n\nJ. R. Grymes made a good run for constable. He didn't stay with the leather long enough, though.\n\nWhen one of the judges makes a man who is swearing in his vote show up his teeth to decide his age and then remarks that his statements are \"tooth in,\" it calls for gore.\n\nThe fact that no one could vote whose name was not registered, until he had sworn his vote in, caused several to believe that their vote was challenged.\n\nGill Kennnedy deserves and has the everlasting thanks of the officers of election for a large pail of delicious lemonade.\n\nJohn Warn was again remembered by one of his Medora friends. \"Alaska John\" would have \"got there, dead or alive\" if he had been present.\n\nThe way Mike Coleman's name bobbed up for constable, knocked calculations \"galley west for election.\"\n\nSome good hits on Democrats would not have been mede in the poll room, if all had known that Supervisor Mc Ginness was one of the strongest Democrats in Dakota.\n\nThe danger of one person depending on others to do what he should do himself, was well illustrated in the election of surveyor. Arthur Smith refused to run under any circumstances. He is not a citizen and would not have accepted the office if he had been. Consequently he resigned in favor of D. O. Sweet, who consented to run more as a matter of accommodation than anything else, as it is doubtful if there is anything in the office except the empty honor. As it was so well understood that Arthur would not serve if he could, everyone expected that Sweet would get the highest number of votes and consequently neglected to substitute his name for Smith's, whose name appeared on the ticket as the nominee of the convention.",
+   "summary": "Full returns and sidelights from Monday's Billings County election at Paddock's livery office: 122 votes cast, Medora chosen county seat, and Arthur Smith elected surveyor despite refusing to serve.",
+   "people": [
+    "J. W. Goodall",
+    "Dan. McKenzie",
+    "J. L. Truscott",
+    "J. C. Williamson",
+    "Fred. A. Willard",
+    "Willis L. Eaton",
+    "George Fitzgerald",
+    "T. W. Gordon",
+    "E. L. Simmers",
+    "John Warn",
+    "W. F. VanDriesche",
+    "D. O. Sweet",
+    "Arthur W. Smith",
+    "Talleyrand Martin",
+    "Wm. Dantz",
+    "Gregor Lang",
+    "Norman Lebo",
+    "J. C. Copeland",
+    "E. Elmer",
+    "J. A. Copeland",
+    "G. Gorham Bond",
+    "J. B. Harmon",
+    "Fred. Banan",
+    "John Creedon",
+    "J. W. Tompkins",
+    "M. Coleman",
+    "H. R. Tarbell",
+    "J. R. Grymes",
+    "McGinness",
+    "Gill Kennnedy",
+    "E. G. Paddock"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a4",
+   "page": 1,
+   "cols": "5",
+   "region": [
+    55.5,
+    79,
+    12.5,
+    18
+   ],
+   "section": "range",
+   "headline": "STOCK NOTES.",
+   "text": "The following are the latest cattle quotations in the Chicago market:\nChoice to fancy shipping,...$5.30 @ 5.90\nGood to choice shipping,....$4.65 @ 5.40\nCommon to good shipping,..$4.30 @ 5.00\nPoor to medium steers,......$4.10 @ 4.80\nFair to choice cows,.........$2.80 @ 3.80\nInferior to medium cows...$2.20 @ 2.80\nPoor to choice bulls.........$2.50 @ 3.50\nStockers, 550 to 860 lbs,....$2.70 @ 3.80\nFeeders, 875 to 1,150 lbs,...$3.70 @ 4.50\nMilch cows, ⅌ head,.....$20.00 @ 50.00\nStock calves.................$6.00 @ 15.00",
+   "summary": "Latest Chicago cattle market quotations.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a5",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    15,
+    12.5,
+    4
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The spring meeting of the Montana Stockgrowers' association begins at Miles City, April 19.",
+   "summary": "Montana Stockgrowers' Association spring meeting opens at Miles City April 19.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a6",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    19,
+    12.5,
+    4
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Lloyd Roberts will arrive in Medora about the 25th., delivering at Dickinson Aleck Counell's herd for his Cave Hills ranch.",
+   "summary": "Lloyd Roberts expected about the 25th, delivering Aleck Counell's herd at Dickinson for the Cave Hills ranch.",
+   "people": [
+    "Lloyd Roberts",
+    "Aleck Counell"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a7",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    23,
+    12.5,
+    6
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The Ref. Car Co. and Bad Lands Cattle Co. will start an outfit about the 17th. to work the Grand river country, probably from its source to its mouth. The outfit will probably work in connection with one from the E6.",
+   "summary": "Refrigerator Car Co. and Bad Lands Cattle Co. to send a joint outfit to work the Grand River country about the 17th.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a8",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    26,
+    12.5,
+    7
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "Wm. Dantz arrived this morning with 300 two-year-old heifers and unloaded at the stock yards. The lot is a fine one, probably as good as has ever been brought in at this season. They are all from Minnesota. Dantz will start back east in the morning to receive another lot of 350, which have already been purchased in Iowa.",
+   "summary": "Wm. Dantz unloaded 300 Minnesota heifers at the Medora stock yards and heads east for 350 more from Iowa.",
+   "people": [
+    "Wm. Dantz"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a9",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    32,
+    12.5,
+    9
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "We are in receipt of a book entitled \"A Texas Cowboy,\" written by C. L. Siringo, and printed by Siringo & Gibson, Chicago. It has not, nor does it pretend to have any claims of a literary value, but it is written in cowboy language and is descriptive of many phases of cowboy life. The author's description of the manner in which herds were started in early days, with a pony and a branding-iron is especially interesting. Looked at from the cowboy point of view, it is a truthful account of the hardships a cowboy voluntarily or involuntarily endures.",
+   "summary": "Notice of C. L. Siringo's book \"A Texas Cowboy.\"",
+   "people": [
+    "C. L. Siringo"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a10",
+   "page": 1,
+   "cols": "6",
+   "region": [
+    67.5,
+    39,
+    12.5,
+    9
+   ],
+   "section": "range",
+   "headline": null,
+   "text": "The weekly St. Paul Pioneer Press of April 1, speaks very highly of the Shorthorn cattle from the Mayville Farm, Mayville, Traill Co., Dak., to be offered at Public Sale on the Old Fair Grounds, Minneapolis, Minnesota, May 26, 1886. It says \"The proprietors, J. L. & E. B. Grandin, started their herd seven years ago and spared no expense to procure animals of choice breeding from such celebrated families as Peri, Rosamond, Princess, Rosabella, Goodness, Victoria, Sutherland, Kirklemington and others. This is a good opportunity for stockmen and farmers to avail themselves of this sale and improve their stock.\" Catalogue sent on application to the farm.",
+   "summary": "Notice of the Grandins' Mayville Farm Shorthorn sale at Minneapolis, May 26, 1886.",
+   "people": [
+    "J. L. Grandin",
+    "E. B. Grandin"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a11",
+   "page": 1,
+   "cols": "6-7",
+   "region": [
+    67.5,
+    47,
+    25,
+    53
+   ],
+   "section": "range",
+   "headline": "Meeting of the Little Missouri River Stockgrowers' Association.",
+   "text": "The fourth semi-annual meeting of the above association was called to order by Chairman Theodore Roosevelt, at the town hall, last Monday morning at half past ten.\n\nThe roll being called by Secretary J. L. Truscott, nearly all members answered to their names.\n\nThe minutes of the last meeting were read and approved.\n\nW. A. Merrifield proposed the name of L. C. Hunt for membership. The chairman stated that unless there was objection he would decide that as membership in the Association was by firms and as E. W. Casey & Co. already held membership, there was no necessity of electing Mr. Hunt, he being representative of E. W. Casey & Co. There being no objection, it was so held and Mr. Hunt's name was enrolled as a member.\n\nThe report of the secretary was read, showing the association to be free from debt and a cash balance in the treasury.\n\nWillis Eaton moved that John Goodall be elected foreman of the spring round-up. There being no further nominations the motion was unanimously carried.\n\nOn motion of Willis Eaton, it was decided to start the round-up on or about June 1. at the mouth of Box Elder. Working down the Little Missouri to the mouth of Beaver, thence up Beaver to its head.\n\nOn motion of J. L. Truscott, it was decided that the committee appointed to go to Miles City, be instructed to recommend the above at that meeting.\n\nIt was moved by J. L. Truscott and carried that J. N. Simpson and Theodore Roosevelt be appointed the committee to represent this association at the Miles City meeting. These two members also to have power to choose a third. Also that the committee be instructed to recommend that J. N. Simpson and Henry Boice be the members of the executive committee from Dakota.\n\nAs moved by Willis Eaton and amended by J. L. Truscott a motion was made and carried, that mavericks be given to the owner of the range on which they are found. In case of dispute, the matter is to be left to arbitration, each party in dispute choosing a representative and these to choose one, two or three more.\n\nOn motion of D. K. Wade, this resolution was ordered embodied in the by laws of the association.\n\nW. A. Merrifield brought up the subject of branding cattle between Dec. 1 and the spring round-up.\n\nOn motion of Willis Eaton, a resolution was carried to the effect that members shall not be allowed to work cattle between Dec. 1 and the spring round-up and that in other respects our rules should conform to those of the Montana association on the subject.\n\nJ. L. Truscott moved that the association stand by Jos. McCoul and others in their action in reference to an animal in dispute between them and the Bad Lands Cattle Co. On calling the roll, there were found to be eight yeas and seven nays. The chair stated that on account of the peculiarity of the vote and that as it was a subject to demand greater unanimity and without in any manner expressing an opinion on the merits of the case he should vote nay and declare the motion lost.\n\nAssociation adjourned.\n\n\"ROUND-UPS.\"\n\nMessrs. Ferris and Burdette represented the 13 outfit.\n\nMr. Arnett of Arnett & Thomas, represented the ΛHΛ brand at the meeting.\n\nThere was a larger attendance than at any previous meeting of the association.\n\nMessrs. Towers, [Boice?], [Wibaux?], Grisy, Rowe, Tarbell and Morrison were present from Mingusville.\n\nA. N. Jeffries will, after the general round-up, start an outfit to work the country on the river below our round-up district.\n\nMessrs. Marney of the Stockgrowers' Journal, Knight of the Yellowstone Journal, Mabee of the Glendive Times and Widmyer of the Independent, were present.",
+   "summary": "Proceedings of the Little Missouri River Stockgrowers' Association's fourth semi-annual meeting, chaired by Theodore Roosevelt: Goodall chosen round-up foreman, June 1 start set, Roosevelt and Simpson named delegates to Miles City, and a maverick rule adopted.",
+   "people": [
+    "Theodore Roosevelt",
+    "J. L. Truscott",
+    "W. A. Merrifield",
+    "L. C. Hunt",
+    "Willis Eaton",
+    "John Goodall",
+    "J. N. Simpson",
+    "Henry Boice",
+    "D. K. Wade",
+    "Jos. McCoul",
+    "Ferris",
+    "Burdette",
+    "Arnett",
+    "Towers",
+    "Grisy",
+    "Rowe",
+    "Tarbell",
+    "Morrison",
+    "A. N. Jeffries",
+    "Marney",
+    "Knight",
+    "Mabee",
+    "Widmyer"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a12",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79.5,
+    31,
+    13,
+    13
+   ],
+   "section": "local",
+   "headline": "Perfect Gun Sights.",
+   "text": "In the BAD LANDS COW BOY this week will be observed the advertisement of Lyman's gun sights, which are probably about as near perfect as will be reached in this century. His rear sights are universally used by hunters and riflemen throughout Europe and America, and, when used with his new ivory bead front sight which is here illustrated, an ordinary marksman can bore the bulls-eye with astonishing accuracy, and kill running game with ease. The American Field recently published engravings of targets made with these sights, showing that out of seventeen shots, all struck within the bulls-eye but one, which struck the line between bulls-eye and center. We have received a sample of the sight, and will take pleasure in showing it.",
+   "summary": "Editorial notice of Lyman's gun sights, a sample of which is at the Cow Boy office.",
+   "people": [
+    "Wm. Lyman"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a13",
+   "page": 1,
+   "cols": "7",
+   "region": [
+    79.5,
+    46,
+    13,
+    46
+   ],
+   "section": "range",
+   "headline": "Alfalfa in Dakota.",
+   "text": "If he who makes two blades of grass grow where only one grew before, is a public benefactor, then whatever will cause the soil to grow more fodder and extend the season of growth six or eight weeks is also a benefactor.\n\nAlfalfa will do this. It is a clover nearly related to red clover. It is as hardy, if not hardier. Rooting deep it is quite independent of the rain fall. It starts earlier in the spring than the grasses and continues to grow after they are dead.\n\nMr. J. R. Lowe, of Bijou Hills, Dak., writes me that five years ago he received from the Agricultural Department a package of alfalfa, which he scattered thinly over a patch of ground that had been worked two years and paid no more attention to it. Naturally the weeds took possession but the alfalfa caught. For three years the weeds had the upper hand and being an eyesore he mowed them. But the following year being very dry the alfalfa gained ascendency, and in the spring of '85 every plant was in its place alive and vigorous and showed its color three weeks before anything else started, and was full six inches high before cattle could live on the prairie. He is absolutely certain that not a plant has died from any cause, that it extends the time of green feed at least two months in the year, early frost not killing it down; that it is worthy of trial, and he has great hopes that it will prove a success in Dakota.\n\nThere is ample proof that it will stand our cold winters. At Highmore, Dak., there are five acres, sown last spring, that made a good growth. It was visited by a hail storm, but being a tough stalk was not cut as badly as the wheat. Specimens I have from the field, in fact show no effects of the hail.\n\nIt was a standing temptation to the pigs of the neighborhood, and whenever they got out they took a near way to the alfalfa. At Blunt, Mr. Zollers pulled from his patch a plant whose root measured twenty-two and a half inches, the growth of one season. At Miller, Hand Co., an eighth of an acre sowed on sod last spring made a splendid growth. I observed reeds on the stalks which were left standing to help it through the first winter. It was alive and in good condition the 8th. of February when examined. At this place, an experimental patch, by its growth enthused us with a belief in its future.\n\nI hear some one ask what if it does yield eight or ten bushels to the acre yearly after it is well set, what is it good for?\n\nIt is relished by all kinds of stock; it takes the place of corn; alfalfa fed beef resembles corn fed; pigs riot in it, and grow fat during the mild months by having portable fences on different lots, as it will not stand constant feeding; it will enable Dakota to compete with the corn states in raising stock; it will produce an abundant yield every year in spite of hail, frost or drought; it will renew the soil. Dakota cannot always grow small grain. It is only a question of time when the present culture will exhaust the soil. I look to alfalfa as the stepping stone to profitable stock raising, a sure foundation to any country's prosperity.—[Northwestern Farmer.",
+   "summary": "Reprint from the Northwestern Farmer urging alfalfa as fodder for Dakota stock raising.",
+   "people": [
+    "J. R. Lowe",
+    "Zollers"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a14",
+   "page": 2,
+   "cols": "1-7",
+   "region": [
+    6,
+    4,
+    88,
+    94
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "",
+   "summary": "Ready-print inside page: generic editorial paragraphs under the Cow Boy name plate (Ruskin, coal prices, war literature, prison labor, railroad gauge), General News Condensed, Congressional Summary, a woman's misery story, Gladstone and Ireland, and Dakota Territorial News from other towns.",
+   "people": [],
+   "method": "ocr",
+   "confidence": "medium"
+  },
+  {
+   "id": "a15",
+   "page": 3,
+   "cols": "1-7",
+   "region": [
+    6,
+    4,
+    88,
+    94
+   ],
+   "section": "ready-print",
+   "headline": null,
+   "text": "",
+   "summary": "Ready-print inside page: fiction (\"An Odd Mistake\"), poetry, humor, woman suffrage in Wyoming and miscellany, with patent-medicine ads (Ayer's Sarsaparilla, Tutt's Pills, Brown's Iron Bitters, Perry Davis' Pain-Killer, Mexican Mustang Liniment).",
+   "people": [],
+   "method": "ocr",
+   "confidence": "medium"
+  },
+  {
+   "id": "a16",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    9,
+    13.5,
+    6
+   ],
+   "section": "railroad",
+   "headline": "Northern Pacific Time Table.",
+   "text": "BAD LANDS COW BOY, BY A. T. PACKARD. THURSDAY, APRIL 15, 1886.\n\nWEST BOUND.\nPacific Express, No. 1..........6:47 p. m.\nExpress Freight, 2d Class.......8:59 p. m.\nFreight, 3d Class...............11:40 a. m.\nEAST BOUND.\nAtlantic Express, No., 2........8:43 a. m.\nExpress Freight, 3d Class.......1:15 p. m.\nFreight, 3rd Class..............1:50 a. m.\nH. D. Breene, Agent.",
+   "summary": "Page 4 nameplate and Northern Pacific time table at Medora.",
+   "people": [
+    "H. D. Breene"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a17",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    20,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Northern Pacific preferred stocks, 57¾; common, 26¼.",
+   "summary": "Northern Pacific stock prices.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a18",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    21.5,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "H. T. Hallcck of Mandan, was in town Monday.",
+   "summary": "H. T. Hallcck of Mandan visited Monday.",
+   "people": [
+    "H. T. Hallcck"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a19",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    23,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "E. A. Stedman, the Wells-Fargo route agent is in town.",
+   "summary": "Wells-Fargo route agent E. A. Stedman in town.",
+   "people": [
+    "E. A. Stedman"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a20",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    24.5,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "H. B. Wadsworth arrived Monday night and has gone to the home ranch.",
+   "summary": "H. B. Wadsworth arrived and went to the home ranch.",
+   "people": [
+    "H. B. Wadsworth"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a21",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    26,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The Marquis and wife returned from their hunt down the river, last evening.",
+   "summary": "The Marquis de Morès and wife returned from a hunt down the river.",
+   "people": [
+    "Marquis de Morès",
+    "Marquise de Morès"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a22",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    27.5,
+    13.5,
+    2
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "J. P. Small and son, from north of the Yellowstone, attended the stock meeting.",
+   "summary": "J. P. Small and son attended the stock meeting.",
+   "people": [
+    "J. P. Small"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a23",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    29,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "H. F. Fountain of Mingusville sells J. S. Collins & Co's. saddles and saddlery extras at catalogue prices.",
+   "summary": "H. F. Fountain of Mingusville sells Collins saddles.",
+   "people": [
+    "H. F. Fountain"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a24",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    31.5,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The river is now so low that it offers no impediment to crossing. The quicksands are about as treacherous as ever.",
+   "summary": "The Little Missouri is low but quicksands remain treacherous.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a25",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    34,
+    13.5,
+    3
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The refreshing rain of Tuesday night gave the grass a fresh start and in many places the green has taken the place of the old grass.",
+   "summary": "Tuesday night rain greened the grass.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a26",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    36.5,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Half rate tickets can be obtained by all stockmen and their families from stations on the line to the Miles City meeting. Full fare must be paid going and a pass will be given returning.",
+   "summary": "Half-rate railroad fares for stockmen going to the Miles City meeting.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a27",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    40,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Freight conductor M. Linsley, who was run over last week in Dickinson is now in the hospital at Brainerd. His leg had to be amputated, but he is now resting easily and will recover.",
+   "summary": "Freight conductor M. Linsley, run over at Dickinson, recovering after amputation.",
+   "people": [
+    "M. Linsley"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a28",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    44,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Editor M. H. Jewell, of the Bismarck Tribune, came down Tuesday evening and went back Wednesday morning. The last time he was here, Medora consisted of sage-brush and a dug-out.",
+   "summary": "Bismarck Tribune editor M. H. Jewell visited.",
+   "people": [
+    "M. H. Jewell"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a29",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    47.5,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "The N. P. Ref. Car Co. has also had an injunction issued, restraining Stark Co's. treasurer from collecting taxes of Billings county. George Cole, as representative of the Co. had the papers served yesterday.",
+   "summary": "N. P. Refrigerator Car Co. obtains injunction against Stark County tax collection.",
+   "people": [
+    "George Cole"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a30",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    51,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "There were numerous complimentary remarks at Mr. Roosevelt's method of conducting the stock meeting. Useless or irrelavant discussions were brought to a sudden stop and close attention was held on the business before the meeting.",
+   "summary": "Praise for Roosevelt's chairing of the stock meeting.",
+   "people": [
+    "Theodore Roosevelt"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a31",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    55,
+    13.5,
+    4
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "C. R. Kelsey, of J. S. Collins & Co., has appointed J. A. Ferris the sole agent for the Collins' goods in Medora. A full stock is now on hand at Ferris' store and they will be sold at the same prices as goods ordered directly from Miles City.",
+   "summary": "J. A. Ferris named sole Medora agent for J. S. Collins & Co. goods.",
+   "people": [
+    "C. R. Kelsey",
+    "J. A. Ferris"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a32",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    59,
+    13.5,
+    6
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "We are in receipt of a telegram from Tilden R. Selmes, stating that he has procured an injunction on the treasurer of Stark county preventing him from collecting taxes of Billings Co. By this time the injunction has been served on the treasurer by the sheriff. This will make a stay of proceedings until the constitutionality of the law can be properly decided.",
+   "summary": "Tilden R. Selmes telegraphs that he has procured an injunction against Stark County taxing Billings County.",
+   "people": [
+    "Tilden R. Selmes"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a33",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    65,
+    13.5,
+    7
+   ],
+   "section": "politics",
+   "headline": null,
+   "text": "We received last evening a copy of the injunction, issued through Attorney Selmes by Judge Francis. It restrains the treasurer of Stark county from ever collecting taxes from Billings county, provided the charges made are proved. It might be well to state that there are several new charges made and if they are proved it will render the assessment null and void, whether the law authorizing it is constitutional or not. Mr. Selmes will be in Medora in a few days.",
+   "summary": "Copy of Judge Francis' injunction received; Selmes expected in Medora.",
+   "people": [
+    "Tilden R. Selmes",
+    "Judge Francis"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a34",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    71,
+    13.5,
+    9
+   ],
+   "section": "local",
+   "headline": null,
+   "text": "Theodore Roosevelt returned Monday from a successful chase after the men who stole his boat about three weeks ago. Sewell and Dow accompanied him on the trip and they overtook the thieves about a hundred miles down the river. Mr. Bad Man Finnegan tried some of his old tactics and refused to return but such sound arguments were advanced that he concluded to change his mind. The prisoners were brought across the country to Dickinson and from there were sent to Mandan for trial. They will be sent up for as long a time as the law allows.",
+   "summary": "Theodore Roosevelt, with Sewall and Dow, captured the boat thieves including Finnegan about a hundred miles downriver and delivered them via Dickinson to Mandan for trial.",
+   "people": [
+    "Theodore Roosevelt",
+    "Bill Sewall",
+    "Wilmot Dow",
+    "Finnegan"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a35",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    80,
+    13.5,
+    9
+   ],
+   "section": "editorial",
+   "headline": null,
+   "text": "There are still several tax-payers who have not signed the agreement to pay their pro rata in contesting the legality of the law under which we are taxed by Stark Co. The paper was left with us by Howard Eaton for additional signatures and we hope to see every tax-payer represented on it. This contest is something in which every tax-payer is interested and the only fair thing is for each tax-payer to pay his share of the expenses. The pro rata to be fixed by the amount assessed against each tax-payer. This will make the share of each insignificant. This being a matter of such public concern, no one should depend on his neighbors' paying his share.",
+   "summary": "Appeal for taxpayers to sign Howard Eaton's agreement to share costs of the Stark County tax contest.",
+   "people": [
+    "Howard Eaton"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a36",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    84,
+    13.5,
+    7
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "We have an over-stock of 3½ Studebaker wagons that the Studebaker M'f'g. Co. have instructed us to close out at $75 each. These wagons have never turned a wheel under a load, are new and first-class in every respect, have the Co's. full guarantee for 5,000 pounds, according to old freighters are the best ironed and easiest running wagon of its size in the world, and cost at the factory, $87 each in car lots. There never has been and never will be again such a bargain in wagons in this country. The $75 rate is cash of course and holds good for one or more. For further particulars, call at or address the Cow Boy office.",
+   "summary": "Cow Boy office offers surplus Studebaker wagons at $75.",
+   "people": [],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a37",
+   "page": 4,
+   "cols": "1",
+   "region": [
+    8.5,
+    91,
+    13.5,
+    6
+   ],
+   "section": "advertising",
+   "headline": "For Sale Cheap.",
+   "text": "A No. 1 hay press. Seven to nine tons per day. Only two horses required. Press in fine order, ready for work. Price, $275.00.\nM. D. Auld & Co., Belfield, Dak.",
+   "summary": "M. D. Auld & Co. offer a hay press for sale.",
+   "people": [
+    "M. D. Auld"
+   ],
+   "method": "image",
+   "confidence": "high"
+  },
+  {
+   "id": "a38",
+   "page": 4,
+   "cols": "2-7",
+   "region": [
+    21,
+    4,
+    73,
+    94
+   ],
+   "section": "advertising",
+   "headline": null,
+   "text": "Duncan & Hilles, Furniture — Hager Block, Mandan\nE. J. Owenhouse, Bozeman, Mont. — stock saddles, Concord harness, bits, spurs, chaparejos\nMcDougal & Gunn, Mandan, Dak. — stoves and hardware\nCity Drug Store, Medora, Dak. — H. M. Jorgens, Proprietor\nGladstone Roller Mills, Gladstone, Dak. — Lee Bros., Props. (\"Bonanza\" and \"Eureka\" flour)\nEdick Bros., cigars and tobacco, 64 Main Street, Bismarck, Dak.\nElectric Light Soap — Atkins Soap Co., Indianapolis\nHayward Hand Grenade fire extinguisher — Hayward Hand Grenade Co., New York\nMerwin, Hulbert & Co., revolvers — New York\nStudebaker farm and freight wagons, platform spring wagons, buckboards — A. T. Packard, Agent, Medora, Dak.\nStinson & Co., Portland, Maine — home work offer\nScientific American / Munn & Co. patents, 361 Broadway, New York\nMinneapolis & St. Louis Ry, \"Famous Albert Lea Route\"\nGeo. P. Rowell & Co. Newspaper Advertising Bureau, New York\nBrand: Medora Stage & F. Co. — horses on stage stations between Medora and Deadwood; $25 reward\nBrand: Chase & Gilmore's Ranch — Dickinson, Dak.; range Cherry creek and Little Missouri (winter), Killdeer Mountains (summer)\nBrand: Thomas & Arnett — J. B. Thomas, Cheyenne, Wyo.; A. H. Arnett, Dickinson; range Little Missouri west of Killdeer Mts.\nBrand: E. W. Casey — L. C. Hunt, Manager, P.O. Medora; range Garner Creek\nBrand: Sloping Bottom Ranch — Lloyd Roberts, Proprietor, P.O. Medora; range Little Missouri 7 mi S of N.P.\nBrand: Badger Cattle Company — Howard Eaton, Mgr., P.O. Medora; range Beaver creek and Little Missouri\nBrand: Dorr Clark, Spearfish, Dakota — range Belle Fourche\nBrand: Clark & Plum, Spearfish, Dakota — range Grand river; all calves branded E6; $100 reward\nBrand: Little Missouri Horse Company — H. R. Tarbell, Medora; range Davis creek and Little Missouri\nBrand: W. N. Thompson & Co. — Wm. Dantz, Manager, P.O. Medora\nBrand: Lemoyne Cattle Co. (Limited) — D. K. Wade, Manager, Medora; range Little Missouri south of R.R., ranch Tepee bottom\nBrand: Soho Cattle Co. — Chas. Eaton, Manager, Medora (SO brand)\nBrand: Garner Creek Horse Ranch — J. A. VanEeghen, Prop., Medora; range Garner creek\nBrand: Chimney Butte Ranch — Theodore Roosevelt, Proprietor; Ferris & Merrifield, Managers; P.O. Medora\nBrand: Bullion Creek Horse Ranch — Jack Bullion, Prop., Medora; range Bullion creek, 20 mi S of Medora\nBrand: N. P. Refrigerator Car Co., Medora — range Little Missouri river and Beaver creek\nBrand: Aetna Ranch — Osborne Bros., Proprietors, P.O. Medora; range Knutson creek\nBrand: Berry, Boice & Co. — P.O. Keith, Montana; range south of N.P.R.R. on Little Missouri and Beaver creek\nBrand: E. G. Paddock — P.O. Medora; range near crossing of N.P.R.R. and Little Missouri\nBrand: [advertiser name illegible] — P.O. Medora, Billings Co.; range south of N.P.R.R. on Little Missouri\nBrand: Custer Trail Cattle Co. — A. Alden Eaton, Supt., P.O. Medora; range Little Missouri, Deep and Davis creeks\nBrand: Neimmela Ranch — Gregor Lang, Manager, P.O. Medora; range Little Missouri crossing to Pretty Butte\nBrand: Bad Lands Cattle Co. — H. Wadsworth, Manager, P.O. Medora; range Little Missouri 15 mi N of Medora\nBrand: Spring Creek Ranch — L. D. & B. Rumsey; J. L. Truscott, Manager\nBrand: Towers & Gudgell — P.O. Keith, Montana",
+   "summary": "Page 4 display ads and cattle/horse brand directory, including Theodore Roosevelt's Chimney Butte Ranch.",
+   "people": [
+    "Theodore Roosevelt",
+    "A. T. Packard",
+    "Howard Eaton",
+    "Gregor Lang",
+    "J. L. Truscott",
+    "Lloyd Roberts"
+   ],
+   "method": "ocr",
+   "confidence": "medium"
+  }
+ ],
+ "events": [
+  {
+   "id": "e1",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Last Monday\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Billings County holds election; Medora chosen county seat",
+   "summary": "Billings County voters cast 122 ballots at Paddock's livery office, electing Goodall, McKenzie and Truscott commissioners, Willard sheriff, and naming Medora the county seat by 121 votes. Turnout was about half the registration on a disagreeable day.",
+   "excerpt": "There had been just 122 votes cast at five o'clock when the polls closed.",
+   "people": [
+    "J. W. Goodall",
+    "Dan. McKenzie",
+    "J. L. Truscott",
+    "Fred. A. Willard",
+    "Willis L. Eaton",
+    "Wm. Dantz",
+    "Gregor Lang"
+   ],
+   "places": [
+    "Medora",
+    "Billings County"
+   ],
+   "tags": [
+    "politics",
+    "town-life"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a3",
+   "confidence": "high"
+  },
+  {
+   "id": "e2",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Last Monday\" (election day) before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Arthur Smith elected Billings County surveyor despite refusing to run",
+   "summary": "Arthur W. Smith, not a citizen, had withdrawn in favor of D. O. Sweet, but voters neglected to substitute Sweet's name and Smith out-polled him 72 to 49.",
+   "excerpt": "Arthur Smith refused to run under any circumstances. He is not a citizen and would not have accepted the office if he had been.",
+   "people": [
+    "Arthur W. Smith",
+    "D. O. Sweet"
+   ],
+   "places": [
+    "Billings County"
+   ],
+   "tags": [
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a3",
+   "confidence": "high"
+  },
+  {
+   "id": "e3",
+   "date": "1886-04-19",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"April 19\" stated; future relative to Thu 15 Apr 1886",
+   "planned": true,
+   "title": "Montana Stockgrowers' Association spring meeting at Miles City",
+   "summary": "The Montana Stockgrowers' Association's spring meeting was to open at Miles City on April 19.",
+   "excerpt": "The spring meeting of the Montana Stockgrowers' association begins at Miles City, April 19.",
+   "people": [],
+   "places": [
+    "Miles City"
+   ],
+   "tags": [
+    "ranching",
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a5",
+   "confidence": "high"
+  },
+  {
+   "id": "e4",
+   "date": "1886-04-25",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"about the 25th\" — April, after Thu 15 Apr 1886",
+   "planned": true,
+   "title": "Lloyd Roberts to deliver Counell herd at Dickinson",
+   "summary": "Lloyd Roberts was expected in Medora about the 25th, delivering Aleck Counell's herd at Dickinson for Counell's Cave Hills ranch.",
+   "excerpt": "Lloyd Roberts will arrive in Medora about the 25th., delivering at Dickinson Aleck Counell's herd for his Cave Hills ranch.",
+   "people": [
+    "Lloyd Roberts",
+    "Aleck Counell"
+   ],
+   "places": [
+    "Medora",
+    "Dickinson",
+    "Cave Hills"
+   ],
+   "tags": [
+    "ranching",
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a6",
+   "confidence": "high"
+  },
+  {
+   "id": "e5",
+   "date": "1886-04-17",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"about the 17th\" — April, after Thu 15 Apr 1886",
+   "planned": true,
+   "title": "Joint outfit to work the Grand River country",
+   "summary": "The N. P. Refrigerator Car Co. and Bad Lands Cattle Co. planned to start an outfit about the 17th to work the Grand River country, likely with an outfit from the E6.",
+   "excerpt": "will start an outfit about the 17th. to work the Grand river country, probably from its source to its mouth.",
+   "people": [],
+   "places": [
+    "Grand River"
+   ],
+   "tags": [
+    "ranching",
+    "roundup"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a7",
+   "confidence": "high"
+  },
+  {
+   "id": "e6",
+   "date": "1886-04-15",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"this morning\" — issue date Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Wm. Dantz unloads 300 Minnesota heifers at Medora",
+   "summary": "Wm. Dantz arrived with 300 two-year-old heifers from Minnesota and unloaded them at the stock yards; he was to leave next morning to receive 350 more bought in Iowa.",
+   "excerpt": "Wm. Dantz arrived this morning with 300 two-year-old heifers and unloaded at the stock yards.",
+   "people": [
+    "Wm. Dantz"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "ranching",
+    "railroad"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a8",
+   "confidence": "high"
+  },
+  {
+   "id": "e7",
+   "date": "1886-04-08",
+   "date_end": "1886-04-15",
+   "date_precision": "week",
+   "date_basis": "Undated receipt notice; week before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Cow Boy reviews Siringo's \"A Texas Cowboy\"",
+   "summary": "The Cow Boy acknowledged receipt of C. L. Siringo's \"A Texas Cowboy,\" calling it a truthful account of cowboy hardships though without literary pretension.",
+   "excerpt": "it is written in cowboy language and is descriptive of many phases of cowboy life.",
+   "people": [
+    "C. L. Siringo",
+    "A. T. Packard"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a9",
+   "confidence": "high"
+  },
+  {
+   "id": "e8",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Monday\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Theodore Roosevelt chairs Little Missouri River Stockgrowers' Association meeting",
+   "summary": "Theodore Roosevelt called the association's fourth semi-annual meeting to order at the Medora town hall; attendance was the largest yet.",
+   "excerpt": "was called to order by Chairman Theodore Roosevelt, at the town hall, last Monday morning at half past ten.",
+   "people": [
+    "Theodore Roosevelt",
+    "J. L. Truscott"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "tr",
+    "ranching",
+    "politics"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a11",
+   "confidence": "high"
+  },
+  {
+   "id": "e9",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Monday\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Roosevelt and Simpson named delegates to Miles City stockmen's meeting",
+   "summary": "On J. L. Truscott's motion, J. N. Simpson and Theodore Roosevelt were appointed to represent the association at the Miles City meeting, with power to choose a third member, and to recommend Simpson and Henry Boice for the executive committee from Dakota.",
+   "excerpt": "J. N. Simpson and Theodore Roosevelt be appointed the committee to represent this association at the Miles City meeting.",
+   "people": [
+    "Theodore Roosevelt",
+    "J. N. Simpson",
+    "Henry Boice",
+    "J. L. Truscott"
+   ],
+   "places": [
+    "Medora",
+    "Miles City"
+   ],
+   "tags": [
+    "tr",
+    "ranching",
+    "politics"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a11",
+   "confidence": "high"
+  },
+  {
+   "id": "e10",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Monday\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "John Goodall elected foreman of the spring round-up",
+   "summary": "On Willis Eaton's motion, John Goodall was unanimously elected foreman of the spring round-up.",
+   "excerpt": "Willis Eaton moved that John Goodall be elected foreman of the spring round-up.",
+   "people": [
+    "John Goodall",
+    "Willis Eaton"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "roundup",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a11",
+   "confidence": "high"
+  },
+  {
+   "id": "e11",
+   "date": "1886-06-01",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"on or about June 1\" decided at meeting of Mon 12 Apr 1886",
+   "planned": true,
+   "title": "Spring round-up to start at mouth of Box Elder",
+   "summary": "The association decided to begin the round-up on or about June 1 at the mouth of Box Elder, working down the Little Missouri to the Beaver and up Beaver to its head.",
+   "excerpt": "it was decided to start the round-up on or about June 1. at the mouth of Box Elder.",
+   "people": [
+    "Willis Eaton"
+   ],
+   "places": [
+    "Box Elder Creek",
+    "Little Missouri River",
+    "Beaver Creek"
+   ],
+   "tags": [
+    "roundup",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a11",
+   "confidence": "high"
+  },
+  {
+   "id": "e12",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Monday\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Association adopts maverick and winter-branding rules",
+   "summary": "Members voted that mavericks go to the owner of the range where found, with disputes arbitrated, and that no cattle be worked between Dec. 1 and the spring round-up.",
+   "excerpt": "mavericks be given to the owner of the range on which they are found.",
+   "people": [
+    "Willis Eaton",
+    "J. L. Truscott",
+    "D. K. Wade",
+    "W. A. Merrifield"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "ranching",
+    "brands"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a11",
+   "confidence": "high"
+  },
+  {
+   "id": "e13",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Monday\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Roosevelt casts deciding vote in McCoul–Bad Lands Cattle Co. dispute",
+   "summary": "A motion to back Jos. McCoul and others in a dispute over an animal with the Bad Lands Cattle Co. carried eight to seven, but chairman Roosevelt, citing the need for greater unanimity, voted nay and declared it lost.",
+   "excerpt": "he should vote nay and declare the motion lost.",
+   "people": [
+    "Theodore Roosevelt",
+    "Jos. McCoul",
+    "J. L. Truscott"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "tr",
+    "ranching",
+    "law"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a11",
+   "confidence": "high"
+  },
+  {
+   "id": "e14",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last Monday\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Ranchers and Montana editors attend stock meeting",
+   "summary": "Ranchers from Mingusville and editors Marney (Stockgrowers' Journal), Knight (Yellowstone Journal), Mabee (Glendive Times) and Widmyer (Independent) attended; Ferris and Burdette represented the 13 outfit.",
+   "excerpt": "Messrs. Marney of the Stockgrowers' Journal, Knight of the Yellowstone Journal, Mabee of the Glendive Times and Widmyer of the Independent, were present.",
+   "people": [
+    "Marney",
+    "Knight",
+    "Mabee",
+    "Widmyer",
+    "Ferris",
+    "Burdette",
+    "Arnett"
+   ],
+   "places": [
+    "Medora",
+    "Mingusville"
+   ],
+   "tags": [
+    "visitors",
+    "press",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a11",
+   "confidence": "medium"
+  },
+  {
+   "id": "e15",
+   "date": "1886-04-15",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "Planned \"after the general round-up\"; reported Thu 15 Apr 1886",
+   "planned": true,
+   "title": "A. N. Jeffries to work river below the round-up district",
+   "summary": "A. N. Jeffries planned to start an outfit after the general round-up to work the river country below the association's district.",
+   "excerpt": "A. N. Jeffries will, after the general round-up, start an outfit to work the country on the river below our round-up district.",
+   "people": [
+    "A. N. Jeffries"
+   ],
+   "places": [
+    "Little Missouri River"
+   ],
+   "tags": [
+    "roundup",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a11",
+   "confidence": "medium"
+  },
+  {
+   "id": "e16",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "H. T. Hallcck of Mandan visits Medora",
+   "summary": "H. T. Hallcck of Mandan was in town.",
+   "excerpt": "H. T. Hallcck of Mandan, was in town Monday.",
+   "people": [
+    "H. T. Hallcck"
+   ],
+   "places": [
+    "Medora",
+    "Mandan"
+   ],
+   "tags": [
+    "visitors"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a18",
+   "confidence": "high"
+  },
+  {
+   "id": "e17",
+   "date": "1886-04-08",
+   "date_end": "1886-04-15",
+   "date_precision": "week",
+   "date_basis": "Present tense \"is in town\"; week before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Wells-Fargo route agent in Medora",
+   "summary": "E. A. Stedman, the Wells-Fargo route agent, was in town.",
+   "excerpt": "E. A. Stedman, the Wells-Fargo route agent is in town.",
+   "people": [
+    "E. A. Stedman"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "stage"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a19",
+   "confidence": "high"
+  },
+  {
+   "id": "e18",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Monday night\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "H. B. Wadsworth arrives, goes to home ranch",
+   "summary": "H. B. Wadsworth arrived Monday night and went out to the home ranch.",
+   "excerpt": "H. B. Wadsworth arrived Monday night and has gone to the home ranch.",
+   "people": [
+    "H. B. Wadsworth"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a20",
+   "confidence": "high"
+  },
+  {
+   "id": "e19",
+   "date": "1886-04-14",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last evening\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Marquis de Morès and wife return from hunt down the river",
+   "summary": "The Marquis and his wife returned from their hunt down the Little Missouri.",
+   "excerpt": "The Marquis and wife returned from their hunt down the river, last evening.",
+   "people": [
+    "Marquis de Morès",
+    "Marquise de Morès"
+   ],
+   "places": [
+    "Medora",
+    "Little Missouri River"
+   ],
+   "tags": [
+    "mores",
+    "hunting"
+   ],
+   "tr": false,
+   "mores": true,
+   "article": "a21",
+   "confidence": "high"
+  },
+  {
+   "id": "e20",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Stock meeting held \"last Monday\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "J. P. Small and son attend stock meeting",
+   "summary": "J. P. Small and son, from north of the Yellowstone, attended the stock meeting.",
+   "excerpt": "J. P. Small and son, from north of the Yellowstone, attended the stock meeting.",
+   "people": [
+    "J. P. Small"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a22",
+   "confidence": "high"
+  },
+  {
+   "id": "e21",
+   "date": "1886-04-08",
+   "date_end": "1886-04-15",
+   "date_precision": "week",
+   "date_basis": "Undated; week before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Little Missouri low enough to cross",
+   "summary": "The river was so low it offered no impediment to crossing, though the quicksands were as treacherous as ever.",
+   "excerpt": "The river is now so low that it offers no impediment to crossing.",
+   "people": [],
+   "places": [
+    "Little Missouri River"
+   ],
+   "tags": [
+    "water"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a24",
+   "confidence": "high"
+  },
+  {
+   "id": "e22",
+   "date": "1886-04-13",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"Tuesday night\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Rain gives grass a fresh start",
+   "summary": "A Tuesday night rain gave the grass a fresh start, and in many places green had replaced the old grass.",
+   "excerpt": "The refreshing rain of Tuesday night gave the grass a fresh start",
+   "people": [],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "weather",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a25",
+   "confidence": "high"
+  },
+  {
+   "id": "e23",
+   "date": "1886-04-19",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Miles City meeting opens April 19; reported Thu 15 Apr 1886",
+   "planned": true,
+   "title": "Half-rate rail fares for stockmen to Miles City meeting",
+   "summary": "Stockmen and their families could travel to the Miles City meeting at half rate: full fare going and a pass returning.",
+   "excerpt": "Full fare must be paid going and a pass will be given returning.",
+   "people": [],
+   "places": [
+    "Miles City"
+   ],
+   "tags": [
+    "railroad",
+    "ranching"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a26",
+   "confidence": "high"
+  },
+  {
+   "id": "e24",
+   "date": "1886-04-05",
+   "date_end": "1886-04-11",
+   "date_precision": "week",
+   "date_basis": "\"last week\" relative to Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Freight conductor M. Linsley run over at Dickinson",
+   "summary": "Freight conductor M. Linsley was run over at Dickinson; his leg was amputated and he was recovering in the hospital at Brainerd.",
+   "excerpt": "Freight conductor M. Linsley, who was run over last week in Dickinson is now in the hospital at Brainerd.",
+   "people": [
+    "M. Linsley"
+   ],
+   "places": [
+    "Dickinson",
+    "Brainerd"
+   ],
+   "tags": [
+    "railroad",
+    "health"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a27",
+   "confidence": "high"
+  },
+  {
+   "id": "e25",
+   "date": "1886-04-13",
+   "date_end": "1886-04-14",
+   "date_precision": "day",
+   "date_basis": "\"Tuesday evening\" before Thu 15 Apr 1886; left Wednesday",
+   "planned": false,
+   "title": "Bismarck Tribune editor M. H. Jewell visits Medora",
+   "summary": "Editor M. H. Jewell of the Bismarck Tribune came down Tuesday evening and returned Wednesday morning; on his last visit Medora had been only sage-brush and a dug-out.",
+   "excerpt": "The last time he was here, Medora consisted of sage-brush and a dug-out.",
+   "people": [
+    "M. H. Jewell"
+   ],
+   "places": [
+    "Medora",
+    "Bismarck"
+   ],
+   "tags": [
+    "visitors",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a28",
+   "confidence": "high"
+  },
+  {
+   "id": "e26",
+   "date": "1886-04-14",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"yesterday\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Refrigerator Car Co. serves tax injunction on Stark County treasurer",
+   "summary": "The N. P. Refrigerator Car Co. obtained an injunction restraining the Stark County treasurer from collecting Billings County taxes; George Cole had the papers served.",
+   "excerpt": "George Cole, as representative of the Co. had the papers served yesterday.",
+   "people": [
+    "George Cole"
+   ],
+   "places": [
+    "Stark County",
+    "Billings County"
+   ],
+   "tags": [
+    "courts",
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a29",
+   "confidence": "high"
+  },
+  {
+   "id": "e27",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "Stock meeting \"last Monday\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Roosevelt praised for running the stock meeting",
+   "summary": "Many complimented Mr. Roosevelt's handling of the stock meeting, where useless or irrelevant discussion was brought to a sudden stop.",
+   "excerpt": "There were numerous complimentary remarks at Mr. Roosevelt's method of conducting the stock meeting.",
+   "people": [
+    "Theodore Roosevelt"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "tr",
+    "ranching"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a30",
+   "confidence": "high"
+  },
+  {
+   "id": "e28",
+   "date": "1886-04-08",
+   "date_end": "1886-04-15",
+   "date_precision": "week",
+   "date_basis": "Undated; week before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "J. A. Ferris named Collins agent in Medora",
+   "summary": "C. R. Kelsey of J. S. Collins & Co. appointed J. A. Ferris sole agent for Collins goods in Medora, with a full stock at Ferris' store.",
+   "excerpt": "has appointed J. A. Ferris the sole agent for the Collins' goods in Medora.",
+   "people": [
+    "C. R. Kelsey",
+    "J. A. Ferris"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "business"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a31",
+   "confidence": "high"
+  },
+  {
+   "id": "e29",
+   "date": "1886-04-08",
+   "date_end": "1886-04-15",
+   "date_precision": "week",
+   "date_basis": "Telegram received before Thu 15 Apr 1886; injunction served by then",
+   "planned": false,
+   "title": "Selmes wins injunction against Stark County taxing Billings County",
+   "summary": "Attorney Tilden R. Selmes telegraphed that he had procured an injunction stopping the Stark County treasurer from collecting Billings County taxes until the law's constitutionality is decided.",
+   "excerpt": "he has procured an injunction on the treasurer of Stark county preventing him from collecting taxes of Billings Co.",
+   "people": [
+    "Tilden R. Selmes"
+   ],
+   "places": [
+    "Stark County",
+    "Billings County"
+   ],
+   "tags": [
+    "courts",
+    "politics"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a32",
+   "confidence": "high"
+  },
+  {
+   "id": "e30",
+   "date": "1886-04-14",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"last evening\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Cow Boy receives copy of Judge Francis' tax injunction",
+   "summary": "The Cow Boy received a copy of the injunction issued by Judge Francis through Attorney Selmes, restraining Stark County from collecting Billings County taxes if the charges are proved.",
+   "excerpt": "It restrains the treasurer of Stark county from ever collecting taxes from Billings county, provided the charges made are proved.",
+   "people": [
+    "Tilden R. Selmes",
+    "Judge Francis"
+   ],
+   "places": [
+    "Medora",
+    "Stark County"
+   ],
+   "tags": [
+    "courts",
+    "politics",
+    "press"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a33",
+   "confidence": "high"
+  },
+  {
+   "id": "e31",
+   "date": "1886-04-18",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"in a few days\" after Thu 15 Apr 1886",
+   "planned": true,
+   "title": "Attorney Selmes expected in Medora",
+   "summary": "Tilden R. Selmes was expected in Medora in a few days.",
+   "excerpt": "Mr. Selmes will be in Medora in a few days.",
+   "people": [
+    "Tilden R. Selmes"
+   ],
+   "places": [
+    "Medora"
+   ],
+   "tags": [
+    "visitors",
+    "courts"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a33",
+   "confidence": "medium"
+  },
+  {
+   "id": "e32",
+   "date": "1886-04-12",
+   "date_end": null,
+   "date_precision": "day",
+   "date_basis": "\"returned Monday\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Roosevelt returns after capturing boat thieves",
+   "summary": "Theodore Roosevelt returned from pursuing the men who stole his boat; with Sewell (Sewall) and Dow he overtook them about a hundred miles down the river, and Finnegan was persuaded to surrender. The prisoners were taken overland to Dickinson and sent to Mandan for trial.",
+   "excerpt": "Theodore Roosevelt returned Monday from a successful chase after the men who stole his boat about three weeks ago.",
+   "people": [
+    "Theodore Roosevelt",
+    "Bill Sewall",
+    "Wilmot Dow",
+    "Finnegan"
+   ],
+   "places": [
+    "Medora",
+    "Little Missouri River",
+    "Dickinson",
+    "Mandan",
+    "Elkhorn"
+   ],
+   "tags": [
+    "tr",
+    "crime",
+    "law",
+    "courts"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a34",
+   "confidence": "high"
+  },
+  {
+   "id": "e33",
+   "date": "1886-03-25",
+   "date_end": null,
+   "date_precision": "approx",
+   "date_basis": "\"about three weeks ago\" before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Roosevelt's boat stolen",
+   "summary": "Men stole Theodore Roosevelt's boat about three weeks before the issue.",
+   "excerpt": "the men who stole his boat about three weeks ago.",
+   "people": [
+    "Theodore Roosevelt",
+    "Finnegan"
+   ],
+   "places": [
+    "Little Missouri River"
+   ],
+   "tags": [
+    "tr",
+    "crime"
+   ],
+   "tr": true,
+   "mores": false,
+   "article": "a34",
+   "confidence": "medium"
+  },
+  {
+   "id": "e34",
+   "date": "1886-04-08",
+   "date_end": "1886-04-15",
+   "date_precision": "week",
+   "date_basis": "Undated; week before Thu 15 Apr 1886",
+   "planned": false,
+   "title": "Taxpayers urged to sign agreement funding Stark County tax contest",
+   "summary": "An agreement left by Howard Eaton at the Cow Boy office sought signatures from Billings County taxpayers to share pro rata the cost of contesting Stark County's taxation.",
+   "excerpt": "The paper was left with us by Howard Eaton for additional signatures",
+   "people": [
+    "Howard Eaton"
+   ],
+   "places": [
+    "Medora",
+    "Stark County"
+   ],
+   "tags": [
+    "politics",
+    "courts"
+   ],
+   "tr": false,
+   "mores": false,
+   "article": "a35",
+   "confidence": "high"
+  }
+ ]
+}
