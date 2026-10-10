@@ -315,7 +315,7 @@
         var a = e.target.closest(".art"); if (a) { history.replaceState(null, "", "#paper/" + date + "/" + a.dataset.aid); selectArticle(a.dataset.aid, false); }
       });
       drawArticles();
-      var start = aid && iss.articles.find(function (a) { return a.id === aid; });
+      var start = aid && (/^box:/.test(aid) ? { page: +aid.split(":")[1] } : iss.articles.find(function (a) { return a.id === aid; }));
       setPage(start ? start.page || 1 : 1, function () { if (start) selectArticle(aid, true); });
       window.scrollTo({ top: $(".tabs").offsetTop, behavior: "auto" });
     }).catch(function () { $("#paper-root").innerHTML = '<p class="empty">That issue couldn’t be loaded.</p>'; });
@@ -368,7 +368,10 @@
   }
   function selectArticle(aid, scroll) {
     if (!aid || !rd.iss) return;
-    var a = rd.iss.articles.find(function (x) { return x.id === aid; }); if (!a) return;
+    var a;
+    if (/^box:/.test(aid)) { var pp = aid.slice(4).split(":"); a = { id: aid, page: +pp[0], region: pp[1].split(",").map(Number) }; }
+    else a = rd.iss.articles.find(function (x) { return x.id === aid; });
+    if (!a) return;
     $$(".art.on").forEach(function (el) { el.classList.remove("on"); });
     var el = $("#art-" + CSS.escape(aid)); if (el) { el.classList.add("on"); if (scroll) el.scrollIntoView({ block: window.innerWidth <= 960 ? "start" : "center" }); }
     var show = function () {
@@ -417,23 +420,87 @@
     });
   }
 
-  // ---------- BRANDS & BUSINESSES ----------
-  var dInit = false, dKind = "brands";
-  function renderBrands() {
-    load("directory.json").then(function (dir) {
+  // ---------- THE ADS (gallery + directory lists) ----------
+  var dInit = false, dKind = "gallery", adCats = {}, ADS = null, ADBYID = {};
+  var CATGROUPS = [
+    ["Saloons, liquor & cigars", ["saloon", "liquor & cigars"]],
+    ["Hotels & eating", ["hotel", "restaurant", "groceries"]],
+    ["Stores", ["general store", "clothing", "hardware & guns", "drugs & medicine"]],
+    ["Ranch & range", ["livestock & ranch supplies", "saddlery & harness", "wagons & vehicles"]],
+    ["Cattle & horse brands", ["cattle brand", "horse brand"]],
+    ["Money, land & law", ["bank & insurance", "real estate & town lots", "lawyer", "doctor"]],
+    ["Rail & stage", ["railroad & stage"]],
+    ["Services", ["services"]],
+    ["Mail order & makers", ["manufacturer", "newspaper & printing", "other"]]];
+  function adImg(a, w) { var b = a.box; return a.iiif + "/pct:" + b.map(function (v) { return v.toFixed(2); }).join(",") + "/" + (w === "full" ? "full" : "!" + w + "," + w) + "/0/default.jpg"; }
+  function monY(d) { return MON[pd(d).getUTCMonth()] + " " + d.slice(0, 4); }
+  function adSocial(a) {
+    return "From the ads in Medora's frontier newspaper, The Bad Lands Cow Boy, " + monY(a.issue) + ": " + a.advertiser + (a.town ? " of " + a.town : "") + ". " +
+      (a.sells ? "Selling: " + a.sells + ". " : "") + (a.pitch ? "The pitch: " + a.pitch + "." : "") +
+      "\n\nSee the original ad: " + SITE + "#brands/" + a.id + "\nPlan your visit to the Theodore Roosevelt Presidential Library: trlibrary.com/visit\n#DareGreatly";
+  }
+  function openAd(id) {
+    var a = ADBYID[id]; if (!a) return;
+    $("#m-body").innerHTML = '<div class="ad-detail"><div class="scan"><img alt="' + esc(a.advertiser) + ' ad from The Bad Lands Cow Boy" src="' + esc(adImg(a, "full")) + '"></div><div>' +
+      '<div class="eyebrow">' + esc(a.category || "") + (a.local ? " · Badlands business" : "") + "</div><h3 id=\"m-title\">" + esc(a.advertiser) + "</h3><dl>" +
+      (a.town ? "<div><dt>Where</dt><dd>" + esc(a.town) + "</dd></div>" : "") +
+      (a.sells ? "<div><dt>Selling</dt><dd>" + esc(a.sells) + "</dd></div>" : "") +
+      (a.pitch ? "<div><dt>The pitch</dt><dd>" + esc(a.pitch) + "</dd></div>" : "") +
+      (a.prices ? "<div><dt>Prices</dt><dd>" + esc(a.prices) + "</dd></div>" : "") +
+      "<div><dt>Ran</dt><dd>First in " + esc(longDate(a.issue)) + ", page " + a.page + (a.runs > 1 ? "; in about " + a.runs + " issues, through " + esc(monY(a.last)) : "") + "</dd></div>" +
+      (a.notes ? "<div><dt>Notes</dt><dd>" + esc(a.notes) + "</dd></div>" : "") +
+      (a.text ? '<div><dt>As printed</dt><dd class="txt">' + esc(a.text) + "</dd></div>" : "") + "</dl>" +
+      '<div class="acts"><a href="' + linkTo("#paper/" + a.issue + "/box:" + a.page + ":" + a.box.join(",")) + '"' + targetAttr() + '>See it on the page →</a>' +
+      '<button class="linkbtn" data-adsocial="' + a.id + '">Copy social draft</button>' +
+      '<button class="linkbtn" data-adcite="' + a.id + '">Copy citation</button></div></div></div>';
+    $("#modal").hidden = false; document.body.style.overflow = "hidden";
+  }
+  function closeModal() { $("#modal").hidden = true; document.body.style.overflow = ""; if (/^#brands\/ad/.test(location.hash)) history.replaceState(null, "", "#brands"); }
+  document.addEventListener("click", function (e) {
+    if (e.target.closest("[data-close]")) closeModal();
+    var c = e.target.closest("[data-adcard]"); if (c) { history.replaceState(null, "", "#brands/" + c.dataset.adcard); openAd(c.dataset.adcard); }
+    var s = e.target.closest("[data-adsocial]"); if (s) copy(adSocial(ADBYID[s.dataset.adsocial]), "Draft copied. Check it against the scan before posting.");
+    var ci = e.target.closest("[data-adcite]"); if (ci) { var a = ADBYID[ci.dataset.adcite]; copy("Advertisement, " + a.advertiser + ". The Bad Lands Cow Boy (" + place(a.issue) + "), " + longDate(a.issue) + ", p. " + a.page + ". Library of Congress, Chronicling America, " + locPage(a.issue, a.page) + ".", "Citation copied"); }
+  });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape" && !$("#modal").hidden) closeModal(); });
+  function renderBrands(args) {
+    Promise.all([load("directory.json"), load("ads.json")]).then(function (r) {
+      var dir = r[0]; ADS = r[1]; ADS.forEach(function (a) { ADBYID[a.id] = a; });
       if (!dInit) {
         dInit = true;
         $$("[data-dir]").forEach(function (b) { b.addEventListener("click", function () { dKind = b.dataset.dir; $$("[data-dir]").forEach(function (x) { x.setAttribute("aria-pressed", x === b); }); draw(); }); });
         $("#d-q").addEventListener("input", draw);
+        $("#ad-local").addEventListener("change", draw);
+        $("#ad-cats").innerHTML = CATGROUPS.map(function (g, i) {
+          var n = ADS.filter(function (a) { return g[1].indexOf(a.category) >= 0; }).length;
+          return n ? '<button class="chip" data-cat="' + i + '" aria-pressed="false">' + esc(g[0]) + '<span class="n">' + n + "</span></button>" : "";
+        }).join("");
+        $("#ad-cats").addEventListener("click", function (e) { var b = e.target.closest("[data-cat]"); if (!b) return; var on = b.getAttribute("aria-pressed") !== "true"; b.setAttribute("aria-pressed", on); if (on) adCats[b.dataset.cat] = 1; else delete adCats[b.dataset.cat]; draw(); });
       }
       draw();
+      if (args && args[0] && ADBYID[args[0]]) openAd(args[0]);
       function draw() {
         var q = norm($("#d-q").value.trim());
-        var list = dir[dKind].filter(function (r) { return !q || norm(r.name + " " + r.text).indexOf(q) >= 0; })
+        $("#ad-cats").style.display = $("#ad-local").parentNode.style.display = dKind === "gallery" ? "" : "none";
+        if (dKind === "gallery") {
+          var cats = Object.keys(adCats).reduce(function (acc, i) { return acc.concat(CATGROUPS[i][1]); }, []);
+          var list = ADS.filter(function (a) {
+            if ($("#ad-local").checked && !a.local) return false;
+            if (cats.length && cats.indexOf(a.category) < 0) return false;
+            return !q || norm([a.advertiser, a.town, a.sells, a.pitch, a.text, (a.aka || []).join(" ")].join(" ")).indexOf(q) >= 0;
+          }).sort(function (a, b) { return a.issue.localeCompare(b.issue) || a.page - b.page; });
+          $("#d-body").className = "ad-grid";
+          $("#d-body").innerHTML = '<p class="count" style="grid-column:1/-1">' + list.length + " ads</p>" + list.map(function (a) {
+            return '<button class="adcard" data-adcard="' + a.id + '"><div class="img"><img loading="lazy" alt="" src="' + esc(adImg(a, 460)) + '"></div><div class="b"><h4>' + esc(a.advertiser) + "</h4><p>" + esc(a.sells || "") + '</p><div class="m">' + esc(a.town || "") + (a.town ? " · " : "") + "from " + esc(monY(a.issue)) + (a.runs > 1 ? " · ran ~" + a.runs + " issues" : "") + "</div></div></button>";
+          }).join("");
+          return;
+        }
+        $("#d-body").className = "dir-grid";
+        var list2 = dir[dKind].filter(function (r) { return !q || norm(r.name + " " + r.text).indexOf(q) >= 0; })
           .sort(function (a, b) { return b.n - a.n || a.name.localeCompare(b.name); });
-        $("#d-body").innerHTML = list.length ? list.map(function (r) {
+        $("#d-body").innerHTML = list2.length ? list2.map(function (r) {
           var body = r.text.indexOf(r.name) === 0 ? r.text.slice(r.name.length).replace(/^[,\s—-]+/, "") : r.text;
-          return '<div class="dcard"><h4>' + esc(r.name) + "</h4><p>" + esc(body) + '</p><div class="meta"><span>' + r.n + " issue" + (r.n > 1 ? "s" : "") + " · " + esc(MON[pd(r.first).getUTCMonth()] + " " + r.first.slice(0, 4)) + (r.last !== r.first ? "–" + esc(MON[pd(r.last).getUTCMonth()] + " " + r.last.slice(0, 4)) : "") + '</span><a href="#paper/' + r.issue + '">See the ad →</a></div></div>';
+          return '<div class="dcard"><h4>' + esc(r.name) + "</h4><p>" + esc(body) + '</p><div class="meta"><span>' + r.n + " issue" + (r.n > 1 ? "s" : "") + " · " + esc(monY(r.first)) + (r.last !== r.first ? "–" + esc(monY(r.last)) : "") + '</span><a href="#paper/' + r.issue + '">See the issue →</a></div></div>';
         }).join("") : '<p class="empty">No match.</p>';
       }
     });
@@ -445,22 +512,22 @@
     load("meta.json").then(function (m) {
       $("#about-root").innerHTML = '<div class="prose">' +
         '<div class="eyebrow">About the paper</div><h2>A newspaper for a cow town</h2>' +
-        "<p>A. T. Packard, a young University of Michigan graduate, came west on the Northern Pacific and put out the first issue of <em>The Bad Lands Cow Boy</em> on February 7, 1884, at Little Missouri, beside the new town of Medora. It was a four-page weekly. Two pages were Packard’s own: local items, editorials, range news, legal notices, ads and columns of cattle brands. The other two were “ready-print,” national filler bought pre-printed. The paper’s dateline moved to Medora in November 1885. The last issue the Library of Congress holds is dated December 23, 1886. The Theodore Roosevelt Center gives the final issue as January 1887.</p>" +
+        "<p>A. T. Packard, a young University of Michigan graduate, came west on the Northern Pacific and put out the first issue of <em>The Bad Lands Cow Boy</em> on February 7, 1884, at Little Missouri, beside the new town of Medora. It was a four-page weekly. Two pages were Packard’s own: local items, editorials, range news, legal notices, ads and columns of cattle brands. The other two were “ready-print,” national filler bought pre-printed. The paper’s dateline moved to Medora in November 1885. The last issue the Library of Congress holds is dated December 23, 1886. The Cow Boy office burned about January 14, 1887, and no later issue is known.</p>" +
         "<p>Roosevelt sought Packard out and regarded the Cow Boy office as his social headquarters in Medora.</p>" +
         "<h3>What’s here</h3><ul>" +
         "<li><strong>" + m.issues + " issues</strong>: every issue in the Library of Congress run, February 7, 1884 to December 23, 1886.</li>" +
         "<li><strong>" + fmtN(m.articles) + " transcribed items</strong> (about " + fmtN(Math.round(m.words / 1000)) + ",000 words) of local news, editorials, correspondence, range news and notices.</li>" +
         "<li><strong>" + fmtN(m.events) + " dated events</strong> drawn from those items, including <strong>" + m.tr + "</strong> that name Theodore Roosevelt.</li>" +
-        "<li>A directory of the cattle brands and businesses the paper advertised.</li></ul>" +
+        "<li>A gallery of the paper\u2019s ads, each cropped from the page where it first ran, with what it was selling and how. Cattle and horse brands are included.</li></ul>" +
         "<h3>How the transcriptions were made</h3>" +
         "<p>The Library of Congress scans come with machine-read (OCR) text, but 1880s newsprint defeats most OCR, often down to gibberish. For this project, AI read each column of local content directly from the full-resolution page scans, using the old OCR only as a guide. Original spelling, punctuation and wording are kept, including the paper’s misprints. Words that couldn’t be read are marked <code>[illegible]</code>, and uncertain readings appear as <code>[word?]</code>. Each item carries a confidence rating.</p>" +
         "<p>Ready-print pages are summarized, not transcribed, because they weren’t written in Medora. Display ads and brand cards are listed as a directory instead of word for word.</p>" +
         "<p>Events are dated from the paper’s own wording. “Monday” in a Thursday paper means the Monday before. Undated items are placed in the week before the issue. Each event links back to the item and the spot on the page it came from.</p>" +
         "<p><strong>Check before you quote.</strong> AI transcription is very good but not perfect. Before using any text in print, a post or an exhibit, compare it with the page image. One click opens it beside the transcription.</p>" +
         "<h3>Reading the 1880s on its own terms</h3><p>The Cow Boy reflects the attitudes of its time and place, including language about Native Americans, Chinese immigrants and others that is offensive today. It’s transcribed as printed, because the historical record is more useful whole.</p>" +
-        "<h3>Missing issues</h3><p>These weeks are missing from the surviving run. Some may never have been printed. The gaps around the paper\u2019s move to Medora in November 1885 may be weeks it didn\u2019t publish. The issue of November 25, 1886 survives only in part.</p>" +
+        "<h3>Missing issues</h3><p>These weeks are missing from the surviving run. The Library of Congress scans come from the State Historical Society of North Dakota\u2019s file, which has the same gaps. The volume and issue numbers printed on the paper show nearly all of them were published. Only one issue number falls between April 15 and May 6, 1886, so one of April 22 or 29 probably never came out. The issue of November 25, 1886 survives here only in part.</p>" +
         '<ul class="missing-list">' + m.missing.map(function (d) { return "<li>" + esc(longDate(d)) + "</li>"; }).join("") + "</ul>" +
-        "<p>Yale University Library holds an original copy of the September 11, 1884 issue. If you know of other surviving copies, please tell the Library.</p>" +
+        "<p>Known copies elsewhere: Yale\u2019s Beinecke Library holds an original September 11, 1884 issue. The New York Public Library\u2019s Rare Book Division holds November 25, 1886. The Minnesota Historical Society has reported one issue not in the North Dakota file. If you know of other surviving copies, please tell the Library.</p>" +
         "<h3>Sources and credits</h3><ul>" +
         '<li>Page images and original OCR: <a href="https://www.loc.gov/item/sn84024777/">Library of Congress, Chronicling America</a>, from the State Historical Society of North Dakota’s microfilm (National Digital Newspaper Program).</li>' +
         '<li>Original copies of several issues, along with Roosevelt’s ranching contract and letters, belong to the <a href="https://www.theodorerooseveltcenter.org/collection/theodore-roosevelt-medora-foundation/">Theodore Roosevelt Medora Foundation</a>, digitized through Digital Horizons.</li>' +

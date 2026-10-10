@@ -10,7 +10,7 @@ Every surviving issue of *The Bad Lands Cow Boy* (A. T. Packard, Little Missouri
 - **Roosevelt in the Cow Boy**: every item that names TR (85), plus an optional view of his ranches and partners.
 - **Read the Paper**: transcription beside the zoomable LOC page scan. Click an item and the scan zooms to it.
 - **Search**: full text of about 513,000 transcribed words.
-- **Brands & Businesses**: the paper's cattle-brand and advertiser columns as a directory.
+- **The Ads**: gallery of 193 distinct ads (incl. cattle and horse brands), each cropped from the scan where it first ran, with wording, what it sold, the pitch and prices; plus advertiser and brand lists. Catalog: `source/ads/ads.json` (rules in `scripts/ADS_BRIEF.md`).
 - **Embed & Data**: `embed.js` widgets, plus `data/events.csv` and `data/events.json`.
 
 ## Layout

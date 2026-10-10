@@ -49,7 +49,7 @@
     <button role="tab" data-view="roosevelt">Roosevelt</button>
     <button role="tab" data-view="paper">Read the Paper</button>
     <button role="tab" data-view="search">Search</button>
-    <button role="tab" data-view="brands">Brands &amp; Businesses</button>
+    <button role="tab" data-view="brands">The Ads</button>
     <button role="tab" data-view="about">About</button>
     <button role="tab" data-view="embed" class="tab-embed">Embed &amp; Data</button>
   </div>
@@ -148,18 +148,21 @@
     <div class="wrap">
       <div class="panel-head">
         <div>
-          <div class="eyebrow">As advertised</div>
-          <h2>Brands &amp; Businesses</h2>
-          <p class="lede">The Cow Boy ran columns of cattle and horse brands and the ads of the businesses that served the range. Here they are as printed, with the span of issues each one appeared in.</p>
+          <div class="eyebrow">What Medora was buying</div>
+          <h2>The Ads</h2>
+          <p class="lede">Saloons promising "Rest for the Weary," a brick kiln that guaranteed its brick or your money back, Concord harness from Bozeman, and columns of cattle brands. Each ad is shown as it first ran, cropped from the original page.</p>
         </div>
       </div>
       <div class="filters">
-        <div class="chips" role="group" aria-label="Directory">
-          <button class="chip" data-dir="brands" aria-pressed="true">Brands</button>
-          <button class="chip" data-dir="businesses" aria-pressed="false">Businesses</button>
+        <div class="chips" role="group" aria-label="View">
+          <button class="chip" data-dir="gallery" aria-pressed="true">Gallery</button>
+          <button class="chip" data-dir="businesses" aria-pressed="false">Advertiser list</button>
+          <button class="chip" data-dir="brands" aria-pressed="false">Brand list</button>
         </div>
-        <input type="search" id="d-q" class="field" placeholder="Filter by name, town or brand" aria-label="Filter directory">
+        <input type="search" id="d-q" class="field" placeholder="Filter: a name, product or town" aria-label="Filter ads">
+        <label class="toggle ui"><input type="checkbox" id="ad-local"> Badlands businesses only</label>
       </div>
+      <div class="chips" id="ad-cats" role="group" aria-label="Kinds of ads" style="margin-bottom:20px"></div>
       <div id="d-body" class="dir-grid"></div>
     </div>
   </section>
@@ -180,6 +183,7 @@
   </div>
 </footer>
 
+<div class="modal" id="modal" hidden><div class="scrim" data-close></div><div class="sheet" role="dialog" aria-modal="true" aria-labelledby="m-title"><button class="close" data-close aria-label="Close">×</button><div id="m-body"></div></div></div>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js" defer></script>
 <script src="assets/app.js" defer></script>

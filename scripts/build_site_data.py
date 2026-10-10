@@ -140,3 +140,25 @@ meta = {"built": datetime.date.today().isoformat(), "issues": len(issues), "even
                     "1886-07-29", "1886-08-05", "1886-08-12", "1886-09-16", "1886-09-30", "1886-12-02"]}
 json.dump(meta, open(os.path.join(OUT, "meta.json"), "w"), indent=1)
 print(meta, len(brands), len(biz))
+
+# ---------- ad gallery (source/ads/ads.json, cataloged from first appearance) ----------
+ads_src = os.path.join(ROOT, "source", "ads", "ads.json")
+if os.path.exists(ads_src):
+    ads = json.load(open(ads_src))
+    adtext = {}   # issue -> lowercase advertising text, for counting how long each ad ran
+    for f in sorted(glob.glob(os.path.join(ROOT, "source", "transcriptions", "*.json"))):
+        j = json.load(open(f))
+        adtext[j["date"]] = norm_name(" ".join(a.get("text") or "" for a in j["articles"] if a.get("section") == "advertising"))
+    GENERIC = {"for", "sale", "lots", "medora", "insurance", "groceries", "notice", "wanted", "general", "store", "dak", "brand"}
+    for a in ads:
+        words = [w for w in norm_name(a["advertiser"]).split() if len(w) > 2 and w not in GENERIC][:3]
+        key = " ".join(words)
+        runs = sorted(d for d, t in adtext.items() if key and key in t and d >= a["issue"]) if key else []
+        a["runs"] = len(runs) or 1
+        a["last"] = runs[-1] if runs else a["issue"]
+        man = json.load(open(os.path.join(ROOT, "source", "ocr", a["issue"], "manifest.json")))
+        a["iiif"] = next(p["iiif"] for p in man["pages"] if p["seq"] == a["page"])
+    json.dump([{k: a.get(k) for k in ("id", "advertiser", "aka", "issue", "page", "box", "kind", "category", "town", "local", "text",
+                                      "sells", "pitch", "prices", "illustrated", "notes", "confidence", "runs", "last", "iiif")} for a in ads],
+              open(os.path.join(OUT, "ads.json"), "w"), ensure_ascii=False, separators=(",", ":"))
+    print("ads", len(ads))
