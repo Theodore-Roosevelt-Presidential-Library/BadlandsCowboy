@@ -93,6 +93,34 @@ for f in sorted(glob.glob(os.path.join(ROOT, "source", "transcriptions", "*.json
                    "nArticles": sum(1 for a in j["articles"] if a.get("text") and a.get("section") not in ("advertising", "ready-print", "masthead")),
                    "nEvents": len(ev_titles), "tr": tr_n, "top": ev_titles[:3], "review": bool(j.get("review_needed"))})
 
+# ---------- items recovered from other papers' reprints of missing issues ----------
+rp_src = os.path.join(ROOT, "source", "reprints", "reprints.json")
+reprints = json.load(open(rp_src)) if os.path.exists(rp_src) else []
+rp_by = collections.defaultdict(list)
+for r in reprints:
+    rp_by[r["missing_issue"]].append(r)
+rp_out = {}
+for d, lst in sorted(rp_by.items()):
+    lst.sort(key=lambda r: (r["source"]["date"], r["source"]["title"]))
+    items = []
+    for i, r in enumerate(lst, 1):
+        rid = f"r{i}"
+        items.append({"id": rid, "text": r["text"], "summary": r["summary"], "credit": r.get("credit_line"),
+                      "conf": r["confidence"], "why": r.get("why"), "people": r.get("people") or [], "src": r["source"]})
+        dd = datetime.date.fromisoformat(d)
+        ed = r.get("event_date")
+        events.append({
+            "id": f"{d}-{rid}", "date": ed or (dd - datetime.timedelta(days=7)).isoformat(),
+            "end": None if ed else d, "prec": r.get("event_precision") if ed else "week", "planned": False,
+            "basis": "Reprinted from a missing issue", "title": r["summary"], "summary": None,
+            "excerpt": r["text"] if len(r["text"]) < 260 else None, "people": r.get("people") or [], "places": [],
+            "tags": sorted(set(r.get("tags") or []) - {"tr", "mores"}) + (["tr"] if TR_NAME.search(r["text"]) else []),
+            "tr": bool(TR_NAME.search(r["text"])), "trRel": False, "mores": bool(MORES.search(r["text"])),
+            "conf": r["confidence"], "issue": d, "article": rid, "page": None, "region": None,
+            "reprint": {"title": r["source"]["title"], "date": r["source"]["date"]}})
+    rp_out[d] = items
+json.dump(rp_out, open(os.path.join(OUT, "reprints.json"), "w"), ensure_ascii=False, separators=(",", ":"))
+
 events.sort(key=lambda e: (e["date"], e["issue"], e["id"]))
 
 # merge repeats: the paper re-ran notices for weeks; same date + similar title = one event
@@ -105,7 +133,7 @@ for e in events:
     for m in byday[e["date"]]:
         mk = m["_tk"]
         if tk and mk and len(tk & mk) / len(tk | mk) >= 0.45: dup = m; break
-    if dup:
+    if dup and not e.get("reprint"):
         dup.setdefault("also", []).append(e["issue"])
         dup["tr"] = dup["tr"] or e["tr"]; dup["mores"] = dup["mores"] or e["mores"]
         dup["tags"] = sorted(set(dup["tags"]) | set(e["tags"]))
@@ -135,7 +163,7 @@ with open(os.path.join(OUT, "events.csv"), "w", newline="") as fh:
 meta = {"built": datetime.date.today().isoformat(), "issues": len(issues), "events": len(events),
         "tr": sum(e["tr"] for e in events), "articles": len(search),
         "words": sum(len(s[3].split()) for s in search),
-        "missing": ["1884-09-11", "1885-10-08", "1885-11-05", "1885-11-12", "1885-12-10", "1886-01-07", "1886-03-04",
+        "reprints": sum(len(v) for v in rp_out.values()), "missing": ["1884-09-11", "1885-10-08", "1885-11-05", "1885-11-12", "1885-12-10", "1886-01-07", "1886-03-04",
                     "1886-04-08", "1886-04-22", "1886-04-29", "1886-05-20", "1886-05-27", "1886-06-03", "1886-06-24",
                     "1886-07-29", "1886-08-05", "1886-08-12", "1886-09-16", "1886-09-30", "1886-12-02"]}
 json.dump(meta, open(os.path.join(OUT, "meta.json"), "w"), indent=1)
@@ -162,3 +190,63 @@ if os.path.exists(ads_src):
                                       "sells", "pitch", "prices", "illustrated", "notes", "confidence", "runs", "last", "iiif")} for a in ads],
               open(os.path.join(OUT, "ads.json"), "w"), ensure_ascii=False, separators=(",", ":"))
     print("ads", len(ads))
+
+# ---------- people (source/people/people.json, matched + AI bios grounded in the paper) ----------
+pp_src = os.path.join(ROOT, "source", "people", "people.json")
+if os.path.exists(pp_src):
+    PEOPLE = json.load(open(pp_src))["people"]
+    alias = {}
+    for p in PEOPLE:
+        for a in p["aliases"]: alias[a] = p["id"]
+    byid = {p["id"]: p for p in PEOPLE}
+    # article lookups for snippets, and per-issue article -> people ids
+    art = {}
+    for f in sorted(glob.glob(os.path.join(ROOT, "source", "transcriptions", "*.json"))):
+        j = json.load(open(f))
+        for a in j["articles"]: art[(j["date"], a["id"])] = a
+    pid_by_art = collections.defaultdict(set)
+    for p in PEOPLE:
+        for d, aid in p["mentions"]: pid_by_art[(d, aid)].add(p["id"])
+    os.makedirs(os.path.join(OUT, "people"), exist_ok=True)
+    for old in glob.glob(os.path.join(OUT, "people", "*.json")): os.remove(old)
+    STOPW = {"mr", "mrs", "miss", "dr", "judge", "col", "capt", "gen", "rev", "hon", "father", "major", "the", "de", "van", "jr", "sr"}
+    def keys(p):
+        k = set()
+        for a in p["aliases"]:
+            for w in re.findall(r"[A-Za-zÀ-ÿ']{3,}", a):
+                if w.lower() not in STOPW: k.add(w)
+        return sorted(k, key=len, reverse=True)
+    def snip(text, ks):
+        t = (text or "").replace("\n", " ")
+        for k in ks:
+            m = re.search(r"\b" + re.escape(k) + r"\b", t, re.I)
+            if m:
+                s0 = max(0, m.start() - 110); s1 = min(len(t), m.end() + 170)
+                return ("…" if s0 else "") + t[s0:s1].strip() + ("…" if s1 < len(t) else "")
+        return t[:260] + ("…" if len(t) > 260 else "")
+    index = []
+    for p in PEOPLE:
+        ks = keys(p)
+        if p["id"] == "theodore-roosevelt": ks = sorted(set(ks) | {"Rosevelt", "Rousevelt", "Roosvelt", "Teeodore"}, key=len, reverse=True)
+        ments = []
+        for d, aid in p["mentions"]:
+            a = art.get((d, aid), {})
+            ments.append([d, aid, a.get("headline") or "", snip(a.get("text") or a.get("summary"), ks)])
+        rec = {"id": p["id"], "name": p["name"], "aliases": p["aliases"], "role": p.get("role"), "group": p["group"],
+               "bio": p.get("bio"), "notable": p.get("notable"), "ambiguous": p.get("ambiguous"),
+               "moments": p.get("moments") or [], "mentions": ments, "hl": ks}
+        json.dump(rec, open(os.path.join(OUT, "people", p["id"] + ".json"), "w"), ensure_ascii=False, separators=(",", ":"))
+        if ments:
+            index.append([p["id"], p["name"], p.get("role") or "", p["group"], len(ments), ments[0][0][:4], ments[-1][0][:4],
+                          1 if p.get("bio") else 0, 1 if p.get("notable") else 0])
+    json.dump({"people": index, "alias": alias}, open(os.path.join(OUT, "people.json"), "w"), ensure_ascii=False, separators=(",", ":"))
+    # write people ids into each issue file's articles
+    for f in glob.glob(os.path.join(OUT, "issues", "*.json")):
+        rec = json.load(open(f)); d = rec["date"]
+        for a in rec["articles"]:
+            ids = sorted(pid_by_art.get((d, a["id"]), ()), key=lambda i: -len(byid[i]["mentions"]))
+            if ids: a["pids"] = ids
+        json.dump(rec, open(f, "w"), ensure_ascii=False, separators=(",", ":"))
+    m = json.load(open(os.path.join(OUT, "meta.json"))); m["people"] = len(index); m["bios"] = sum(1 for r in index if r[7])
+    json.dump(m, open(os.path.join(OUT, "meta.json"), "w"), indent=1)
+    print("people", len(index), "with bios", m["bios"])

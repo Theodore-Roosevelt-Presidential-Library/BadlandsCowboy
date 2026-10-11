@@ -45,3 +45,9 @@ AI (Claude) read each column of local content from the full-resolution LOC page 
 
 ## Sources
 Page images and OCR: Library of Congress, Chronicling America (LCCN sn84024777), from State Historical Society of North Dakota microfilm. Public domain.
+
+## People and recovered items (October 2026)
+
+- `source/people/people.json` is the master people file: 1,812 people matched across the paper's spellings, with bios for the 454 most mentioned. Bios are written only from the Cow Boy's own items and were fact-checked against the full text (`source/people/fact-check-log.md`; open questions in `source/people/review.md`). Pipeline: `scripts/collect_people.py` → matching (brief `scripts/PEOPLE_MATCH_BRIEF.md`) → `scripts/people_prep.py` → bios (`PEOPLE_BIO_BRIEF.md`) → `scripts/people_finalize.py` → checks (`PEOPLE_CHECK_BRIEF.md`) → `scripts/people_apply_checks.py`.
+- `source/reprints/reprints.json`: items from missing issues, recovered where other papers reprinted them (brief `scripts/REPRINTS_BRIEF.md`, log `source/reprints/search_log.md`).
+- Site: People tab (`#people`, `#people/<id>`), mention links open `#paper/<date>/<item>/p:<id>` with the name highlighted, and missing issues open a page of recovered items. Embeds accept `data-heading="off"`.

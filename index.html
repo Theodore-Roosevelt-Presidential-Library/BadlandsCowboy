@@ -47,6 +47,7 @@
     <button role="tab" data-view="thisweek" aria-selected="true">This Week</button>
     <button role="tab" data-view="timeline">Timeline</button>
     <button role="tab" data-view="roosevelt">Roosevelt</button>
+    <button role="tab" data-view="people">People</button>
     <button role="tab" data-view="paper">Read the Paper</button>
     <button role="tab" data-view="search">Search</button>
     <button role="tab" data-view="brands">The Ads</button>
@@ -118,6 +119,28 @@
         <label class="toggle ui"><input type="checkbox" id="tr-rel"> Also show his ranches and partners (Maltese Cross, Elkhorn, Ferris, Merrifield, Sewall, Dow)</label>
       </div>
       <div id="tr-body" class="tr-line"></div>
+    </div>
+  </section>
+
+  <section class="panel" data-panel="people" hidden>
+    <div class="wrap">
+      <div id="pp-list">
+        <div class="panel-head">
+          <div>
+            <div class="eyebrow">Who's who in Medora, 1884–1886</div>
+            <h2>People of the Cow Boy</h2>
+            <p class="lede">Ranchers, cowboys, merchants, saloon keepers, lawmen and visitors: everyone the paper named, matched across its many spellings. Each person links to every item that mentions them.</p>
+          </div>
+        </div>
+        <div class="filters">
+          <input type="search" id="pp-q" class="field" placeholder="Find a name or a role, e.g. Ferris, saloon, sheriff" aria-label="Find a person">
+          <label class="ui">Sort <select id="pp-sort"><option value="n">Most mentioned</option><option value="name">A to Z</option></select></label>
+          <label class="toggle ui"><input type="checkbox" id="pp-bio"> With a bio</label>
+        </div>
+        <div class="chips" id="pp-groups" role="group" aria-label="Groups" style="margin-bottom:20px"></div>
+        <div id="pp-body"></div>
+      </div>
+      <div id="pp-person" hidden></div>
     </div>
   </section>
 

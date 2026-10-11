@@ -6,8 +6,9 @@
  *   <div data-badlands-cowboy="thisweek"></div>
  *   <script src="https://badlandscowboy.labs.trlibrary.com/embed.js" async></script>
  *
- * Views: thisweek | timeline | roosevelt | paper | search | brands | about | all
+ * Views: thisweek | timeline | roosevelt | people | paper | search | brands | about | all
  * Optional: data-min-height="700" (starting height before the widget reports its size)
+ *           data-heading="off" (hide the widget's own title when the host page has one)
  */
 (function () {
   "use strict";
@@ -20,7 +21,8 @@
     var view = el.getAttribute("data-badlands-cowboy") || "thisweek";
     var id = "bc" + ++n;
     var f = document.createElement("iframe");
-    f.src = ORIGIN + "/?embed=1&id=" + id + (view !== "all" ? "&view=" + encodeURIComponent(view) : "");
+    f.src = ORIGIN + "/?embed=1&id=" + id + (view !== "all" ? "&view=" + encodeURIComponent(view) : "") +
+      (el.getAttribute("data-heading") === "off" ? "&heading=off" : "");
     f.title = "The Bad Lands Cow Boy — Medora, 1884–1886";
     f.loading = "lazy";
     f.style.cssText = "width:100%;border:0;display:block;overflow:hidden;height:" + (parseInt(el.getAttribute("data-min-height"), 10) || 700) + "px";
