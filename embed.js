@@ -7,6 +7,8 @@
  *   <script src="https://badlandscowboy.labs.trlibrary.com/embed.js" async></script>
  *
  * Views: thisweek | timeline | roosevelt | people | paper | search | brands | about | all
+ * One person:  <div data-badlands-cowboy="people" data-person="howard-eaton"></div>
+ *   (a compact card: key moments and every mention, no AI bio; ids come from #people/<id>)
  * Optional: data-min-height="700" (starting height before the widget reports its size)
  *           data-heading="off" (hide the widget's own title when the host page has one)
  */
@@ -19,9 +21,12 @@
     if (el.getAttribute("data-bc-mounted")) return;
     el.setAttribute("data-bc-mounted", "1");
     var view = el.getAttribute("data-badlands-cowboy") || "thisweek";
+    var person = el.getAttribute("data-person");
+    if (person) view = "people";
     var id = "bc" + ++n;
     var f = document.createElement("iframe");
     f.src = ORIGIN + "/?embed=1&id=" + id + (view !== "all" ? "&view=" + encodeURIComponent(view) : "") +
+      (person ? "&person=" + encodeURIComponent(person) : "") +
       (el.getAttribute("data-heading") === "off" ? "&heading=off" : "");
     f.title = "The Bad Lands Cow Boy — Medora, 1884–1886";
     f.loading = "lazy";

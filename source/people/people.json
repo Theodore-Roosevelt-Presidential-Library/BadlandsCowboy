@@ -2232,7 +2232,7 @@
    "moments": [
     {
      "ref": "1884-02-07/a51",
-     "label": "Called Bad Lands stockmen to their first meeting"
+     "label": "Called a meeting of Bad Lands stockmen"
     },
     {
      "ref": "1884-06-19/a9",
@@ -6602,7 +6602,7 @@
     },
     {
      "ref": "1886-01-28/a43",
-     "label": "Married in New Brunswick"
+     "label": "Paper reported his marriage in New Brunswick"
     },
     {
      "ref": "1886-03-11/a4",
@@ -8302,7 +8302,7 @@
   },
   {
    "id": "william-h-merrifield",
-   "name": "William H. Merrifield",
+   "name": "Arthur W. (Bill) Merrifield",
    "aliases": [
     "Bill Merrifield",
     "W. H. Merrifield",
@@ -8315,7 +8315,7 @@
    "notable": false,
    "ambiguous": false,
    "role": "Partner in Ferris & Merrifield, managers of Roosevelt's Maltese Cross ranch",
-   "bio": "William H. (Bill) Merrifield was a partner in Ferris & Merrifield, managers of the Maltese Cross (Chimney Butte) ranch seven miles up the Little Missouri from Medora. In March 1884 he sat on the committee that drafted by-laws for the Bad Lands stockmen's association. In June 1884 the paper noted that Theodore Roosevelt, the future president, then a New York assemblyman, was staying at Ferris & Merrifield's ranch, and that summer the firm shipped in a thousand head of cattle; Merrifield went east to buy more in March 1885 and brought back Elkhorn and Chimney Butte cattle that May. He and the Ferris brothers hosted dances and parties at the ranch, including a Thanksgiving dance in 1885. In January 1886 he and Sylvane Ferris went to Chicago at Roosevelt's invitation, and a report that he had married on the trip was later retracted as a made-up story. In August and September 1886 he hunted with Roosevelt in the Bull River mountains for a white goat, and that October Roosevelt turned the Elkhorn brand over to Ferris & Merrifield before Merrifield shipped cattle to Chicago and went home to Canada for the winter.",
+   "bio": "Arthur W. (Bill) Merrifield was a partner in Ferris & Merrifield, managers of the Maltese Cross (Chimney Butte) ranch seven miles up the Little Missouri from Medora. In March 1884 he sat on the committee that drafted by-laws for the Bad Lands stockmen's association. In June 1884 the paper noted that Theodore Roosevelt, the future president, then a New York assemblyman, was staying at Ferris & Merrifield's ranch, and that summer the firm shipped in a thousand head of cattle; Merrifield went east to buy more in March 1885 and brought back Elkhorn and Chimney Butte cattle that May. He and the Ferris brothers hosted dances and parties at the ranch, including a Thanksgiving dance in 1885. In January 1886 he and Sylvane Ferris went to Chicago at Roosevelt's invitation, and a report that he had married on the trip was later retracted as a made-up story. In August and September 1886 he hunted with Roosevelt in the Bull River mountains for a white goat, and that October Roosevelt turned the Elkhorn brand over to Ferris & Merrifield before Merrifield shipped cattle to Chicago and went home to Canada for the winter.",
    "moments": [
     {
      "ref": "1884-07-31/a41",
@@ -8492,7 +8492,7 @@
      "a3"
     ]
    ],
-   "match_note": "A. W. Merrifield (wintering in Canada, Dec 1886) assumed a misprint",
+   "match_note": "A. W. Merrifield (wintering in Canada, Dec 1886) assumed a misprint Name corrected 2026-10-12: his initials were A. W. (U.S. Marshals list, Theodore Roosevelt Center, Hagedorn); the paper also printed W. H. and W. A. Id kept for stable links.",
    "checked": true
   },
   {
@@ -9477,7 +9477,7 @@
      "a3"
     ]
    ],
-   "match_note": "",
+   "match_note": " Full name Sylvane M. Ferris (TR Center); sometimes given as Sylvanus. The TR Center catalogue date of April 7, 1902 for his bill of sale from Roosevelt is doubtful (form is 189_, Queens County address); NPS says T.R. sold out in 1898.",
    "checked": true
   },
   {
@@ -19244,7 +19244,8 @@
    "id": "wilmot-dow",
    "name": "Wilmot Dow",
    "aliases": [
-    "Wilmot Dow"
+    "Wilmot Dow",
+    "W. S. Dow"
    ],
    "group": "roosevelt-circle",
    "notable": false,
@@ -19265,6 +19266,10 @@
     [
      "1884-08-07",
      "a39"
+    ],
+    [
+     "1884-11-27",
+     "a19"
     ],
     [
      "1885-03-26",
@@ -19299,7 +19304,7 @@
      "a21"
     ]
    ],
-   "match_note": "",
+   "match_note": " Merged W. S. Dow (Medora school fund subscriber, Nov. 27, 1884) on 2026-10-12: Wilmot Sewall Dow matches the initials and was ranching at Elkhorn then. Probable, not certain.",
    "checked": true
   },
   {
@@ -59826,26 +59831,6 @@
     [
      "1885-10-15",
      "a51"
-    ]
-   ],
-   "match_note": ""
-  },
-  {
-   "id": "w-s-dow",
-   "name": "W. S. Dow",
-   "aliases": [
-    "W. S. Dow"
-   ],
-   "group": "town",
-   "notable": false,
-   "ambiguous": false,
-   "role": "Medora school fund subscriber",
-   "bio": null,
-   "moments": [],
-   "mentions": [
-    [
-     "1884-11-27",
-     "a19"
     ]
    ],
    "match_note": ""

@@ -35,10 +35,12 @@
   var params = new URLSearchParams(location.search);
   var EMBED = params.get("embed") === "1";
   var EMBED_ID = params.get("id") || "";
+  var CARD = EMBED && params.get("person") ? params.get("person") : "";
   if (EMBED) {
     document.body.classList.add("embed");
     if (params.get("view")) document.body.classList.add("single");
     if (params.get("heading") === "off") document.body.classList.add("noheading");
+    if (CARD) document.body.classList.add("pcard-mode");
     var post = function () { parent.postMessage({ type: "badlands-cowboy:height", id: EMBED_ID, height: document.documentElement.scrollHeight }, "*"); };
     if (window.ResizeObserver) new ResizeObserver(post).observe(document.body);
     window.addEventListener("load", post);
@@ -50,6 +52,7 @@
   var rendered = {};
   function route() {
     var h = decodeURIComponent(location.hash.replace(/^#\/?/, "")).split("/");
+    if (CARD) h = ["people", CARD];
     var view = VIEWS.indexOf(h[0]) >= 0 ? h[0] : (EMBED && params.get("view")) || "thisweek";
     $$(".tabs button").forEach(function (b) { b.setAttribute("aria-selected", b.dataset.view === view ? "true" : "false"); });
     $$("section.panel").forEach(function (p) { p.hidden = p.dataset.panel !== view; });
@@ -510,6 +513,7 @@
     $("#pp-list").hidden = true; $("#pp-person").hidden = false;
     $("#pp-person").innerHTML = '<p class="count">Loading…</p>';
     getJSON("data/people/" + id + ".json").then(function (p) {
+      if (CARD) return drawPersonCard(p);
       var hl = "p:" + p.id, byY = {};
       p.mentions.forEach(function (m) { (byY[m[0].slice(0, 4)] = byY[m[0].slice(0, 4)] || []).push(m); });
       var html = '<div class="person"><a class="chip" href="#people">← All people</a>' +
@@ -536,6 +540,27 @@
       $("#pp-cite").addEventListener("click", function () { copy(p.name + (p.role ? ", " + p.role : "") + ". " + (p.bio || "") + "\n\nEvery mention in Medora's 1880s newspaper: " + SITE + "#people/" + p.id + "\nPlan your visit to the Theodore Roosevelt Presidential Library: trlibrary.com/visit\n#DareGreatly", "Copied. Check it against the page scans before posting."); });
       if (!EMBED) window.scrollTo({ top: $(".tabs").offsetTop, behavior: "auto" });
     }, function () { $("#pp-person").innerHTML = '<p class="empty">That person couldn’t be found. <a href="#people">See everyone</a>.</p>'; });
+  }
+
+
+  // Single-person card for a host page that already carries a verified biography
+  // (e.g. trlibrary.com/tr/people/...): no AI bio, no back link, mentions folded away.
+  function drawPersonCard(p) {
+    var hl = "p:" + p.id, n = p.mentions.length;
+    var first = p.mentions[0][0], last = p.mentions[n - 1][0];
+    var item = function (m) {
+      var h = esc(m[3]);
+      p.hl.forEach(function (w) { h = h.replace(new RegExp("\\b(" + w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + ")\\b", "gi"), "<mark>$1</mark>"); });
+      return '<div class="hit"><div class="meta">' + esc(longDate(m[0])) + (m[2] ? " · " + esc(m[2]) : "") + "</div><p>" + h + '</p><a class="linkbtn" href="' + linkTo("#paper/" + m[0] + "/" + m[1] + "/" + hl) + '"' + targetAttr() + ">Read it in the paper →</a></div>";
+    };
+    var html = '<div class="person pcard-one"><div class="eyebrow">In The Bad Lands Cow Boy</div>' +
+      '<div class="pstats"><span><b>' + n + "</b> item" + (n > 1 ? "s" : "") + " in Medora’s newspaper</span><span>" + esc(longDate(first)) + (n > 1 ? " to " + esc(longDate(last)) : "") + "</span>" +
+      (p.aliases.length > 1 ? "<span>Printed as " + p.aliases.map(esc).join("; ") + "</span>" : "") + "</div>";
+    if (p.moments.length) html += '<h3>Key moments</h3><ol class="moments">' + p.moments.map(function (m) { var r = m.ref.split("/"); return '<li><a href="' + linkTo("#paper/" + r[0] + "/" + r[1] + "/" + hl) + '"' + targetAttr() + "><b>" + esc(longDate(r[0])) + "</b> " + esc(m.label) + "</a></li>"; }).join("") + "</ol>";
+    html += '<details class="allm"><summary>Every mention (' + n + ")</summary>" + p.mentions.map(item).join("") + "</details>";
+    html += '<p class="small">Spellings follow the paper. Each item links to the page it was printed on.</p>';
+    html += '<div class="acts"><a class="btn" href="' + SITE + "#people/" + p.id + '" target="_blank" rel="noopener">Open in the Cow Boy archive →</a></div></div>';
+    $("#pp-person").innerHTML = html;
   }
 
   // ---------- THE ADS (gallery + directory lists) ----------
@@ -630,7 +655,7 @@
     load("meta.json").then(function (m) {
       $("#about-root").innerHTML = '<div class="prose">' +
         '<div class="eyebrow">About the paper</div><h2>A newspaper for a cow town</h2>' +
-        "<p>A. T. Packard, a young University of Michigan graduate, came west on the Northern Pacific and put out the first issue of <em>The Bad Lands Cow Boy</em> on February 7, 1884, at Little Missouri, beside the new town of Medora. It was a four-page weekly. Two pages were Packard’s own: local items, editorials, range news, legal notices, ads and columns of cattle brands. The other two were “ready-print,” national filler bought pre-printed. The paper’s dateline moved to Medora in November 1885. The last issue the Library of Congress holds is dated December 23, 1886. The Cow Boy office burned about January 14, 1887, and no later issue was published in Packard\u2019s time. The name lives on: <em>The Bad Lands Cow Boy</em> is still printed today as a yearly souvenir edition.</p>" +
+        "<p>A. T. Packard, a young University of Michigan graduate, came west on the Northern Pacific and put out the first issue of <em>The Bad Lands Cow Boy</em> on February 7, 1884, at Little Missouri, beside the new town of Medora. It was a four-page weekly. Two pages were Packard’s own: local items, editorials, range news, legal notices, ads and columns of cattle brands. The other two were “ready-print,” national filler bought pre-printed. The paper’s dateline moved to Medora in November 1885. The last issue the Library of Congress holds is dated December 23, 1886. The Cow Boy office burned on or about January 13, 1887, and no later issue was published in Packard\u2019s time. The name lives on: <em>The Bad Lands Cow Boy</em> is still printed today as a yearly souvenir edition.</p>" +
         "<p>Roosevelt sought Packard out and regarded the Cow Boy office as his social headquarters in Medora.</p>" +
         "<h3>What’s here</h3><ul>" +
         "<li><strong>" + m.issues + " issues</strong>: every issue in the Library of Congress run, February 7, 1884 to December 23, 1886.</li>" +

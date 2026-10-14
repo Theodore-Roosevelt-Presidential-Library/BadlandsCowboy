@@ -309,3 +309,10 @@ a.icard.missing:hover { border-color: var(--forest); }
 /* host page supplies its own heading */
 .embed.noheading .panel-head > div:first-child, .embed.noheading #pp-list .panel-head { display: none; }
 .embed.noheading .panel-head { justify-content: flex-start; }
+
+/* single-person card (embed data-person) */
+.pcard-mode .tabs,.pcard-mode .panel-head{display:none}
+.pcard-one .eyebrow{margin-bottom:6px}
+.pcard-one details.allm{margin-top:18px;border-top:1px solid var(--line,#ddd);padding-top:12px}
+.pcard-one details.allm summary{cursor:pointer;font-weight:700}
+.pcard-one .acts{margin-top:18px}
