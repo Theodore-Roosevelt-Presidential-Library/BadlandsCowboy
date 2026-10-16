@@ -40,7 +40,8 @@ AI (Claude) read each column of local content from the full-resolution LOC page 
 
 ## Known gaps
 - 20 weeks are missing from the LOC run (listed on the About page). Yale University Library holds an original Sept. 11, 1884 issue.
-- Pages 3–4 of Nov. 25, 1886 were never scanned.
+- Nov. 25, 1886 survives only in part. The film has page 1, the top third of page 2 and most of page 4 (pasted together as one frame). Page 3, the rest of page 2 and the bottom edge of page 4 are not on it.
+- Before asking an institution for a copy, check `source/holdings_log.md`. It records who has already been checked and what they hold, so the same dead ends aren't searched twice.
 - Page 1 of Nov. 18, 1886 still needs a human transcription. An automated content filter stopped the AI pass; see the scan.
 
 ## Sources
